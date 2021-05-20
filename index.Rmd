@@ -18,15 +18,6 @@ library(lubridate)
 library(jsonlite)
 library(purrr)
 
-
-get_unique_value <- function(data, col) {
-  col <- enquo(col)
-  data %>%
-    pull(!!col) %>%
-    unique() %>%
-    length()
-}
-
 rbloggers <- fromJSON("data/rbloggers.json")
 
 get_tweet_embed <- function(user, status_id) {

@@ -1,12 +1,20 @@
+#column {
+  overflow-x: hidden;  
+}
+
 .tweet-wall > .chart-stage {
-  margin: 1.5em auto;
   max-width: 100%;
-  column-gap: 1.5em;
+}
+
+blockquote.twitter-tweet {
+  padding: 0.8em;
+  margin: 0.5em;
+  border-radius: 1em;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.15);
 }
 
 /* The Masonry Brick */
 .tweet-wall > .chart-stage > .twitter-tweet {
-  padding: 0;
   max-width: 500px;
   margin: auto;
 }
