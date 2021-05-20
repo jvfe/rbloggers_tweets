@@ -17,8 +17,6 @@ secrets <-
     "ACCESS_SECRET"
   ))
 
-current_tweet_data <- read_twitter_csv("data/rstats_tweets.csv")
-
 token <- create_token(
   app = "rtweet-exploration",
   consumer_key = secrets["TWITTER_KEY"],
