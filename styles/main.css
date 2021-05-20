@@ -1,0 +1,33 @@
+.tweet-wall > .chart-stage {
+  margin: 1.5em auto;
+  max-width: 100%;
+  column-gap: 1.5em;
+}
+
+/* The Masonry Brick */
+.tweet-wall > .chart-stage > .twitter-tweet {
+  padding: 0;
+  max-width: 500px;
+  margin: auto;
+}
+
+/* Masonry on large screens */
+@media only screen and (min-width: 1024px) {
+  .tweet-wall > .chart-stage {
+    column-count: 4;
+  }
+}
+
+/* Masonry on medium-sized screens */
+@media only screen and (max-width: 1023px) and (min-width: 768px) {
+  .tweet-wall > .chart-stage {
+    column-count: 3;
+  }
+}
+
+/* Masonry on small screens */
+@media only screen and (max-width: 767px) and (min-width: 540px) {
+  .tweet-wall > .chart-stage {
+    column-count: 2;
+  }
+}

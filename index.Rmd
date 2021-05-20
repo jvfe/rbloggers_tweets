@@ -1,0 +1,77 @@
+---
+title: "RBloggers Top Tweets"
+output: 
+  flexdashboard::flex_dashboard:
+    vertical_layout: scroll
+    source_code: embed
+    theme:
+      version: 4
+      bootswatch: yeti
+    css: styles/main.css
+---
+
+```{r setup, include=FALSE}
+library(flexdashboard)
+library(dplyr)
+library(httr)
+library(lubridate)
+library(jsonlite)
+library(purrr)
+
+
+get_unique_value <- function(data, col) {
+  col <- enquo(col)
+  data %>%
+    pull(!!col) %>%
+    unique() %>%
+    length()
+}
+
+rbloggers <- fromJSON("data/rbloggers.json")
+
+get_tweet_embed <- function(user, status_id) {
+  url <-
+    stringr::str_glue(
+      "https://publish.twitter.com/oembed?url=https://twitter.com/{user}/status/{status_id}&partner=&hide_thread=false"
+    )
+  
+  
+  response <- GET(url) %>%
+    content()
+  
+  return(shiny::HTML(response$html))
+}
+```
+
+
+Column {.tabset .tabset-fade}
+-----------------------------------------------------------------------
+
+### Top Tweets - 7 days {.tweet-wall}
+
+```{r}
+rblog_7 <- rbloggers %>%
+  mutate(created_at = as_date(created_at)) %>%
+  filter(created_at %within% interval(start = today() - 7, end = today())) %>%
+  slice_max(favorite_count + retweet_count, n = 12)
+
+rblog_7_html <-
+  map2_chr(rblog_7$screen_name, rblog_7$status_id, get_tweet_embed)
+
+shiny::HTML(stringr::str_glue("{rblog_7_html}"))
+```
+
+### Top Tweets - 30 days {.tweet-wall}
+
+```{r}
+rblog_30 <- rbloggers %>%
+  mutate(created_at = as_date(created_at)) %>%
+  filter(created_at %within% interval(start = today() - 30, end = today())) %>%
+  slice_max(favorite_count + retweet_count, n = 12)
+
+rblog_30_html <-
+  map2_chr(rblog_30$screen_name, rblog_30$status_id, get_tweet_embed)
+
+shiny::HTML(stringr::str_glue("{rblog_30_html}"))
+```
+
