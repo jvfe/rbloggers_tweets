@@ -2,13 +2,12 @@ Package: rbloggers_tweets
 Title: Explores the RBloggers Twitter profile
 Version: 0.0.0.9000
 Authors@R:
-    person(given = "João Vitor",
+    person(given = "Joao Vitor",
            family = "F. Cavalcante",
            role = c("aut", "cre"),
            email = "jvfecav@gmail.com",
            comment = c(ORCID = "0000-0001-7513-7376"))
-Description: Gathers data from the RBloggers Twitter profile
-  and displays it.
+Description: Gathers data from the RBloggers Twitter profile and displays it.
 License: BSD_3_clause + file LICENSE
 Encoding: UTF-8
 LazyData: true
@@ -22,4 +21,5 @@ Imports:
     lubridate,
     rtweet,
     httr,
-    purrr
+    purrr,
+    flexdashboard
