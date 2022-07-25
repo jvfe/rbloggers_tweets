@@ -59,8 +59,8 @@
       }
     ],
     "is_quote_status": false,
-    "retweet_count": 5,
-    "favorite_count": 18,
+    "retweet_count": 7,
+    "favorite_count": 33,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -127,8 +127,8 @@
       }
     ],
     "is_quote_status": false,
-    "retweet_count": 4,
-    "favorite_count": 10,
+    "retweet_count": 5,
+    "favorite_count": 12,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -195,8 +195,8 @@
       }
     ],
     "is_quote_status": false,
-    "retweet_count": 8,
-    "favorite_count": 37,
+    "retweet_count": 10,
+    "favorite_count": 44,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -536,7 +536,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 11,
-    "favorite_count": 27,
+    "favorite_count": 30,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -1079,7 +1079,7 @@
       }
     ],
     "is_quote_status": false,
-    "retweet_count": 13,
+    "retweet_count": 14,
     "favorite_count": 55,
     "favorited": false,
     "retweeted": false,
@@ -1352,7 +1352,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 7,
-    "favorite_count": 49,
+    "favorite_count": 50,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -2916,7 +2916,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 10,
-    "favorite_count": 50,
+    "favorite_count": 51,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -17773,277 +17773,5 @@
     "possibly_sensitive": false,
     "lang": "en",
     "text": "Webscraping in R with Rvest  {https://t.co/VuzCHurZQ7} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-06-24 21:55:02",
-    "id": 1.54045347179472e+18,
-    "id_str": "1540453471794724865",
-    "full_text": "RObservations #33: Merging Excel Spreadsheets with Base R and openxlsx  {https://t.co/HUDfIi4B9Z} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 118,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [98, 105]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [106, 118]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/HUDfIi4B9Z",
-          "expanded_url": "https://www.r-bloggers.com/?p=327857",
-          "display_url": "r-bloggers.com/?p=327857",
-          "indices": {
-            "start": 73,
-            "end": 96
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 14,
-    "favorite_count": 35,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "RObservations #33: Merging Excel Spreadsheets with Base R and openxlsx  {https://t.co/HUDfIi4B9Z} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-06-24 14:49:54",
-    "id": 1.54034648392022e+18,
-    "id_str": "1540346483920224257",
-    "full_text": "How to Recode Values in R  {https://t.co/o95jYxhIJf} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 73,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [53, 60]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [61, 73]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/o95jYxhIJf",
-          "expanded_url": "https://www.r-bloggers.com/?p=327846",
-          "display_url": "r-bloggers.com/?p=327846",
-          "indices": {
-            "start": 28,
-            "end": 51
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 6,
-    "favorite_count": 14,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "How to Recode Values in R  {https://t.co/o95jYxhIJf} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-06-24 07:49:54",
-    "id": 1.54024078582374e+18,
-    "id_str": "1540240785823735809",
-    "full_text": "rOpenSci News Digest, June 2022  {https://t.co/7IoEwTEcoH} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 79,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [59, 66]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [67, 79]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/7IoEwTEcoH",
-          "expanded_url": "https://www.r-bloggers.com/?p=327832",
-          "display_url": "r-bloggers.com/?p=327832",
-          "indices": {
-            "start": 34,
-            "end": 57
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 1,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "fr",
-    "text": "rOpenSci News Digest, June 2022  {https://t.co/7IoEwTEcoH} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-06-24 01:30:12",
-    "id": 1.54014523159677e+18,
-    "id_str": "1540145231596765184",
-    "full_text": "useR! 2022: My ‘Futureverse: Profile Parallel Code’ Slides  {https://t.co/sqgQOGtrnY} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 106,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [86, 93]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [94, 106]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/sqgQOGtrnY",
-          "expanded_url": "https://www.r-bloggers.com/?p=327819",
-          "display_url": "r-bloggers.com/?p=327819",
-          "indices": {
-            "start": 61,
-            "end": 84
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 3,
-    "favorite_count": 12,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "useR! 2022: My ‘Futureverse: Profile Parallel Code’ Slides  {https://t.co/sqgQOGtrnY} #rstats #DataScience"
   }
 ]
