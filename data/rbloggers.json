@@ -1,5 +1,209 @@
 [
   {
+    "created_at": "2022-07-25 19:24:55",
+    "id": 1.5516497180481e+18,
+    "id_str": "1551649718048100354",
+    "full_text": "Simulating Turnout in Tunisia’s Constitutional Referendum  {https://t.co/kLjoa2SQ1w} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 105,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [85, 92]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [93, 105]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/kLjoa2SQ1w",
+          "expanded_url": "https://www.r-bloggers.com/?p=329516",
+          "display_url": "r-bloggers.com/?p=329516",
+          "indices": {
+            "start": 60,
+            "end": 83
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 5,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "Simulating Turnout in Tunisia’s Constitutional Referendum  {https://t.co/kLjoa2SQ1w} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-07-25 18:39:52",
+    "id": 1.55163837857099e+18,
+    "id_str": "1551638378570989573",
+    "full_text": "Interview with Ehouman Evans – Experience with R and Use with Agroforestry in Cotonou, West   {https://t.co/38ZRbo7wPt} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 140,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [120, 127]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [128, 140]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/38ZRbo7wPt",
+          "expanded_url": "https://www.r-bloggers.com/?p=329512",
+          "display_url": "r-bloggers.com/?p=329512",
+          "indices": {
+            "start": 95,
+            "end": 118
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 7,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "Interview with Ehouman Evans – Experience with R and Use with Agroforestry in Cotonou, West   {https://t.co/38ZRbo7wPt} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-07-25 14:14:54",
+    "id": 1.55157170005944e+18,
+    "id_str": "1551571700059443201",
+    "full_text": "rstudio::conf(2022) Starts Today!  {https://t.co/CBJ9eJ04NG} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 81,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [61, 68]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [69, 81]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/CBJ9eJ04NG",
+          "expanded_url": "https://www.r-bloggers.com/?p=329503",
+          "display_url": "r-bloggers.com/?p=329503",
+          "indices": {
+            "start": 36,
+            "end": 59
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 9,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "rstudio::conf(2022) Starts Today!  {https://t.co/CBJ9eJ04NG} #rstats #DataScience"
+  },
+  {
     "created_at": "2022-07-23 22:54:54",
     "id": 1.55097778703668e+18,
     "id_str": "1550977787036684288",
@@ -195,7 +399,7 @@
       }
     ],
     "is_quote_status": false,
-    "retweet_count": 10,
+    "retweet_count": 11,
     "favorite_count": 44,
     "favorited": false,
     "retweeted": false,
@@ -1080,7 +1284,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 14,
-    "favorite_count": 55,
+    "favorite_count": 56,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -2916,7 +3120,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 10,
-    "favorite_count": 51,
+    "favorite_count": 52,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -4072,7 +4276,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 40,
-    "favorite_count": 165,
+    "favorite_count": 164,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -7552,6 +7756,142 @@
     "possibly_sensitive": false,
     "lang": "en",
     "text": "Subset rows based on their integer locations-slice in R  {https://t.co/UM42iOoU6Z} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-07-14 14:15:12",
+    "id": 1.54758550820044e+18,
+    "id_str": "1547585508200439809",
+    "full_text": "Eight R Tidyverse tips for everyday data engineering  {https://t.co/vpMtqNCM06} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 100,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [80, 87]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [88, 100]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/vpMtqNCM06",
+          "expanded_url": "https://www.r-bloggers.com/?p=328863",
+          "display_url": "r-bloggers.com/?p=328863",
+          "indices": {
+            "start": 55,
+            "end": 78
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 15,
+    "favorite_count": 50,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "Eight R Tidyverse tips for everyday data engineering  {https://t.co/vpMtqNCM06} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-07-14 13:30:06",
+    "id": 1.54757415800286e+18,
+    "id_str": "1547574158002860032",
+    "full_text": "corels 0.0.4 on CRAN: M1 Update  {https://t.co/D5JWScHijY} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 79,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [59, 66]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [67, 79]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/D5JWScHijY",
+          "expanded_url": "https://www.r-bloggers.com/?p=328858",
+          "display_url": "r-bloggers.com/?p=328858",
+          "indices": {
+            "start": 34,
+            "end": 57
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 5,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "corels 0.0.4 on CRAN: M1 Update  {https://t.co/D5JWScHijY} #rstats #DataScience"
   },
   {
     "created_at": "2022-07-14 07:30:12",
@@ -17427,351 +17767,11 @@
     ],
     "is_quote_status": false,
     "retweet_count": 15,
-    "favorite_count": 85,
+    "favorite_count": 86,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
     "lang": "en",
     "text": "An introductory course in Shiny  {https://t.co/MWxFJMO4uY} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-06-25 17:29:58",
-    "id": 1.54074915184719e+18,
-    "id_str": "1540749151847194626",
-    "full_text": "Generating correlated random numbers in R from scratch  {https://t.co/8eKrozPycd} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 102,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [82, 89]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [90, 102]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/8eKrozPycd",
-          "expanded_url": "https://www.r-bloggers.com/?p=327902",
-          "display_url": "r-bloggers.com/?p=327902",
-          "indices": {
-            "start": 57,
-            "end": 80
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 7,
-    "favorite_count": 27,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "Generating correlated random numbers in R from scratch  {https://t.co/8eKrozPycd} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-06-25 05:39:51",
-    "id": 1.54057044535058e+18,
-    "id_str": "1540570445350584321",
-    "full_text": "Experimenting with Quarto  {https://t.co/NydCQfFSJP} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 73,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [53, 60]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [61, 73]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/NydCQfFSJP",
-          "expanded_url": "https://www.r-bloggers.com/?p=327874",
-          "display_url": "r-bloggers.com/?p=327874",
-          "indices": {
-            "start": 28,
-            "end": 51
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 8,
-    "favorite_count": 30,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "Experimenting with Quarto  {https://t.co/NydCQfFSJP} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-06-25 05:10:00",
-    "id": 1.54056293528569e+18,
-    "id_str": "1540562935285686274",
-    "full_text": "Tips for Rearranging Columns in R  {https://t.co/AN8jgZk222} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 81,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [61, 68]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [69, 81]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/AN8jgZk222",
-          "expanded_url": "https://www.r-bloggers.com/?p=327872",
-          "display_url": "r-bloggers.com/?p=327872",
-          "indices": {
-            "start": 36,
-            "end": 59
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 10,
-    "favorite_count": 28,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "Tips for Rearranging Columns in R  {https://t.co/AN8jgZk222} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-06-25 03:20:15",
-    "id": 1.54053531701029e+18,
-    "id_str": "1540535317010288641",
-    "full_text": "Shell vs R Fundamentals – From Syntax to Control Structures with Zsh &amp; BASH  {https://t.co/32wnGA9yYi} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 127,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [107, 114]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [115, 127]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/32wnGA9yYi",
-          "expanded_url": "https://www.r-bloggers.com/?p=327861",
-          "display_url": "r-bloggers.com/?p=327861",
-          "indices": {
-            "start": 82,
-            "end": 105
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 6,
-    "favorite_count": 15,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "Shell vs R Fundamentals – From Syntax to Control Structures with Zsh &amp; BASH  {https://t.co/32wnGA9yYi} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-06-25 02:09:52",
-    "id": 1.54051760302576e+18,
-    "id_str": "1540517603025756161",
-    "full_text": "Webscraping in R with Rvest  {https://t.co/VuzCHurZQ7} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 75,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [55, 62]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [63, 75]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/VuzCHurZQ7",
-          "expanded_url": "https://www.r-bloggers.com/?p=327859",
-          "display_url": "r-bloggers.com/?p=327859",
-          "indices": {
-            "start": 30,
-            "end": 53
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 15,
-    "favorite_count": 63,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "Webscraping in R with Rvest  {https://t.co/VuzCHurZQ7} #rstats #DataScience"
   }
 ]
