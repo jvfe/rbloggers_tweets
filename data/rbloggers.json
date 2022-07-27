@@ -1,5 +1,413 @@
 [
   {
+    "created_at": "2022-07-27 00:35:10",
+    "id": 1.55209018241287e+18,
+    "id_str": "1552090182412865536",
+    "full_text": "R Ladies Philly is Making a Difference with its Annual Datathon Focused on Local Issues  {https://t.co/7WKmAoujxc} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 135,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [115, 122]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [123, 135]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/7WKmAoujxc",
+          "expanded_url": "https://www.r-bloggers.com/?p=329575",
+          "display_url": "r-bloggers.com/?p=329575",
+          "indices": {
+            "start": 90,
+            "end": 113
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 4,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "R Ladies Philly is Making a Difference with its Annual Datathon Focused on Local Issues  {https://t.co/7WKmAoujxc} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-07-26 18:04:57",
+    "id": 1.55199197946627e+18,
+    "id_str": "1551991979466268672",
+    "full_text": "New Package yfR  {https://t.co/gSt4KvmgqS} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 63,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [43, 50]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [51, 63]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/gSt4KvmgqS",
+          "expanded_url": "https://www.r-bloggers.com/?p=329573",
+          "display_url": "r-bloggers.com/?p=329573",
+          "indices": {
+            "start": 18,
+            "end": 41
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 5,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "New Package yfR  {https://t.co/gSt4KvmgqS} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-07-26 16:39:50",
+    "id": 1.55197055974285e+18,
+    "id_str": "1551970559742853127",
+    "full_text": "How to Create Summary Tables in R  {https://t.co/hr1h50twVs} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 81,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [61, 68]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [69, 81]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/hr1h50twVs",
+          "expanded_url": "https://www.r-bloggers.com/?p=329560",
+          "display_url": "r-bloggers.com/?p=329560",
+          "indices": {
+            "start": 36,
+            "end": 59
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 9,
+    "favorite_count": 20,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "How to Create Summary Tables in R  {https://t.co/hr1h50twVs} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-07-26 12:54:57",
+    "id": 1.55191396850306e+18,
+    "id_str": "1551913968503062528",
+    "full_text": "Efficient list recursion in R with {rrapply}  {https://t.co/9LCGvNpCDj} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 92,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [72, 79]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [80, 92]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/9LCGvNpCDj",
+          "expanded_url": "https://www.r-bloggers.com/?p=329557",
+          "display_url": "r-bloggers.com/?p=329557",
+          "indices": {
+            "start": 47,
+            "end": 70
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 7,
+    "favorite_count": 18,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "Efficient list recursion in R with {rrapply}  {https://t.co/9LCGvNpCDj} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-07-26 12:25:10",
+    "id": 1.5519064694818e+18,
+    "id_str": "1551906469481795584",
+    "full_text": "{rspm}: easy access to RSPM binary packages with automatic management of system requirements  {https://t.co/M3S37PTVhM} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 140,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [120, 127]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [128, 140]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/M3S37PTVhM",
+          "expanded_url": "https://www.r-bloggers.com/?p=329555",
+          "display_url": "r-bloggers.com/?p=329555",
+          "indices": {
+            "start": 95,
+            "end": 118
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 4,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "{rspm}: easy access to RSPM binary packages with automatic management of system requirements  {https://t.co/M3S37PTVhM} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-07-26 08:09:49",
+    "id": 1.55184221227474e+18,
+    "id_str": "1551842212274737154",
+    "full_text": "Comments on the New R OOP System, R7  {https://t.co/RuBXTPvJru} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 84,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [64, 71]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [72, 84]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/RuBXTPvJru",
+          "expanded_url": "https://www.r-bloggers.com/?p=329546",
+          "display_url": "r-bloggers.com/?p=329546",
+          "indices": {
+            "start": 39,
+            "end": 62
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 8,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "Comments on the New R OOP System, R7  {https://t.co/RuBXTPvJru} #rstats #DataScience"
+  },
+  {
     "created_at": "2022-07-25 19:24:55",
     "id": 1.5516497180481e+18,
     "id_str": "1551649718048100354",
@@ -59,8 +467,8 @@
       }
     ],
     "is_quote_status": false,
-    "retweet_count": 3,
-    "favorite_count": 5,
+    "retweet_count": 4,
+    "favorite_count": 6,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -128,7 +536,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 4,
-    "favorite_count": 7,
+    "favorite_count": 9,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -4276,7 +4684,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 40,
-    "favorite_count": 164,
+    "favorite_count": 165,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -7070,7 +7478,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 7,
-    "favorite_count": 23,
+    "favorite_count": 24,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -7758,142 +8166,6 @@
     "text": "Subset rows based on their integer locations-slice in R  {https://t.co/UM42iOoU6Z} #rstats #DataScience"
   },
   {
-    "created_at": "2022-07-14 14:15:12",
-    "id": 1.54758550820044e+18,
-    "id_str": "1547585508200439809",
-    "full_text": "Eight R Tidyverse tips for everyday data engineering  {https://t.co/vpMtqNCM06} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 100,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [80, 87]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [88, 100]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/vpMtqNCM06",
-          "expanded_url": "https://www.r-bloggers.com/?p=328863",
-          "display_url": "r-bloggers.com/?p=328863",
-          "indices": {
-            "start": 55,
-            "end": 78
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 15,
-    "favorite_count": 50,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "Eight R Tidyverse tips for everyday data engineering  {https://t.co/vpMtqNCM06} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-07-14 13:30:06",
-    "id": 1.54757415800286e+18,
-    "id_str": "1547574158002860032",
-    "full_text": "corels 0.0.4 on CRAN: M1 Update  {https://t.co/D5JWScHijY} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 79,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [59, 66]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [67, 79]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/D5JWScHijY",
-          "expanded_url": "https://www.r-bloggers.com/?p=328858",
-          "display_url": "r-bloggers.com/?p=328858",
-          "indices": {
-            "start": 34,
-            "end": 57
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 2,
-    "favorite_count": 5,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "corels 0.0.4 on CRAN: M1 Update  {https://t.co/D5JWScHijY} #rstats #DataScience"
-  },
-  {
     "created_at": "2022-07-14 07:30:12",
     "id": 1.54748358816524e+18,
     "id_str": "1547483588165238784",
@@ -8022,7 +8294,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 9,
-    "favorite_count": 53,
+    "favorite_count": 52,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -8430,7 +8702,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 17,
-    "favorite_count": 67,
+    "favorite_count": 66,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -15171,7 +15443,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 16,
-    "favorite_count": 62,
+    "favorite_count": 63,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -17637,141 +17909,5 @@
     "possibly_sensitive": false,
     "lang": "en",
     "text": "distributions3 @ useR! 2022  {https://t.co/AWDKXlsQlO} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-06-26 23:19:52",
-    "id": 1.54119959650383e+18,
-    "id_str": "1541199596503826439",
-    "full_text": "How to Group and Summarize Data in R  {https://t.co/6PPqmthbJL} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 84,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [64, 71]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [72, 84]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/6PPqmthbJL",
-          "expanded_url": "https://www.r-bloggers.com/?p=327954",
-          "display_url": "r-bloggers.com/?p=327954",
-          "indices": {
-            "start": 39,
-            "end": 62
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 14,
-    "favorite_count": 60,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "How to Group and Summarize Data in R  {https://t.co/6PPqmthbJL} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-06-26 13:05:11",
-    "id": 1.54104490429763e+18,
-    "id_str": "1541044904297627649",
-    "full_text": "An introductory course in Shiny  {https://t.co/MWxFJMO4uY} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 79,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [59, 66]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [67, 79]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/MWxFJMO4uY",
-          "expanded_url": "https://www.r-bloggers.com/?p=327950",
-          "display_url": "r-bloggers.com/?p=327950",
-          "indices": {
-            "start": 34,
-            "end": 57
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 15,
-    "favorite_count": 86,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "An introductory course in Shiny  {https://t.co/MWxFJMO4uY} #rstats #DataScience"
   }
 ]
