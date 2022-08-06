@@ -1,5 +1,141 @@
 [
   {
+    "created_at": "2022-08-05 11:55:01",
+    "id": 1.55552276406459e+18,
+    "id_str": "1555522764064587776",
+    "full_text": "How to write insertion sort in R  {https://t.co/Gw6h9T810A} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 80,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [60, 67]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [68, 80]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/Gw6h9T810A",
+          "expanded_url": "https://www.r-bloggers.com/?p=330096",
+          "display_url": "r-bloggers.com/?p=330096",
+          "indices": {
+            "start": 35,
+            "end": 58
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 4,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "How to write insertion sort in R  {https://t.co/Gw6h9T810A} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-08-05 09:39:57",
+    "id": 1.55548877012805e+18,
+    "id_str": "1555488770128052224",
+    "full_text": "Unravelling an Enormous JSON  {https://t.co/9CZMRaoxAz} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 76,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [56, 63]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [64, 76]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/9CZMRaoxAz",
+          "expanded_url": "https://www.r-bloggers.com/?p=330094",
+          "display_url": "r-bloggers.com/?p=330094",
+          "indices": {
+            "start": 31,
+            "end": 54
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 7,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "Unravelling an Enormous JSON  {https://t.co/9CZMRaoxAz} #rstats #DataScience"
+  },
+  {
     "created_at": "2022-08-05 01:40:00",
     "id": 1.55536798867257e+18,
     "id_str": "1555367988672565248",
@@ -59,8 +195,8 @@
       }
     ],
     "is_quote_status": false,
-    "retweet_count": 5,
-    "favorite_count": 6,
+    "retweet_count": 14,
+    "favorite_count": 47,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -127,8 +263,8 @@
       }
     ],
     "is_quote_status": false,
-    "retweet_count": 8,
-    "favorite_count": 5,
+    "retweet_count": 9,
+    "favorite_count": 9,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -332,7 +468,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 7,
-    "favorite_count": 7,
+    "favorite_count": 8,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -400,7 +536,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 6,
-    "favorite_count": 12,
+    "favorite_count": 15,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -535,8 +671,8 @@
       }
     ],
     "is_quote_status": false,
-    "retweet_count": 11,
-    "favorite_count": 33,
+    "retweet_count": 13,
+    "favorite_count": 38,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -3664,7 +3800,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 7,
-    "favorite_count": 17,
+    "favorite_count": 18,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -10463,7 +10599,7 @@
       }
     ],
     "is_quote_status": false,
-    "retweet_count": 17,
+    "retweet_count": 16,
     "favorite_count": 27,
     "favorited": false,
     "retweeted": false,
@@ -13122,7 +13258,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 9,
-    "favorite_count": 52,
+    "favorite_count": 53,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -13530,7 +13666,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 17,
-    "favorite_count": 66,
+    "favorite_count": 67,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -19801,481 +19937,5 @@
     "possibly_sensitive": false,
     "lang": "en",
     "text": "FOSS4Spectroscopy: R vs Python  {https://t.co/yUJ0kkDlNO} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-07-06 22:25:00",
-    "id": 1.54480966843391e+18,
-    "id_str": "1544809668433907712",
-    "full_text": "How I Use Stories to Share Data at Meetings  {https://t.co/UwaybPnH8Y} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 91,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [71, 78]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [79, 91]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/UwaybPnH8Y",
-          "expanded_url": "https://www.r-bloggers.com/?p=328366",
-          "display_url": "r-bloggers.com/?p=328366",
-          "indices": {
-            "start": 46,
-            "end": 69
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 8,
-    "favorite_count": 24,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "How I Use Stories to Share Data at Meetings  {https://t.co/UwaybPnH8Y} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-07-06 20:34:51",
-    "id": 1.54478194710018e+18,
-    "id_str": "1544781947100184580",
-    "full_text": "Get tickets for An introductory course in Shiny on July 11th &amp; 13th or 12th &amp; 14th at 30 USD  {https://t.co/5BgFe1bUFh} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 148,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [128, 135]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [136, 148]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/5BgFe1bUFh",
-          "expanded_url": "https://www.r-bloggers.com/?p=328360",
-          "display_url": "r-bloggers.com/?p=328360",
-          "indices": {
-            "start": 103,
-            "end": 126
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 3,
-    "favorite_count": 8,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "Get tickets for An introductory course in Shiny on July 11th &amp; 13th or 12th &amp; 14th at 30 USD  {https://t.co/5BgFe1bUFh} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-07-06 17:23:23",
-    "id": 1.54473376152653e+18,
-    "id_str": "1544733761526530048",
-    "full_text": "How to install R 3.6.3 (NOT 4+) on Linux MINT 19.x (19.1, 19.2, 19.3)  {https://t.co/RSBhGzEPQU} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 117,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [97, 104]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [105, 117]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/RSBhGzEPQU",
-          "expanded_url": "http://www.r-bloggers.com/?p=328355",
-          "display_url": "r-bloggers.com/?p=328355",
-          "indices": {
-            "start": 72,
-            "end": 95
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 3,
-    "favorite_count": 2,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "How to install R 3.6.3 (NOT 4+) on Linux MINT 19.x (19.1, 19.2, 19.3)  {https://t.co/RSBhGzEPQU} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-07-06 15:19:57",
-    "id": 1.54470269983223e+18,
-    "id_str": "1544702699832229891",
-    "full_text": "How to Replace String in Column in R  {https://t.co/kITfDsKSLo} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 84,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [64, 71]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [72, 84]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/kITfDsKSLo",
-          "expanded_url": "https://www.r-bloggers.com/?p=328352",
-          "display_url": "r-bloggers.com/?p=328352",
-          "indices": {
-            "start": 39,
-            "end": 62
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 8,
-    "favorite_count": 16,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "How to Replace String in Column in R  {https://t.co/kITfDsKSLo} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-07-06 06:00:16",
-    "id": 1.5445618508971e+18,
-    "id_str": "1544561850897104899",
-    "full_text": "modelDown: Automate Explainable AI (Machine Learning) in R  {https://t.co/AHAkpgh2iz} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 106,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [86, 93]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [94, 106]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/AHAkpgh2iz",
-          "expanded_url": "https://www.r-bloggers.com/?p=328290",
-          "display_url": "r-bloggers.com/?p=328290",
-          "indices": {
-            "start": 61,
-            "end": 84
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 9,
-    "favorite_count": 25,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "modelDown: Automate Explainable AI (Machine Learning) in R  {https://t.co/AHAkpgh2iz} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-07-06 04:33:32",
-    "id": 1.54454002480854e+18,
-    "id_str": "1544540024808538113",
-    "full_text": "Updated Comparison of R Graphical User Interfaces  {https://t.co/Cqm2kESe1t} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 97,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [77, 84]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [85, 97]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/Cqm2kESe1t",
-          "expanded_url": "https://www.r-bloggers.com/?p=328252",
-          "display_url": "r-bloggers.com/?p=328252",
-          "indices": {
-            "start": 52,
-            "end": 75
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 3,
-    "favorite_count": 11,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "Updated Comparison of R Graphical User Interfaces  {https://t.co/Cqm2kESe1t} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-07-06 01:59:59",
-    "id": 1.54450138053411e+18,
-    "id_str": "1544501380534108160",
-    "full_text": "Reshaping data frames using pivot functions from {tidyr} and tally from {dplyr}  {https://t.co/BKWSBzgIlI} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 127,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [107, 114]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [115, 127]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/BKWSBzgIlI",
-          "expanded_url": "https://www.r-bloggers.com/?p=328313",
-          "display_url": "r-bloggers.com/?p=328313",
-          "indices": {
-            "start": 82,
-            "end": 105
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 16,
-    "favorite_count": 63,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "Reshaping data frames using pivot functions from {tidyr} and tally from {dplyr}  {https://t.co/BKWSBzgIlI} #rstats #DataScience"
   }
 ]
