@@ -1,5 +1,277 @@
 [
   {
+    "created_at": "2022-08-06 21:39:56",
+    "id": 1.55603234922534e+18,
+    "id_str": "1556032349225336837",
+    "full_text": "Relationship Extraction with Spacyr  {https://t.co/PqTM6HyodQ} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 83,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [63, 70]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [71, 83]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/PqTM6HyodQ",
+          "expanded_url": "https://www.r-bloggers.com/?p=330162",
+          "display_url": "r-bloggers.com/?p=330162",
+          "indices": {
+            "start": 38,
+            "end": 61
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "favorite_count": 5,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "Relationship Extraction with Spacyr  {https://t.co/PqTM6HyodQ} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-08-06 15:00:12",
+    "id": 1.55593175287461e+18,
+    "id_str": "1555931752874610688",
+    "full_text": "Network Graphs in R  {https://t.co/W7jRSMlldB} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 67,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [47, 54]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [55, 67]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/W7jRSMlldB",
+          "expanded_url": "https://www.r-bloggers.com/?p=330151",
+          "display_url": "r-bloggers.com/?p=330151",
+          "indices": {
+            "start": 22,
+            "end": 45
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 25,
+    "favorite_count": 101,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "Network Graphs in R  {https://t.co/W7jRSMlldB} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-08-06 14:59:55",
+    "id": 1.5559316804306e+18,
+    "id_str": "1555931680430604289",
+    "full_text": "Quarto: The successor to R Markdown  {https://t.co/Y4I0V4Kzjm} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 83,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [63, 70]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [71, 83]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/Y4I0V4Kzjm",
+          "expanded_url": "https://www.r-bloggers.com/?p=330149",
+          "display_url": "r-bloggers.com/?p=330149",
+          "indices": {
+            "start": 38,
+            "end": 61
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 10,
+    "favorite_count": 25,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "Quarto: The successor to R Markdown  {https://t.co/Y4I0V4Kzjm} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-08-06 12:39:56",
+    "id": 1.55589645280684e+18,
+    "id_str": "1555896452806836224",
+    "full_text": "Generate hours of white, pink and brown noise in R  {https://t.co/uGHJpYg8qT} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 98,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [78, 85]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [86, 98]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/uGHJpYg8qT",
+          "expanded_url": "https://www.r-bloggers.com/?p=330146",
+          "display_url": "r-bloggers.com/?p=330146",
+          "indices": {
+            "start": 53,
+            "end": 76
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 13,
+    "favorite_count": 20,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "Generate hours of white, pink and brown noise in R  {https://t.co/uGHJpYg8qT} #rstats #DataScience"
+  },
+  {
     "created_at": "2022-08-05 11:55:01",
     "id": 1.55552276406459e+18,
     "id_str": "1555522764064587776",
@@ -60,7 +332,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 3,
-    "favorite_count": 4,
+    "favorite_count": 6,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -196,7 +468,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 14,
-    "favorite_count": 47,
+    "favorite_count": 48,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -332,7 +604,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 3,
-    "favorite_count": 3,
+    "favorite_count": 4,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -400,7 +672,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 5,
-    "favorite_count": 4,
+    "favorite_count": 5,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -468,7 +740,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 7,
-    "favorite_count": 8,
+    "favorite_count": 9,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -536,7 +808,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 6,
-    "favorite_count": 15,
+    "favorite_count": 16,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -672,7 +944,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 13,
-    "favorite_count": 38,
+    "favorite_count": 39,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -4004,7 +4276,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 37,
-    "favorite_count": 116,
+    "favorite_count": 117,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -13130,6 +13402,142 @@
     "text": "Subset rows based on their integer locations-slice in R  {https://t.co/UM42iOoU6Z} #rstats #DataScience"
   },
   {
+    "created_at": "2022-07-14 14:15:12",
+    "id": 1.54758550820044e+18,
+    "id_str": "1547585508200439809",
+    "full_text": "Eight R Tidyverse tips for everyday data engineering  {https://t.co/vpMtqNCM06} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 100,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [80, 87]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [88, 100]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/vpMtqNCM06",
+          "expanded_url": "https://www.r-bloggers.com/?p=328863",
+          "display_url": "r-bloggers.com/?p=328863",
+          "indices": {
+            "start": 55,
+            "end": 78
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 15,
+    "favorite_count": 50,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "Eight R Tidyverse tips for everyday data engineering  {https://t.co/vpMtqNCM06} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-07-14 13:30:06",
+    "id": 1.54757415800286e+18,
+    "id_str": "1547574158002860032",
+    "full_text": "corels 0.0.4 on CRAN: M1 Update  {https://t.co/D5JWScHijY} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 79,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [59, 66]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [67, 79]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/D5JWScHijY",
+          "expanded_url": "https://www.r-bloggers.com/?p=328858",
+          "display_url": "r-bloggers.com/?p=328858",
+          "indices": {
+            "start": 34,
+            "end": 57
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 5,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "corels 0.0.4 on CRAN: M1 Update  {https://t.co/D5JWScHijY} #rstats #DataScience"
+  },
+  {
     "created_at": "2022-07-14 07:30:12",
     "id": 1.54748358816524e+18,
     "id_str": "1547483588165238784",
@@ -13258,7 +13666,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 9,
-    "favorite_count": 53,
+    "favorite_count": 52,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -18713,1229 +19121,5 @@
     "possibly_sensitive": false,
     "lang": "fr",
     "text": "Exercise 6: R numeric calculations  {https://t.co/YGgz11BVGb} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-07-07 23:59:13",
-    "id": 1.54519576487969e+18,
-    "id_str": "1545195764879687685",
-    "full_text": "Recreating the Shiny App tutorial with a Plumber API + React: Part 1  {https://t.co/bL1770xQJr} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 116,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [96, 103]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [104, 116]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/bL1770xQJr",
-          "expanded_url": "https://www.r-bloggers.com/?p=328410",
-          "display_url": "r-bloggers.com/?p=328410",
-          "indices": {
-            "start": 71,
-            "end": 94
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 9,
-    "favorite_count": 22,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "Recreating the Shiny App tutorial with a Plumber API + React: Part 1  {https://t.co/bL1770xQJr} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-07-07 23:15:03",
-    "id": 1.54518465261249e+18,
-    "id_str": "1545184652612485120",
-    "full_text": "Fixed vs. random effects for browsing data – a simulation  {https://t.co/PRmophTuv6} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 105,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [85, 92]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [93, 105]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/PRmophTuv6",
-          "expanded_url": "https://www.r-bloggers.com/?p=328433",
-          "display_url": "r-bloggers.com/?p=328433",
-          "indices": {
-            "start": 60,
-            "end": 83
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 9,
-    "favorite_count": 29,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "Fixed vs. random effects for browsing data – a simulation  {https://t.co/PRmophTuv6} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-07-07 22:44:55",
-    "id": 1.54517706898771e+18,
-    "id_str": "1545177068987711491",
-    "full_text": "R Ladies Cuernavaca Partners with Biotechnology Institute to Quickly Expand Reach in 2022  {https://t.co/XJirFw4tD1} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 137,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [117, 124]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [125, 137]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/XJirFw4tD1",
-          "expanded_url": "https://www.r-bloggers.com/?p=328424",
-          "display_url": "r-bloggers.com/?p=328424",
-          "indices": {
-            "start": 92,
-            "end": 115
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 8,
-    "favorite_count": 4,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "R Ladies Cuernavaca Partners with Biotechnology Institute to Quickly Expand Reach in 2022  {https://t.co/XJirFw4tD1} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-07-07 21:09:57",
-    "id": 1.54515316913459e+18,
-    "id_str": "1545153169134592004",
-    "full_text": "Relationship Extraction with Spacyr  {https://t.co/Vtnf4fBEiw} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 83,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [63, 70]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [71, 83]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/Vtnf4fBEiw",
-          "expanded_url": "https://www.r-bloggers.com/?p=328422",
-          "display_url": "r-bloggers.com/?p=328422",
-          "indices": {
-            "start": 38,
-            "end": 61
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 3,
-    "favorite_count": 11,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "Relationship Extraction with Spacyr  {https://t.co/Vtnf4fBEiw} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-07-07 19:59:57",
-    "id": 1.54513555282293e+18,
-    "id_str": "1545135552822927366",
-    "full_text": "Daytime length variations with latitude and season (1/3)  {https://t.co/AbMv7gJz9Y} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 104,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [84, 91]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [92, 104]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/AbMv7gJz9Y",
-          "expanded_url": "https://www.r-bloggers.com/?p=328420",
-          "display_url": "r-bloggers.com/?p=328420",
-          "indices": {
-            "start": 59,
-            "end": 82
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 5,
-    "favorite_count": 10,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "Daytime length variations with latitude and season (1/3)  {https://t.co/AbMv7gJz9Y} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-07-07 19:25:11",
-    "id": 1.54512680444849e+18,
-    "id_str": "1545126804448493575",
-    "full_text": "Beginner R lesson: arithmetic operations (part 1)  {https://t.co/rF6ET45axg} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 97,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [77, 84]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [85, 97]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/rF6ET45axg",
-          "expanded_url": "https://www.r-bloggers.com/?p=328418",
-          "display_url": "r-bloggers.com/?p=328418",
-          "indices": {
-            "start": 52,
-            "end": 75
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 4,
-    "favorite_count": 18,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "Beginner R lesson: arithmetic operations (part 1)  {https://t.co/rF6ET45axg} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-07-07 15:40:03",
-    "id": 1.54507014739159e+18,
-    "id_str": "1545070147391594498",
-    "full_text": "How to Calculate Relative Frequencies in R?  {https://t.co/zeth4bIoUt} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 91,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [71, 78]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [79, 91]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/zeth4bIoUt",
-          "expanded_url": "https://www.r-bloggers.com/?p=328412",
-          "display_url": "r-bloggers.com/?p=328412",
-          "indices": {
-            "start": 46,
-            "end": 69
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 9,
-    "favorite_count": 25,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "How to Calculate Relative Frequencies in R?  {https://t.co/zeth4bIoUt} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-07-07 14:45:01",
-    "id": 1.54505629447783e+18,
-    "id_str": "1545056294477828099",
-    "full_text": "One-sample Wilcoxon test in R  {https://t.co/7VCOcKoaVV} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 77,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [57, 64]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [65, 77]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/7VCOcKoaVV",
-          "expanded_url": "https://www.r-bloggers.com/?p=328408",
-          "display_url": "r-bloggers.com/?p=328408",
-          "indices": {
-            "start": 32,
-            "end": 55
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 4,
-    "favorite_count": 11,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "One-sample Wilcoxon test in R  {https://t.co/7VCOcKoaVV} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-07-07 14:35:01",
-    "id": 1.54505377844063e+18,
-    "id_str": "1545053778440626177",
-    "full_text": "How many languages do we need to learn about responsible machine learning? useR! 2022  {https://t.co/iycZS7F0to} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 133,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [113, 120]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [121, 133]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/iycZS7F0to",
-          "expanded_url": "https://www.r-bloggers.com/?p=328406",
-          "display_url": "r-bloggers.com/?p=328406",
-          "indices": {
-            "start": 88,
-            "end": 111
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 3,
-    "favorite_count": 14,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "How many languages do we need to learn about responsible machine learning? useR! 2022  {https://t.co/iycZS7F0to} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-07-07 14:04:54",
-    "id": 1.54504620289434e+18,
-    "id_str": "1545046202894336002",
-    "full_text": "Introducing {weatherkit}: The Eventual Replacement R Package for {darksky}  {https://t.co/3csS0nrnIZ} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 122,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [102, 109]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [110, 122]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/3csS0nrnIZ",
-          "expanded_url": "https://www.r-bloggers.com/?p=328404",
-          "display_url": "r-bloggers.com/?p=328404",
-          "indices": {
-            "start": 77,
-            "end": 100
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 4,
-    "favorite_count": 11,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "Introducing {weatherkit}: The Eventual Replacement R Package for {darksky}  {https://t.co/3csS0nrnIZ} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-07-07 11:10:00",
-    "id": 1.54500218605215e+18,
-    "id_str": "1545002186052145152",
-    "full_text": "Daytime length variations with latitude and season (2/3)  {https://t.co/SwxvaoXXpo} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 104,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [84, 91]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [92, 104]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/SwxvaoXXpo",
-          "expanded_url": "https://www.r-bloggers.com/?p=328401",
-          "display_url": "r-bloggers.com/?p=328401",
-          "indices": {
-            "start": 59,
-            "end": 82
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 3,
-    "favorite_count": 5,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "Daytime length variations with latitude and season (2/3)  {https://t.co/SwxvaoXXpo} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-07-07 10:39:57",
-    "id": 1.54499462198555e+18,
-    "id_str": "1544994621985546240",
-    "full_text": "Exercise 7: R string processing  {https://t.co/LJr1zJaoFq} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 79,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [59, 66]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [67, 79]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/LJr1zJaoFq",
-          "expanded_url": "https://www.r-bloggers.com/?p=328399",
-          "display_url": "r-bloggers.com/?p=328399",
-          "indices": {
-            "start": 34,
-            "end": 57
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 4,
-    "favorite_count": 12,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "Exercise 7: R string processing  {https://t.co/LJr1zJaoFq} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-07-07 05:19:59",
-    "id": 1.54491410155348e+18,
-    "id_str": "1544914101553479680",
-    "full_text": "Fixed effects vs. random effects for web browsing data – a simulation  {https://t.co/iFHAfLYkDg} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 117,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [97, 104]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [105, 117]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/iFHAfLYkDg",
-          "expanded_url": "https://www.r-bloggers.com/?p=328382",
-          "display_url": "r-bloggers.com/?p=328382",
-          "indices": {
-            "start": 72,
-            "end": 95
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 7,
-    "favorite_count": 27,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "Fixed effects vs. random effects for web browsing data – a simulation  {https://t.co/iFHAfLYkDg} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-07-07 05:15:13",
-    "id": 1.54491290022103e+18,
-    "id_str": "1544912900221030400",
-    "full_text": "Daytime length variations with latitude and season (3/3)  {https://t.co/X2QfKRO1re} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 104,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [84, 91]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [92, 104]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/X2QfKRO1re",
-          "expanded_url": "https://www.r-bloggers.com/?p=328380",
-          "display_url": "r-bloggers.com/?p=328380",
-          "indices": {
-            "start": 59,
-            "end": 82
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 4,
-    "favorite_count": 7,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "Daytime length variations with latitude and season (3/3)  {https://t.co/X2QfKRO1re} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-07-07 05:14:58",
-    "id": 1.54491283707577e+18,
-    "id_str": "1544912837075767296",
-    "full_text": "Turing machines and the busy beavers  {https://t.co/koPXWHx1Sa} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 84,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [64, 71]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [72, 84]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/koPXWHx1Sa",
-          "expanded_url": "https://www.r-bloggers.com/?p=328378",
-          "display_url": "r-bloggers.com/?p=328378",
-          "indices": {
-            "start": 39,
-            "end": 62
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 3,
-    "favorite_count": 4,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "Turing machines and the busy beavers  {https://t.co/koPXWHx1Sa} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-07-07 05:09:59",
-    "id": 1.54491158316343e+18,
-    "id_str": "1544911583163432961",
-    "full_text": "Exercise 8: recursive functions in R  {https://t.co/c6p72w8fqh} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 84,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [64, 71]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [72, 84]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/c6p72w8fqh",
-          "expanded_url": "https://www.r-bloggers.com/?p=328376",
-          "display_url": "r-bloggers.com/?p=328376",
-          "indices": {
-            "start": 39,
-            "end": 62
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 4,
-    "favorite_count": 18,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "Exercise 8: recursive functions in R  {https://t.co/c6p72w8fqh} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-07-07 05:09:51",
-    "id": 1.54491154916019e+18,
-    "id_str": "1544911549160194048",
-    "full_text": "How to write bubble sort in R  {https://t.co/jNOQbnTUvW} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 77,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [57, 64]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [65, 77]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/jNOQbnTUvW",
-          "expanded_url": "https://www.r-bloggers.com/?p=328374",
-          "display_url": "r-bloggers.com/?p=328374",
-          "indices": {
-            "start": 32,
-            "end": 55
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 4,
-    "favorite_count": 7,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "How to write bubble sort in R  {https://t.co/jNOQbnTUvW} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-07-07 03:24:57",
-    "id": 1.5448851509406e+18,
-    "id_str": "1544885150940598273",
-    "full_text": "FOSS4Spectroscopy: R vs Python  {https://t.co/yUJ0kkDlNO} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 78,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [58, 65]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [66, 78]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/yUJ0kkDlNO",
-          "expanded_url": "https://www.r-bloggers.com/?p=328371",
-          "display_url": "r-bloggers.com/?p=328371",
-          "indices": {
-            "start": 33,
-            "end": 56
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 1,
-    "favorite_count": 5,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "FOSS4Spectroscopy: R vs Python  {https://t.co/yUJ0kkDlNO} #rstats #DataScience"
   }
 ]
