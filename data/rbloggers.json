@@ -1,5 +1,141 @@
 [
   {
+    "created_at": "2022-08-12 22:55:09",
+    "id": 1.55822560560639e+18,
+    "id_str": "1558225605606391808",
+    "full_text": "New statistical geoms in {ggxmean}  {https://t.co/3RbI0qWSEN} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 82,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [62, 69]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [70, 82]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/3RbI0qWSEN",
+          "expanded_url": "https://www.r-bloggers.com/?p=330435",
+          "display_url": "r-bloggers.com/?p=330435",
+          "indices": {
+            "start": 37,
+            "end": 60
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 21,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "New statistical geoms in {ggxmean}  {https://t.co/3RbI0qWSEN} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-08-12 19:35:06",
+    "id": 1.55817526082608e+18,
+    "id_str": "1558175260826079234",
+    "full_text": "Kernel SHAP  {https://t.co/Hy45xQFYvD} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 59,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [39, 46]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [47, 59]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/Hy45xQFYvD",
+          "expanded_url": "https://www.r-bloggers.com/?p=330433",
+          "display_url": "r-bloggers.com/?p=330433",
+          "indices": {
+            "start": 14,
+            "end": 37
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 8,
+    "favorite_count": 14,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "Kernel SHAP  {https://t.co/Hy45xQFYvD} #rstats #DataScience"
+  },
+  {
     "created_at": "2022-08-12 00:34:59",
     "id": 1.55788834135751e+18,
     "id_str": "1557888341357510656",
@@ -59,8 +195,8 @@
       }
     ],
     "is_quote_status": false,
-    "retweet_count": 8,
-    "favorite_count": 13,
+    "retweet_count": 10,
+    "favorite_count": 28,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -127,8 +263,8 @@
       }
     ],
     "is_quote_status": false,
-    "retweet_count": 7,
-    "favorite_count": 13,
+    "retweet_count": 9,
+    "favorite_count": 18,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -196,7 +332,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 3,
-    "favorite_count": 2,
+    "favorite_count": 3,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -263,8 +399,8 @@
       }
     ],
     "is_quote_status": false,
-    "retweet_count": 6,
-    "favorite_count": 11,
+    "retweet_count": 7,
+    "favorite_count": 15,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -332,7 +468,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 10,
-    "favorite_count": 12,
+    "favorite_count": 13,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -400,7 +536,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 2,
-    "favorite_count": 2,
+    "favorite_count": 3,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -1284,7 +1420,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 12,
-    "favorite_count": 32,
+    "favorite_count": 31,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -1556,7 +1692,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 8,
-    "favorite_count": 19,
+    "favorite_count": 18,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -1624,7 +1760,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 42,
-    "favorite_count": 140,
+    "favorite_count": 139,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -2100,7 +2236,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 3,
-    "favorite_count": 6,
+    "favorite_count": 5,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -2168,7 +2304,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 5,
-    "favorite_count": 15,
+    "favorite_count": 14,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -2508,7 +2644,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 7,
-    "favorite_count": 27,
+    "favorite_count": 26,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -2576,7 +2712,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 8,
-    "favorite_count": 20,
+    "favorite_count": 19,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -2644,7 +2780,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 31,
-    "favorite_count": 104,
+    "favorite_count": 103,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -2712,7 +2848,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 12,
-    "favorite_count": 25,
+    "favorite_count": 24,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -2780,7 +2916,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 6,
-    "favorite_count": 12,
+    "favorite_count": 11,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -2848,7 +2984,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 45,
-    "favorite_count": 205,
+    "favorite_count": 206,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -2984,7 +3120,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 14,
-    "favorite_count": 23,
+    "favorite_count": 22,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -3460,7 +3596,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 7,
-    "favorite_count": 9,
+    "favorite_count": 8,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -4684,7 +4820,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 2,
-    "favorite_count": 4,
+    "favorite_count": 3,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -5568,7 +5704,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 14,
-    "favorite_count": 68,
+    "favorite_count": 67,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -5636,7 +5772,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 9,
-    "favorite_count": 19,
+    "favorite_count": 18,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -6316,7 +6452,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 4,
-    "favorite_count": 12,
+    "favorite_count": 11,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -7132,7 +7268,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 4,
-    "favorite_count": 18,
+    "favorite_count": 17,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -8152,7 +8288,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 9,
-    "favorite_count": 30,
+    "favorite_count": 29,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -8628,7 +8764,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 7,
-    "favorite_count": 33,
+    "favorite_count": 32,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -8832,7 +8968,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 9,
-    "favorite_count": 13,
+    "favorite_count": 12,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -13320,7 +13456,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 4,
-    "favorite_count": 24,
+    "favorite_count": 23,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -13388,7 +13524,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 30,
-    "favorite_count": 98,
+    "favorite_count": 96,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -13592,7 +13728,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 16,
-    "favorite_count": 27,
+    "favorite_count": 26,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -13728,7 +13864,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 10,
-    "favorite_count": 40,
+    "favorite_count": 39,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -13796,7 +13932,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 6,
-    "favorite_count": 16,
+    "favorite_count": 15,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -13870,7 +14006,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 2,
-    "favorite_count": 8,
+    "favorite_count": 7,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -13938,7 +14074,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 4,
-    "favorite_count": 8,
+    "favorite_count": 7,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -14006,7 +14142,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 3,
-    "favorite_count": 5,
+    "favorite_count": 4,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -14074,7 +14210,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 5,
-    "favorite_count": 13,
+    "favorite_count": 12,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -14142,7 +14278,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 4,
-    "favorite_count": 22,
+    "favorite_count": 21,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -14210,7 +14346,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 3,
-    "favorite_count": 12,
+    "favorite_count": 11,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -14754,7 +14890,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 5,
-    "favorite_count": 15,
+    "favorite_count": 14,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -14822,7 +14958,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 5,
-    "favorite_count": 8,
+    "favorite_count": 7,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -16122,6 +16258,142 @@
     "text": "Subset rows based on their integer locations-slice in R  {https://t.co/UM42iOoU6Z} #rstats #DataScience"
   },
   {
+    "created_at": "2022-07-14 14:15:12",
+    "id": 1.54758550820044e+18,
+    "id_str": "1547585508200439809",
+    "full_text": "Eight R Tidyverse tips for everyday data engineering  {https://t.co/vpMtqNCM06} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 100,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [80, 87]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [88, 100]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/vpMtqNCM06",
+          "expanded_url": "https://www.r-bloggers.com/?p=328863",
+          "display_url": "r-bloggers.com/?p=328863",
+          "indices": {
+            "start": 55,
+            "end": 78
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 15,
+    "favorite_count": 50,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "Eight R Tidyverse tips for everyday data engineering  {https://t.co/vpMtqNCM06} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-07-14 13:30:06",
+    "id": 1.54757415800286e+18,
+    "id_str": "1547574158002860032",
+    "full_text": "corels 0.0.4 on CRAN: M1 Update  {https://t.co/D5JWScHijY} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 79,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [59, 66]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [67, 79]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/D5JWScHijY",
+          "expanded_url": "https://www.r-bloggers.com/?p=328858",
+          "display_url": "r-bloggers.com/?p=328858",
+          "indices": {
+            "start": 34,
+            "end": 57
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 4,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "corels 0.0.4 on CRAN: M1 Update  {https://t.co/D5JWScHijY} #rstats #DataScience"
+  },
+  {
     "created_at": "2022-07-14 07:30:12",
     "id": 1.54748358816524e+18,
     "id_str": "1547483588165238784",
@@ -16188,685 +16460,5 @@
     "possibly_sensitive": false,
     "lang": "en",
     "text": "rfoaas 2.3.2: New upstream accessors  {https://t.co/KnsQZhtSNl} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-07-13 23:19:59",
-    "id": 1.54736022019582e+18,
-    "id_str": "1547360220195819521",
-    "full_text": "Network Graphs in R  {https://t.co/bgKJ31WW1d} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 67,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [47, 54]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [55, 67]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/bgKJ31WW1d",
-          "expanded_url": "https://www.r-bloggers.com/?p=328831",
-          "display_url": "r-bloggers.com/?p=328831",
-          "indices": {
-            "start": 22,
-            "end": 45
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 9,
-    "favorite_count": 53,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "Network Graphs in R  {https://t.co/bgKJ31WW1d} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-07-13 22:45:12",
-    "id": 1.54735146429683e+18,
-    "id_str": "1547351464296828932",
-    "full_text": "x13binary 1.1.57-3 on CRAN: Packaging Updates  {https://t.co/EfOTBFIXCo} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 93,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [73, 80]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [81, 93]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/EfOTBFIXCo",
-          "expanded_url": "https://www.r-bloggers.com/?p=328827",
-          "display_url": "r-bloggers.com/?p=328827",
-          "indices": {
-            "start": 48,
-            "end": 71
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 2,
-    "favorite_count": 6,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "x13binary 1.1.57-3 on CRAN: Packaging Updates  {https://t.co/EfOTBFIXCo} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-07-13 19:30:12",
-    "id": 1.5473023927184e+18,
-    "id_str": "1547302392718397443",
-    "full_text": "How much has COVID cost the NYC Subway system in “lost fares”?  {https://t.co/BfkkfeXJBk} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 110,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [90, 97]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [98, 110]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/BfkkfeXJBk",
-          "expanded_url": "https://www.r-bloggers.com/?p=328824",
-          "display_url": "r-bloggers.com/?p=328824",
-          "indices": {
-            "start": 65,
-            "end": 88
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 4,
-    "favorite_count": 9,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "How much has COVID cost the NYC Subway system in “lost fares”?  {https://t.co/BfkkfeXJBk} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-07-13 17:30:06",
-    "id": 1.54727216686924e+18,
-    "id_str": "1547272166869241857",
-    "full_text": "How to do Conditional Mutate in R?  {https://t.co/GF9cz5RVnY} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 82,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [62, 69]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [70, 82]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/GF9cz5RVnY",
-          "expanded_url": "https://www.r-bloggers.com/?p=328822",
-          "display_url": "r-bloggers.com/?p=328822",
-          "indices": {
-            "start": 37,
-            "end": 60
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 7,
-    "favorite_count": 20,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "How to do Conditional Mutate in R?  {https://t.co/GF9cz5RVnY} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-07-13 12:35:06",
-    "id": 1.54719792747877e+18,
-    "id_str": "1547197927478771712",
-    "full_text": "RcppSimdJson 0.1.7 on CRAN: Maintenance  {https://t.co/JUaxoGnONE} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 87,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [67, 74]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [75, 87]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/JUaxoGnONE",
-          "expanded_url": "https://www.r-bloggers.com/?p=328809",
-          "display_url": "r-bloggers.com/?p=328809",
-          "indices": {
-            "start": 42,
-            "end": 65
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 2,
-    "favorite_count": 1,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "fi",
-    "text": "RcppSimdJson 0.1.7 on CRAN: Maintenance  {https://t.co/JUaxoGnONE} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-07-13 12:34:50",
-    "id": 1.5471978638259e+18,
-    "id_str": "1547197863825899520",
-    "full_text": "#36: pub/sub for live market monitoring with R and Redis  {https://t.co/vG1OVCbyCd} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 104,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [84, 91]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [92, 104]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/vG1OVCbyCd",
-          "expanded_url": "https://www.r-bloggers.com/?p=328807",
-          "display_url": "r-bloggers.com/?p=328807",
-          "indices": {
-            "start": 59,
-            "end": 82
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 4,
-    "favorite_count": 3,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "#36: pub/sub for live market monitoring with R and Redis  {https://t.co/vG1OVCbyCd} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-07-13 07:15:01",
-    "id": 1.54711737553909e+18,
-    "id_str": "1547117375539093504",
-    "full_text": "How to write a function in R and apply it to a data frame using map functions from {purr}  {https://t.co/0L3YldkDEL} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 137,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [117, 124]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [125, 137]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/0L3YldkDEL",
-          "expanded_url": "https://www.r-bloggers.com/?p=328786",
-          "display_url": "r-bloggers.com/?p=328786",
-          "indices": {
-            "start": 92,
-            "end": 115
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 17,
-    "favorite_count": 68,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "How to write a function in R and apply it to a data frame using map functions from {purr}  {https://t.co/0L3YldkDEL} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-07-13 03:19:54",
-    "id": 1.54705821011214e+18,
-    "id_str": "1547058210112143360",
-    "full_text": "simulating from the joint cdf  {https://t.co/Q08LQVCCMW} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 77,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [57, 64]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [65, 77]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/Q08LQVCCMW",
-          "expanded_url": "https://www.r-bloggers.com/?p=328783",
-          "display_url": "r-bloggers.com/?p=328783",
-          "indices": {
-            "start": 32,
-            "end": 55
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 5,
-    "favorite_count": 11,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "simulating from the joint cdf  {https://t.co/Q08LQVCCMW} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-07-13 03:15:11",
-    "id": 1.54705701986945e+18,
-    "id_str": "1547057019869446144",
-    "full_text": "R is for actuaRies  {https://t.co/YQpeTPRaXl} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 66,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [46, 53]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [54, 66]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/YQpeTPRaXl",
-          "expanded_url": "https://www.r-bloggers.com/?p=328781",
-          "display_url": "r-bloggers.com/?p=328781",
-          "indices": {
-            "start": 21,
-            "end": 44
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 7,
-    "favorite_count": 12,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "R is for actuaRies  {https://t.co/YQpeTPRaXl} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-07-13 02:35:00",
-    "id": 1.54704690787637e+18,
-    "id_str": "1547046907876368386",
-    "full_text": "Rcpp now used by 2500 CRAN packages!  {https://t.co/QWMYwO4xEh} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 84,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [64, 71]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [72, 84]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/QWMYwO4xEh",
-          "expanded_url": "https://www.r-bloggers.com/?p=328779",
-          "display_url": "r-bloggers.com/?p=328779",
-          "indices": {
-            "start": 39,
-            "end": 62
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 2,
-    "favorite_count": 4,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "Rcpp now used by 2500 CRAN packages!  {https://t.co/QWMYwO4xEh} #rstats #DataScience"
   }
 ]
