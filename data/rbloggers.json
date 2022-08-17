@@ -1,5 +1,419 @@
 [
   {
+    "created_at": "2022-08-17 01:40:01",
+    "id": 1.55971664563504e+18,
+    "id_str": "1559716645635035142",
+    "full_text": "Creating Dashboards in R  {https://t.co/SXP3bgCFIu} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 72,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [52, 59]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [60, 72]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/SXP3bgCFIu",
+          "expanded_url": "https://www.r-bloggers.com/?p=330620",
+          "display_url": "r-bloggers.com/?p=330620",
+          "indices": {
+            "start": 27,
+            "end": 50
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 8,
+    "favorite_count": 36,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "Creating Dashboards in R  {https://t.co/SXP3bgCFIu} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-08-16 23:29:59",
+    "id": 1.55968392486294e+18,
+    "id_str": "1559683924862935047",
+    "full_text": "Designing #TidyTuesday visualisations for mobile (with Quarto)  {https://t.co/iO2d4zPSwL} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 110,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "TidyTuesday",
+          "indices": [
+            [10, 22]
+          ]
+        },
+        {
+          "text": "rstats",
+          "indices": [
+            [90, 97]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [98, 110]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/iO2d4zPSwL",
+          "expanded_url": "https://www.r-bloggers.com/?p=330618",
+          "display_url": "r-bloggers.com/?p=330618",
+          "indices": {
+            "start": 65,
+            "end": 88
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 6,
+    "favorite_count": 11,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "Designing #TidyTuesday visualisations for mobile (with Quarto)  {https://t.co/iO2d4zPSwL} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-08-16 19:25:13",
+    "id": 1.55962232709188e+18,
+    "id_str": "1559622327091879936",
+    "full_text": "Functionality of the fastGLCM R package  {https://t.co/q4U9FiVh8h} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 87,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [67, 74]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [75, 87]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/q4U9FiVh8h",
+          "expanded_url": "https://www.r-bloggers.com/?p=330612",
+          "display_url": "r-bloggers.com/?p=330612",
+          "indices": {
+            "start": 42,
+            "end": 65
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "favorite_count": 7,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "Functionality of the fastGLCM R package  {https://t.co/q4U9FiVh8h} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-08-16 19:09:52",
+    "id": 1.55961846403744e+18,
+    "id_str": "1559618464037437441",
+    "full_text": "Hurst Exponent using R code  {https://t.co/VwQrLp5Lip} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 75,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [55, 62]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [63, 75]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/VwQrLp5Lip",
+          "expanded_url": "https://www.r-bloggers.com/?p=330610",
+          "display_url": "r-bloggers.com/?p=330610",
+          "indices": {
+            "start": 30,
+            "end": 53
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 6,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "Hurst Exponent using R code  {https://t.co/VwQrLp5Lip} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-08-16 16:25:14",
+    "id": 1.55957703076048e+18,
+    "id_str": "1559577030760480770",
+    "full_text": "Making the Connection with Crosstalk  {https://t.co/7wlsymjdtv} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 84,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [64, 71]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [72, 84]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/7wlsymjdtv",
+          "expanded_url": "https://www.r-bloggers.com/?p=330608",
+          "display_url": "r-bloggers.com/?p=330608",
+          "indices": {
+            "start": 39,
+            "end": 62
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 5,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "Making the Connection with Crosstalk  {https://t.co/7wlsymjdtv} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-08-16 16:24:57",
+    "id": 1.55957696054784e+18,
+    "id_str": "1559576960547840000",
+    "full_text": "Underrated CRAN Packages  {https://t.co/kaLWTZgUh4} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 72,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [52, 59]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [60, 72]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/kaLWTZgUh4",
+          "expanded_url": "https://www.r-bloggers.com/?p=330606",
+          "display_url": "r-bloggers.com/?p=330606",
+          "indices": {
+            "start": 27,
+            "end": 50
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 6,
+    "favorite_count": 11,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "Underrated CRAN Packages  {https://t.co/kaLWTZgUh4} #rstats #DataScience"
+  },
+  {
     "created_at": "2022-08-16 02:59:56",
     "id": 1.55937436912577e+18,
     "id_str": "1559374369125765123",
@@ -59,8 +473,8 @@
       }
     ],
     "is_quote_status": false,
-    "retweet_count": 1,
-    "favorite_count": 2,
+    "retweet_count": 4,
+    "favorite_count": 8,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -127,8 +541,8 @@
       }
     ],
     "is_quote_status": false,
-    "retweet_count": 2,
-    "favorite_count": 2,
+    "retweet_count": 4,
+    "favorite_count": 14,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -195,8 +609,8 @@
       }
     ],
     "is_quote_status": false,
-    "retweet_count": 6,
-    "favorite_count": 15,
+    "retweet_count": 8,
+    "favorite_count": 23,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -263,8 +677,8 @@
       }
     ],
     "is_quote_status": false,
-    "retweet_count": 10,
-    "favorite_count": 26,
+    "retweet_count": 13,
+    "favorite_count": 31,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -2923,7 +3337,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 3,
-    "favorite_count": 13,
+    "favorite_count": 12,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -2991,7 +3405,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 8,
-    "favorite_count": 29,
+    "favorite_count": 28,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -3399,7 +3813,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 41,
-    "favorite_count": 140,
+    "favorite_count": 139,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -13735,7 +14149,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 40,
-    "favorite_count": 165,
+    "favorite_count": 164,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -14013,685 +14427,5 @@
     "possibly_sensitive": false,
     "lang": "en",
     "text": "Add new calculated variables to a data frame and drop all existing variables  {https://t.co/B8w2PF6H3S} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-07-17 22:55:13",
-    "id": 1.54880353734963e+18,
-    "id_str": "1548803537349627904",
-    "full_text": "Extracting numbers from a stacked density plot  {https://t.co/RTK6d2kZR3} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 94,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [74, 81]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [82, 94]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/RTK6d2kZR3",
-          "expanded_url": "https://www.r-bloggers.com/?p=329089",
-          "display_url": "r-bloggers.com/?p=329089",
-          "indices": {
-            "start": 49,
-            "end": 72
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 3,
-    "favorite_count": 7,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "Extracting numbers from a stacked density plot  {https://t.co/RTK6d2kZR3} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-07-17 22:24:59",
-    "id": 1.54879592971263e+18,
-    "id_str": "1548795929712627715",
-    "full_text": "Principal Component Analysis through Singular Value Decomposition  {https://t.co/Gaj4NGTyVl} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 113,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [93, 100]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [101, 113]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/Gaj4NGTyVl",
-          "expanded_url": "https://www.r-bloggers.com/?p=329087",
-          "display_url": "r-bloggers.com/?p=329087",
-          "indices": {
-            "start": 68,
-            "end": 91
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 17,
-    "favorite_count": 58,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "Principal Component Analysis through Singular Value Decomposition  {https://t.co/Gaj4NGTyVl} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-07-17 22:19:56",
-    "id": 1.54879465739567e+18,
-    "id_str": "1548794657395671043",
-    "full_text": "How to Calculate Percentiles in R  {https://t.co/TSXzKqxnf8} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 81,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [61, 68]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [69, 81]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/TSXzKqxnf8",
-          "expanded_url": "https://www.r-bloggers.com/?p=329085",
-          "display_url": "r-bloggers.com/?p=329085",
-          "indices": {
-            "start": 36,
-            "end": 59
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 9,
-    "favorite_count": 35,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "How to Calculate Percentiles in R  {https://t.co/TSXzKqxnf8} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-07-17 15:59:54",
-    "id": 1.54869902073391e+18,
-    "id_str": "1548699020733911046",
-    "full_text": "Academicons: my first quarto extension  {https://t.co/jtsEtzLMTT} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 86,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [66, 73]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [74, 86]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/jtsEtzLMTT",
-          "expanded_url": "https://www.r-bloggers.com/?p=329059",
-          "display_url": "r-bloggers.com/?p=329059",
-          "indices": {
-            "start": 41,
-            "end": 64
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 4,
-    "favorite_count": 6,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "Academicons: my first quarto extension  {https://t.co/jtsEtzLMTT} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-07-17 15:34:59",
-    "id": 1.54869274982584e+18,
-    "id_str": "1548692749825835010",
-    "full_text": "PCA Maker Shiny App  {https://t.co/worBXeR11r} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 67,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [47, 54]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [55, 67]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/worBXeR11r",
-          "expanded_url": "https://www.r-bloggers.com/?p=329057",
-          "display_url": "r-bloggers.com/?p=329057",
-          "indices": {
-            "start": 22,
-            "end": 45
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 8,
-    "favorite_count": 32,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "PCA Maker Shiny App  {https://t.co/worBXeR11r} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-07-17 07:29:50",
-    "id": 1.54857065845558e+18,
-    "id_str": "1548570658455576576",
-    "full_text": "How to plot Bump Chart in R?  {https://t.co/QOk3tk1JR8} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 76,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [56, 63]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [64, 76]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/QOk3tk1JR8",
-          "expanded_url": "https://www.r-bloggers.com/?p=329053",
-          "display_url": "r-bloggers.com/?p=329053",
-          "indices": {
-            "start": 31,
-            "end": 54
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 4,
-    "favorite_count": 24,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "How to plot Bump Chart in R?  {https://t.co/QOk3tk1JR8} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-07-17 07:10:11",
-    "id": 1.54856571223039e+18,
-    "id_str": "1548565712230387713",
-    "full_text": "Some Basic Concepts about Design of Experiments and How to Perform their Analysis in R  {https://t.co/CBxMQKqKt2} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 134,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [114, 121]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [122, 134]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/CBxMQKqKt2",
-          "expanded_url": "https://www.r-bloggers.com/?p=329051",
-          "display_url": "r-bloggers.com/?p=329051",
-          "indices": {
-            "start": 89,
-            "end": 112
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 30,
-    "favorite_count": 97,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "Some Basic Concepts about Design of Experiments and How to Perform their Analysis in R  {https://t.co/CBxMQKqKt2} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-07-17 05:04:53",
-    "id": 1.54853418146199e+18,
-    "id_str": "1548534181461991425",
-    "full_text": "Get tickets for An introductory course in Shiny on July 11th &amp; 13th or 12th &amp; 14th at 30 USD  {https://t.co/6On2UYIOj8} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 148,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [128, 135]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [136, 148]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/6On2UYIOj8",
-          "expanded_url": "https://www.r-bloggers.com/?p=329039",
-          "display_url": "r-bloggers.com/?p=329039",
-          "indices": {
-            "start": 103,
-            "end": 126
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 3,
-    "favorite_count": 8,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "Get tickets for An introductory course in Shiny on July 11th &amp; 13th or 12th &amp; 14th at 30 USD  {https://t.co/6On2UYIOj8} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-07-17 03:04:53",
-    "id": 1.54850397975505e+18,
-    "id_str": "1548503979755053063",
-    "full_text": "Detecting Duplicates (base R vs. dplyr)  {https://t.co/1uw4l2OshW} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 87,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [67, 74]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [75, 87]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/1uw4l2OshW",
-          "expanded_url": "https://www.r-bloggers.com/?p=329036",
-          "display_url": "r-bloggers.com/?p=329036",
-          "indices": {
-            "start": 42,
-            "end": 65
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 9,
-    "favorite_count": 52,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "Detecting Duplicates (base R vs. dplyr)  {https://t.co/1uw4l2OshW} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-07-17 00:54:58",
-    "id": 1.54847128787328e+18,
-    "id_str": "1548471287873277952",
-    "full_text": "How to apply a transformation to multiple columns in R?  {https://t.co/izAmwAP7t8} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 103,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [83, 90]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [91, 103]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/izAmwAP7t8",
-          "expanded_url": "https://www.r-bloggers.com/?p=329030",
-          "display_url": "r-bloggers.com/?p=329030",
-          "indices": {
-            "start": 58,
-            "end": 81
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 17,
-    "favorite_count": 27,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "How to apply a transformation to multiple columns in R?  {https://t.co/izAmwAP7t8} #rstats #DataScience"
   }
 ]
