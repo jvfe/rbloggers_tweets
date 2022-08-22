@@ -1,5 +1,141 @@
 [
   {
+    "created_at": "2022-08-21 20:39:52",
+    "id": 1.56145305140744e+18,
+    "id_str": "1561453051407437824",
+    "full_text": "Spiders, facets, and dots, oh my!  {https://t.co/4xuw6Pzi9q} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 81,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [61, 68]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [69, 81]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/4xuw6Pzi9q",
+          "expanded_url": "https://www.r-bloggers.com/?p=330848",
+          "display_url": "r-bloggers.com/?p=330848",
+          "indices": {
+            "start": 36,
+            "end": 59
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 6,
+    "favorite_count": 9,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "Spiders, facets, and dots, oh my!  {https://t.co/4xuw6Pzi9q} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-08-21 17:00:15",
+    "id": 1.56139778379332e+18,
+    "id_str": "1561397783793324032",
+    "full_text": "Corona-Superspreading or just “Wiesn-flu”? Should the Oktoberfest be cancelled again?  {https://t.co/DGrzZ189qj} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 133,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [113, 120]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [121, 133]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/DGrzZ189qj",
+          "expanded_url": "https://www.r-bloggers.com/?p=330846",
+          "display_url": "r-bloggers.com/?p=330846",
+          "indices": {
+            "start": 88,
+            "end": 111
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 4,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "Corona-Superspreading or just “Wiesn-flu”? Should the Oktoberfest be cancelled again?  {https://t.co/DGrzZ189qj} #rstats #DataScience"
+  },
+  {
     "created_at": "2022-08-20 07:39:56",
     "id": 1.56089438647247e+18,
     "id_str": "1560894386472472576",
@@ -59,8 +195,8 @@
       }
     ],
     "is_quote_status": false,
-    "retweet_count": 4,
-    "favorite_count": 4,
+    "retweet_count": 5,
+    "favorite_count": 6,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -1917,7 +2053,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 8,
-    "favorite_count": 21,
+    "favorite_count": 22,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -12062,617 +12198,5 @@
     "possibly_sensitive": false,
     "lang": "en",
     "text": "Read Data from Multiple Excel Sheets and Convert them to Individual Data Frames  {https://t.co/PBuXqLJZXD} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-07-22 23:34:55",
-    "id": 1.5506254691622e+18,
-    "id_str": "1550625469162201088",
-    "full_text": "A Kaggle Dataset of R Package History for rstudio::conf(2022)  {https://t.co/BZu9TmWS8e} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 109,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [89, 96]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [97, 109]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/BZu9TmWS8e",
-          "expanded_url": "https://www.r-bloggers.com/?p=329419",
-          "display_url": "r-bloggers.com/?p=329419",
-          "indices": {
-            "start": 64,
-            "end": 87
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 9,
-    "favorite_count": 13,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "A Kaggle Dataset of R Package History for rstudio::conf(2022)  {https://t.co/BZu9TmWS8e} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-07-22 18:25:02",
-    "id": 1.55054748443463e+18,
-    "id_str": "1550547484434628608",
-    "full_text": "Unhappy in its Own Way  {https://t.co/EqmCDZ6FTI} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 70,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [50, 57]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [58, 70]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/EqmCDZ6FTI",
-          "expanded_url": "https://www.r-bloggers.com/?p=329406",
-          "display_url": "r-bloggers.com/?p=329406",
-          "indices": {
-            "start": 25,
-            "end": 48
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 3,
-    "favorite_count": 7,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "Unhappy in its Own Way  {https://t.co/EqmCDZ6FTI} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-07-22 12:09:50",
-    "id": 1.55045306282066e+18,
-    "id_str": "1550453062820659203",
-    "full_text": "rOpenSci News Digest, July 2022  {https://t.co/c4VoLk4PnO} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 79,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [59, 66]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [67, 79]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/c4VoLk4PnO",
-          "expanded_url": "https://www.r-bloggers.com/?p=329398",
-          "display_url": "r-bloggers.com/?p=329398",
-          "indices": {
-            "start": 34,
-            "end": 57
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 2,
-    "favorite_count": 1,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "rOpenSci News Digest, July 2022  {https://t.co/c4VoLk4PnO} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-07-22 11:00:13",
-    "id": 1.55043554353573e+18,
-    "id_str": "1550435543535730688",
-    "full_text": "Developer diary for {ggshakeR} 0.2.0 (a package for soccer analytics viz): Working smoothly  {https://t.co/nLIzKCF0k0} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 139,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [119, 126]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [127, 139]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/nLIzKCF0k0",
-          "expanded_url": "https://www.r-bloggers.com/?p=329396",
-          "display_url": "r-bloggers.com/?p=329396",
-          "indices": {
-            "start": 94,
-            "end": 117
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 6,
-    "favorite_count": 17,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "Developer diary for {ggshakeR} 0.2.0 (a package for soccer analytics viz): Working smoothly  {https://t.co/nLIzKCF0k0} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-07-22 09:25:01",
-    "id": 1.55041158557072e+18,
-    "id_str": "1550411585570717696",
-    "full_text": "R code snippet : Transform from long format to wide format  {https://t.co/3jQ5mDbNGU} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 106,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [86, 93]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [94, 106]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/3jQ5mDbNGU",
-          "expanded_url": "https://www.r-bloggers.com/?p=329390",
-          "display_url": "r-bloggers.com/?p=329390",
-          "indices": {
-            "start": 61,
-            "end": 84
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 11,
-    "favorite_count": 31,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "R code snippet : Transform from long format to wide format  {https://t.co/3jQ5mDbNGU} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-07-22 07:55:11",
-    "id": 1.55038897813793e+18,
-    "id_str": "1550388978137927682",
-    "full_text": "Mbaza Shiny App Case Study  {https://t.co/et6RijmOiI} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 74,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [54, 61]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [62, 74]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/et6RijmOiI",
-          "expanded_url": "https://www.r-bloggers.com/?p=329385",
-          "display_url": "r-bloggers.com/?p=329385",
-          "indices": {
-            "start": 29,
-            "end": 52
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 3,
-    "favorite_count": 5,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "Mbaza Shiny App Case Study  {https://t.co/et6RijmOiI} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-07-22 04:34:55",
-    "id": 1.55033857857987e+18,
-    "id_str": "1550338578579873794",
-    "full_text": "[FREE] An introductory workshop in Shiny, July 27st from 18.00 to 19.00  {https://t.co/u4uzh6naxW} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 119,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [99, 106]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [107, 119]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/u4uzh6naxW",
-          "expanded_url": "https://www.r-bloggers.com/?p=329380",
-          "display_url": "r-bloggers.com/?p=329380",
-          "indices": {
-            "start": 74,
-            "end": 97
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 7,
-    "favorite_count": 17,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "[FREE] An introductory workshop in Shiny, July 27st from 18.00 to 19.00  {https://t.co/u4uzh6naxW} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-07-22 01:34:55",
-    "id": 1.55029328115363e+18,
-    "id_str": "1550293281153630216",
-    "full_text": "Convert multiple columns into a single column-tidyr Part4  {https://t.co/7jZykjcLJO} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 105,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [85, 92]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [93, 105]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/7jZykjcLJO",
-          "expanded_url": "https://www.r-bloggers.com/?p=329363",
-          "display_url": "r-bloggers.com/?p=329363",
-          "indices": {
-            "start": 60,
-            "end": 83
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 3,
-    "favorite_count": 11,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "ca",
-    "text": "Convert multiple columns into a single column-tidyr Part4  {https://t.co/7jZykjcLJO} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-07-22 01:25:10",
-    "id": 1.55029082582913e+18,
-    "id_str": "1550290825829126147",
-    "full_text": "Systematic error messages  {https://t.co/w9zW6pzHyM} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 73,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [53, 60]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [61, 73]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/w9zW6pzHyM",
-          "expanded_url": "https://www.r-bloggers.com/?p=329361",
-          "display_url": "r-bloggers.com/?p=329361",
-          "indices": {
-            "start": 28,
-            "end": 51
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 2,
-    "favorite_count": 2,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "da",
-    "text": "Systematic error messages  {https://t.co/w9zW6pzHyM} #rstats #DataScience"
   }
 ]
