@@ -1,5 +1,209 @@
 [
   {
+    "created_at": "2022-08-23 00:25:16",
+    "id": 1.56187216467197e+18,
+    "id_str": "1561872164671967235",
+    "full_text": "Building a Google Analytics Dashboard With r Shiny From Scratch – Part 1  {https://t.co/Ll5Ie3a4YI} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 120,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [100, 107]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [108, 120]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/Ll5Ie3a4YI",
+          "expanded_url": "https://www.r-bloggers.com/?p=330883",
+          "display_url": "r-bloggers.com/?p=330883",
+          "indices": {
+            "start": 75,
+            "end": 98
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 6,
+    "favorite_count": 22,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "Building a Google Analytics Dashboard With r Shiny From Scratch – Part 1  {https://t.co/Ll5Ie3a4YI} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-08-22 23:50:14",
+    "id": 1.56186334624008e+18,
+    "id_str": "1561863346240081922",
+    "full_text": "R Markdown Tips: Code, Images, Comments, Tables, and more  {https://t.co/cXUaWXxGxl} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 105,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [85, 92]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [93, 105]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/cXUaWXxGxl",
+          "expanded_url": "https://www.r-bloggers.com/?p=330881",
+          "display_url": "r-bloggers.com/?p=330881",
+          "indices": {
+            "start": 60,
+            "end": 83
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 11,
+    "favorite_count": 20,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "R Markdown Tips: Code, Images, Comments, Tables, and more  {https://t.co/cXUaWXxGxl} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-08-22 08:40:19",
+    "id": 1.56163436043194e+18,
+    "id_str": "1561634360431939584",
+    "full_text": "Monthly Movement and Losses of the Luftwaffe 1939-1945 Infographic  {https://t.co/yypCOlXSgT} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 114,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [94, 101]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [102, 114]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/yypCOlXSgT",
+          "expanded_url": "https://www.r-bloggers.com/?p=330860",
+          "display_url": "r-bloggers.com/?p=330860",
+          "indices": {
+            "start": 69,
+            "end": 92
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 6,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "Monthly Movement and Losses of the Luftwaffe 1939-1945 Infographic  {https://t.co/yypCOlXSgT} #rstats #DataScience"
+  },
+  {
     "created_at": "2022-08-21 20:39:52",
     "id": 1.56145305140744e+18,
     "id_str": "1561453051407437824",
@@ -59,8 +263,8 @@
       }
     ],
     "is_quote_status": false,
-    "retweet_count": 6,
-    "favorite_count": 9,
+    "retweet_count": 7,
+    "favorite_count": 17,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -128,7 +332,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 4,
-    "favorite_count": 4,
+    "favorite_count": 5,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -1979,7 +2183,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 41,
-    "favorite_count": 148,
+    "favorite_count": 149,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -5732,7 +5936,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 41,
-    "favorite_count": 139,
+    "favorite_count": 140,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -11994,209 +12198,5 @@
     "possibly_sensitive": false,
     "lang": "en",
     "text": "rstudio::conf(2022) Starts Today!  {https://t.co/CBJ9eJ04NG} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-07-23 22:54:54",
-    "id": 1.55097778703668e+18,
-    "id_str": "1550977787036684288",
-    "full_text": "Programming a simple minimax chess engine in R  {https://t.co/b6133NMRdq} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 94,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [74, 81]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [82, 94]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/b6133NMRdq",
-          "expanded_url": "https://www.r-bloggers.com/?p=329456",
-          "display_url": "r-bloggers.com/?p=329456",
-          "indices": {
-            "start": 49,
-            "end": 72
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 7,
-    "favorite_count": 33,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "Programming a simple minimax chess engine in R  {https://t.co/b6133NMRdq} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-07-23 16:44:55",
-    "id": 1.55088467550525e+18,
-    "id_str": "1550884675505250305",
-    "full_text": "What’s the fastest way to search and replace strings in a data frame?  {https://t.co/AzfBlZd5Cj} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 117,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [97, 104]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [105, 117]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/AzfBlZd5Cj",
-          "expanded_url": "https://www.r-bloggers.com/?p=329454",
-          "display_url": "r-bloggers.com/?p=329454",
-          "indices": {
-            "start": 72,
-            "end": 95
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 5,
-    "favorite_count": 12,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "What’s the fastest way to search and replace strings in a data frame?  {https://t.co/AzfBlZd5Cj} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-07-23 12:59:56",
-    "id": 1.55082805812236e+18,
-    "id_str": "1550828058122362881",
-    "full_text": "Read Data from Multiple Excel Sheets and Convert them to Individual Data Frames  {https://t.co/PBuXqLJZXD} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 127,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [107, 114]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [115, 127]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/PBuXqLJZXD",
-          "expanded_url": "https://www.r-bloggers.com/?p=329445",
-          "display_url": "r-bloggers.com/?p=329445",
-          "indices": {
-            "start": 82,
-            "end": 105
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 11,
-    "favorite_count": 44,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "Read Data from Multiple Excel Sheets and Convert them to Individual Data Frames  {https://t.co/PBuXqLJZXD} #rstats #DataScience"
   }
 ]
