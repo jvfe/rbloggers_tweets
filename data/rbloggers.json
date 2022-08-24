@@ -1,5 +1,345 @@
 [
   {
+    "created_at": "2022-08-23 23:59:11",
+    "id": 1.56222798807869e+18,
+    "id_str": "1562227988078686208",
+    "full_text": "Hello Shiny Python  {https://t.co/t8DMoWH60U} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 66,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [46, 53]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [54, 66]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/t8DMoWH60U",
+          "expanded_url": "https://www.r-bloggers.com/?p=330916",
+          "display_url": "r-bloggers.com/?p=330916",
+          "indices": {
+            "start": 21,
+            "end": 44
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 9,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "cy",
+    "text": "Hello Shiny Python  {https://t.co/t8DMoWH60U} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-08-23 19:29:55",
+    "id": 1.56216022312039e+18,
+    "id_str": "1562160223120392192",
+    "full_text": "Which programming language should I learn?  {https://t.co/IubxU9zQwB} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 90,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [70, 77]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [78, 90]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/IubxU9zQwB",
+          "expanded_url": "https://www.r-bloggers.com/?p=330921",
+          "display_url": "r-bloggers.com/?p=330921",
+          "indices": {
+            "start": 45,
+            "end": 68
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 8,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "Which programming language should I learn?  {https://t.co/IubxU9zQwB} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-08-23 18:49:56",
+    "id": 1.56215016330455e+18,
+    "id_str": "1562150163304554498",
+    "full_text": "Exploding German Electricity Prices: Some Time Series  {https://t.co/VjXEUWXPw9} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 101,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [81, 88]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [89, 101]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/VjXEUWXPw9",
+          "expanded_url": "https://www.r-bloggers.com/?p=330919",
+          "display_url": "r-bloggers.com/?p=330919",
+          "indices": {
+            "start": 56,
+            "end": 79
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 11,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "Exploding German Electricity Prices: Some Time Series  {https://t.co/VjXEUWXPw9} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-08-23 16:34:53",
+    "id": 1.56211617310124e+18,
+    "id_str": "1562116173101240320",
+    "full_text": "R-Ladies Taipei Hopes to Host Hybrid Events in the Future  {https://t.co/mw9L848ggD} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 105,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [85, 92]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [93, 105]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/mw9L848ggD",
+          "expanded_url": "https://www.r-bloggers.com/?p=330909",
+          "display_url": "r-bloggers.com/?p=330909",
+          "indices": {
+            "start": 60,
+            "end": 83
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "R-Ladies Taipei Hopes to Host Hybrid Events in the Future  {https://t.co/mw9L848ggD} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-08-23 07:39:56",
+    "id": 1.56198155074034e+18,
+    "id_str": "1561981550740344833",
+    "full_text": "Take the RStudio IDE experimental support for arm64 architectures out for a spin  {https://t.co/jjZNwcY5F4} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 128,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [108, 115]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [116, 128]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/jjZNwcY5F4",
+          "expanded_url": "https://www.r-bloggers.com/?p=330895",
+          "display_url": "r-bloggers.com/?p=330895",
+          "indices": {
+            "start": 83,
+            "end": 106
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "favorite_count": 10,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "Take the RStudio IDE experimental support for arm64 architectures out for a spin  {https://t.co/jjZNwcY5F4} #rstats #DataScience"
+  },
+  {
     "created_at": "2022-08-23 00:25:16",
     "id": 1.56187216467197e+18,
     "id_str": "1561872164671967235",
@@ -59,8 +399,8 @@
       }
     ],
     "is_quote_status": false,
-    "retweet_count": 6,
-    "favorite_count": 22,
+    "retweet_count": 7,
+    "favorite_count": 38,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -127,8 +467,8 @@
       }
     ],
     "is_quote_status": false,
-    "retweet_count": 11,
-    "favorite_count": 20,
+    "retweet_count": 21,
+    "favorite_count": 61,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -2183,7 +2523,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 41,
-    "favorite_count": 149,
+    "favorite_count": 150,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
