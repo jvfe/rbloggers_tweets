@@ -1,5 +1,209 @@
 [
   {
+    "created_at": "2022-08-24 23:24:57",
+    "id": 1.56258176122135e+18,
+    "id_str": "1562581761221349378",
+    "full_text": "Base-R and Tidyverse Code, Side-by-Side  {https://t.co/Nf7K9tIKPi} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 87,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [67, 74]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [75, 87]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/Nf7K9tIKPi",
+          "expanded_url": "https://www.r-bloggers.com/?p=330970",
+          "display_url": "r-bloggers.com/?p=330970",
+          "indices": {
+            "start": 42,
+            "end": 65
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 7,
+    "favorite_count": 13,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "ht",
+    "text": "Base-R and Tidyverse Code, Side-by-Side  {https://t.co/Nf7K9tIKPi} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-08-24 20:10:08",
+    "id": 1.56253273031473e+18,
+    "id_str": "1562532730314731521",
+    "full_text": "Exploring Types of Subway Fares with Hierarchical Forecasting  {https://t.co/X1w7lLQ6Xf} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 109,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [89, 96]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [97, 109]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/X1w7lLQ6Xf",
+          "expanded_url": "https://www.r-bloggers.com/?p=330960",
+          "display_url": "r-bloggers.com/?p=330960",
+          "indices": {
+            "start": 64,
+            "end": 87
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 7,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "Exploring Types of Subway Fares with Hierarchical Forecasting  {https://t.co/X1w7lLQ6Xf} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-08-24 08:54:52",
+    "id": 1.5623627963647e+18,
+    "id_str": "1562362796364697600",
+    "full_text": "Entrevista con la Dra. Julia Silge  {https://t.co/enxcHC4rBR} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 82,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [62, 69]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [70, 82]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/enxcHC4rBR",
+          "expanded_url": "https://www.r-bloggers.com/?p=330946",
+          "display_url": "r-bloggers.com/?p=330946",
+          "indices": {
+            "start": 37,
+            "end": 60
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 7,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "ca",
+    "text": "Entrevista con la Dra. Julia Silge  {https://t.co/enxcHC4rBR} #rstats #DataScience"
+  },
+  {
     "created_at": "2022-08-23 23:59:11",
     "id": 1.56222798807869e+18,
     "id_str": "1562227988078686208",
@@ -59,8 +263,8 @@
       }
     ],
     "is_quote_status": false,
-    "retweet_count": 2,
-    "favorite_count": 9,
+    "retweet_count": 5,
+    "favorite_count": 25,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -128,7 +332,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 2,
-    "favorite_count": 8,
+    "favorite_count": 9,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -196,7 +400,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 4,
-    "favorite_count": 11,
+    "favorite_count": 15,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -264,7 +468,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 3,
-    "favorite_count": 3,
+    "favorite_count": 5,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -332,7 +536,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 5,
-    "favorite_count": 10,
+    "favorite_count": 11,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -468,7 +672,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 21,
-    "favorite_count": 61,
+    "favorite_count": 63,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -3345,7 +3549,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 5,
-    "favorite_count": 12,
+    "favorite_count": 13,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -7160,7 +7364,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 14,
-    "favorite_count": 49,
+    "favorite_count": 50,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -12334,209 +12538,5 @@
     "possibly_sensitive": false,
     "lang": "en",
     "text": "Comments on the New R OOP System, R7  {https://t.co/RuBXTPvJru} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-07-25 19:24:55",
-    "id": 1.5516497180481e+18,
-    "id_str": "1551649718048100354",
-    "full_text": "Simulating Turnout in Tunisia’s Constitutional Referendum  {https://t.co/kLjoa2SQ1w} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 105,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [85, 92]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [93, 105]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/kLjoa2SQ1w",
-          "expanded_url": "https://www.r-bloggers.com/?p=329516",
-          "display_url": "r-bloggers.com/?p=329516",
-          "indices": {
-            "start": 60,
-            "end": 83
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 4,
-    "favorite_count": 6,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "Simulating Turnout in Tunisia’s Constitutional Referendum  {https://t.co/kLjoa2SQ1w} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-07-25 18:39:52",
-    "id": 1.55163837857099e+18,
-    "id_str": "1551638378570989573",
-    "full_text": "Interview with Ehouman Evans – Experience with R and Use with Agroforestry in Cotonou, West   {https://t.co/38ZRbo7wPt} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 140,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [120, 127]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [128, 140]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/38ZRbo7wPt",
-          "expanded_url": "https://www.r-bloggers.com/?p=329512",
-          "display_url": "r-bloggers.com/?p=329512",
-          "indices": {
-            "start": 95,
-            "end": 118
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 4,
-    "favorite_count": 9,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "Interview with Ehouman Evans – Experience with R and Use with Agroforestry in Cotonou, West   {https://t.co/38ZRbo7wPt} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-07-25 14:14:54",
-    "id": 1.55157170005944e+18,
-    "id_str": "1551571700059443201",
-    "full_text": "rstudio::conf(2022) Starts Today!  {https://t.co/CBJ9eJ04NG} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 81,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [61, 68]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [69, 81]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/CBJ9eJ04NG",
-          "expanded_url": "https://www.r-bloggers.com/?p=329503",
-          "display_url": "r-bloggers.com/?p=329503",
-          "indices": {
-            "start": 36,
-            "end": 59
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 3,
-    "favorite_count": 9,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "rstudio::conf(2022) Starts Today!  {https://t.co/CBJ9eJ04NG} #rstats #DataScience"
   }
 ]
