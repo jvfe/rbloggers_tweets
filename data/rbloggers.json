@@ -1,5 +1,277 @@
 [
   {
+    "created_at": "2022-08-26 23:49:55",
+    "id": 1.56331281722653e+18,
+    "id_str": "1563312817226526720",
+    "full_text": "Analyzing Multiple Response Questions  {https://t.co/MTMsj2Xw6L} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 85,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [65, 72]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [73, 85]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/MTMsj2Xw6L",
+          "expanded_url": "https://www.r-bloggers.com/?p=331050",
+          "display_url": "r-bloggers.com/?p=331050",
+          "indices": {
+            "start": 40,
+            "end": 63
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 9,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "Analyzing Multiple Response Questions  {https://t.co/MTMsj2Xw6L} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-08-26 19:44:55",
+    "id": 1.56325116387698e+18,
+    "id_str": "1563251163876978688",
+    "full_text": "‘Bring a Shiny App to Production’ the hands-on workshop  {https://t.co/7U9cYatzgU} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 103,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [83, 90]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [91, 103]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/7U9cYatzgU",
+          "expanded_url": "https://www.r-bloggers.com/?p=331048",
+          "display_url": "r-bloggers.com/?p=331048",
+          "indices": {
+            "start": 58,
+            "end": 81
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 9,
+    "favorite_count": 19,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "‘Bring a Shiny App to Production’ the hands-on workshop  {https://t.co/7U9cYatzgU} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-08-26 11:50:07",
+    "id": 1.56313167563865e+18,
+    "id_str": "1563131675638648832",
+    "full_text": "Matematyka w komiksie, komiks w matematyce  {https://t.co/APS0G3wXbI} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 90,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [70, 77]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [78, 90]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/APS0G3wXbI",
+          "expanded_url": "https://www.r-bloggers.com/?p=331031",
+          "display_url": "r-bloggers.com/?p=331031",
+          "indices": {
+            "start": 45,
+            "end": 68
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 5,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "pl",
+    "text": "Matematyka w komiksie, komiks w matematyce  {https://t.co/APS0G3wXbI} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-08-26 08:09:55",
+    "id": 1.56307625794404e+18,
+    "id_str": "1563076257944043521",
+    "full_text": "rOpenSci News Digest, August 2022  {https://t.co/CvuAsehpuc} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 81,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [61, 68]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [69, 81]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/CvuAsehpuc",
+          "expanded_url": "https://www.r-bloggers.com/?p=331026",
+          "display_url": "r-bloggers.com/?p=331026",
+          "indices": {
+            "start": 36,
+            "end": 59
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 4,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "it",
+    "text": "rOpenSci News Digest, August 2022  {https://t.co/CvuAsehpuc} #rstats #DataScience"
+  },
+  {
     "created_at": "2022-08-25 23:59:14",
     "id": 1.56295277702583e+18,
     "id_str": "1562952777025826816",
@@ -60,7 +332,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 5,
-    "favorite_count": 11,
+    "favorite_count": 16,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -128,7 +400,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 3,
-    "favorite_count": 9,
+    "favorite_count": 10,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -196,7 +468,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 5,
-    "favorite_count": 17,
+    "favorite_count": 23,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -263,8 +535,8 @@
       }
     ],
     "is_quote_status": false,
-    "retweet_count": 4,
-    "favorite_count": 13,
+    "retweet_count": 5,
+    "favorite_count": 17,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -331,8 +603,8 @@
       }
     ],
     "is_quote_status": false,
-    "retweet_count": 6,
-    "favorite_count": 14,
+    "retweet_count": 7,
+    "favorite_count": 17,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -399,8 +671,8 @@
       }
     ],
     "is_quote_status": false,
-    "retweet_count": 11,
-    "favorite_count": 27,
+    "retweet_count": 13,
+    "favorite_count": 36,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -2863,7 +3135,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 5,
-    "favorite_count": 6,
+    "favorite_count": 7,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -3413,7 +3685,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 3,
-    "favorite_count": 6,
+    "favorite_count": 7,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -3481,7 +3753,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 6,
-    "favorite_count": 12,
+    "favorite_count": 13,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -4916,7 +5188,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 10,
-    "favorite_count": 13,
+    "favorite_count": 12,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -6208,7 +6480,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 42,
-    "favorite_count": 140,
+    "favorite_count": 139,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -10152,7 +10424,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 14,
-    "favorite_count": 68,
+    "favorite_count": 67,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -12130,481 +12402,5 @@
     "possibly_sensitive": false,
     "lang": "en",
     "text": "How to Use the sweep Function in R?  {https://t.co/eexsUvmtRn} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-07-27 19:49:24",
-    "id": 1.55238065434358e+18,
-    "id_str": "1552380654343577600",
-    "full_text": "Charity R Workshops in support of Ukraine  {https://t.co/E75kBtZKFF} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 89,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [69, 76]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [77, 89]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/E75kBtZKFF",
-          "expanded_url": "http://www.r-bloggers.com/?p=329622",
-          "display_url": "r-bloggers.com/?p=329622",
-          "indices": {
-            "start": 44,
-            "end": 67
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 6,
-    "favorite_count": 10,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "Charity R Workshops in support of Ukraine  {https://t.co/E75kBtZKFF} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-07-27 19:49:18",
-    "id": 1.55238063045711e+18,
-    "id_str": "1552380630457110530",
-    "full_text": "Time to upskill in R? EARL’s workshop lineup has something for every data practitioner.  {https://t.co/f56dx9i8u6} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 135,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [115, 122]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [123, 135]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/f56dx9i8u6",
-          "expanded_url": "http://www.r-bloggers.com/?p=329620",
-          "display_url": "r-bloggers.com/?p=329620",
-          "indices": {
-            "start": 90,
-            "end": 113
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 2,
-    "favorite_count": 3,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "Time to upskill in R? EARL’s workshop lineup has something for every data practitioner.  {https://t.co/f56dx9i8u6} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-07-27 18:55:11",
-    "id": 1.55236701115764e+18,
-    "id_str": "1552367011157639171",
-    "full_text": "Error in rbind(deparse.level, …) : numbers of columns of arguments do not match  {https://t.co/YpW5MF9NES} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 127,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [107, 114]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [115, 127]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/YpW5MF9NES",
-          "expanded_url": "https://www.r-bloggers.com/?p=329615",
-          "display_url": "r-bloggers.com/?p=329615",
-          "indices": {
-            "start": 82,
-            "end": 105
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 2,
-    "favorite_count": 4,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "Error in rbind(deparse.level, …) : numbers of columns of arguments do not match  {https://t.co/YpW5MF9NES} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-07-27 18:49:51",
-    "id": 1.55236566945019e+18,
-    "id_str": "1552365669450190853",
-    "full_text": "RStudio is becoming Posit  {https://t.co/sZYp5yRX1Y} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 73,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [53, 60]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [61, 73]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/sZYp5yRX1Y",
-          "expanded_url": "https://www.r-bloggers.com/?p=329613",
-          "display_url": "r-bloggers.com/?p=329613",
-          "indices": {
-            "start": 28,
-            "end": 51
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 7,
-    "favorite_count": 12,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "RStudio is becoming Posit  {https://t.co/sZYp5yRX1Y} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-07-27 18:20:12",
-    "id": 1.55235820567783e+18,
-    "id_str": "1552358205677834240",
-    "full_text": "How to Create an Interaction Plot in R?  {https://t.co/pk5ocB99rJ} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 87,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [67, 74]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [75, 87]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/pk5ocB99rJ",
-          "expanded_url": "https://www.r-bloggers.com/?p=329611",
-          "display_url": "r-bloggers.com/?p=329611",
-          "indices": {
-            "start": 42,
-            "end": 65
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 7,
-    "favorite_count": 24,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "How to Create an Interaction Plot in R?  {https://t.co/pk5ocB99rJ} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-07-27 16:00:01",
-    "id": 1.55232292931211e+18,
-    "id_str": "1552322929312108547",
-    "full_text": "How to Set Up Quarto with Docker, Part 1: Static Content  {https://t.co/JXmhEJqqMl} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 104,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [84, 91]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [92, 104]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/JXmhEJqqMl",
-          "expanded_url": "https://www.r-bloggers.com/?p=329599",
-          "display_url": "r-bloggers.com/?p=329599",
-          "indices": {
-            "start": 59,
-            "end": 82
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 4,
-    "favorite_count": 12,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "How to Set Up Quarto with Docker, Part 1: Static Content  {https://t.co/JXmhEJqqMl} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-07-27 00:35:10",
-    "id": 1.55209018241287e+18,
-    "id_str": "1552090182412865536",
-    "full_text": "R Ladies Philly is Making a Difference with its Annual Datathon Focused on Local Issues  {https://t.co/7WKmAoujxc} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 135,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [115, 122]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [123, 135]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/7WKmAoujxc",
-          "expanded_url": "https://www.r-bloggers.com/?p=329575",
-          "display_url": "r-bloggers.com/?p=329575",
-          "indices": {
-            "start": 90,
-            "end": 113
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 4,
-    "favorite_count": 5,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "R Ladies Philly is Making a Difference with its Annual Datathon Focused on Local Issues  {https://t.co/7WKmAoujxc} #rstats #DataScience"
   }
 ]
