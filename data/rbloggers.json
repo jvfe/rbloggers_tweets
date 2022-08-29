@@ -1,5 +1,284 @@
 [
   {
+    "created_at": "2022-08-29 02:44:52",
+    "id": 1.56408162252118e+18,
+    "id_str": "1564081622521184257",
+    "full_text": "How to Get a Job as a Data Engineer?  {https://t.co/I2V0dv10Gl} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 84,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [64, 71]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [72, 84]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/I2V0dv10Gl",
+          "expanded_url": "https://www.r-bloggers.com/?p=331139",
+          "display_url": "r-bloggers.com/?p=331139",
+          "indices": {
+            "start": 39,
+            "end": 62
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 5,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "How to Get a Job as a Data Engineer?  {https://t.co/I2V0dv10Gl} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-08-28 20:24:55",
+    "id": 1.56398600282952e+18,
+    "id_str": "1563986002829524996",
+    "full_text": "Little useless-useful R functions – Drawing randomly generated @Github contribution graph  {https://t.co/vBSh3iYHE2} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 137,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [117, 124]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [125, 137]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "github",
+          "name": "GitHub",
+          "id": 13334762,
+          "id_str": "13334762",
+          "indices": {
+            "start": 63,
+            "end": 70
+          }
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/vBSh3iYHE2",
+          "expanded_url": "https://www.r-bloggers.com/?p=331132",
+          "display_url": "r-bloggers.com/?p=331132",
+          "indices": {
+            "start": 92,
+            "end": 115
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 6,
+    "favorite_count": 11,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "Little useless-useful R functions – Drawing randomly generated @Github contribution graph  {https://t.co/vBSh3iYHE2} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-08-28 13:04:55",
+    "id": 1.5638752765217e+18,
+    "id_str": "1563875276521701376",
+    "full_text": "Python is superior to R for writing quality codes  {https://t.co/Fyoygodd0b} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 97,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [77, 84]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [85, 97]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/Fyoygodd0b",
+          "expanded_url": "https://www.r-bloggers.com/?p=331112",
+          "display_url": "r-bloggers.com/?p=331112",
+          "indices": {
+            "start": 52,
+            "end": 75
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 35,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "Python is superior to R for writing quality codes  {https://t.co/Fyoygodd0b} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-08-28 09:49:59",
+    "id": 1.56382621665379e+18,
+    "id_str": "1563826216653787138",
+    "full_text": "What is the bias variance tradeoff?  {https://t.co/Fudb3kCJMA} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 83,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [63, 70]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [71, 83]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/Fudb3kCJMA",
+          "expanded_url": "https://www.r-bloggers.com/?p=331110",
+          "display_url": "r-bloggers.com/?p=331110",
+          "indices": {
+            "start": 38,
+            "end": 61
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 9,
+    "favorite_count": 27,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "What is the bias variance tradeoff?  {https://t.co/Fudb3kCJMA} #rstats #DataScience"
+  },
+  {
     "created_at": "2022-08-27 21:25:13",
     "id": 1.56363879294224e+18,
     "id_str": "1563638792942243846",
@@ -59,8 +338,8 @@
       }
     ],
     "is_quote_status": false,
-    "retweet_count": 13,
-    "favorite_count": 51,
+    "retweet_count": 31,
+    "favorite_count": 116,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -127,8 +406,8 @@
       }
     ],
     "is_quote_status": false,
-    "retweet_count": 12,
-    "favorite_count": 46,
+    "retweet_count": 15,
+    "favorite_count": 71,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -263,8 +542,8 @@
       }
     ],
     "is_quote_status": false,
-    "retweet_count": 9,
-    "favorite_count": 27,
+    "retweet_count": 11,
+    "favorite_count": 37,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -331,8 +610,8 @@
       }
     ],
     "is_quote_status": false,
-    "retweet_count": 5,
-    "favorite_count": 32,
+    "retweet_count": 7,
+    "favorite_count": 39,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -400,7 +679,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 3,
-    "favorite_count": 28,
+    "favorite_count": 30,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -740,7 +1019,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 3,
-    "favorite_count": 10,
+    "favorite_count": 11,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -876,7 +1155,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 5,
-    "favorite_count": 17,
+    "favorite_count": 18,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -944,7 +1223,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 7,
-    "favorite_count": 17,
+    "favorite_count": 18,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -1012,7 +1291,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 13,
-    "favorite_count": 37,
+    "favorite_count": 38,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -1080,7 +1359,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 10,
-    "favorite_count": 24,
+    "favorite_count": 25,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -11518,685 +11797,5 @@
     "possibly_sensitive": false,
     "lang": "en",
     "text": "Survivor Confessionals Data: Dataset showcase for {survivoR}  {https://t.co/3Exau5F6Io} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-07-29 22:50:11",
-    "id": 1.55315092739743e+18,
-    "id_str": "1553150927397425154",
-    "full_text": "June 2022: “Top 40” New CRAN Packages  {https://t.co/1QLa4Px7gI} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 85,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [65, 72]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [73, 85]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/1QLa4Px7gI",
-          "expanded_url": "https://www.r-bloggers.com/?p=329736",
-          "display_url": "r-bloggers.com/?p=329736",
-          "indices": {
-            "start": 40,
-            "end": 63
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 3,
-    "favorite_count": 7,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "June 2022: “Top 40” New CRAN Packages  {https://t.co/1QLa4Px7gI} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-07-29 20:14:58",
-    "id": 1.55311186472849e+18,
-    "id_str": "1553111864728485888",
-    "full_text": "R code snippet : Read and Concatenate Prices of Constituents of a Stock Index  {https://t.co/4tMo4ES2fH} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 125,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [105, 112]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [113, 125]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/4tMo4ES2fH",
-          "expanded_url": "https://www.r-bloggers.com/?p=329734",
-          "display_url": "r-bloggers.com/?p=329734",
-          "indices": {
-            "start": 80,
-            "end": 103
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 4,
-    "favorite_count": 10,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "R code snippet : Read and Concatenate Prices of Constituents of a Stock Index  {https://t.co/4tMo4ES2fH} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-07-29 19:54:52",
-    "id": 1.5531068060498e+18,
-    "id_str": "1553106806049804290",
-    "full_text": "How to Add Superscripts and Subscripts to Plots in R?  {https://t.co/RcOaci085L} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 101,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [81, 88]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [89, 101]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/RcOaci085L",
-          "expanded_url": "https://www.r-bloggers.com/?p=329728",
-          "display_url": "r-bloggers.com/?p=329728",
-          "indices": {
-            "start": 56,
-            "end": 79
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 8,
-    "favorite_count": 33,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "How to Add Superscripts and Subscripts to Plots in R?  {https://t.co/RcOaci085L} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-07-29 19:04:52",
-    "id": 1.55309422315461e+18,
-    "id_str": "1553094223154614272",
-    "full_text": "Comparing Plastic Pollution: Modeling with Tidymodels and Variable Importance  {https://t.co/HmuuJEM6bE} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 125,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [105, 112]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [113, 125]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/HmuuJEM6bE",
-          "expanded_url": "https://www.r-bloggers.com/?p=329726",
-          "display_url": "r-bloggers.com/?p=329726",
-          "indices": {
-            "start": 80,
-            "end": 103
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 3,
-    "favorite_count": 12,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "Comparing Plastic Pollution: Modeling with Tidymodels and Variable Importance  {https://t.co/HmuuJEM6bE} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-07-29 17:49:58",
-    "id": 1.553075372518e+18,
-    "id_str": "1553075372518002690",
-    "full_text": "How to extract a time series subset in R?  {https://t.co/2g92GGKBKo} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 89,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [69, 76]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [77, 89]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/2g92GGKBKo",
-          "expanded_url": "https://www.r-bloggers.com/?p=329724",
-          "display_url": "r-bloggers.com/?p=329724",
-          "indices": {
-            "start": 44,
-            "end": 67
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 6,
-    "favorite_count": 22,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "How to extract a time series subset in R?  {https://t.co/2g92GGKBKo} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-07-29 09:29:54",
-    "id": 1.55294952894853e+18,
-    "id_str": "1552949528948531202",
-    "full_text": "Simulating Text Files with R to Test the Emacs Denote Package  {https://t.co/yl9oc8ZseV} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 109,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [89, 96]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [97, 109]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/yl9oc8ZseV",
-          "expanded_url": "https://www.r-bloggers.com/?p=329701",
-          "display_url": "r-bloggers.com/?p=329701",
-          "indices": {
-            "start": 64,
-            "end": 87
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 4,
-    "favorite_count": 7,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "Simulating Text Files with R to Test the Emacs Denote Package  {https://t.co/yl9oc8ZseV} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-07-29 06:09:51",
-    "id": 1.55289918367753e+18,
-    "id_str": "1552899183677526017",
-    "full_text": "[FREE] An introductory workshop in Shiny, July 27st from 17.30 to 18.30  {https://t.co/0Hn0BNKBBK} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 119,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [99, 106]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [107, 119]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/0Hn0BNKBBK",
-          "expanded_url": "https://www.r-bloggers.com/?p=329691",
-          "display_url": "r-bloggers.com/?p=329691",
-          "indices": {
-            "start": 74,
-            "end": 97
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 7,
-    "favorite_count": 18,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "[FREE] An introductory workshop in Shiny, July 27st from 17.30 to 18.30  {https://t.co/0Hn0BNKBBK} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-07-29 03:00:15",
-    "id": 1.55285147083129e+18,
-    "id_str": "1552851470831288320",
-    "full_text": "Bioinformatics Analysis of Omics Data with the Shell &amp; R  {https://t.co/Cmooa8okYn} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 108,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [88, 95]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [96, 108]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/Cmooa8okYn",
-          "expanded_url": "https://www.r-bloggers.com/?p=329688",
-          "display_url": "r-bloggers.com/?p=329688",
-          "indices": {
-            "start": 63,
-            "end": 86
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 13,
-    "favorite_count": 43,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "Bioinformatics Analysis of Omics Data with the Shell &amp; R  {https://t.co/Cmooa8okYn} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-07-29 01:05:01",
-    "id": 1.55282246802441e+18,
-    "id_str": "1552822468024406018",
-    "full_text": "Allocating Wealth Through Time – A Goals-Based Method  {https://t.co/YgCwRux6lL} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 101,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [81, 88]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [89, 101]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/YgCwRux6lL",
-          "expanded_url": "https://www.r-bloggers.com/?p=329680",
-          "display_url": "r-bloggers.com/?p=329680",
-          "indices": {
-            "start": 56,
-            "end": 79
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 6,
-    "favorite_count": 7,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "Allocating Wealth Through Time – A Goals-Based Method  {https://t.co/YgCwRux6lL} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-07-29 00:50:22",
-    "id": 1.5528187850061e+18,
-    "id_str": "1552818785006096384",
-    "full_text": "R Quarto Tutorial – How To Create Interactive Markdown Documents  {https://t.co/MY89s1dkj3} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 112,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [92, 99]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [100, 112]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/MY89s1dkj3",
-          "expanded_url": "https://www.r-bloggers.com/?p=329678",
-          "display_url": "r-bloggers.com/?p=329678",
-          "indices": {
-            "start": 67,
-            "end": 90
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 37,
-    "favorite_count": 118,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "R Quarto Tutorial – How To Create Interactive Markdown Documents  {https://t.co/MY89s1dkj3} #rstats #DataScience"
   }
 ]
