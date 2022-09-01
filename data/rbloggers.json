@@ -1,5 +1,141 @@
 [
   {
+    "created_at": "2022-08-31 23:09:58",
+    "id": 1.56511470529479e+18,
+    "id_str": "1565114705294786561",
+    "full_text": "Building a Google Analytics Dashboard With R Shiny From Scratch – Part 2  {https://t.co/hjAWbTrlxs} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 120,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [100, 107]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [108, 120]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/hjAWbTrlxs",
+          "expanded_url": "https://www.r-bloggers.com/?p=331261",
+          "display_url": "r-bloggers.com/?p=331261",
+          "indices": {
+            "start": 75,
+            "end": 98
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "favorite_count": 21,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "Building a Google Analytics Dashboard With R Shiny From Scratch – Part 2  {https://t.co/hjAWbTrlxs} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-08-31 19:29:52",
+    "id": 1.56505931193166e+18,
+    "id_str": "1565059311931658240",
+    "full_text": "CO2 Emissions Comparing and Modeling for Global Warming  {https://t.co/arY8TRUW4T} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 103,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [83, 90]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [91, 103]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/arY8TRUW4T",
+          "expanded_url": "https://www.r-bloggers.com/?p=331255",
+          "display_url": "r-bloggers.com/?p=331255",
+          "indices": {
+            "start": 58,
+            "end": 81
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 6,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "CO2 Emissions Comparing and Modeling for Global Warming  {https://t.co/arY8TRUW4T} #rstats #DataScience"
+  },
+  {
     "created_at": "2022-08-30 22:14:57",
     "id": 1.56473846978774e+18,
     "id_str": "1564738469787738112",
@@ -60,7 +196,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 6,
-    "favorite_count": 6,
+    "favorite_count": 9,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -128,7 +264,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 3,
-    "favorite_count": 3,
+    "favorite_count": 4,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -195,8 +331,8 @@
       }
     ],
     "is_quote_status": false,
-    "retweet_count": 15,
-    "favorite_count": 37,
+    "retweet_count": 19,
+    "favorite_count": 54,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -332,7 +468,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 3,
-    "favorite_count": 11,
+    "favorite_count": 12,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -399,8 +535,8 @@
       }
     ],
     "is_quote_status": false,
-    "retweet_count": 12,
-    "favorite_count": 25,
+    "retweet_count": 13,
+    "favorite_count": 27,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -468,7 +604,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 12,
-    "favorite_count": 25,
+    "favorite_count": 26,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -604,7 +740,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 8,
-    "favorite_count": 31,
+    "favorite_count": 32,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -672,7 +808,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 5,
-    "favorite_count": 8,
+    "favorite_count": 9,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -1019,7 +1155,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 7,
-    "favorite_count": 42,
+    "favorite_count": 43,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -1155,7 +1291,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 33,
-    "favorite_count": 123,
+    "favorite_count": 124,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -7915,7 +8051,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 42,
-    "favorite_count": 139,
+    "favorite_count": 138,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -11321,413 +11457,5 @@
     "possibly_sensitive": false,
     "lang": "en",
     "text": "leaflegend Recipes  {https://t.co/dcOyY22Kbx} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-08-01 19:59:57",
-    "id": 1.55419524939579e+18,
-    "id_str": "1554195249395793923",
-    "full_text": "Keep the party going after rstudio::conf  {https://t.co/W85HhItQDz} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 88,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [68, 75]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [76, 88]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/W85HhItQDz",
-          "expanded_url": "https://www.r-bloggers.com/?p=329876",
-          "display_url": "r-bloggers.com/?p=329876",
-          "indices": {
-            "start": 43,
-            "end": 66
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 3,
-    "favorite_count": 4,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "Keep the party going after rstudio::conf  {https://t.co/W85HhItQDz} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-08-01 17:30:07",
-    "id": 1.55415754291324e+18,
-    "id_str": "1554157542913236992",
-    "full_text": "R Program to Concatenate Two Strings  {https://t.co/jODyMchCgp} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 84,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [64, 71]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [72, 84]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/jODyMchCgp",
-          "expanded_url": "https://www.r-bloggers.com/?p=329873",
-          "display_url": "r-bloggers.com/?p=329873",
-          "indices": {
-            "start": 39,
-            "end": 62
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 5,
-    "favorite_count": 7,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "R Program to Concatenate Two Strings  {https://t.co/jODyMchCgp} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-08-01 17:29:53",
-    "id": 1.55415748474662e+18,
-    "id_str": "1554157484746620928",
-    "full_text": "R Program to Find the Length of a String  {https://t.co/9QDS0Tbcet} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 88,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [68, 75]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [76, 88]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/9QDS0Tbcet",
-          "expanded_url": "https://www.r-bloggers.com/?p=329871",
-          "display_url": "r-bloggers.com/?p=329871",
-          "indices": {
-            "start": 43,
-            "end": 66
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 5,
-    "favorite_count": 18,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "R Program to Find the Length of a String  {https://t.co/9QDS0Tbcet} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-08-01 12:24:59",
-    "id": 1.55408075458966e+18,
-    "id_str": "1554080754589655046",
-    "full_text": "Using Github Actions to update a shiny app on a private server  {https://t.co/GgJWvfwVxC} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 110,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [90, 97]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [98, 110]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/GgJWvfwVxC",
-          "expanded_url": "https://www.r-bloggers.com/?p=329858",
-          "display_url": "r-bloggers.com/?p=329858",
-          "indices": {
-            "start": 65,
-            "end": 88
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 9,
-    "favorite_count": 23,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "Using Github Actions to update a shiny app on a private server  {https://t.co/GgJWvfwVxC} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-08-01 12:24:51",
-    "id": 1.55408071844322e+18,
-    "id_str": "1554080718443220999",
-    "full_text": "Creating your google chat R bot in under 5 minutes  {https://t.co/iFcWFGoiBv} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 98,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [78, 85]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [86, 98]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/iFcWFGoiBv",
-          "expanded_url": "https://www.r-bloggers.com/?p=329856",
-          "display_url": "r-bloggers.com/?p=329856",
-          "indices": {
-            "start": 53,
-            "end": 76
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 13,
-    "favorite_count": 40,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "Creating your google chat R bot in under 5 minutes  {https://t.co/iFcWFGoiBv} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-08-01 02:05:09",
-    "id": 1.55392476841139e+18,
-    "id_str": "1553924768411394049",
-    "full_text": "Some takeaways from rstudio::conf 2022  {https://t.co/UI3nm30CZo} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 86,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [66, 73]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [74, 86]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/UI3nm30CZo",
-          "expanded_url": "https://www.r-bloggers.com/?p=329845",
-          "display_url": "r-bloggers.com/?p=329845",
-          "indices": {
-            "start": 41,
-            "end": 64
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 8,
-    "favorite_count": 30,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "Some takeaways from rstudio::conf 2022  {https://t.co/UI3nm30CZo} #rstats #DataScience"
   }
 ]
