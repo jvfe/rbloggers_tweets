@@ -1,5 +1,422 @@
 [
   {
+    "created_at": "2022-09-04 18:55:10",
+    "id": 1.56650013393985e+18,
+    "id_str": "1566500133939847171",
+    "full_text": "How to adjust labels in {flashlight::light_breakdown} plots  {https://t.co/F5Te7KYaLe} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 107,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [87, 94]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [95, 107]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/F5Te7KYaLe",
+          "expanded_url": "https://www.r-bloggers.com/?p=331460",
+          "display_url": "r-bloggers.com/?p=331460",
+          "indices": {
+            "start": 62,
+            "end": 85
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 12,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "How to adjust labels in {flashlight::light_breakdown} plots  {https://t.co/F5Te7KYaLe} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-09-04 18:54:53",
+    "id": 1.5665000622551e+18,
+    "id_str": "1566500062255095808",
+    "full_text": "How to set up a working HTTPS encryption with Netlify, blogdown, and https://t.co/5TswOGkqtB  {https://t.co/WrOX19or1D} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 140,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [120, 127]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [128, 140]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/5TswOGkqtB",
+          "expanded_url": "http://rbind.io",
+          "display_url": "rbind.io",
+          "indices": {
+            "start": 69,
+            "end": 92
+          }
+        },
+        {
+          "url": "https://t.co/WrOX19or1D",
+          "expanded_url": "https://www.r-bloggers.com/?p=331458",
+          "display_url": "r-bloggers.com/?p=331458",
+          "indices": {
+            "start": 95,
+            "end": 118
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 12,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "How to set up a working HTTPS encryption with Netlify, blogdown, and https://t.co/5TswOGkqtB  {https://t.co/WrOX19or1D} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-09-04 10:04:59",
+    "id": 1.56636670863341e+18,
+    "id_str": "1566366708633407488",
+    "full_text": "Data Science Challenges in R Programming Language  {https://t.co/L2tWifeH97} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 97,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [77, 84]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [85, 97]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/L2tWifeH97",
+          "expanded_url": "https://www.r-bloggers.com/?p=331435",
+          "display_url": "r-bloggers.com/?p=331435",
+          "indices": {
+            "start": 52,
+            "end": 75
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 9,
+    "favorite_count": 19,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "fr",
+    "text": "Data Science Challenges in R Programming Language  {https://t.co/L2tWifeH97} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-09-04 10:04:52",
+    "id": 1.56636667659722e+18,
+    "id_str": "1566366676597219329",
+    "full_text": "Making games in R- Nara and eventloop Game Changers  {https://t.co/t0gtYMd0uD} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 99,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [79, 86]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [87, 99]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/t0gtYMd0uD",
+          "expanded_url": "https://www.r-bloggers.com/?p=331433",
+          "display_url": "r-bloggers.com/?p=331433",
+          "indices": {
+            "start": 54,
+            "end": 77
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 8,
+    "favorite_count": 11,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "Making games in R- Nara and eventloop Game Changers  {https://t.co/t0gtYMd0uD} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-09-04 09:34:52",
+    "id": 1.56635913013006e+18,
+    "id_str": "1566359130130059265",
+    "full_text": "Training and Testing Data in Machine Learning  {https://t.co/LzSewCjU6j} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 93,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [73, 80]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [81, 93]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/LzSewCjU6j",
+          "expanded_url": "https://www.r-bloggers.com/?p=331427",
+          "display_url": "r-bloggers.com/?p=331427",
+          "indices": {
+            "start": 48,
+            "end": 71
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 9,
+    "favorite_count": 24,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "Training and Testing Data in Machine Learning  {https://t.co/LzSewCjU6j} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-09-04 09:25:07",
+    "id": 1.56635667470471e+18,
+    "id_str": "1566356674704711685",
+    "full_text": "Adding your Hugo Academic blog to R-bloggers and Python-bloggers  {https://t.co/DEOMEo2MNM} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 112,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [92, 99]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [100, 112]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/DEOMEo2MNM",
+          "expanded_url": "https://www.r-bloggers.com/?p=331425",
+          "display_url": "r-bloggers.com/?p=331425",
+          "indices": {
+            "start": 67,
+            "end": 90
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "favorite_count": 7,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "Adding your Hugo Academic blog to R-bloggers and Python-bloggers  {https://t.co/DEOMEo2MNM} #rstats #DataScience"
+  },
+  {
     "created_at": "2022-09-04 00:35:04",
     "id": 1.56622328414808e+18,
     "id_str": "1566223284148076545",
@@ -59,8 +476,8 @@
       }
     ],
     "is_quote_status": false,
-    "retweet_count": 11,
-    "favorite_count": 24,
+    "retweet_count": 18,
+    "favorite_count": 48,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -127,8 +544,8 @@
       }
     ],
     "is_quote_status": false,
-    "retweet_count": 5,
-    "favorite_count": 10,
+    "retweet_count": 7,
+    "favorite_count": 20,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -196,7 +613,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 3,
-    "favorite_count": 5,
+    "favorite_count": 7,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -263,8 +680,8 @@
       }
     ],
     "is_quote_status": false,
-    "retweet_count": 14,
-    "favorite_count": 28,
+    "retweet_count": 15,
+    "favorite_count": 32,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -400,7 +817,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 4,
-    "favorite_count": 7,
+    "favorite_count": 8,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -467,8 +884,8 @@
       }
     ],
     "is_quote_status": false,
-    "retweet_count": 10,
-    "favorite_count": 18,
+    "retweet_count": 11,
+    "favorite_count": 19,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -535,8 +952,8 @@
       }
     ],
     "is_quote_status": false,
-    "retweet_count": 12,
-    "favorite_count": 30,
+    "retweet_count": 13,
+    "favorite_count": 33,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -604,7 +1021,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 5,
-    "favorite_count": 9,
+    "favorite_count": 10,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -740,7 +1157,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 8,
-    "favorite_count": 18,
+    "favorite_count": 19,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -808,7 +1225,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 6,
-    "favorite_count": 12,
+    "favorite_count": 14,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -876,7 +1293,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 9,
-    "favorite_count": 22,
+    "favorite_count": 23,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -1283,7 +1700,7 @@
       }
     ],
     "is_quote_status": false,
-    "retweet_count": 2,
+    "retweet_count": 3,
     "favorite_count": 7,
     "favorited": false,
     "retweeted": false,
@@ -1488,7 +1905,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 5,
-    "favorite_count": 17,
+    "favorite_count": 18,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -11049,209 +11466,5 @@
     "possibly_sensitive": false,
     "lang": "en",
     "text": "Generate hours of white, pink and brown noise in R  {https://t.co/uGHJpYg8qT} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-08-05 11:55:01",
-    "id": 1.55552276406459e+18,
-    "id_str": "1555522764064587776",
-    "full_text": "How to write insertion sort in R  {https://t.co/Gw6h9T810A} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 80,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [60, 67]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [68, 80]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/Gw6h9T810A",
-          "expanded_url": "https://www.r-bloggers.com/?p=330096",
-          "display_url": "r-bloggers.com/?p=330096",
-          "indices": {
-            "start": 35,
-            "end": 58
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 3,
-    "favorite_count": 7,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "How to write insertion sort in R  {https://t.co/Gw6h9T810A} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-08-05 09:39:57",
-    "id": 1.55548877012805e+18,
-    "id_str": "1555488770128052224",
-    "full_text": "Unravelling an Enormous JSON  {https://t.co/9CZMRaoxAz} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 76,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [56, 63]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [64, 76]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/9CZMRaoxAz",
-          "expanded_url": "https://www.r-bloggers.com/?p=330094",
-          "display_url": "r-bloggers.com/?p=330094",
-          "indices": {
-            "start": 31,
-            "end": 54
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 4,
-    "favorite_count": 7,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "Unravelling an Enormous JSON  {https://t.co/9CZMRaoxAz} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-08-05 01:40:00",
-    "id": 1.55536798867257e+18,
-    "id_str": "1555367988672565248",
-    "full_text": "Getting fun with ggdogs, ggcats and gganimate  {https://t.co/yXSvjut19u} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 93,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [73, 80]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [81, 93]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/yXSvjut19u",
-          "expanded_url": "https://www.r-bloggers.com/?p=330076",
-          "display_url": "r-bloggers.com/?p=330076",
-          "indices": {
-            "start": 48,
-            "end": 71
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 14,
-    "favorite_count": 50,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "Getting fun with ggdogs, ggcats and gganimate  {https://t.co/yXSvjut19u} #rstats #DataScience"
   }
 ]
