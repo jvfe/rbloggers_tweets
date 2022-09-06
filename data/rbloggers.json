@@ -1,5 +1,889 @@
 [
   {
+    "created_at": "2022-09-06 03:04:53",
+    "id": 1.56698576069532e+18,
+    "id_str": "1566985760695324675",
+    "full_text": "Setting up your own Shiny and RStudio Server on a Raspberry Pi  {https://t.co/LzO6bIxfYU} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 110,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [90, 97]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [98, 110]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/LzO6bIxfYU",
+          "expanded_url": "https://www.r-bloggers.com/?p=331525",
+          "display_url": "r-bloggers.com/?p=331525",
+          "indices": {
+            "start": 65,
+            "end": 88
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 7,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "Setting up your own Shiny and RStudio Server on a Raspberry Pi  {https://t.co/LzO6bIxfYU} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-09-05 23:34:57",
+    "id": 1.56693293097442e+18,
+    "id_str": "1566932930974420994",
+    "full_text": "How to implement a redirect from your old GitHub page to your new website  {https://t.co/YPjzWIFZEx} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 121,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [101, 108]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [109, 121]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/YPjzWIFZEx",
+          "expanded_url": "https://www.r-bloggers.com/?p=331517",
+          "display_url": "r-bloggers.com/?p=331517",
+          "indices": {
+            "start": 76,
+            "end": 99
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "favorite_count": 6,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "How to implement a redirect from your old GitHub page to your new website  {https://t.co/YPjzWIFZEx} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-09-05 21:20:06",
+    "id": 1.56689899619455e+18,
+    "id_str": "1566898996194549763",
+    "full_text": "Utility Maximization in R using the “NlcOptim” package  {https://t.co/0aqYDB5seg} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 102,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [82, 89]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [90, 102]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/0aqYDB5seg",
+          "expanded_url": "https://www.r-bloggers.com/?p=331514",
+          "display_url": "r-bloggers.com/?p=331514",
+          "indices": {
+            "start": 57,
+            "end": 80
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 9,
+    "favorite_count": 17,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "Utility Maximization in R using the “NlcOptim” package  {https://t.co/0aqYDB5seg} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-09-05 21:19:52",
+    "id": 1.56689893459272e+18,
+    "id_str": "1566898934592724993",
+    "full_text": "Deriving the Demand Curve from the Consumer’s Objective Problem in R.  {https://t.co/GxCdVL4Xu3} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 117,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [97, 104]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [105, 117]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/GxCdVL4Xu3",
+          "expanded_url": "https://www.r-bloggers.com/?p=331512",
+          "display_url": "r-bloggers.com/?p=331512",
+          "indices": {
+            "start": 72,
+            "end": 95
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 9,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "Deriving the Demand Curve from the Consumer’s Objective Problem in R.  {https://t.co/GxCdVL4Xu3} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-09-05 20:19:50",
+    "id": 1.56688382813577e+18,
+    "id_str": "1566883828135772161",
+    "full_text": "Multiple studies, one chart  {https://t.co/I0oC0CsGWy} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 75,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [55, 62]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [63, 75]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/I0oC0CsGWy",
+          "expanded_url": "https://www.r-bloggers.com/?p=331510",
+          "display_url": "r-bloggers.com/?p=331510",
+          "indices": {
+            "start": 30,
+            "end": 53
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 6,
+    "favorite_count": 11,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "Multiple studies, one chart  {https://t.co/I0oC0CsGWy} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-09-05 14:35:11",
+    "id": 1.56679709541939e+18,
+    "id_str": "1566797095419387904",
+    "full_text": "overviewR comes with new functions  {https://t.co/liMMf9T52d} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 82,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [62, 69]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [70, 82]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/liMMf9T52d",
+          "expanded_url": "https://www.r-bloggers.com/?p=331498",
+          "display_url": "r-bloggers.com/?p=331498",
+          "indices": {
+            "start": 37,
+            "end": 60
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 6,
+    "favorite_count": 8,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "overviewR comes with new functions  {https://t.co/liMMf9T52d} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-09-05 14:29:50",
+    "id": 1.56679574738276e+18,
+    "id_str": "1566795747382759425",
+    "full_text": "Oh, I’m sure it’s probably nothing  {https://t.co/FdaylK8bPm} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 82,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [62, 69]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [70, 82]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/FdaylK8bPm",
+          "expanded_url": "https://www.r-bloggers.com/?p=331496",
+          "display_url": "r-bloggers.com/?p=331496",
+          "indices": {
+            "start": 37,
+            "end": 60
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 5,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "Oh, I’m sure it’s probably nothing  {https://t.co/FdaylK8bPm} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-09-05 12:50:04",
+    "id": 1.56677063983023e+18,
+    "id_str": "1566770639830228996",
+    "full_text": "Deriving the Supply Curve from the Profit Function in R  {https://t.co/aJkXCzFG4E} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 103,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [83, 90]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [91, 103]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/aJkXCzFG4E",
+          "expanded_url": "https://www.r-bloggers.com/?p=331491",
+          "display_url": "r-bloggers.com/?p=331491",
+          "indices": {
+            "start": 58,
+            "end": 81
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "favorite_count": 10,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "Deriving the Supply Curve from the Profit Function in R  {https://t.co/aJkXCzFG4E} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-09-05 12:49:51",
+    "id": 1.56677058545527e+18,
+    "id_str": "1566770585455267840",
+    "full_text": "Computing A Simple Model of Competitive Equilibrium in R  {https://t.co/iNRDE6Ekjp} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 104,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [84, 91]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [92, 104]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/iNRDE6Ekjp",
+          "expanded_url": "https://www.r-bloggers.com/?p=331489",
+          "display_url": "r-bloggers.com/?p=331489",
+          "indices": {
+            "start": 59,
+            "end": 82
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 6,
+    "favorite_count": 12,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "Computing A Simple Model of Competitive Equilibrium in R  {https://t.co/iNRDE6Ekjp} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-09-05 10:45:13",
+    "id": 1.56673921958163e+18,
+    "id_str": "1566739219581632512",
+    "full_text": "Webscraping Dynamic Websites with R  {https://t.co/AtpKALmFIF} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 83,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [63, 70]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [71, 83]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/AtpKALmFIF",
+          "expanded_url": "https://www.r-bloggers.com/?p=331486",
+          "display_url": "r-bloggers.com/?p=331486",
+          "indices": {
+            "start": 38,
+            "end": 61
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 31,
+    "favorite_count": 89,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "Webscraping Dynamic Websites with R  {https://t.co/AtpKALmFIF} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-09-05 07:34:55",
+    "id": 1.56669132999594e+18,
+    "id_str": "1566691329995935745",
+    "full_text": "Tracking: announcing new R package TrackMateR  {https://t.co/VvFqaacl3L} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 93,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [73, 80]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [81, 93]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/VvFqaacl3L",
+          "expanded_url": "https://www.r-bloggers.com/?p=331478",
+          "display_url": "r-bloggers.com/?p=331478",
+          "indices": {
+            "start": 48,
+            "end": 71
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "favorite_count": 7,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "Tracking: announcing new R package TrackMateR  {https://t.co/VvFqaacl3L} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-09-05 05:14:57",
+    "id": 1.56665610531231e+18,
+    "id_str": "1566656105312313345",
+    "full_text": "Computing dynamic economic models in R for dummies: using deSolve to get qualitative  {https://t.co/ssm4sqcaUP} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 132,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [112, 119]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [120, 132]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/ssm4sqcaUP",
+          "expanded_url": "https://www.r-bloggers.com/?p=331476",
+          "display_url": "r-bloggers.com/?p=331476",
+          "indices": {
+            "start": 87,
+            "end": 110
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 8,
+    "favorite_count": 29,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "Computing dynamic economic models in R for dummies: using deSolve to get qualitative  {https://t.co/ssm4sqcaUP} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-09-05 04:30:12",
+    "id": 1.56664484401711e+18,
+    "id_str": "1566644844017106944",
+    "full_text": "Personalize your README on GitHub  {https://t.co/cjwdSt3zmO} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 81,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [61, 68]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [69, 81]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/cjwdSt3zmO",
+          "expanded_url": "https://www.r-bloggers.com/?p=331473",
+          "display_url": "r-bloggers.com/?p=331473",
+          "indices": {
+            "start": 36,
+            "end": 59
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 11,
+    "favorite_count": 37,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "Personalize your README on GitHub  {https://t.co/cjwdSt3zmO} #rstats #DataScience"
+  },
+  {
     "created_at": "2022-09-04 18:55:10",
     "id": 1.56650013393985e+18,
     "id_str": "1566500133939847171",
@@ -59,8 +943,8 @@
       }
     ],
     "is_quote_status": false,
-    "retweet_count": 4,
-    "favorite_count": 12,
+    "retweet_count": 5,
+    "favorite_count": 14,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -204,8 +1088,8 @@
       }
     ],
     "is_quote_status": false,
-    "retweet_count": 9,
-    "favorite_count": 19,
+    "retweet_count": 10,
+    "favorite_count": 21,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -340,8 +1224,8 @@
       }
     ],
     "is_quote_status": false,
-    "retweet_count": 9,
-    "favorite_count": 24,
+    "retweet_count": 10,
+    "favorite_count": 25,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -953,7 +1837,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 13,
-    "favorite_count": 33,
+    "favorite_count": 34,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -1701,7 +2585,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 3,
-    "favorite_count": 7,
+    "favorite_count": 8,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -1905,7 +2789,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 5,
-    "favorite_count": 18,
+    "favorite_count": 19,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -3339,7 +4223,7 @@
       }
     ],
     "is_quote_status": false,
-    "retweet_count": 33,
+    "retweet_count": 32,
     "favorite_count": 124,
     "favorited": false,
     "retweeted": false,
@@ -8400,7 +9284,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 10,
-    "favorite_count": 37,
+    "favorite_count": 38,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -11194,277 +12078,5 @@
     "possibly_sensitive": false,
     "lang": "en",
     "text": "Base-R Is Alive and Well  {https://t.co/RKT9ZGirc9} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-08-06 21:39:56",
-    "id": 1.55603234922534e+18,
-    "id_str": "1556032349225336837",
-    "full_text": "Relationship Extraction with Spacyr  {https://t.co/PqTM6HyodQ} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 83,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [63, 70]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [71, 83]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/PqTM6HyodQ",
-          "expanded_url": "https://www.r-bloggers.com/?p=330162",
-          "display_url": "r-bloggers.com/?p=330162",
-          "indices": {
-            "start": 38,
-            "end": 61
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 6,
-    "favorite_count": 12,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "Relationship Extraction with Spacyr  {https://t.co/PqTM6HyodQ} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-08-06 15:00:12",
-    "id": 1.55593175287461e+18,
-    "id_str": "1555931752874610688",
-    "full_text": "Network Graphs in R  {https://t.co/W7jRSMlldB} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 67,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [47, 54]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [55, 67]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/W7jRSMlldB",
-          "expanded_url": "https://www.r-bloggers.com/?p=330151",
-          "display_url": "r-bloggers.com/?p=330151",
-          "indices": {
-            "start": 22,
-            "end": 45
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 45,
-    "favorite_count": 206,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "Network Graphs in R  {https://t.co/W7jRSMlldB} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-08-06 14:59:55",
-    "id": 1.5559316804306e+18,
-    "id_str": "1555931680430604289",
-    "full_text": "Quarto: The successor to R Markdown  {https://t.co/Y4I0V4Kzjm} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 83,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [63, 70]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [71, 83]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/Y4I0V4Kzjm",
-          "expanded_url": "https://www.r-bloggers.com/?p=330149",
-          "display_url": "r-bloggers.com/?p=330149",
-          "indices": {
-            "start": 38,
-            "end": 61
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 17,
-    "favorite_count": 54,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "Quarto: The successor to R Markdown  {https://t.co/Y4I0V4Kzjm} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-08-06 12:39:56",
-    "id": 1.55589645280684e+18,
-    "id_str": "1555896452806836224",
-    "full_text": "Generate hours of white, pink and brown noise in R  {https://t.co/uGHJpYg8qT} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 98,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [78, 85]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [86, 98]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/uGHJpYg8qT",
-          "expanded_url": "https://www.r-bloggers.com/?p=330146",
-          "display_url": "r-bloggers.com/?p=330146",
-          "indices": {
-            "start": 53,
-            "end": 76
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 14,
-    "favorite_count": 23,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "Generate hours of white, pink and brown noise in R  {https://t.co/uGHJpYg8qT} #rstats #DataScience"
   }
 ]
