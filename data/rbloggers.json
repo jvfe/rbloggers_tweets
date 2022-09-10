@@ -1,5 +1,209 @@
 [
   {
+    "created_at": "2022-09-10 03:14:54",
+    "id": 1.56843783631089e+18,
+    "id_str": "1568437836310888452",
+    "full_text": "Dangerous R functions and operators for programming  {https://t.co/RI5DbERCXw} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 99,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [79, 86]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [87, 99]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/RI5DbERCXw",
+          "expanded_url": "https://www.r-bloggers.com/?p=331770",
+          "display_url": "r-bloggers.com/?p=331770",
+          "indices": {
+            "start": 54,
+            "end": 77
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 4,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "Dangerous R functions and operators for programming  {https://t.co/RI5DbERCXw} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-09-09 18:05:08",
+    "id": 1.56829948066309e+18,
+    "id_str": "1568299480663085058",
+    "full_text": "Machine Learning Impact on your day-to-day life!  {https://t.co/0ppeE9NffM} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 96,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [76, 83]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [84, 96]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/0ppeE9NffM",
+          "expanded_url": "https://www.r-bloggers.com/?p=331768",
+          "display_url": "r-bloggers.com/?p=331768",
+          "indices": {
+            "start": 51,
+            "end": 74
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 6,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "Machine Learning Impact on your day-to-day life!  {https://t.co/0ppeE9NffM} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-09-09 05:59:55",
+    "id": 1.56811697343482e+18,
+    "id_str": "1568116973434818563",
+    "full_text": "How to Concatenate Strings in R  {https://t.co/BeZxPSTv7T} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 79,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [59, 66]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [67, 79]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/BeZxPSTv7T",
+          "expanded_url": "https://www.r-bloggers.com/?p=331735",
+          "display_url": "r-bloggers.com/?p=331735",
+          "indices": {
+            "start": 34,
+            "end": 57
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 7,
+    "favorite_count": 14,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "How to Concatenate Strings in R  {https://t.co/BeZxPSTv7T} #rstats #DataScience"
+  },
+  {
     "created_at": "2022-09-09 03:05:04",
     "id": 1.5680729722036e+18,
     "id_str": "1568072972203597831",
@@ -59,8 +263,8 @@
       }
     ],
     "is_quote_status": false,
-    "retweet_count": 2,
-    "favorite_count": 1,
+    "retweet_count": 3,
+    "favorite_count": 6,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -128,7 +332,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 5,
-    "favorite_count": 4,
+    "favorite_count": 5,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -263,8 +467,8 @@
       }
     ],
     "is_quote_status": false,
-    "retweet_count": 6,
-    "favorite_count": 11,
+    "retweet_count": 7,
+    "favorite_count": 21,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -408,8 +612,8 @@
       }
     ],
     "is_quote_status": false,
-    "retweet_count": 7,
-    "favorite_count": 16,
+    "retweet_count": 10,
+    "favorite_count": 22,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -477,7 +681,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 5,
-    "favorite_count": 9,
+    "favorite_count": 13,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -545,7 +749,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 4,
-    "favorite_count": 5,
+    "favorite_count": 6,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -613,7 +817,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 4,
-    "favorite_count": 7,
+    "favorite_count": 8,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -681,7 +885,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 5,
-    "favorite_count": 5,
+    "favorite_count": 6,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -749,7 +953,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 2,
-    "favorite_count": 10,
+    "favorite_count": 9,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -817,7 +1021,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 6,
-    "favorite_count": 26,
+    "favorite_count": 29,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -953,7 +1157,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 2,
-    "favorite_count": 6,
+    "favorite_count": 7,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -1020,8 +1224,8 @@
       }
     ],
     "is_quote_status": false,
-    "retweet_count": 5,
-    "favorite_count": 9,
+    "retweet_count": 6,
+    "favorite_count": 11,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -1225,7 +1429,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 2,
-    "favorite_count": 6,
+    "favorite_count": 7,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -1361,7 +1565,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 6,
-    "favorite_count": 13,
+    "favorite_count": 14,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -1701,7 +1905,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 6,
-    "favorite_count": 20,
+    "favorite_count": 23,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -1905,7 +2109,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 9,
-    "favorite_count": 21,
+    "favorite_count": 22,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -1973,7 +2177,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 5,
-    "favorite_count": 21,
+    "favorite_count": 20,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -12433,345 +12637,5 @@
     "possibly_sensitive": false,
     "lang": "en",
     "text": "Valuable Webinar in Parallel Computing in R  {https://t.co/MHt2TTj0Cx} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-08-10 12:50:06",
-    "id": 1.55734856580619e+18,
-    "id_str": "1557348565806194689",
-    "full_text": "Fitness Tracker Modeling: ML  {https://t.co/zkrTjEkPAW} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 76,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [56, 63]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [64, 76]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/zkrTjEkPAW",
-          "expanded_url": "https://www.r-bloggers.com/?p=330351",
-          "display_url": "r-bloggers.com/?p=330351",
-          "indices": {
-            "start": 31,
-            "end": 54
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 10,
-    "favorite_count": 12,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "Fitness Tracker Modeling: ML  {https://t.co/zkrTjEkPAW} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-08-10 12:24:50",
-    "id": 1.55734220599983e+18,
-    "id_str": "1557342205999828993",
-    "full_text": "Sonnet to infix function  {https://t.co/YXBg2laanY} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 72,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [52, 59]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [60, 72]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/YXBg2laanY",
-          "expanded_url": "https://www.r-bloggers.com/?p=330348",
-          "display_url": "r-bloggers.com/?p=330348",
-          "indices": {
-            "start": 27,
-            "end": 50
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 2,
-    "favorite_count": 3,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "Sonnet to infix function  {https://t.co/YXBg2laanY} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-08-10 04:15:08",
-    "id": 1.55721897003334e+18,
-    "id_str": "1557218970033340417",
-    "full_text": "shelled and riddled  {https://t.co/bvauE2ppgR} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 67,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [47, 54]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [55, 67]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/bvauE2ppgR",
-          "expanded_url": "https://www.r-bloggers.com/?p=330331",
-          "display_url": "r-bloggers.com/?p=330331",
-          "indices": {
-            "start": 22,
-            "end": 45
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 3,
-    "favorite_count": 3,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "shelled and riddled  {https://t.co/bvauE2ppgR} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-08-10 03:05:11",
-    "id": 1.55720136439207e+18,
-    "id_str": "1557201364392071169",
-    "full_text": "Job posting analysis  {https://t.co/0DkMLG81q5} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 68,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [48, 55]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [56, 68]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/0DkMLG81q5",
-          "expanded_url": "https://www.r-bloggers.com/?p=330328",
-          "display_url": "r-bloggers.com/?p=330328",
-          "indices": {
-            "start": 23,
-            "end": 46
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 2,
-    "favorite_count": 5,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "Job posting analysis  {https://t.co/0DkMLG81q5} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-08-10 03:00:00",
-    "id": 1.55720005971177e+18,
-    "id_str": "1557200059711766537",
-    "full_text": "Un extraño truco para obtener el máximo (o el mínimo)  {https://t.co/hiBnMzObm3} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 101,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [81, 88]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [89, 101]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/hiBnMzObm3",
-          "expanded_url": "https://www.r-bloggers.com/?p=330326",
-          "display_url": "r-bloggers.com/?p=330326",
-          "indices": {
-            "start": 56,
-            "end": 79
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 2,
-    "favorite_count": 3,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "es",
-    "text": "Un extraño truco para obtener el máximo (o el mínimo)  {https://t.co/hiBnMzObm3} #rstats #DataScience"
   }
 ]
