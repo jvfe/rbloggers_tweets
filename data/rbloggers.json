@@ -1,5 +1,277 @@
 [
   {
+    "created_at": "2022-09-10 21:30:09",
+    "id": 1.56871346181058e+18,
+    "id_str": "1568713461810581504",
+    "full_text": "Graphing California Electricity Supply using ggplot2  {https://t.co/wjPdIRlnNP} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 100,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [80, 87]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [88, 100]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/wjPdIRlnNP",
+          "expanded_url": "https://www.r-bloggers.com/?p=331867",
+          "display_url": "r-bloggers.com/?p=331867",
+          "indices": {
+            "start": 55,
+            "end": 78
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 9,
+    "favorite_count": 14,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "Graphing California Electricity Supply using ggplot2  {https://t.co/wjPdIRlnNP} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-09-10 21:09:56",
+    "id": 1.56870837584368e+18,
+    "id_str": "1568708375843676160",
+    "full_text": "Notes on Linear Algebra Part 3  {https://t.co/otSPcXgRd9} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 78,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [58, 65]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [66, 78]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/otSPcXgRd9",
+          "expanded_url": "https://www.r-bloggers.com/?p=331851",
+          "display_url": "r-bloggers.com/?p=331851",
+          "indices": {
+            "start": 33,
+            "end": 56
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "favorite_count": 16,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "Notes on Linear Algebra Part 3  {https://t.co/otSPcXgRd9} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-09-10 19:04:56",
+    "id": 1.56867691613115e+18,
+    "id_str": "1568676916131147779",
+    "full_text": "How to Find Optimal Clusters in R?  {https://t.co/9D1zqjPQ5t} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 82,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [62, 69]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [70, 82]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/9D1zqjPQ5t",
+          "expanded_url": "https://www.r-bloggers.com/?p=331831",
+          "display_url": "r-bloggers.com/?p=331831",
+          "indices": {
+            "start": 37,
+            "end": 60
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 7,
+    "favorite_count": 14,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "How to Find Optimal Clusters in R?  {https://t.co/9D1zqjPQ5t} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-09-10 15:19:55",
+    "id": 1.56862029061096e+18,
+    "id_str": "1568620290610962435",
+    "full_text": "The compound of five tetrahedra  {https://t.co/jI55UWSqV4} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 79,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [59, 66]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [67, 79]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/jI55UWSqV4",
+          "expanded_url": "https://www.r-bloggers.com/?p=331798",
+          "display_url": "r-bloggers.com/?p=331798",
+          "indices": {
+            "start": 34,
+            "end": 57
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "The compound of five tetrahedra  {https://t.co/jI55UWSqV4} #rstats #DataScience"
+  },
+  {
     "created_at": "2022-09-10 03:14:54",
     "id": 1.56843783631089e+18,
     "id_str": "1568437836310888452",
@@ -59,8 +331,8 @@
       }
     ],
     "is_quote_status": false,
-    "retweet_count": 4,
-    "favorite_count": 4,
+    "retweet_count": 9,
+    "favorite_count": 21,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -128,7 +400,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 2,
-    "favorite_count": 6,
+    "favorite_count": 7,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -196,7 +468,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 7,
-    "favorite_count": 14,
+    "favorite_count": 15,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -332,7 +604,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 5,
-    "favorite_count": 5,
+    "favorite_count": 4,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -612,7 +884,7 @@
       }
     ],
     "is_quote_status": false,
-    "retweet_count": 10,
+    "retweet_count": 11,
     "favorite_count": 22,
     "favorited": false,
     "retweeted": false,
@@ -885,7 +1157,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 5,
-    "favorite_count": 6,
+    "favorite_count": 7,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -1224,7 +1496,7 @@
       }
     ],
     "is_quote_status": false,
-    "retweet_count": 6,
+    "retweet_count": 7,
     "favorite_count": 11,
     "favorited": false,
     "retweeted": false,
@@ -12433,209 +12705,5 @@
     "possibly_sensitive": false,
     "lang": "en",
     "text": "Observe Function in R Shiny – How to Implement a Reactive Observer  {https://t.co/A8pfA6DXJa} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-08-11 23:59:12",
-    "id": 1.55787933819171e+18,
-    "id_str": "1557879338191708162",
-    "full_text": "Highlights from rstudio::conf(2022)  {https://t.co/rlZgJPkczS} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 83,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [63, 70]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [71, 83]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/rlZgJPkczS",
-          "expanded_url": "https://www.r-bloggers.com/?p=330389",
-          "display_url": "r-bloggers.com/?p=330389",
-          "indices": {
-            "start": 38,
-            "end": 61
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 9,
-    "favorite_count": 19,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "Highlights from rstudio::conf(2022)  {https://t.co/rlZgJPkczS} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-08-11 14:29:57",
-    "id": 1.55773608015301e+18,
-    "id_str": "1557736080153014275",
-    "full_text": "Schools in England  {https://t.co/nWqS2hrBwW} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 66,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [46, 53]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [54, 66]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/nWqS2hrBwW",
-          "expanded_url": "https://www.r-bloggers.com/?p=330402",
-          "display_url": "r-bloggers.com/?p=330402",
-          "indices": {
-            "start": 21,
-            "end": 44
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 3,
-    "favorite_count": 3,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "Schools in England  {https://t.co/nWqS2hrBwW} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-08-11 11:39:49",
-    "id": 1.55769326359489e+18,
-    "id_str": "1557693263594885123",
-    "full_text": "Valuable Webinar in Parallel Computing in R  {https://t.co/MHt2TTj0Cx} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 91,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [71, 78]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [79, 91]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/MHt2TTj0Cx",
-          "expanded_url": "https://www.r-bloggers.com/?p=330391",
-          "display_url": "r-bloggers.com/?p=330391",
-          "indices": {
-            "start": 46,
-            "end": 69
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 7,
-    "favorite_count": 15,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "Valuable Webinar in Parallel Computing in R  {https://t.co/MHt2TTj0Cx} #rstats #DataScience"
   }
 ]
