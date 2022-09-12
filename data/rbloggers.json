@@ -1,5 +1,685 @@
 [
   {
+    "created_at": "2022-09-11 20:45:12",
+    "id": 1.56906453773046e+18,
+    "id_str": "1569064537730457602",
+    "full_text": "Can R and Shiny make me a better fisherman? Part 3  {https://t.co/8ZSz8mhAO8} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 98,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [78, 85]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [86, 98]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/8ZSz8mhAO8",
+          "expanded_url": "https://www.r-bloggers.com/?p=331913",
+          "display_url": "r-bloggers.com/?p=331913",
+          "indices": {
+            "start": 53,
+            "end": 76
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 7,
+    "favorite_count": 16,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "Can R and Shiny make me a better fisherman? Part 3  {https://t.co/8ZSz8mhAO8} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-09-11 18:00:00",
+    "id": 1.56902296507267e+18,
+    "id_str": "1569022965072666626",
+    "full_text": "How to crop an image to a circle in R with {cropcircles}  {https://t.co/bCHfpGcahA} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 104,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [84, 91]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [92, 104]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/bCHfpGcahA",
+          "expanded_url": "https://www.r-bloggers.com/?p=331911",
+          "display_url": "r-bloggers.com/?p=331911",
+          "indices": {
+            "start": 59,
+            "end": 82
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "favorite_count": 19,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "How to crop an image to a circle in R with {cropcircles}  {https://t.co/bCHfpGcahA} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-09-11 16:54:59",
+    "id": 1.56900660287493e+18,
+    "id_str": "1569006602874925059",
+    "full_text": "Global vs. local assignment operators in R (‘&lt;&lt;-’ vs. ‘&lt;-’)  {https://t.co/oRF5W8Shxl} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 116,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [96, 103]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [104, 116]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/oRF5W8Shxl",
+          "expanded_url": "https://www.r-bloggers.com/?p=331909",
+          "display_url": "r-bloggers.com/?p=331909",
+          "indices": {
+            "start": 71,
+            "end": 94
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 7,
+    "favorite_count": 17,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "Global vs. local assignment operators in R (‘&lt;&lt;-’ vs. ‘&lt;-’)  {https://t.co/oRF5W8Shxl} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-09-11 13:25:00",
+    "id": 1.56895375838138e+18,
+    "id_str": "1568953758381383680",
+    "full_text": "Can R and Shiny make me a better fisherman? Part 4  {https://t.co/RUCsXAxSBM} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 98,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [78, 85]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [86, 98]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/RUCsXAxSBM",
+          "expanded_url": "https://www.r-bloggers.com/?p=331897",
+          "display_url": "r-bloggers.com/?p=331897",
+          "indices": {
+            "start": 53,
+            "end": 76
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 14,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "Can R and Shiny make me a better fisherman? Part 4  {https://t.co/RUCsXAxSBM} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-09-11 08:34:53",
+    "id": 1.5688807470622e+18,
+    "id_str": "1568880747062198272",
+    "full_text": "How to Apply AI to Small Data Sets?  {https://t.co/m6AR278M4H} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 83,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [63, 70]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [71, 83]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/m6AR278M4H",
+          "expanded_url": "https://www.r-bloggers.com/?p=331890",
+          "display_url": "r-bloggers.com/?p=331890",
+          "indices": {
+            "start": 38,
+            "end": 61
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "favorite_count": 20,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "How to Apply AI to Small Data Sets?  {https://t.co/m6AR278M4H} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-09-11 06:29:55",
+    "id": 1.56884929859014e+18,
+    "id_str": "1568849298590138369",
+    "full_text": "Exploring OMPR with HiGHS solver  {https://t.co/xCZTQXIIXx} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 80,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [60, 67]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [68, 80]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/xCZTQXIIXx",
+          "expanded_url": "https://www.r-bloggers.com/?p=331888",
+          "display_url": "r-bloggers.com/?p=331888",
+          "indices": {
+            "start": 35,
+            "end": 58
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 7,
+    "favorite_count": 10,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "Exploring OMPR with HiGHS solver  {https://t.co/xCZTQXIIXx} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-09-11 05:10:04",
+    "id": 1.56882920608722e+18,
+    "id_str": "1568829206087221248",
+    "full_text": "Analysis of the top R packages  {https://t.co/dVoJPwNa9K} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 78,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [58, 65]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [66, 78]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/dVoJPwNa9K",
+          "expanded_url": "https://www.r-bloggers.com/?p=331886",
+          "display_url": "r-bloggers.com/?p=331886",
+          "indices": {
+            "start": 33,
+            "end": 56
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 9,
+    "favorite_count": 18,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "Analysis of the top R packages  {https://t.co/dVoJPwNa9K} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-09-11 05:03:04",
+    "id": 1.56882744342687e+18,
+    "id_str": "1568827443426873344",
+    "full_text": "The compound of five tetrahedra  {https://t.co/jt4ZQPgbZl} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 79,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [59, 66]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [67, 79]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/jt4ZQPgbZl",
+          "expanded_url": "http://www.r-bloggers.com/?p=331884",
+          "display_url": "r-bloggers.com/?p=331884",
+          "indices": {
+            "start": 34,
+            "end": 57
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 6,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "The compound of five tetrahedra  {https://t.co/jt4ZQPgbZl} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-09-11 03:39:50",
+    "id": 1.56880649617087e+18,
+    "id_str": "1568806496170872832",
+    "full_text": "Fantasy Football Weekly Cheat Sheet: Week 1 (2022)  {https://t.co/WqnfeRu1t4} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 98,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [78, 85]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [86, 98]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/WqnfeRu1t4",
+          "expanded_url": "https://www.r-bloggers.com/?p=331881",
+          "display_url": "r-bloggers.com/?p=331881",
+          "indices": {
+            "start": 53,
+            "end": 76
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 6,
+    "favorite_count": 5,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "Fantasy Football Weekly Cheat Sheet: Week 1 (2022)  {https://t.co/WqnfeRu1t4} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-09-11 03:30:14",
+    "id": 1.56880408087668e+18,
+    "id_str": "1568804080876675072",
+    "full_text": "Visualizing OLS Linear Regression Assumptions in R  {https://t.co/n0C2iMl90t} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 98,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [78, 85]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [86, 98]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/n0C2iMl90t",
+          "expanded_url": "https://www.r-bloggers.com/?p=331879",
+          "display_url": "r-bloggers.com/?p=331879",
+          "indices": {
+            "start": 53,
+            "end": 76
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 20,
+    "favorite_count": 66,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "Visualizing OLS Linear Regression Assumptions in R  {https://t.co/n0C2iMl90t} #rstats #DataScience"
+  },
+  {
     "created_at": "2022-09-10 21:30:09",
     "id": 1.56871346181058e+18,
     "id_str": "1568713461810581504",
@@ -60,7 +740,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 9,
-    "favorite_count": 14,
+    "favorite_count": 17,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -128,7 +808,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 5,
-    "favorite_count": 16,
+    "favorite_count": 17,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -195,8 +875,8 @@
       }
     ],
     "is_quote_status": false,
-    "retweet_count": 7,
-    "favorite_count": 14,
+    "retweet_count": 8,
+    "favorite_count": 20,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -739,8 +1419,8 @@
       }
     ],
     "is_quote_status": false,
-    "retweet_count": 7,
-    "favorite_count": 21,
+    "retweet_count": 8,
+    "favorite_count": 22,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -885,7 +1565,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 11,
-    "favorite_count": 22,
+    "favorite_count": 23,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -1224,8 +1904,8 @@
       }
     ],
     "is_quote_status": false,
-    "retweet_count": 2,
-    "favorite_count": 9,
+    "retweet_count": 3,
+    "favorite_count": 12,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -3475,7 +4155,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 9,
-    "favorite_count": 23,
+    "favorite_count": 22,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -7502,7 +8182,7 @@
       }
     ],
     "is_quote_status": false,
-    "retweet_count": 32,
+    "retweet_count": 33,
     "favorite_count": 124,
     "favorited": false,
     "retweeted": false,
@@ -12501,209 +13181,5 @@
     "possibly_sensitive": false,
     "lang": "en",
     "text": "R code snippet : Read Historical Prices of Cryptocurrencies  {https://t.co/LocWWXVsyg} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-08-12 22:55:09",
-    "id": 1.55822560560639e+18,
-    "id_str": "1558225605606391808",
-    "full_text": "New statistical geoms in {ggxmean}  {https://t.co/3RbI0qWSEN} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 82,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [62, 69]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [70, 82]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/3RbI0qWSEN",
-          "expanded_url": "https://www.r-bloggers.com/?p=330435",
-          "display_url": "r-bloggers.com/?p=330435",
-          "indices": {
-            "start": 37,
-            "end": 60
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 10,
-    "favorite_count": 38,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "New statistical geoms in {ggxmean}  {https://t.co/3RbI0qWSEN} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-08-12 19:35:06",
-    "id": 1.55817526082608e+18,
-    "id_str": "1558175260826079234",
-    "full_text": "Kernel SHAP  {https://t.co/Hy45xQFYvD} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 59,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [39, 46]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [47, 59]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/Hy45xQFYvD",
-          "expanded_url": "https://www.r-bloggers.com/?p=330433",
-          "display_url": "r-bloggers.com/?p=330433",
-          "indices": {
-            "start": 14,
-            "end": 37
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 8,
-    "favorite_count": 21,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "Kernel SHAP  {https://t.co/Hy45xQFYvD} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-08-12 00:34:59",
-    "id": 1.55788834135751e+18,
-    "id_str": "1557888341357510656",
-    "full_text": "Observe Function in R Shiny – How to Implement a Reactive Observer  {https://t.co/A8pfA6DXJa} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 114,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [94, 101]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [102, 114]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/A8pfA6DXJa",
-          "expanded_url": "https://www.r-bloggers.com/?p=330411",
-          "display_url": "r-bloggers.com/?p=330411",
-          "indices": {
-            "start": 69,
-            "end": 92
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 10,
-    "favorite_count": 30,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "Observe Function in R Shiny – How to Implement a Reactive Observer  {https://t.co/A8pfA6DXJa} #rstats #DataScience"
   }
 ]
