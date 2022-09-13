@@ -1,5 +1,413 @@
 [
   {
+    "created_at": "2022-09-12 22:40:09",
+    "id": 1.56945585487686e+18,
+    "id_str": "1569455854876856321",
+    "full_text": "Pledging My Time V: analysing race results in R  {https://t.co/B5o4ClKy49} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 95,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [75, 82]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [83, 95]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/B5o4ClKy49",
+          "expanded_url": "https://www.r-bloggers.com/?p=331960",
+          "display_url": "r-bloggers.com/?p=331960",
+          "indices": {
+            "start": 50,
+            "end": 73
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 6,
+    "favorite_count": 9,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "Pledging My Time V: analysing race results in R  {https://t.co/B5o4ClKy49} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-09-12 15:59:53",
+    "id": 1.56935512316328e+18,
+    "id_str": "1569355123163283457",
+    "full_text": "Minimum R version dependency in R packages  {https://t.co/GuIeQnx5rO} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 90,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [70, 77]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [78, 90]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/GuIeQnx5rO",
+          "expanded_url": "https://www.r-bloggers.com/?p=331944",
+          "display_url": "r-bloggers.com/?p=331944",
+          "indices": {
+            "start": 45,
+            "end": 68
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 5,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "Minimum R version dependency in R packages  {https://t.co/GuIeQnx5rO} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-09-12 14:00:05",
+    "id": 1.56932497663693e+18,
+    "id_str": "1569324976636928001",
+    "full_text": "Webscraping Aliexpress with Rselenium  {https://t.co/XR49pJZdNb} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 85,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [65, 72]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [73, 85]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/XR49pJZdNb",
+          "expanded_url": "https://www.r-bloggers.com/?p=331937",
+          "display_url": "r-bloggers.com/?p=331937",
+          "indices": {
+            "start": 40,
+            "end": 63
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "favorite_count": 11,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "Webscraping Aliexpress with Rselenium  {https://t.co/XR49pJZdNb} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-09-12 12:45:12",
+    "id": 1.5693061288734e+18,
+    "id_str": "1569306128873398272",
+    "full_text": "Kantorovich distance with the ‘ompr’ package  {https://t.co/dw9Ylw2vhH} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 92,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [72, 79]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [80, 92]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/dw9Ylw2vhH",
+          "expanded_url": "https://www.r-bloggers.com/?p=331935",
+          "display_url": "r-bloggers.com/?p=331935",
+          "indices": {
+            "start": 47,
+            "end": 70
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 6,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "Kantorovich distance with the ‘ompr’ package  {https://t.co/dw9Ylw2vhH} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-09-12 12:39:52",
+    "id": 1.5693047864318e+18,
+    "id_str": "1569304786431795202",
+    "full_text": "A Review of Games Written in R on CRAN  {https://t.co/nAOsGwZAjm} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 86,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [66, 73]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [74, 86]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/nAOsGwZAjm",
+          "expanded_url": "https://www.r-bloggers.com/?p=331933",
+          "display_url": "r-bloggers.com/?p=331933",
+          "indices": {
+            "start": 41,
+            "end": 64
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 9,
+    "favorite_count": 18,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "A Review of Games Written in R on CRAN  {https://t.co/nAOsGwZAjm} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-09-12 04:00:07",
+    "id": 1.56917398917548e+18,
+    "id_str": "1569173989175476224",
+    "full_text": "Coastal risks and statistical learning: Analyzing Google trends with gtrendsR package  {https://t.co/TQjcn2oYCo} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 133,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [113, 120]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [121, 133]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/TQjcn2oYCo",
+          "expanded_url": "https://www.r-bloggers.com/?p=331930",
+          "display_url": "r-bloggers.com/?p=331930",
+          "indices": {
+            "start": 88,
+            "end": 111
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 8,
+    "favorite_count": 9,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "Coastal risks and statistical learning: Analyzing Google trends with gtrendsR package  {https://t.co/TQjcn2oYCo} #rstats #DataScience"
+  },
+  {
     "created_at": "2022-09-11 20:45:12",
     "id": 1.56906453773046e+18,
     "id_str": "1569064537730457602",
@@ -59,8 +467,8 @@
       }
     ],
     "is_quote_status": false,
-    "retweet_count": 7,
-    "favorite_count": 16,
+    "retweet_count": 8,
+    "favorite_count": 20,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -127,8 +535,8 @@
       }
     ],
     "is_quote_status": false,
-    "retweet_count": 5,
-    "favorite_count": 19,
+    "retweet_count": 7,
+    "favorite_count": 32,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -195,8 +603,8 @@
       }
     ],
     "is_quote_status": false,
-    "retweet_count": 7,
-    "favorite_count": 17,
+    "retweet_count": 10,
+    "favorite_count": 21,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -332,7 +740,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 5,
-    "favorite_count": 20,
+    "favorite_count": 23,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -400,7 +808,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 7,
-    "favorite_count": 10,
+    "favorite_count": 12,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -468,7 +876,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 9,
-    "favorite_count": 18,
+    "favorite_count": 21,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -604,7 +1012,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 6,
-    "favorite_count": 5,
+    "favorite_count": 6,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -672,7 +1080,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 20,
-    "favorite_count": 66,
+    "favorite_count": 68,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -740,7 +1148,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 9,
-    "favorite_count": 17,
+    "favorite_count": 20,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -808,7 +1216,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 5,
-    "favorite_count": 17,
+    "favorite_count": 19,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -876,7 +1284,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 8,
-    "favorite_count": 20,
+    "favorite_count": 22,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -1633,7 +2041,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 5,
-    "favorite_count": 13,
+    "favorite_count": 12,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -1701,7 +2109,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 4,
-    "favorite_count": 6,
+    "favorite_count": 5,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -1769,7 +2177,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 4,
-    "favorite_count": 8,
+    "favorite_count": 7,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -2517,7 +2925,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 6,
-    "favorite_count": 14,
+    "favorite_count": 13,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -2857,7 +3265,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 6,
-    "favorite_count": 23,
+    "favorite_count": 22,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -3129,7 +3537,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 5,
-    "favorite_count": 20,
+    "favorite_count": 19,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -3197,7 +3605,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 9,
-    "favorite_count": 28,
+    "favorite_count": 27,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -3611,7 +4019,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 10,
-    "favorite_count": 30,
+    "favorite_count": 29,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -3815,7 +4223,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 10,
-    "favorite_count": 18,
+    "favorite_count": 17,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -4631,7 +5039,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 36,
-    "favorite_count": 108,
+    "favorite_count": 107,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -4980,7 +5388,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 3,
-    "favorite_count": 13,
+    "favorite_count": 12,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -5048,7 +5456,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 10,
-    "favorite_count": 22,
+    "favorite_count": 21,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -5116,7 +5524,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 8,
-    "favorite_count": 11,
+    "favorite_count": 10,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -5184,7 +5592,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 10,
-    "favorite_count": 26,
+    "favorite_count": 25,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -5252,7 +5660,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 5,
-    "favorite_count": 7,
+    "favorite_count": 6,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -5524,7 +5932,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 15,
-    "favorite_count": 32,
+    "favorite_count": 31,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -13045,141 +13453,5 @@
     "possibly_sensitive": false,
     "lang": "en",
     "text": "Pacific island population pyramids by @ellis2013nz  {https://t.co/TjfucfepBz} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-08-13 21:49:50",
-    "id": 1.55857155578488e+18,
-    "id_str": "1558571555784884224",
-    "full_text": "¿Es Pi Aleatorio?  {https://t.co/QBHMcLz3cS} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 65,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [45, 52]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [53, 65]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/QBHMcLz3cS",
-          "expanded_url": "https://www.r-bloggers.com/?p=330469",
-          "display_url": "r-bloggers.com/?p=330469",
-          "indices": {
-            "start": 20,
-            "end": 43
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 2,
-    "favorite_count": 3,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "es",
-    "text": "¿Es Pi Aleatorio?  {https://t.co/QBHMcLz3cS} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-08-13 14:50:02",
-    "id": 1.55846591135872e+18,
-    "id_str": "1558465911358722050",
-    "full_text": "R code snippet : Read Historical Prices of Cryptocurrencies  {https://t.co/LocWWXVsyg} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 107,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [87, 94]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [95, 107]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/LocWWXVsyg",
-          "expanded_url": "https://www.r-bloggers.com/?p=330453",
-          "display_url": "r-bloggers.com/?p=330453",
-          "indices": {
-            "start": 62,
-            "end": 85
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 16,
-    "favorite_count": 32,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "R code snippet : Read Historical Prices of Cryptocurrencies  {https://t.co/LocWWXVsyg} #rstats #DataScience"
   }
 ]
