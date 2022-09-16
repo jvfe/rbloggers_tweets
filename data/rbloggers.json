@@ -1,5 +1,277 @@
 [
   {
+    "created_at": "2022-09-15 23:59:12",
+    "id": 1.57056291333256e+18,
+    "id_str": "1570562913332563974",
+    "full_text": "API as a package: Structure  {https://t.co/ZxHBIGLWgi} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 75,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [55, 62]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [63, 75]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/ZxHBIGLWgi",
+          "expanded_url": "https://www.r-bloggers.com/?p=332077",
+          "display_url": "r-bloggers.com/?p=332077",
+          "indices": {
+            "start": 30,
+            "end": 53
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 7,
+    "favorite_count": 8,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "API as a package: Structure  {https://t.co/ZxHBIGLWgi} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-09-15 23:55:08",
+    "id": 1.57056188642875e+18,
+    "id_str": "1570561886428753921",
+    "full_text": "The ‘Reorient’ transformation  {https://t.co/HQ8YTsHLzc} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 77,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [57, 64]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [65, 77]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/HQ8YTsHLzc",
+          "expanded_url": "https://www.r-bloggers.com/?p=332110",
+          "display_url": "r-bloggers.com/?p=332110",
+          "indices": {
+            "start": 32,
+            "end": 55
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 4,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "The ‘Reorient’ transformation  {https://t.co/HQ8YTsHLzc} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-09-15 10:50:09",
+    "id": 1.57036433892144e+18,
+    "id_str": "1570364338921439232",
+    "full_text": "Calculating the Fire Danger Index (FDI)  {https://t.co/iVeKir1ixP} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 87,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [67, 74]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [75, 87]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/iVeKir1ixP",
+          "expanded_url": "https://www.r-bloggers.com/?p=332098",
+          "display_url": "r-bloggers.com/?p=332098",
+          "indices": {
+            "start": 42,
+            "end": 65
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 5,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "Calculating the Fire Danger Index (FDI)  {https://t.co/iVeKir1ixP} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-09-15 04:19:54",
+    "id": 1.57026613318979e+18,
+    "id_str": "1570266133189787649",
+    "full_text": "why is this algorithm simulating a Normal variate?  {https://t.co/fYAH53lYWi} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 98,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [78, 85]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [86, 98]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/fYAH53lYWi",
+          "expanded_url": "https://www.r-bloggers.com/?p=332079",
+          "display_url": "r-bloggers.com/?p=332079",
+          "indices": {
+            "start": 53,
+            "end": 76
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 6,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "why is this algorithm simulating a Normal variate?  {https://t.co/fYAH53lYWi} #rstats #DataScience"
+  },
+  {
     "created_at": "2022-09-14 21:19:54",
     "id": 1.57016043674558e+18,
     "id_str": "1570160436745576448",
@@ -59,8 +331,8 @@
       }
     ],
     "is_quote_status": false,
-    "retweet_count": 8,
-    "favorite_count": 25,
+    "retweet_count": 10,
+    "favorite_count": 37,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -128,7 +400,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 2,
-    "favorite_count": 2,
+    "favorite_count": 6,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -400,7 +672,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 10,
-    "favorite_count": 19,
+    "favorite_count": 20,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -468,7 +740,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 3,
-    "favorite_count": 7,
+    "favorite_count": 8,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -535,8 +807,8 @@
       }
     ],
     "is_quote_status": false,
-    "retweet_count": 6,
-    "favorite_count": 12,
+    "retweet_count": 7,
+    "favorite_count": 13,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -808,7 +1080,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 11,
-    "favorite_count": 52,
+    "favorite_count": 53,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -943,8 +1215,8 @@
       }
     ],
     "is_quote_status": false,
-    "retweet_count": 6,
-    "favorite_count": 14,
+    "retweet_count": 7,
+    "favorite_count": 15,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -1420,7 +1692,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 10,
-    "favorite_count": 20,
+    "favorite_count": 21,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -1624,7 +1896,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 7,
-    "favorite_count": 33,
+    "favorite_count": 34,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -1691,8 +1963,8 @@
       }
     ],
     "is_quote_status": false,
-    "retweet_count": 10,
-    "favorite_count": 23,
+    "retweet_count": 11,
+    "favorite_count": 24,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -2779,7 +3051,7 @@
       }
     ],
     "is_quote_status": false,
-    "retweet_count": 5,
+    "retweet_count": 4,
     "favorite_count": 4,
     "favorited": false,
     "retweeted": false,
@@ -2983,7 +3255,7 @@
       }
     ],
     "is_quote_status": false,
-    "retweet_count": 3,
+    "retweet_count": 2,
     "favorite_count": 5,
     "favorited": false,
     "retweeted": false,
@@ -3128,7 +3400,7 @@
       }
     ],
     "is_quote_status": false,
-    "retweet_count": 5,
+    "retweet_count": 4,
     "favorite_count": 13,
     "favorited": false,
     "retweeted": false,
@@ -4693,7 +4965,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 9,
-    "favorite_count": 28,
+    "favorite_count": 29,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -5447,7 +5719,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 16,
-    "favorite_count": 39,
+    "favorite_count": 40,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -6059,7 +6331,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 7,
-    "favorite_count": 17,
+    "favorite_count": 16,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -6126,8 +6398,8 @@
       }
     ],
     "is_quote_status": false,
-    "retweet_count": 36,
-    "favorite_count": 108,
+    "retweet_count": 37,
+    "favorite_count": 109,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -6816,7 +7088,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 18,
-    "favorite_count": 49,
+    "favorite_count": 50,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -7291,8 +7563,8 @@
       }
     ],
     "is_quote_status": false,
-    "retweet_count": 13,
-    "favorite_count": 34,
+    "retweet_count": 14,
+    "favorite_count": 35,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -13372,487 +13644,5 @@
     "possibly_sensitive": false,
     "lang": "en",
     "text": "Creating Dashboards in R  {https://t.co/SXP3bgCFIu} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-08-16 23:29:59",
-    "id": 1.55968392486294e+18,
-    "id_str": "1559683924862935047",
-    "full_text": "Designing #TidyTuesday visualisations for mobile (with Quarto)  {https://t.co/iO2d4zPSwL} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 110,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "TidyTuesday",
-          "indices": [
-            [10, 22]
-          ]
-        },
-        {
-          "text": "rstats",
-          "indices": [
-            [90, 97]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [98, 110]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/iO2d4zPSwL",
-          "expanded_url": "https://www.r-bloggers.com/?p=330618",
-          "display_url": "r-bloggers.com/?p=330618",
-          "indices": {
-            "start": 65,
-            "end": 88
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 8,
-    "favorite_count": 22,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "Designing #TidyTuesday visualisations for mobile (with Quarto)  {https://t.co/iO2d4zPSwL} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-08-16 19:25:13",
-    "id": 1.55962232709188e+18,
-    "id_str": "1559622327091879936",
-    "full_text": "Functionality of the fastGLCM R package  {https://t.co/q4U9FiVh8h} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 87,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [67, 74]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [75, 87]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/q4U9FiVh8h",
-          "expanded_url": "https://www.r-bloggers.com/?p=330612",
-          "display_url": "r-bloggers.com/?p=330612",
-          "indices": {
-            "start": 42,
-            "end": 65
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 6,
-    "favorite_count": 10,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "Functionality of the fastGLCM R package  {https://t.co/q4U9FiVh8h} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-08-16 19:09:52",
-    "id": 1.55961846403744e+18,
-    "id_str": "1559618464037437441",
-    "full_text": "Hurst Exponent using R code  {https://t.co/VwQrLp5Lip} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 75,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [55, 62]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [63, 75]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/VwQrLp5Lip",
-          "expanded_url": "https://www.r-bloggers.com/?p=330610",
-          "display_url": "r-bloggers.com/?p=330610",
-          "indices": {
-            "start": 30,
-            "end": 53
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 3,
-    "favorite_count": 11,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "Hurst Exponent using R code  {https://t.co/VwQrLp5Lip} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-08-16 16:25:14",
-    "id": 1.55957703076048e+18,
-    "id_str": "1559577030760480770",
-    "full_text": "Making the Connection with Crosstalk  {https://t.co/7wlsymjdtv} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 84,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [64, 71]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [72, 84]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/7wlsymjdtv",
-          "expanded_url": "https://www.r-bloggers.com/?p=330608",
-          "display_url": "r-bloggers.com/?p=330608",
-          "indices": {
-            "start": 39,
-            "end": 62
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 3,
-    "favorite_count": 7,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "Making the Connection with Crosstalk  {https://t.co/7wlsymjdtv} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-08-16 16:24:57",
-    "id": 1.55957696054784e+18,
-    "id_str": "1559576960547840000",
-    "full_text": "Underrated CRAN Packages  {https://t.co/kaLWTZgUh4} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 72,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [52, 59]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [60, 72]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/kaLWTZgUh4",
-          "expanded_url": "https://www.r-bloggers.com/?p=330606",
-          "display_url": "r-bloggers.com/?p=330606",
-          "indices": {
-            "start": 27,
-            "end": 50
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 6,
-    "favorite_count": 13,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "Underrated CRAN Packages  {https://t.co/kaLWTZgUh4} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-08-16 02:59:56",
-    "id": 1.55937436912577e+18,
-    "id_str": "1559374369125765123",
-    "full_text": "Community Call to Action for ISC Grant Proposal Ideas  {https://t.co/9YUMWIxrJR} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 101,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [81, 88]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [89, 101]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/9YUMWIxrJR",
-          "expanded_url": "https://www.r-bloggers.com/?p=330582",
-          "display_url": "r-bloggers.com/?p=330582",
-          "indices": {
-            "start": 56,
-            "end": 79
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 4,
-    "favorite_count": 8,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "Community Call to Action for ISC Grant Proposal Ideas  {https://t.co/9YUMWIxrJR} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-08-16 02:54:54",
-    "id": 1.55937310444667e+18,
-    "id_str": "1559373104446668805",
-    "full_text": "A New Approach to Fairness in Machine Learning  {https://t.co/RPhxjLRC69} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 94,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [74, 81]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [82, 94]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/RPhxjLRC69",
-          "expanded_url": "https://www.r-bloggers.com/?p=330580",
-          "display_url": "r-bloggers.com/?p=330580",
-          "indices": {
-            "start": 49,
-            "end": 72
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 4,
-    "favorite_count": 14,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "A New Approach to Fairness in Machine Learning  {https://t.co/RPhxjLRC69} #rstats #DataScience"
   }
 ]
