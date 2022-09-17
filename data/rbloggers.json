@@ -1,5 +1,351 @@
 [
   {
+    "created_at": "2022-09-17 00:30:16",
+    "id": 1.57093311610511e+18,
+    "id_str": "1570933116105105408",
+    "full_text": "New R job: Principal Scientist, RWE-Analytics https://t.co/BxffYXNsBP #rstats #DataScience #jobs",
+    "truncated": false,
+    "display_text_range": 96,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [70, 77]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [78, 90]
+          ]
+        },
+        {
+          "text": "jobs",
+          "indices": [
+            [91, 96]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/BxffYXNsBP",
+          "expanded_url": "https://www.r-users.com/jobs/principal-scientist-rwe-analytics/",
+          "display_url": "r-users.com/jobs/principal…",
+          "indices": {
+            "start": 46,
+            "end": 69
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 4,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "New R job: Principal Scientist, RWE-Analytics https://t.co/BxffYXNsBP #rstats #DataScience #jobs"
+  },
+  {
+    "created_at": "2022-09-16 23:00:00",
+    "id": 1.57091040005663e+18,
+    "id_str": "1570910400056631296",
+    "full_text": "Strange warning after loading own package  {https://t.co/6nKjq7pSQa} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 89,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [69, 76]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [77, 89]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/6nKjq7pSQa",
+          "expanded_url": "https://www.r-bloggers.com/?p=332148",
+          "display_url": "r-bloggers.com/?p=332148",
+          "indices": {
+            "start": 44,
+            "end": 67
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "Strange warning after loading own package  {https://t.co/6nKjq7pSQa} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-09-16 22:40:01",
+    "id": 1.57090537322105e+18,
+    "id_str": "1570905373221048322",
+    "full_text": "The Role of Data Science in Preventing Fraud  {https://t.co/i0vEPoCz6Y} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 92,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [72, 79]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [80, 92]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/i0vEPoCz6Y",
+          "expanded_url": "https://www.r-bloggers.com/?p=332146",
+          "display_url": "r-bloggers.com/?p=332146",
+          "indices": {
+            "start": 47,
+            "end": 70
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 7,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "The Role of Data Science in Preventing Fraud  {https://t.co/i0vEPoCz6Y} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-09-16 22:04:54",
+    "id": 1.57089653490816e+18,
+    "id_str": "1570896534908162048",
+    "full_text": "Announcing the 2022 Table Contest  {https://t.co/vhR2TSsJfj} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 81,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [61, 68]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [69, 81]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/vhR2TSsJfj",
+          "expanded_url": "https://www.r-bloggers.com/?p=332144",
+          "display_url": "r-bloggers.com/?p=332144",
+          "indices": {
+            "start": 36,
+            "end": 59
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "Announcing the 2022 Table Contest  {https://t.co/vhR2TSsJfj} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-09-16 20:19:50",
+    "id": 1.57087009313512e+18,
+    "id_str": "1570870093135118336",
+    "full_text": "Error in rbind(deparse.level …) numbers of columns of arguments do not match  {https://t.co/AHuTkKYhyt} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 124,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [104, 111]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [112, 124]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/AHuTkKYhyt",
+          "expanded_url": "https://www.r-bloggers.com/?p=332138",
+          "display_url": "r-bloggers.com/?p=332138",
+          "indices": {
+            "start": 79,
+            "end": 102
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "Error in rbind(deparse.level …) numbers of columns of arguments do not match  {https://t.co/AHuTkKYhyt} #rstats #DataScience"
+  },
+  {
     "created_at": "2022-09-15 23:59:12",
     "id": 1.57056291333256e+18,
     "id_str": "1570562913332563974",
@@ -59,8 +405,8 @@
       }
     ],
     "is_quote_status": false,
-    "retweet_count": 7,
-    "favorite_count": 8,
+    "retweet_count": 8,
+    "favorite_count": 17,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -128,7 +474,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 3,
-    "favorite_count": 4,
+    "favorite_count": 10,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -196,7 +542,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 4,
-    "favorite_count": 5,
+    "favorite_count": 6,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -264,7 +610,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 4,
-    "favorite_count": 6,
+    "favorite_count": 7,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -331,8 +677,8 @@
       }
     ],
     "is_quote_status": false,
-    "retweet_count": 10,
-    "favorite_count": 37,
+    "retweet_count": 12,
+    "favorite_count": 38,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -400,7 +746,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 2,
-    "favorite_count": 6,
+    "favorite_count": 7,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -604,7 +950,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 3,
-    "favorite_count": 2,
+    "favorite_count": 3,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -944,7 +1290,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 2,
-    "favorite_count": 6,
+    "favorite_count": 7,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -1080,7 +1426,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 11,
-    "favorite_count": 53,
+    "favorite_count": 54,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -1487,7 +1833,7 @@
       }
     ],
     "is_quote_status": false,
-    "retweet_count": 2,
+    "retweet_count": 3,
     "favorite_count": 7,
     "favorited": false,
     "retweeted": false,
@@ -1828,7 +2174,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 9,
-    "favorite_count": 20,
+    "favorite_count": 21,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -2100,7 +2446,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 5,
-    "favorite_count": 23,
+    "favorite_count": 24,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -2236,7 +2582,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 9,
-    "favorite_count": 21,
+    "favorite_count": 23,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -3119,7 +3465,7 @@
       }
     ],
     "is_quote_status": false,
-    "retweet_count": 2,
+    "retweet_count": 1,
     "favorite_count": 3,
     "favorited": false,
     "retweeted": false,
@@ -4624,7 +4970,7 @@
       }
     ],
     "is_quote_status": false,
-    "retweet_count": 6,
+    "retweet_count": 5,
     "favorite_count": 23,
     "favorited": false,
     "retweeted": false,
@@ -4760,7 +5106,7 @@
       }
     ],
     "is_quote_status": false,
-    "retweet_count": 6,
+    "retweet_count": 4,
     "favorite_count": 15,
     "favorited": false,
     "retweeted": false,
@@ -13236,413 +13582,5 @@
     "possibly_sensitive": false,
     "lang": "en",
     "text": "Sonnet to infix function  {https://t.co/dMwykgXrkt} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-08-17 17:54:53",
-    "id": 1.55996198157417e+18,
-    "id_str": "1559961981574168576",
-    "full_text": "Bike shares in Toronto  {https://t.co/yrgynx5Poi} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 70,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [50, 57]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [58, 70]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/yrgynx5Poi",
-          "expanded_url": "https://www.r-bloggers.com/?p=330665",
-          "display_url": "r-bloggers.com/?p=330665",
-          "indices": {
-            "start": 25,
-            "end": 48
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 2,
-    "favorite_count": 4,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "Bike shares in Toronto  {https://t.co/yrgynx5Poi} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-08-17 17:15:20",
-    "id": 1.55995202534915e+18,
-    "id_str": "1559952025349152771",
-    "full_text": "Show Pride on Your Plots  {https://t.co/mqm5IlHEk9} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 72,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [52, 59]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [60, 72]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/mqm5IlHEk9",
-          "expanded_url": "https://www.r-bloggers.com/?p=330663",
-          "display_url": "r-bloggers.com/?p=330663",
-          "indices": {
-            "start": 27,
-            "end": 50
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 5,
-    "favorite_count": 7,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "Show Pride on Your Plots  {https://t.co/mqm5IlHEk9} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-08-17 13:21:40",
-    "id": 1.55989322488975e+18,
-    "id_str": "1559893224889749504",
-    "full_text": "Learn data skills, earn points and win money prizes daily with Datacamp!  {https://t.co/aUWnAVnAbF} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 120,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [100, 107]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [108, 120]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/aUWnAVnAbF",
-          "expanded_url": "http://www.r-bloggers.com/?p=330652",
-          "display_url": "r-bloggers.com/?p=330652",
-          "indices": {
-            "start": 75,
-            "end": 98
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 4,
-    "favorite_count": 3,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "Learn data skills, earn points and win money prizes daily with Datacamp!  {https://t.co/aUWnAVnAbF} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-08-17 10:34:56",
-    "id": 1.55985126348708e+18,
-    "id_str": "1559851263487082498",
-    "full_text": "Python in R Markdown  {https://t.co/2dTxvBNxSs} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 68,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [48, 55]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [56, 68]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/2dTxvBNxSs",
-          "expanded_url": "https://www.r-bloggers.com/?p=330639",
-          "display_url": "r-bloggers.com/?p=330639",
-          "indices": {
-            "start": 23,
-            "end": 46
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 6,
-    "favorite_count": 23,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "de",
-    "text": "Python in R Markdown  {https://t.co/2dTxvBNxSs} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-08-17 07:19:51",
-    "id": 1.55980217115936e+18,
-    "id_str": "1559802171159363585",
-    "full_text": "Show Pride on Your Plots  {https://t.co/GWdQN9THHR} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 72,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [52, 59]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [60, 72]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/GWdQN9THHR",
-          "expanded_url": "https://www.r-bloggers.com/?p=330635",
-          "display_url": "r-bloggers.com/?p=330635",
-          "indices": {
-            "start": 27,
-            "end": 50
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 6,
-    "favorite_count": 7,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "Show Pride on Your Plots  {https://t.co/GWdQN9THHR} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-08-17 01:40:01",
-    "id": 1.55971664563504e+18,
-    "id_str": "1559716645635035142",
-    "full_text": "Creating Dashboards in R  {https://t.co/SXP3bgCFIu} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 72,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [52, 59]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [60, 72]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/SXP3bgCFIu",
-          "expanded_url": "https://www.r-bloggers.com/?p=330620",
-          "display_url": "r-bloggers.com/?p=330620",
-          "indices": {
-            "start": 27,
-            "end": 50
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 41,
-    "favorite_count": 149,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "Creating Dashboards in R  {https://t.co/SXP3bgCFIu} #rstats #DataScience"
   }
 ]
