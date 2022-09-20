@@ -1,5 +1,481 @@
 [
   {
+    "created_at": "2022-09-20 01:50:07",
+    "id": 1.57204037748958e+18,
+    "id_str": "1572040377489580032",
+    "full_text": "Seeking Inspiration from Random Learning  {https://t.co/JrsyLa5kuO} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 88,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [68, 75]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [76, 88]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/JrsyLa5kuO",
+          "expanded_url": "https://www.r-bloggers.com/?p=332291",
+          "display_url": "r-bloggers.com/?p=332291",
+          "indices": {
+            "start": 43,
+            "end": 66
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "Seeking Inspiration from Random Learning  {https://t.co/JrsyLa5kuO} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-09-20 00:00:15",
+    "id": 1.57201272771065e+18,
+    "id_str": "1572012727710654472",
+    "full_text": "Enforcing Style in an R Project  {https://t.co/DTaoADBj7d} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 79,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [59, 66]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [67, 79]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/DTaoADBj7d",
+          "expanded_url": "https://www.r-bloggers.com/?p=332283",
+          "display_url": "r-bloggers.com/?p=332283",
+          "indices": {
+            "start": 34,
+            "end": 57
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 7,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "Enforcing Style in an R Project  {https://t.co/DTaoADBj7d} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-09-19 23:05:07",
+    "id": 1.57199885129655e+18,
+    "id_str": "1571998851296546817",
+    "full_text": "Flat indices for arrays in R/Rcpp  {https://t.co/B1tfxMwURF} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 81,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [61, 68]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [69, 81]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/B1tfxMwURF",
+          "expanded_url": "https://www.r-bloggers.com/?p=332285",
+          "display_url": "r-bloggers.com/?p=332285",
+          "indices": {
+            "start": 36,
+            "end": 59
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "Flat indices for arrays in R/Rcpp  {https://t.co/B1tfxMwURF} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-09-19 17:15:36",
+    "id": 1.57191089404876e+18,
+    "id_str": "1571910894048759814",
+    "full_text": "Tackle Business problems with Data Science!  {https://t.co/MpX45nHs0U} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 91,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [71, 78]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [79, 91]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/MpX45nHs0U",
+          "expanded_url": "https://www.r-bloggers.com/?p=332267",
+          "display_url": "r-bloggers.com/?p=332267",
+          "indices": {
+            "start": 46,
+            "end": 69
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "Tackle Business problems with Data Science!  {https://t.co/MpX45nHs0U} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-09-19 15:59:53",
+    "id": 1.571891840714e+18,
+    "id_str": "1571891840714002435",
+    "full_text": "Non-Homogeneous Poisson Process Intensity Modeling and Estimation using Measure Transport  {https://t.co/kAOxtuirVZ} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 137,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [117, 124]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [125, 137]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/kAOxtuirVZ",
+          "expanded_url": "https://www.r-bloggers.com/?p=332262",
+          "display_url": "r-bloggers.com/?p=332262",
+          "indices": {
+            "start": 92,
+            "end": 115
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 6,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "Non-Homogeneous Poisson Process Intensity Modeling and Estimation using Measure Transport  {https://t.co/kAOxtuirVZ} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-09-19 15:20:08",
+    "id": 1.57188183741221e+18,
+    "id_str": "1571881837412208642",
+    "full_text": "survex: model-agnostic explainability for survival analysis  {https://t.co/axpaS2gKp9} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 107,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [87, 94]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [95, 107]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/axpaS2gKp9",
+          "expanded_url": "https://www.r-bloggers.com/?p=332260",
+          "display_url": "r-bloggers.com/?p=332260",
+          "indices": {
+            "start": 62,
+            "end": 85
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 8,
+    "favorite_count": 17,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "fr",
+    "text": "survex: model-agnostic explainability for survival analysis  {https://t.co/axpaS2gKp9} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-09-19 08:04:51",
+    "id": 1.57177229400703e+18,
+    "id_str": "1571772294007033861",
+    "full_text": "The Multinomial Distribution in R  {https://t.co/K6pA1kVgBv} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 81,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [61, 68]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [69, 81]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/K6pA1kVgBv",
+          "expanded_url": "https://www.r-bloggers.com/?p=332254",
+          "display_url": "r-bloggers.com/?p=332254",
+          "indices": {
+            "start": 36,
+            "end": 59
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 8,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "The Multinomial Distribution in R  {https://t.co/K6pA1kVgBv} #rstats #DataScience"
+  },
+  {
     "created_at": "2022-09-19 01:45:09",
     "id": 1.57167673747753e+18,
     "id_str": "1571676737477529602",
@@ -60,7 +536,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 1,
-    "favorite_count": 3,
+    "favorite_count": 4,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -127,8 +603,8 @@
       }
     ],
     "is_quote_status": false,
-    "retweet_count": 2,
-    "favorite_count": 9,
+    "retweet_count": 8,
+    "favorite_count": 22,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -195,8 +671,8 @@
       }
     ],
     "is_quote_status": false,
-    "retweet_count": 2,
-    "favorite_count": 8,
+    "retweet_count": 5,
+    "favorite_count": 16,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -264,7 +740,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 2,
-    "favorite_count": 4,
+    "favorite_count": 6,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -332,7 +808,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 5,
-    "favorite_count": 40,
+    "favorite_count": 51,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -400,7 +876,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 2,
-    "favorite_count": 3,
+    "favorite_count": 4,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -468,7 +944,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 1,
-    "favorite_count": 6,
+    "favorite_count": 7,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -535,8 +1011,8 @@
       }
     ],
     "is_quote_status": false,
-    "retweet_count": 3,
-    "favorite_count": 12,
+    "retweet_count": 4,
+    "favorite_count": 14,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -1221,7 +1697,7 @@
       }
     ],
     "is_quote_status": false,
-    "retweet_count": 4,
+    "retweet_count": 5,
     "favorite_count": 10,
     "favorited": false,
     "retweeted": false,
@@ -1494,7 +1970,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 2,
-    "favorite_count": 7,
+    "favorite_count": 8,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -2173,7 +2649,7 @@
       }
     ],
     "is_quote_status": false,
-    "retweet_count": 11,
+    "retweet_count": 12,
     "favorite_count": 54,
     "favorited": false,
     "retweeted": false,
@@ -12887,73 +13363,5 @@
     "possibly_sensitive": false,
     "lang": "en",
     "text": "Corona-Superspreading or just “Wiesn-flu”? Should the Oktoberfest be cancelled again?  {https://t.co/DGrzZ189qj} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-08-20 07:39:56",
-    "id": 1.56089438647247e+18,
-    "id_str": "1560894386472472576",
-    "full_text": "Please Subscribe to My New (German) Data Science YouTube Channel!  {https://t.co/n0NpdYghHa} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 113,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [93, 100]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [101, 113]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/n0NpdYghHa",
-          "expanded_url": "https://www.r-bloggers.com/?p=330778",
-          "display_url": "r-bloggers.com/?p=330778",
-          "indices": {
-            "start": 68,
-            "end": 91
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 5,
-    "favorite_count": 6,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "Please Subscribe to My New (German) Data Science YouTube Channel!  {https://t.co/n0NpdYghHa} #rstats #DataScience"
   }
 ]
