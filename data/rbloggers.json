@@ -1,5 +1,277 @@
 [
   {
+    "created_at": "2022-09-20 23:59:13",
+    "id": 1.57237485684648e+18,
+    "id_str": "1572374856846479360",
+    "full_text": "The Benefits of Learning Data Skills  {https://t.co/zHJaXnBkJb} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 84,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [64, 71]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [72, 84]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/zHJaXnBkJb",
+          "expanded_url": "https://www.r-bloggers.com/?p=332321",
+          "display_url": "r-bloggers.com/?p=332321",
+          "indices": {
+            "start": 39,
+            "end": 62
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 6,
+    "favorite_count": 8,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "The Benefits of Learning Data Skills  {https://t.co/zHJaXnBkJb} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-09-20 21:25:13",
+    "id": 1.5723360988353e+18,
+    "id_str": "1572336098835304448",
+    "full_text": "GitHub – The Perks of Collaboration and Version Control  {https://t.co/Rz72M20rhK} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 103,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [83, 90]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [91, 103]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/Rz72M20rhK",
+          "expanded_url": "https://www.r-bloggers.com/?p=332323",
+          "display_url": "r-bloggers.com/?p=332323",
+          "indices": {
+            "start": 58,
+            "end": 81
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "favorite_count": 10,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "GitHub – The Perks of Collaboration and Version Control  {https://t.co/Rz72M20rhK} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-09-20 15:20:06",
+    "id": 1.57224421588272e+18,
+    "id_str": "1572244215882715141",
+    "full_text": "101st TokyoR Meetup Roundup: Palmer penguins, fractal analysis, and more!  {https://t.co/cXnQ8ZQbJB} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 121,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [101, 108]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [109, 121]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/cXnQ8ZQbJB",
+          "expanded_url": "https://www.r-bloggers.com/?p=332305",
+          "display_url": "r-bloggers.com/?p=332305",
+          "indices": {
+            "start": 76,
+            "end": 99
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 6,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "101st TokyoR Meetup Roundup: Palmer penguins, fractal analysis, and more!  {https://t.co/cXnQ8ZQbJB} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-09-20 09:45:00",
+    "id": 1.57215988418731e+18,
+    "id_str": "1572159884187308034",
+    "full_text": "Presenting results for multinomial logistic regression: a marginal approach using  {https://t.co/NaoEuXiTYq} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 129,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [109, 116]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [117, 129]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/NaoEuXiTYq",
+          "expanded_url": "https://www.r-bloggers.com/?p=332303",
+          "display_url": "r-bloggers.com/?p=332303",
+          "indices": {
+            "start": 84,
+            "end": 107
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 7,
+    "favorite_count": 27,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "Presenting results for multinomial logistic regression: a marginal approach using  {https://t.co/NaoEuXiTYq} #rstats #DataScience"
+  },
+  {
     "created_at": "2022-09-20 01:50:07",
     "id": 1.57204037748958e+18,
     "id_str": "1572040377489580032",
@@ -59,8 +331,8 @@
       }
     ],
     "is_quote_status": false,
-    "retweet_count": 2,
-    "favorite_count": 1,
+    "retweet_count": 4,
+    "favorite_count": 4,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -128,7 +400,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 3,
-    "favorite_count": 7,
+    "favorite_count": 14,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -195,7 +467,7 @@
       }
     ],
     "is_quote_status": false,
-    "retweet_count": 1,
+    "retweet_count": 2,
     "favorite_count": 1,
     "favorited": false,
     "retweeted": false,
@@ -332,7 +604,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 4,
-    "favorite_count": 6,
+    "favorite_count": 9,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -399,8 +671,8 @@
       }
     ],
     "is_quote_status": false,
-    "retweet_count": 8,
-    "favorite_count": 17,
+    "retweet_count": 10,
+    "favorite_count": 26,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -672,7 +944,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 5,
-    "favorite_count": 16,
+    "favorite_count": 17,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -808,7 +1080,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 5,
-    "favorite_count": 51,
+    "favorite_count": 52,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -1630,7 +1902,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 8,
-    "favorite_count": 18,
+    "favorite_count": 17,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -2378,7 +2650,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 7,
-    "favorite_count": 13,
+    "favorite_count": 12,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -4214,7 +4486,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 8,
-    "favorite_count": 24,
+    "favorite_count": 23,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -4690,7 +4962,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 1,
-    "favorite_count": 3,
+    "favorite_count": 2,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -6535,7 +6807,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 9,
-    "favorite_count": 29,
+    "favorite_count": 28,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -13227,141 +13499,5 @@
     "possibly_sensitive": false,
     "lang": "en",
     "text": "Monthly Movement and Losses of the Luftwaffe 1939-1945 Infographic  {https://t.co/yypCOlXSgT} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-08-21 20:39:52",
-    "id": 1.56145305140744e+18,
-    "id_str": "1561453051407437824",
-    "full_text": "Spiders, facets, and dots, oh my!  {https://t.co/4xuw6Pzi9q} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 81,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [61, 68]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [69, 81]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/4xuw6Pzi9q",
-          "expanded_url": "https://www.r-bloggers.com/?p=330848",
-          "display_url": "r-bloggers.com/?p=330848",
-          "indices": {
-            "start": 36,
-            "end": 59
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 6,
-    "favorite_count": 17,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "Spiders, facets, and dots, oh my!  {https://t.co/4xuw6Pzi9q} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-08-21 17:00:15",
-    "id": 1.56139778379332e+18,
-    "id_str": "1561397783793324032",
-    "full_text": "Corona-Superspreading or just “Wiesn-flu”? Should the Oktoberfest be cancelled again?  {https://t.co/DGrzZ189qj} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 133,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [113, 120]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [121, 133]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/DGrzZ189qj",
-          "expanded_url": "https://www.r-bloggers.com/?p=330846",
-          "display_url": "r-bloggers.com/?p=330846",
-          "indices": {
-            "start": 88,
-            "end": 111
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 4,
-    "favorite_count": 5,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "Corona-Superspreading or just “Wiesn-flu”? Should the Oktoberfest be cancelled again?  {https://t.co/DGrzZ189qj} #rstats #DataScience"
   }
 ]
