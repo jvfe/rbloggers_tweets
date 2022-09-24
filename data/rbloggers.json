@@ -1,5 +1,345 @@
 [
   {
+    "created_at": "2022-09-23 17:59:57",
+    "id": 1.57337160701955e+18,
+    "id_str": "1573371607019552769",
+    "full_text": "explore: simplified exploratory data analysis (EDA) in R  {https://t.co/PwWihsckuv} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 104,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [84, 91]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [92, 104]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/PwWihsckuv",
+          "expanded_url": "https://www.r-bloggers.com/?p=332468",
+          "display_url": "r-bloggers.com/?p=332468",
+          "indices": {
+            "start": 59,
+            "end": 82
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 8,
+    "favorite_count": 30,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "ro",
+    "text": "explore: simplified exploratory data analysis (EDA) in R  {https://t.co/PwWihsckuv} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-09-23 14:54:53",
+    "id": 1.57332503499888e+18,
+    "id_str": "1573325034998882305",
+    "full_text": "Triangular Distribution in R  {https://t.co/86LqTvJEPF} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 76,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [56, 63]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [64, 76]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/86LqTvJEPF",
+          "expanded_url": "https://www.r-bloggers.com/?p=332455",
+          "display_url": "r-bloggers.com/?p=332455",
+          "indices": {
+            "start": 31,
+            "end": 54
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "in",
+    "text": "Triangular Distribution in R  {https://t.co/86LqTvJEPF} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-09-23 10:04:51",
+    "id": 1.57325204330065e+18,
+    "id_str": "1573252043300651008",
+    "full_text": "rOpenSci News Digest, September 2022  {https://t.co/ZBtr0V3Sc6} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 84,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [64, 71]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [72, 84]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/ZBtr0V3Sc6",
+          "expanded_url": "https://www.r-bloggers.com/?p=332447",
+          "display_url": "r-bloggers.com/?p=332447",
+          "indices": {
+            "start": 39,
+            "end": 62
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "fr",
+    "text": "rOpenSci News Digest, September 2022  {https://t.co/ZBtr0V3Sc6} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-09-23 09:59:56",
+    "id": 1.57325080791024e+18,
+    "id_str": "1573250807910244360",
+    "full_text": "Fantasy Football Weekly Cheat Sheet: Week 3 (2022)  {https://t.co/JC8B4mYOju} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 98,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [78, 85]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [86, 98]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/JC8B4mYOju",
+          "expanded_url": "https://www.r-bloggers.com/?p=332445",
+          "display_url": "r-bloggers.com/?p=332445",
+          "indices": {
+            "start": 53,
+            "end": 76
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 6,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "Fantasy Football Weekly Cheat Sheet: Week 3 (2022)  {https://t.co/JC8B4mYOju} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-09-23 08:59:50",
+    "id": 1.57323568246578e+18,
+    "id_str": "1573235682465783808",
+    "full_text": "Maximum Likelihood Distilled  {https://t.co/jfb6hDqj99} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 76,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [56, 63]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [64, 76]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/jfb6hDqj99",
+          "expanded_url": "https://www.r-bloggers.com/?p=332443",
+          "display_url": "r-bloggers.com/?p=332443",
+          "indices": {
+            "start": 31,
+            "end": 54
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 15,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "Maximum Likelihood Distilled  {https://t.co/jfb6hDqj99} #rstats #DataScience"
+  },
+  {
     "created_at": "2022-09-23 01:54:57",
     "id": 1.57312875461176e+18,
     "id_str": "1573128754611757056",
@@ -59,8 +399,8 @@
       }
     ],
     "is_quote_status": false,
-    "retweet_count": 1,
-    "favorite_count": 1,
+    "retweet_count": 2,
+    "favorite_count": 5,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -128,7 +468,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 1,
-    "favorite_count": 2,
+    "favorite_count": 4,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -195,8 +535,8 @@
       }
     ],
     "is_quote_status": false,
-    "retweet_count": 5,
-    "favorite_count": 11,
+    "retweet_count": 7,
+    "favorite_count": 25,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -264,7 +604,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 5,
-    "favorite_count": 9,
+    "favorite_count": 13,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -468,7 +808,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 4,
-    "favorite_count": 7,
+    "favorite_count": 8,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -536,7 +876,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 6,
-    "favorite_count": 15,
+    "favorite_count": 19,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -603,8 +943,8 @@
       }
     ],
     "is_quote_status": false,
-    "retweet_count": 10,
-    "favorite_count": 29,
+    "retweet_count": 13,
+    "favorite_count": 34,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -672,7 +1012,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 7,
-    "favorite_count": 19,
+    "favorite_count": 23,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -808,7 +1148,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 2,
-    "favorite_count": 6,
+    "favorite_count": 7,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -876,7 +1216,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 7,
-    "favorite_count": 46,
+    "favorite_count": 47,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -12881,7 +13221,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 6,
-    "favorite_count": 15,
+    "favorite_count": 16,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -13153,7 +13493,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 16,
-    "favorite_count": 75,
+    "favorite_count": 76,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -13425,7 +13765,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 3,
-    "favorite_count": 30,
+    "favorite_count": 32,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -14043,209 +14383,5 @@
     "possibly_sensitive": false,
     "lang": "en",
     "text": "Word documents update from R with doconv  {https://t.co/h6a9HQ5qB1} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-08-24 23:24:57",
-    "id": 1.56258176122135e+18,
-    "id_str": "1562581761221349378",
-    "full_text": "Base-R and Tidyverse Code, Side-by-Side  {https://t.co/Nf7K9tIKPi} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 87,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [67, 74]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [75, 87]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/Nf7K9tIKPi",
-          "expanded_url": "https://www.r-bloggers.com/?p=330970",
-          "display_url": "r-bloggers.com/?p=330970",
-          "indices": {
-            "start": 42,
-            "end": 65
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 10,
-    "favorite_count": 24,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "ht",
-    "text": "Base-R and Tidyverse Code, Side-by-Side  {https://t.co/Nf7K9tIKPi} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-08-24 20:10:08",
-    "id": 1.56253273031473e+18,
-    "id_str": "1562532730314731521",
-    "full_text": "Exploring Types of Subway Fares with Hierarchical Forecasting  {https://t.co/X1w7lLQ6Xf} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 109,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [89, 96]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [97, 109]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/X1w7lLQ6Xf",
-          "expanded_url": "https://www.r-bloggers.com/?p=330960",
-          "display_url": "r-bloggers.com/?p=330960",
-          "indices": {
-            "start": 64,
-            "end": 87
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 2,
-    "favorite_count": 9,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "Exploring Types of Subway Fares with Hierarchical Forecasting  {https://t.co/X1w7lLQ6Xf} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-08-24 08:54:52",
-    "id": 1.5623627963647e+18,
-    "id_str": "1562362796364697600",
-    "full_text": "Entrevista con la Dra. Julia Silge  {https://t.co/enxcHC4rBR} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 82,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [62, 69]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [70, 82]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/enxcHC4rBR",
-          "expanded_url": "https://www.r-bloggers.com/?p=330946",
-          "display_url": "r-bloggers.com/?p=330946",
-          "indices": {
-            "start": 37,
-            "end": 60
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 1,
-    "favorite_count": 8,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "ca",
-    "text": "Entrevista con la Dra. Julia Silge  {https://t.co/enxcHC4rBR} #rstats #DataScience"
   }
 ]
