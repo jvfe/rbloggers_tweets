@@ -1,5 +1,481 @@
 [
   {
+    "created_at": "2022-09-27 02:20:20",
+    "id": 1.57458469465346e+18,
+    "id_str": "1574584694653460480",
+    "full_text": "August 2022: “Top 40” New CRAN Packages  {https://t.co/mWtmAILr3V} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 87,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [67, 74]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [75, 87]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/mWtmAILr3V",
+          "expanded_url": "https://www.r-bloggers.com/?p=332624",
+          "display_url": "r-bloggers.com/?p=332624",
+          "indices": {
+            "start": 42,
+            "end": 65
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "favorite_count": 4,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "August 2022: “Top 40” New CRAN Packages  {https://t.co/mWtmAILr3V} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-09-27 00:49:58",
+    "id": 1.57456195272602e+18,
+    "id_str": "1574561952726016000",
+    "full_text": "Leading the Way for New R useRs with Strong Connections To Local Universities  {https://t.co/5BoGT4ugEW} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 125,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [105, 112]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [113, 125]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/5BoGT4ugEW",
+          "expanded_url": "https://www.r-bloggers.com/?p=332614",
+          "display_url": "r-bloggers.com/?p=332614",
+          "indices": {
+            "start": 80,
+            "end": 103
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "Leading the Way for New R useRs with Strong Connections To Local Universities  {https://t.co/5BoGT4ugEW} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-09-26 18:40:11",
+    "id": 1.57446889330492e+18,
+    "id_str": "1574468893304918018",
+    "full_text": "All the New Things in {gt} 0.7.0  {https://t.co/3ldGSguFxH} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 80,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [60, 67]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [68, 80]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/3ldGSguFxH",
+          "expanded_url": "https://www.r-bloggers.com/?p=332601",
+          "display_url": "r-bloggers.com/?p=332601",
+          "indices": {
+            "start": 35,
+            "end": 58
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 11,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "All the New Things in {gt} 0.7.0  {https://t.co/3ldGSguFxH} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-09-26 14:05:11",
+    "id": 1.57439969051854e+18,
+    "id_str": "1574399690518544387",
+    "full_text": "Matplotlib vs. ggplot: How to Use Both in R Shiny Apps  {https://t.co/pxPexuU48w} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 102,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [82, 89]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [90, 102]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/pxPexuU48w",
+          "expanded_url": "https://www.r-bloggers.com/?p=332590",
+          "display_url": "r-bloggers.com/?p=332590",
+          "indices": {
+            "start": 57,
+            "end": 80
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 6,
+    "favorite_count": 35,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "Matplotlib vs. ggplot: How to Use Both in R Shiny Apps  {https://t.co/pxPexuU48w} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-09-26 09:14:52",
+    "id": 1.57432663070473e+18,
+    "id_str": "1574326630704730113",
+    "full_text": "How to Use Bold Font in R with Examples  {https://t.co/3zXJXvTPI6} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 87,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [67, 74]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [75, 87]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/3zXJXvTPI6",
+          "expanded_url": "https://www.r-bloggers.com/?p=332584",
+          "display_url": "r-bloggers.com/?p=332584",
+          "indices": {
+            "start": 42,
+            "end": 65
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 13,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "How to Use Bold Font in R with Examples  {https://t.co/3zXJXvTPI6} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-09-26 07:59:52",
+    "id": 1.57430775585853e+18,
+    "id_str": "1574307755858530305",
+    "full_text": "Data Visualisation with Markdown, Flexdashboard and Shiny  {https://t.co/fB6Lkr4hf3} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 105,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [85, 92]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [93, 105]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/fB6Lkr4hf3",
+          "expanded_url": "https://www.r-bloggers.com/?p=332572",
+          "display_url": "r-bloggers.com/?p=332572",
+          "indices": {
+            "start": 60,
+            "end": 83
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 6,
+    "favorite_count": 28,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "Data Visualisation with Markdown, Flexdashboard and Shiny  {https://t.co/fB6Lkr4hf3} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-09-26 05:19:58",
+    "id": 1.57426751442674e+18,
+    "id_str": "1574267514426740737",
+    "full_text": "Housing Markets Down: Hierarchical Time Series  {https://t.co/lmDf4Mq8zz} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 94,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [74, 81]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [82, 94]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/lmDf4Mq8zz",
+          "expanded_url": "https://www.r-bloggers.com/?p=332567",
+          "display_url": "r-bloggers.com/?p=332567",
+          "indices": {
+            "start": 49,
+            "end": 72
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 14,
+    "favorite_count": 37,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "Housing Markets Down: Hierarchical Time Series  {https://t.co/lmDf4Mq8zz} #rstats #DataScience"
+  },
+  {
     "created_at": "2022-09-25 21:54:56",
     "id": 1.57415551752569e+18,
     "id_str": "1574155517525692419",
@@ -60,7 +536,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 3,
-    "favorite_count": 4,
+    "favorite_count": 6,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -128,7 +604,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 4,
-    "favorite_count": 12,
+    "favorite_count": 13,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -195,8 +671,8 @@
       }
     ],
     "is_quote_status": false,
-    "retweet_count": 10,
-    "favorite_count": 31,
+    "retweet_count": 11,
+    "favorite_count": 32,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -13771,345 +14247,5 @@
     "possibly_sensitive": false,
     "lang": "en",
     "text": "What is the bias variance tradeoff?  {https://t.co/Fudb3kCJMA} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-08-27 21:25:13",
-    "id": 1.56363879294224e+18,
-    "id_str": "1563638792942243846",
-    "full_text": "Interpretability and explainability of predictive models  {https://t.co/uXaeWyfmXZ} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 104,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [84, 91]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [92, 104]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/uXaeWyfmXZ",
-          "expanded_url": "https://www.r-bloggers.com/?p=331093",
-          "display_url": "r-bloggers.com/?p=331093",
-          "indices": {
-            "start": 59,
-            "end": 82
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 33,
-    "favorite_count": 124,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "Interpretability and explainability of predictive models  {https://t.co/uXaeWyfmXZ} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-08-27 21:19:57",
-    "id": 1.56363746445515e+18,
-    "id_str": "1563637464455151616",
-    "full_text": "Extending network analysis in R with netUtils  {https://t.co/JH73NisBF2} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 93,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [73, 80]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [81, 93]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/JH73NisBF2",
-          "expanded_url": "https://www.r-bloggers.com/?p=331091",
-          "display_url": "r-bloggers.com/?p=331091",
-          "indices": {
-            "start": 48,
-            "end": 71
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 16,
-    "favorite_count": 76,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "Extending network analysis in R with netUtils  {https://t.co/JH73NisBF2} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-08-27 13:55:07",
-    "id": 1.56352552019286e+18,
-    "id_str": "1563525520192864258",
-    "full_text": "Natural Gas Prices for main Hubs in Europe, Asia, and US  {https://t.co/rsjns1DsGM} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 104,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [84, 91]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [92, 104]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/rsjns1DsGM",
-          "expanded_url": "https://www.r-bloggers.com/?p=331077",
-          "display_url": "r-bloggers.com/?p=331077",
-          "indices": {
-            "start": 59,
-            "end": 82
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 3,
-    "favorite_count": 6,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "Natural Gas Prices for main Hubs in Europe, Asia, and US  {https://t.co/rsjns1DsGM} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-08-27 10:49:51",
-    "id": 1.563478897924e+18,
-    "id_str": "1563478897924001794",
-    "full_text": "How to handle Imbalanced Data?  {https://t.co/BiAkRf8ths} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 78,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [58, 65]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [66, 78]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/BiAkRf8ths",
-          "expanded_url": "https://www.r-bloggers.com/?p=331072",
-          "display_url": "r-bloggers.com/?p=331072",
-          "indices": {
-            "start": 33,
-            "end": 56
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 11,
-    "favorite_count": 36,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "How to handle Imbalanced Data?  {https://t.co/BiAkRf8ths} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-08-27 10:34:50",
-    "id": 1.56347511881454e+18,
-    "id_str": "1563475118814535686",
-    "full_text": "Surprising Things You Can Do With R  {https://t.co/fmhk7ZyBnM} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 83,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [63, 70]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [71, 83]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/fmhk7ZyBnM",
-          "expanded_url": "https://www.r-bloggers.com/?p=331066",
-          "display_url": "r-bloggers.com/?p=331066",
-          "indices": {
-            "start": 38,
-            "end": 61
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 8,
-    "favorite_count": 40,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "Surprising Things You Can Do With R  {https://t.co/fmhk7ZyBnM} #rstats #DataScience"
   }
 ]
