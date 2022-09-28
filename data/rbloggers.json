@@ -1,5 +1,345 @@
 [
   {
+    "created_at": "2022-09-27 21:59:50",
+    "id": 1.5748815257992e+18,
+    "id_str": "1574881525799198757",
+    "full_text": "How to Find Quartiles in R?  {https://t.co/QOqKnjawfz} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 75,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [55, 62]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [63, 75]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/QOqKnjawfz",
+          "expanded_url": "https://www.r-bloggers.com/?p=332656",
+          "display_url": "r-bloggers.com/?p=332656",
+          "indices": {
+            "start": 30,
+            "end": 53
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 6,
+    "favorite_count": 7,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "How to Find Quartiles in R?  {https://t.co/QOqKnjawfz} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-09-27 19:14:52",
+    "id": 1.57484001170657e+18,
+    "id_str": "1574840011706568737",
+    "full_text": "How to append two tables in R Markdown?  {https://t.co/ZXgxuKs84b} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 87,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [67, 74]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [75, 87]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/ZXgxuKs84b",
+          "expanded_url": "https://www.r-bloggers.com/?p=332648",
+          "display_url": "r-bloggers.com/?p=332648",
+          "indices": {
+            "start": 42,
+            "end": 65
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 17,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "How to append two tables in R Markdown?  {https://t.co/ZXgxuKs84b} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-09-27 09:15:04",
+    "id": 1.57468906778629e+18,
+    "id_str": "1574689067786293249",
+    "full_text": "Writing Functions in R  {https://t.co/KVZphoPwuD} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 70,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [50, 57]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [58, 70]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/KVZphoPwuD",
+          "expanded_url": "https://www.r-bloggers.com/?p=332640",
+          "display_url": "r-bloggers.com/?p=332640",
+          "indices": {
+            "start": 25,
+            "end": 48
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 13,
+    "favorite_count": 45,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "Writing Functions in R  {https://t.co/KVZphoPwuD} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-09-27 06:35:12",
+    "id": 1.57464883715889e+18,
+    "id_str": "1574648837158887427",
+    "full_text": "Notes on Linear Algebra Part 4  {https://t.co/trmiJ5l3b6} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 78,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [58, 65]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [66, 78]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/trmiJ5l3b6",
+          "expanded_url": "https://www.r-bloggers.com/?p=332632",
+          "display_url": "r-bloggers.com/?p=332632",
+          "indices": {
+            "start": 33,
+            "end": 56
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "favorite_count": 17,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "Notes on Linear Algebra Part 4  {https://t.co/trmiJ5l3b6} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-09-27 05:54:51",
+    "id": 1.57463868145294e+18,
+    "id_str": "1574638681452941314",
+    "full_text": "How to Use Italic Font in R  {https://t.co/n6QyrGBtLr} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 75,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [55, 62]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [63, 75]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/n6QyrGBtLr",
+          "expanded_url": "https://www.r-bloggers.com/?p=332626",
+          "display_url": "r-bloggers.com/?p=332626",
+          "indices": {
+            "start": 30,
+            "end": 53
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 11,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "How to Use Italic Font in R  {https://t.co/n6QyrGBtLr} #rstats #DataScience"
+  },
+  {
     "created_at": "2022-09-27 02:20:20",
     "id": 1.57458469465346e+18,
     "id_str": "1574584694653460480",
@@ -59,8 +399,8 @@
       }
     ],
     "is_quote_status": false,
-    "retweet_count": 5,
-    "favorite_count": 4,
+    "retweet_count": 8,
+    "favorite_count": 17,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -128,7 +468,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 3,
-    "favorite_count": 2,
+    "favorite_count": 5,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -195,8 +535,8 @@
       }
     ],
     "is_quote_status": false,
-    "retweet_count": 3,
-    "favorite_count": 11,
+    "retweet_count": 4,
+    "favorite_count": 13,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -263,8 +603,8 @@
       }
     ],
     "is_quote_status": false,
-    "retweet_count": 6,
-    "favorite_count": 35,
+    "retweet_count": 7,
+    "favorite_count": 41,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -332,7 +672,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 3,
-    "favorite_count": 13,
+    "favorite_count": 16,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -399,8 +739,8 @@
       }
     ],
     "is_quote_status": false,
-    "retweet_count": 6,
-    "favorite_count": 28,
+    "retweet_count": 7,
+    "favorite_count": 29,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -468,7 +808,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 14,
-    "favorite_count": 37,
+    "favorite_count": 38,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -740,7 +1080,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 7,
-    "favorite_count": 51,
+    "favorite_count": 52,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -14036,216 +14376,5 @@
     "possibly_sensitive": false,
     "lang": "en",
     "text": "How to Get a Job as a Data Engineer?  {https://t.co/I2V0dv10Gl} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-08-28 20:24:55",
-    "id": 1.56398600282952e+18,
-    "id_str": "1563986002829524996",
-    "full_text": "Little useless-useful R functions – Drawing randomly generated @Github contribution graph  {https://t.co/vBSh3iYHE2} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 137,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [117, 124]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [125, 137]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "screen_name": "github",
-          "name": "GitHub",
-          "id": 13334762,
-          "id_str": "13334762",
-          "indices": {
-            "start": 63,
-            "end": 70
-          }
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/vBSh3iYHE2",
-          "expanded_url": "https://www.r-bloggers.com/?p=331132",
-          "display_url": "r-bloggers.com/?p=331132",
-          "indices": {
-            "start": 92,
-            "end": 115
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 6,
-    "favorite_count": 16,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "Little useless-useful R functions – Drawing randomly generated @Github contribution graph  {https://t.co/vBSh3iYHE2} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-08-28 13:04:55",
-    "id": 1.5638752765217e+18,
-    "id_str": "1563875276521701376",
-    "full_text": "Python is superior to R for writing quality codes  {https://t.co/Fyoygodd0b} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 97,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [77, 84]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [85, 97]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/Fyoygodd0b",
-          "expanded_url": "https://www.r-bloggers.com/?p=331112",
-          "display_url": "r-bloggers.com/?p=331112",
-          "indices": {
-            "start": 52,
-            "end": 75
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 7,
-    "favorite_count": 43,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "Python is superior to R for writing quality codes  {https://t.co/Fyoygodd0b} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-08-28 09:49:59",
-    "id": 1.56382621665379e+18,
-    "id_str": "1563826216653787138",
-    "full_text": "What is the bias variance tradeoff?  {https://t.co/Fudb3kCJMA} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 83,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [63, 70]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [71, 83]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/Fudb3kCJMA",
-          "expanded_url": "https://www.r-bloggers.com/?p=331110",
-          "display_url": "r-bloggers.com/?p=331110",
-          "indices": {
-            "start": 38,
-            "end": 61
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 10,
-    "favorite_count": 28,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "What is the bias variance tradeoff?  {https://t.co/Fudb3kCJMA} #rstats #DataScience"
   }
 ]
