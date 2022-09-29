@@ -1,5 +1,141 @@
 [
   {
+    "created_at": "2022-09-28 17:59:56",
+    "id": 1.57518354302997e+18,
+    "id_str": "1575183543029973000",
+    "full_text": "Get Started with Shiny for Python  {https://t.co/xRcY1nxdtm} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 81,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [61, 68]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [69, 81]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/xRcY1nxdtm",
+          "expanded_url": "https://www.r-bloggers.com/?p=332688",
+          "display_url": "r-bloggers.com/?p=332688",
+          "indices": {
+            "start": 36,
+            "end": 59
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 8,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "Get Started with Shiny for Python  {https://t.co/xRcY1nxdtm} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-09-28 09:19:54",
+    "id": 1.57505267088012e+18,
+    "id_str": "1575052670880124929",
+    "full_text": "Shiny in Production Conference  {https://t.co/jgnpsIBylV} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 78,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [58, 65]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [66, 78]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/jgnpsIBylV",
+          "expanded_url": "https://www.r-bloggers.com/?p=332682",
+          "display_url": "r-bloggers.com/?p=332682",
+          "indices": {
+            "start": 33,
+            "end": 56
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 9,
+    "favorite_count": 44,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "Shiny in Production Conference  {https://t.co/jgnpsIBylV} #rstats #DataScience"
+  },
+  {
     "created_at": "2022-09-27 21:59:50",
     "id": 1.5748815257992e+18,
     "id_str": "1574881525799198757",
@@ -59,8 +195,8 @@
       }
     ],
     "is_quote_status": false,
-    "retweet_count": 6,
-    "favorite_count": 7,
+    "retweet_count": 7,
+    "favorite_count": 19,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -127,8 +263,8 @@
       }
     ],
     "is_quote_status": false,
-    "retweet_count": 3,
-    "favorite_count": 17,
+    "retweet_count": 4,
+    "favorite_count": 30,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -195,8 +331,8 @@
       }
     ],
     "is_quote_status": false,
-    "retweet_count": 13,
-    "favorite_count": 45,
+    "retweet_count": 14,
+    "favorite_count": 53,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -264,7 +400,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 5,
-    "favorite_count": 17,
+    "favorite_count": 18,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -400,7 +536,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 8,
-    "favorite_count": 17,
+    "favorite_count": 19,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -603,8 +739,8 @@
       }
     ],
     "is_quote_status": false,
-    "retweet_count": 7,
-    "favorite_count": 41,
+    "retweet_count": 8,
+    "favorite_count": 43,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -740,7 +876,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 7,
-    "favorite_count": 29,
+    "favorite_count": 30,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -808,7 +944,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 14,
-    "favorite_count": 38,
+    "favorite_count": 39,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -1284,7 +1420,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 11,
-    "favorite_count": 55,
+    "favorite_count": 56,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -14036,345 +14172,5 @@
     "possibly_sensitive": false,
     "lang": "nl",
     "text": "optimal Gaussian zorbing  {https://t.co/hXWUMyyju6} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-08-29 22:50:12",
-    "id": 1.56438495306385e+18,
-    "id_str": "1564384953063849985",
-    "full_text": "July 2022: “Top 40” New CRAN Packages  {https://t.co/FGB1R3zPZ3} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 85,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [65, 72]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [73, 85]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/FGB1R3zPZ3",
-          "expanded_url": "https://www.r-bloggers.com/?p=331173",
-          "display_url": "r-bloggers.com/?p=331173",
-          "indices": {
-            "start": 40,
-            "end": 63
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 8,
-    "favorite_count": 32,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "July 2022: “Top 40” New CRAN Packages  {https://t.co/FGB1R3zPZ3} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-08-29 22:34:57",
-    "id": 1.56438111517932e+18,
-    "id_str": "1564381115179323392",
-    "full_text": "Up and Running with R Markdown  {https://t.co/p6nLWFFKDA} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 78,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [58, 65]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [66, 78]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/p6nLWFFKDA",
-          "expanded_url": "https://www.r-bloggers.com/?p=331171",
-          "display_url": "r-bloggers.com/?p=331171",
-          "indices": {
-            "start": 33,
-            "end": 56
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 5,
-    "favorite_count": 9,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "Up and Running with R Markdown  {https://t.co/p6nLWFFKDA} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-08-29 22:24:53",
-    "id": 1.56437858210491e+18,
-    "id_str": "1564378582104907776",
-    "full_text": "A proposal for capping exploding electricity spot market prices without subsidies or supply  {https://t.co/5razTLf6Bp} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 139,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [119, 126]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [127, 139]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/5razTLf6Bp",
-          "expanded_url": "https://www.r-bloggers.com/?p=331169",
-          "display_url": "r-bloggers.com/?p=331169",
-          "indices": {
-            "start": 94,
-            "end": 117
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 5,
-    "favorite_count": 5,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "A proposal for capping exploding electricity spot market prices without subsidies or supply  {https://t.co/5razTLf6Bp} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-08-29 11:04:55",
-    "id": 1.56420746373748e+18,
-    "id_str": "1564207463737475075",
-    "full_text": "Efficient list melting and unnesting with {rrapply}  {https://t.co/90tL8RscwT} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 99,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [79, 86]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [87, 99]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/90tL8RscwT",
-          "expanded_url": "https://www.r-bloggers.com/?p=331155",
-          "display_url": "r-bloggers.com/?p=331155",
-          "indices": {
-            "start": 54,
-            "end": 77
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 4,
-    "favorite_count": 18,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "Efficient list melting and unnesting with {rrapply}  {https://t.co/90tL8RscwT} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-08-29 02:44:52",
-    "id": 1.56408162252118e+18,
-    "id_str": "1564081622521184257",
-    "full_text": "How to Get a Job as a Data Engineer?  {https://t.co/I2V0dv10Gl} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 84,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [64, 71]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [72, 84]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/I2V0dv10Gl",
-          "expanded_url": "https://www.r-bloggers.com/?p=331139",
-          "display_url": "r-bloggers.com/?p=331139",
-          "indices": {
-            "start": 39,
-            "end": 62
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 4,
-    "favorite_count": 12,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "How to Get a Job as a Data Engineer?  {https://t.co/I2V0dv10Gl} #rstats #DataScience"
   }
 ]
