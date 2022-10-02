@@ -1,5 +1,209 @@
 [
   {
+    "created_at": "2022-10-01 21:04:51",
+    "id": 1.57631724099537e+18,
+    "id_str": "1576317240995373056",
+    "full_text": "Fantasy Football Weekly Cheat Sheet: Week 4 (2022)  {https://t.co/tiHUn68dNq} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 98,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [78, 85]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [86, 98]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/tiHUn68dNq",
+          "expanded_url": "https://www.r-bloggers.com/?p=332811",
+          "display_url": "r-bloggers.com/?p=332811",
+          "indices": {
+            "start": 53,
+            "end": 76
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "favorite_count": 8,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "Fantasy Football Weekly Cheat Sheet: Week 4 (2022)  {https://t.co/tiHUn68dNq} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-10-01 15:50:00",
+    "id": 1.57623800749724e+18,
+    "id_str": "1576238007497236482",
+    "full_text": "Why and how to use JS in your Shiny app  {https://t.co/wC43lWUIxt} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 87,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [67, 74]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [75, 87]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/wC43lWUIxt",
+          "expanded_url": "https://www.r-bloggers.com/?p=332808",
+          "display_url": "r-bloggers.com/?p=332808",
+          "indices": {
+            "start": 42,
+            "end": 65
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 16,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "Why and how to use JS in your Shiny app  {https://t.co/wC43lWUIxt} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-10-01 15:25:10",
+    "id": 1.57623175816874e+18,
+    "id_str": "1576231758168735746",
+    "full_text": "R tips and tricks – get the gist  {https://t.co/BeOONfAgky} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 80,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [60, 67]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [68, 80]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/BeOONfAgky",
+          "expanded_url": "https://www.r-bloggers.com/?p=332806",
+          "display_url": "r-bloggers.com/?p=332806",
+          "indices": {
+            "start": 35,
+            "end": 58
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 7,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "R tips and tricks – get the gist  {https://t.co/BeOONfAgky} #rstats #DataScience"
+  },
+  {
     "created_at": "2022-09-30 18:54:58",
     "id": 1.57592216519036e+18,
     "id_str": "1575922165190361102",
@@ -60,7 +264,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 7,
-    "favorite_count": 10,
+    "favorite_count": 17,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -128,7 +332,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 5,
-    "favorite_count": 21,
+    "favorite_count": 26,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -196,7 +400,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 4,
-    "favorite_count": 3,
+    "favorite_count": 4,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -264,7 +468,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 6,
-    "favorite_count": 17,
+    "favorite_count": 20,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -332,7 +536,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 3,
-    "favorite_count": 5,
+    "favorite_count": 9,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -468,7 +672,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 7,
-    "favorite_count": 18,
+    "favorite_count": 19,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -13560,549 +13764,5 @@
     "possibly_sensitive": false,
     "lang": "en",
     "text": "How to Add a caption to ggplot2 Plots in R?  {https://t.co/IXhgbFYE0W} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-09-01 23:59:19",
-    "id": 1.56548951269593e+18,
-    "id_str": "1565489512695926790",
-    "full_text": "Python API deployment with RStudio Connect: FastAPI  {https://t.co/j2bbaWLUYJ} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 99,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [79, 86]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [87, 99]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/j2bbaWLUYJ",
-          "expanded_url": "https://www.r-bloggers.com/?p=331298",
-          "display_url": "r-bloggers.com/?p=331298",
-          "indices": {
-            "start": 54,
-            "end": 77
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 5,
-    "favorite_count": 9,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "Python API deployment with RStudio Connect: FastAPI  {https://t.co/j2bbaWLUYJ} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-09-01 20:55:00",
-    "id": 1.56544312592918e+18,
-    "id_str": "1565443125929181186",
-    "full_text": "How a Local Community Produced the First Nation-wide R useR Group  {https://t.co/DdY7lg7C69} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 113,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [93, 100]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [101, 113]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/DdY7lg7C69",
-          "expanded_url": "https://www.r-bloggers.com/?p=331305",
-          "display_url": "r-bloggers.com/?p=331305",
-          "indices": {
-            "start": 68,
-            "end": 91
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 6,
-    "favorite_count": 8,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "How a Local Community Produced the First Nation-wide R useR Group  {https://t.co/DdY7lg7C69} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-09-01 20:04:55",
-    "id": 1.56543052421003e+18,
-    "id_str": "1565430524210028547",
-    "full_text": "Shiny Reactivity Tricks, pt. I: Creating Observers in Loop  {https://t.co/I8HYWRCr64} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 106,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [86, 93]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [94, 106]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/I8HYWRCr64",
-          "expanded_url": "https://www.r-bloggers.com/?p=331303",
-          "display_url": "r-bloggers.com/?p=331303",
-          "indices": {
-            "start": 61,
-            "end": 84
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 3,
-    "favorite_count": 8,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "Shiny Reactivity Tricks, pt. I: Creating Observers in Loop  {https://t.co/I8HYWRCr64} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-09-01 19:05:14",
-    "id": 1.56541550129522e+18,
-    "id_str": "1565415501295222786",
-    "full_text": "Notes on Linear Algebra Part 2  {https://t.co/Ogdm6ZTCb3} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 78,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [58, 65]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [66, 78]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/Ogdm6ZTCb3",
-          "expanded_url": "https://www.r-bloggers.com/?p=331301",
-          "display_url": "r-bloggers.com/?p=331301",
-          "indices": {
-            "start": 33,
-            "end": 56
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 2,
-    "favorite_count": 8,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "Notes on Linear Algebra Part 2  {https://t.co/Ogdm6ZTCb3} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-09-01 13:34:58",
-    "id": 1.56533238785216e+18,
-    "id_str": "1565332387852161026",
-    "full_text": "RStudio Community Monthly Events Roundup – September 2022  {https://t.co/qvhwiw26IV} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 105,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [85, 92]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [93, 105]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/qvhwiw26IV",
-          "expanded_url": "https://www.r-bloggers.com/?p=331281",
-          "display_url": "r-bloggers.com/?p=331281",
-          "indices": {
-            "start": 60,
-            "end": 83
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 2,
-    "favorite_count": 1,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "RStudio Community Monthly Events Roundup – September 2022  {https://t.co/qvhwiw26IV} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-09-01 13:29:55",
-    "id": 1.56533111810633e+18,
-    "id_str": "1565331118106329089",
-    "full_text": "Shiny Reactivity Tricks, pt. II: Reactives Factories  {https://t.co/Ma2gC4LWb6} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 100,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [80, 87]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [88, 100]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/Ma2gC4LWb6",
-          "expanded_url": "https://www.r-bloggers.com/?p=331279",
-          "display_url": "r-bloggers.com/?p=331279",
-          "indices": {
-            "start": 55,
-            "end": 78
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 5,
-    "favorite_count": 19,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "Shiny Reactivity Tricks, pt. II: Reactives Factories  {https://t.co/Ma2gC4LWb6} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-09-01 11:50:08",
-    "id": 1.56530600798258e+18,
-    "id_str": "1565306007982579714",
-    "full_text": "Australian Signals Directorate 50c Coin Decryption  {https://t.co/wniWDJVNyk} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 98,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [78, 85]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [86, 98]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/wniWDJVNyk",
-          "expanded_url": "https://www.r-bloggers.com/?p=331277",
-          "display_url": "r-bloggers.com/?p=331277",
-          "indices": {
-            "start": 53,
-            "end": 76
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 4,
-    "favorite_count": 9,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "fr",
-    "text": "Australian Signals Directorate 50c Coin Decryption  {https://t.co/wniWDJVNyk} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-09-01 07:19:51",
-    "id": 1.56523798853528e+18,
-    "id_str": "1565237988535279619",
-    "full_text": "Use of Differential Privacy in the US Census–All for Nothing?  {https://t.co/PJjfenfQUn} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 109,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [89, 96]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [97, 109]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/PJjfenfQUn",
-          "expanded_url": "https://www.r-bloggers.com/?p=331275",
-          "display_url": "r-bloggers.com/?p=331275",
-          "indices": {
-            "start": 64,
-            "end": 87
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 2,
-    "favorite_count": 6,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "Use of Differential Privacy in the US Census–All for Nothing?  {https://t.co/PJjfenfQUn} #rstats #DataScience"
   }
 ]
