@@ -1,5 +1,209 @@
 [
   {
+    "created_at": "2022-10-03 02:29:56",
+    "id": 1.57676143975437e+18,
+    "id_str": "1576761439754371075",
+    "full_text": "A Gentle Introduction to using Support Vector Machines for Classification  {https://t.co/sFrboxitrn} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 121,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [101, 108]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [109, 121]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/sFrboxitrn",
+          "expanded_url": "https://www.r-bloggers.com/?p=332846",
+          "display_url": "r-bloggers.com/?p=332846",
+          "indices": {
+            "start": 76,
+            "end": 99
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 13,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "A Gentle Introduction to using Support Vector Machines for Classification  {https://t.co/sFrboxitrn} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-10-03 00:49:58",
+    "id": 1.57673627955062e+18,
+    "id_str": "1576736279550623744",
+    "full_text": "Understanding leaf node numbers when using rpart and rpart.rules  {https://t.co/5S0p1jnBxW} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 112,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [92, 99]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [100, 112]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/5S0p1jnBxW",
+          "expanded_url": "https://www.r-bloggers.com/?p=332844",
+          "display_url": "r-bloggers.com/?p=332844",
+          "indices": {
+            "start": 67,
+            "end": 90
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 5,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "Understanding leaf node numbers when using rpart and rpart.rules  {https://t.co/5S0p1jnBxW} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-10-02 05:45:10",
+    "id": 1.57644818505625e+18,
+    "id_str": "1576448185056247808",
+    "full_text": "Probabilistic Photograph Manipulation with ggplot2 and imager  {https://t.co/CA4k1061RB} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 109,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [89, 96]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [97, 109]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/CA4k1061RB",
+          "expanded_url": "https://www.r-bloggers.com/?p=332822",
+          "display_url": "r-bloggers.com/?p=332822",
+          "indices": {
+            "start": 64,
+            "end": 87
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 10,
+    "favorite_count": 24,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "Probabilistic Photograph Manipulation with ggplot2 and imager  {https://t.co/CA4k1061RB} #rstats #DataScience"
+  },
+  {
     "created_at": "2022-10-01 21:04:51",
     "id": 1.57631724099537e+18,
     "id_str": "1576317240995373056",
@@ -60,7 +264,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 5,
-    "favorite_count": 8,
+    "favorite_count": 13,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -128,7 +332,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 3,
-    "favorite_count": 16,
+    "favorite_count": 24,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -196,7 +400,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 1,
-    "favorite_count": 7,
+    "favorite_count": 9,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -332,7 +536,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 5,
-    "favorite_count": 26,
+    "favorite_count": 27,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -8090,7 +8294,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 20,
-    "favorite_count": 68,
+    "favorite_count": 67,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -13356,413 +13560,5 @@
     "possibly_sensitive": false,
     "lang": "en",
     "text": "Tweaking Hugo Portio theme  {https://t.co/XnUPgMMeDp} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-09-02 21:59:53",
-    "id": 1.56582184434678e+18,
-    "id_str": "1565821844346781708",
-    "full_text": "Looking at cash flows  {https://t.co/9z3aDP06qg} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 69,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [49, 56]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [57, 69]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/9z3aDP06qg",
-          "expanded_url": "https://www.r-bloggers.com/?p=331358",
-          "display_url": "r-bloggers.com/?p=331358",
-          "indices": {
-            "start": 24,
-            "end": 47
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 8,
-    "favorite_count": 20,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "Looking at cash flows  {https://t.co/9z3aDP06qg} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-09-02 18:50:09",
-    "id": 1.56577409463693e+18,
-    "id_str": "1565774094636929025",
-    "full_text": "R-Ladies &amp; PyLadies – Bringing the Communities Together  {https://t.co/SVGLJ8GJDS} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 107,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [87, 94]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [95, 107]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/SVGLJ8GJDS",
-          "expanded_url": "https://www.r-bloggers.com/?p=331356",
-          "display_url": "r-bloggers.com/?p=331356",
-          "indices": {
-            "start": 62,
-            "end": 85
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 6,
-    "favorite_count": 14,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "R-Ladies &amp; PyLadies – Bringing the Communities Together  {https://t.co/SVGLJ8GJDS} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-09-02 16:54:52",
-    "id": 1.56574508467448e+18,
-    "id_str": "1565745084674482177",
-    "full_text": "23 New books added to Big Book of R  {https://t.co/A3FMTSvKSh} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 83,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [63, 70]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [71, 83]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/A3FMTSvKSh",
-          "expanded_url": "https://www.r-bloggers.com/?p=331354",
-          "display_url": "r-bloggers.com/?p=331354",
-          "indices": {
-            "start": 38,
-            "end": 61
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 9,
-    "favorite_count": 24,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "23 New books added to Big Book of R  {https://t.co/A3FMTSvKSh} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-09-02 16:29:58",
-    "id": 1.56573881684928e+18,
-    "id_str": "1565738816849281024",
-    "full_text": "Electricity markets: Can the EU deal with forward hedging when taxing infra-marginal  {https://t.co/5mF6TJ33Vx} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 132,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [112, 119]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [120, 132]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/5mF6TJ33Vx",
-          "expanded_url": "https://www.r-bloggers.com/?p=331351",
-          "display_url": "r-bloggers.com/?p=331351",
-          "indices": {
-            "start": 87,
-            "end": 110
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 3,
-    "favorite_count": 6,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "Electricity markets: Can the EU deal with forward hedging when taxing infra-marginal  {https://t.co/5mF6TJ33Vx} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-09-02 15:54:58",
-    "id": 1.56573000924291e+18,
-    "id_str": "1565730009242914816",
-    "full_text": "pkgdown and GDPR – How to host a pkgdown site in Germany  {https://t.co/wCQb3k8oNh} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 104,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [84, 91]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [92, 104]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/wCQb3k8oNh",
-          "expanded_url": "https://www.r-bloggers.com/?p=331349",
-          "display_url": "r-bloggers.com/?p=331349",
-          "indices": {
-            "start": 59,
-            "end": 82
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 2,
-    "favorite_count": 3,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "pkgdown and GDPR – How to host a pkgdown site in Germany  {https://t.co/wCQb3k8oNh} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-09-02 01:04:55",
-    "id": 1.56550601925344e+18,
-    "id_str": "1565506019253444609",
-    "full_text": "How to Add a caption to ggplot2 Plots in R?  {https://t.co/IXhgbFYE0W} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 91,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [71, 78]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [79, 91]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/IXhgbFYE0W",
-          "expanded_url": "https://www.r-bloggers.com/?p=331311",
-          "display_url": "r-bloggers.com/?p=331311",
-          "indices": {
-            "start": 46,
-            "end": 69
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 9,
-    "favorite_count": 16,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "How to Add a caption to ggplot2 Plots in R?  {https://t.co/IXhgbFYE0W} #rstats #DataScience"
   }
 ]
