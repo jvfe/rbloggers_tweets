@@ -1,5 +1,345 @@
 [
   {
+    "created_at": "2022-10-06 23:59:15",
+    "id": 1.5781730711895e+18,
+    "id_str": "1578173071189499904",
+    "full_text": "Refactoring Russian Doll Code  {https://t.co/adTc2pOBMA} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 77,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [57, 64]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [65, 77]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/adTc2pOBMA",
+          "expanded_url": "https://www.r-bloggers.com/?p=332981",
+          "display_url": "r-bloggers.com/?p=332981",
+          "indices": {
+            "start": 32,
+            "end": 55
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "Refactoring Russian Doll Code  {https://t.co/adTc2pOBMA} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-10-06 23:15:13",
+    "id": 1.57816198917573e+18,
+    "id_str": "1578161989175726081",
+    "full_text": "R Shiny vs Shiny for Python: What are the Key Differences  {https://t.co/biOQKtR8dr} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 105,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [85, 92]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [93, 105]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/biOQKtR8dr",
+          "expanded_url": "https://www.r-bloggers.com/?p=333005",
+          "display_url": "r-bloggers.com/?p=333005",
+          "indices": {
+            "start": 60,
+            "end": 83
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 12,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "R Shiny vs Shiny for Python: What are the Key Differences  {https://t.co/biOQKtR8dr} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-10-06 21:44:54",
+    "id": 1.57813926101825e+18,
+    "id_str": "1578139261018247170",
+    "full_text": "Unravelling Transparency in Coverage Data  {https://t.co/9h5VCofF8k} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 89,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [69, 76]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [77, 89]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/9h5VCofF8k",
+          "expanded_url": "https://www.r-bloggers.com/?p=333002",
+          "display_url": "r-bloggers.com/?p=333002",
+          "indices": {
+            "start": 44,
+            "end": 67
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "Unravelling Transparency in Coverage Data  {https://t.co/9h5VCofF8k} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-10-06 20:19:58",
+    "id": 1.57811788332604e+18,
+    "id_str": "1578117883326042112",
+    "full_text": "Team Collaboration in R and Python Made Easy  {https://t.co/tiLBTiFBDs} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 92,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [72, 79]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [80, 92]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/tiLBTiFBDs",
+          "expanded_url": "https://www.r-bloggers.com/?p=333000",
+          "display_url": "r-bloggers.com/?p=333000",
+          "indices": {
+            "start": 47,
+            "end": 70
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 9,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "Team Collaboration in R and Python Made Easy  {https://t.co/tiLBTiFBDs} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-10-06 12:39:50",
+    "id": 1.57800209005147e+18,
+    "id_str": "1578002090051469313",
+    "full_text": "Ordinal Regression as a Model for Signal Detection  {https://t.co/dVLHb9Tt4w} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 98,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [78, 85]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [86, 98]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/dVLHb9Tt4w",
+          "expanded_url": "https://www.r-bloggers.com/?p=332987",
+          "display_url": "r-bloggers.com/?p=332987",
+          "indices": {
+            "start": 53,
+            "end": 76
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 9,
+    "favorite_count": 16,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "Ordinal Regression as a Model for Signal Detection  {https://t.co/dVLHb9Tt4w} #rstats #DataScience"
+  },
+  {
     "created_at": "2022-10-06 00:10:15",
     "id": 1.57781344854471e+18,
     "id_str": "1577813448544714752",
@@ -59,8 +399,8 @@
       }
     ],
     "is_quote_status": false,
-    "retweet_count": 3,
-    "favorite_count": 2,
+    "retweet_count": 4,
+    "favorite_count": 4,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -128,7 +468,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 4,
-    "favorite_count": 10,
+    "favorite_count": 12,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -338,7 +678,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 3,
-    "favorite_count": 11,
+    "favorite_count": 12,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -2111,7 +2451,7 @@
       }
     ],
     "is_quote_status": false,
-    "retweet_count": 7,
+    "retweet_count": 8,
     "favorite_count": 20,
     "favorited": false,
     "retweeted": false,
@@ -2587,7 +2927,7 @@
       }
     ],
     "is_quote_status": false,
-    "retweet_count": 17,
+    "retweet_count": 18,
     "favorite_count": 57,
     "favorited": false,
     "retweeted": false,
@@ -5239,7 +5579,7 @@
       }
     ],
     "is_quote_status": false,
-    "retweet_count": 4,
+    "retweet_count": 5,
     "favorite_count": 10,
     "favorited": false,
     "retweeted": false,
@@ -8305,7 +8645,7 @@
       }
     ],
     "is_quote_status": false,
-    "retweet_count": 7,
+    "retweet_count": 8,
     "favorite_count": 15,
     "favorited": false,
     "retweeted": false,
@@ -12265,623 +12605,5 @@
     "possibly_sensitive": false,
     "lang": "en",
     "text": "(h)appy with lapp(l)y  {https://t.co/m9ExFIbL03} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-09-06 23:59:14",
-    "id": 1.56730143067066e+18,
-    "id_str": "1567301430670655488",
-    "full_text": "Talks to watch at the RSS International Conference  {https://t.co/5CoGeHo8Ri} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 98,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [78, 85]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [86, 98]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/5CoGeHo8Ri",
-          "expanded_url": "https://www.r-bloggers.com/?p=331542",
-          "display_url": "r-bloggers.com/?p=331542",
-          "indices": {
-            "start": 53,
-            "end": 76
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 3,
-    "favorite_count": 3,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "Talks to watch at the RSS International Conference  {https://t.co/5CoGeHo8Ri} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-09-06 20:33:22",
-    "id": 1.56724961954064e+18,
-    "id_str": "1567249619540639744",
-    "full_text": "New R job: Legal Data Scientist, Law School https://t.co/wwm1rPeTd2 #rstats #DataScience #jobs",
-    "truncated": false,
-    "display_text_range": 94,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [68, 75]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [76, 88]
-          ]
-        },
-        {
-          "text": "jobs",
-          "indices": [
-            [89, 94]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/wwm1rPeTd2",
-          "expanded_url": "https://www.r-users.com/jobs/legal-data-scientist-law-school/",
-          "display_url": "r-users.com/jobs/legal-dat…",
-          "indices": {
-            "start": 44,
-            "end": 67
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 3,
-    "favorite_count": 4,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "New R job: Legal Data Scientist, Law School https://t.co/wwm1rPeTd2 #rstats #DataScience #jobs"
-  },
-  {
-    "created_at": "2022-09-06 20:19:55",
-    "id": 1.56724623841155e+18,
-    "id_str": "1567246238411546626",
-    "full_text": "How to Avoid Overfitting?  {https://t.co/S2uhAP1L0T} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 73,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [53, 60]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [61, 73]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/S2uhAP1L0T",
-          "expanded_url": "https://www.r-bloggers.com/?p=331556",
-          "display_url": "r-bloggers.com/?p=331556",
-          "indices": {
-            "start": 28,
-            "end": 51
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 10,
-    "favorite_count": 30,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "How to Avoid Overfitting?  {https://t.co/S2uhAP1L0T} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-09-06 18:44:59",
-    "id": 1.56722234521917e+18,
-    "id_str": "1567222345219166209",
-    "full_text": "Assess Performance of the Classification Model  {https://t.co/F3O3EYBTxf} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 94,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [74, 81]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [82, 94]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/F3O3EYBTxf",
-          "expanded_url": "https://www.r-bloggers.com/?p=331554",
-          "display_url": "r-bloggers.com/?p=331554",
-          "indices": {
-            "start": 49,
-            "end": 72
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 5,
-    "favorite_count": 12,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "Assess Performance of the Classification Model  {https://t.co/F3O3EYBTxf} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-09-06 16:54:53",
-    "id": 1.56719463777277e+18,
-    "id_str": "1567194637772771331",
-    "full_text": "Financial Industry Supports Robust Vienna R Community  {https://t.co/ZA769FWLeY} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 101,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [81, 88]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [89, 101]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/ZA769FWLeY",
-          "expanded_url": "https://www.r-bloggers.com/?p=331544",
-          "display_url": "r-bloggers.com/?p=331544",
-          "indices": {
-            "start": 56,
-            "end": 79
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 4,
-    "favorite_count": 5,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "Financial Industry Supports Robust Vienna R Community  {https://t.co/ZA769FWLeY} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-09-06 13:14:58",
-    "id": 1.56713929458998e+18,
-    "id_str": "1567139294589976576",
-    "full_text": "The Package: learning how to build an R package  {https://t.co/yB7ii6JqKb} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 95,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [75, 82]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [83, 95]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/yB7ii6JqKb",
-          "expanded_url": "https://www.r-bloggers.com/?p=331539",
-          "display_url": "r-bloggers.com/?p=331539",
-          "indices": {
-            "start": 50,
-            "end": 73
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 10,
-    "favorite_count": 18,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "The Package: learning how to build an R package  {https://t.co/yB7ii6JqKb} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-09-06 09:55:00",
-    "id": 1.56708896979968e+18,
-    "id_str": "1567088969799684097",
-    "full_text": "RObservations #38: Visualizing Average Delay Times On TTC Subway Stations  {https://t.co/I6maIB1aB0} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 121,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [101, 108]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [109, 121]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/I6maIB1aB0",
-          "expanded_url": "https://www.r-bloggers.com/?p=331532",
-          "display_url": "r-bloggers.com/?p=331532",
-          "indices": {
-            "start": 76,
-            "end": 99
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 5,
-    "favorite_count": 10,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "RObservations #38: Visualizing Average Delay Times On TTC Subway Stations  {https://t.co/I6maIB1aB0} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-09-06 04:30:01",
-    "id": 1.56700718821999e+18,
-    "id_str": "1567007188219994112",
-    "full_text": "Taking text data to the next level – Unsupervised and supervised approaches in NLP @  {https://t.co/CoSYFo6Xvj} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 132,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [112, 119]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [120, 132]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/CoSYFo6Xvj",
-          "expanded_url": "https://www.r-bloggers.com/?p=331528",
-          "display_url": "r-bloggers.com/?p=331528",
-          "indices": {
-            "start": 87,
-            "end": 110
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 16,
-    "favorite_count": 40,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "Taking text data to the next level – Unsupervised and supervised approaches in NLP @  {https://t.co/CoSYFo6Xvj} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-09-06 03:04:53",
-    "id": 1.56698576069532e+18,
-    "id_str": "1566985760695324675",
-    "full_text": "Setting up your own Shiny and RStudio Server on a Raspberry Pi  {https://t.co/LzO6bIxfYU} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 110,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [90, 97]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [98, 110]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/LzO6bIxfYU",
-          "expanded_url": "https://www.r-bloggers.com/?p=331525",
-          "display_url": "r-bloggers.com/?p=331525",
-          "indices": {
-            "start": 65,
-            "end": 88
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 12,
-    "favorite_count": 36,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "Setting up your own Shiny and RStudio Server on a Raspberry Pi  {https://t.co/LzO6bIxfYU} #rstats #DataScience"
   }
 ]
