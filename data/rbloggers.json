@@ -1,5 +1,73 @@
 [
   {
+    "created_at": "2022-10-07 20:45:16",
+    "id": 1.57848663818275e+18,
+    "id_str": "1578486638182748160",
+    "full_text": "Youth Bulge theory: Why there won’t be an Uprising in Russia  {https://t.co/kboAK6jTUp} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 108,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [88, 95]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [96, 108]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/kboAK6jTUp",
+          "expanded_url": "https://www.r-bloggers.com/?p=333044",
+          "display_url": "r-bloggers.com/?p=333044",
+          "indices": {
+            "start": 63,
+            "end": 86
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "Youth Bulge theory: Why there won’t be an Uprising in Russia  {https://t.co/kboAK6jTUp} #rstats #DataScience"
+  },
+  {
     "created_at": "2022-10-06 23:59:15",
     "id": 1.5781730711895e+18,
     "id_str": "1578173071189499904",
@@ -59,8 +127,8 @@
       }
     ],
     "is_quote_status": false,
-    "retweet_count": 3,
-    "favorite_count": 0,
+    "retweet_count": 4,
+    "favorite_count": 4,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -127,8 +195,8 @@
       }
     ],
     "is_quote_status": false,
-    "retweet_count": 3,
-    "favorite_count": 12,
+    "retweet_count": 7,
+    "favorite_count": 38,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -196,7 +264,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 2,
-    "favorite_count": 0,
+    "favorite_count": 3,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -264,7 +332,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 4,
-    "favorite_count": 9,
+    "favorite_count": 11,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -331,8 +399,8 @@
       }
     ],
     "is_quote_status": false,
-    "retweet_count": 9,
-    "favorite_count": 16,
+    "retweet_count": 10,
+    "favorite_count": 24,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -400,7 +468,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 4,
-    "favorite_count": 4,
+    "favorite_count": 6,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -468,7 +536,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 4,
-    "favorite_count": 12,
+    "favorite_count": 13,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -882,7 +950,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 7,
-    "favorite_count": 31,
+    "favorite_count": 32,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -1636,7 +1704,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 8,
-    "favorite_count": 39,
+    "favorite_count": 40,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -12061,549 +12129,5 @@
     "possibly_sensitive": false,
     "lang": "it",
     "text": "Calculate Standard Error in R  {https://t.co/URm0y2r0qI} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-09-07 23:10:08",
-    "id": 1.56765146097163e+18,
-    "id_str": "1567651460971634688",
-    "full_text": "How strongly does German electricity demand react to high prices?  {https://t.co/8pNfoFo7Cr} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 113,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [93, 100]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [101, 113]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/8pNfoFo7Cr",
-          "expanded_url": "https://www.r-bloggers.com/?p=331629",
-          "display_url": "r-bloggers.com/?p=331629",
-          "indices": {
-            "start": 68,
-            "end": 91
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 5,
-    "favorite_count": 8,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "How strongly does German electricity demand react to high prices?  {https://t.co/8pNfoFo7Cr} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-09-07 21:25:03",
-    "id": 1.56762501687896e+18,
-    "id_str": "1567625016878956547",
-    "full_text": "Importance of Data Cleaning in Machine Learning  {https://t.co/5qsMCzCjQx} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 95,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [75, 82]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [83, 95]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/5qsMCzCjQx",
-          "expanded_url": "https://www.r-bloggers.com/?p=331627",
-          "display_url": "r-bloggers.com/?p=331627",
-          "indices": {
-            "start": 50,
-            "end": 73
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 5,
-    "favorite_count": 15,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "Importance of Data Cleaning in Machine Learning  {https://t.co/5qsMCzCjQx} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-09-07 19:54:57",
-    "id": 1.56760234266449e+18,
-    "id_str": "1567602342664486913",
-    "full_text": "Using Shiny Server in Docker  {https://t.co/fmgPmZMK03} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 76,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [56, 63]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [64, 76]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/fmgPmZMK03",
-          "expanded_url": "https://www.r-bloggers.com/?p=331615",
-          "display_url": "r-bloggers.com/?p=331615",
-          "indices": {
-            "start": 31,
-            "end": 54
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 8,
-    "favorite_count": 22,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "Using Shiny Server in Docker  {https://t.co/fmgPmZMK03} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-09-07 11:19:58",
-    "id": 1.56747274191309e+18,
-    "id_str": "1567472741913092096",
-    "full_text": "Relative risk regression (1/2)  {https://t.co/vlyb83eHx0} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 78,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [58, 65]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [66, 78]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/vlyb83eHx0",
-          "expanded_url": "https://www.r-bloggers.com/?p=331607",
-          "display_url": "r-bloggers.com/?p=331607",
-          "indices": {
-            "start": 33,
-            "end": 56
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 5,
-    "favorite_count": 20,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "Relative risk regression (1/2)  {https://t.co/vlyb83eHx0} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-09-07 04:18:07",
-    "id": 1.56736658024116e+18,
-    "id_str": "1567366580241158145",
-    "full_text": "Fundamentals of Exploratory and Inferential Spatial Data Analysis in R workshop  {https://t.co/0ZBCqzci5m} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 127,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [107, 114]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [115, 127]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/0ZBCqzci5m",
-          "expanded_url": "http://www.r-bloggers.com/?p=331586",
-          "display_url": "r-bloggers.com/?p=331586",
-          "indices": {
-            "start": 82,
-            "end": 105
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 9,
-    "favorite_count": 28,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "Fundamentals of Exploratory and Inferential Spatial Data Analysis in R workshop  {https://t.co/0ZBCqzci5m} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-09-07 04:17:57",
-    "id": 1.56736653602891e+18,
-    "id_str": "1567366536028905476",
-    "full_text": "DataCamp Recruit: A better way to hire data professionals  {https://t.co/sfrFuitYK1} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 105,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [85, 92]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [93, 105]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/sfrFuitYK1",
-          "expanded_url": "http://www.r-bloggers.com/?p=331584",
-          "display_url": "r-bloggers.com/?p=331584",
-          "indices": {
-            "start": 60,
-            "end": 83
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 3,
-    "favorite_count": 4,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "DataCamp Recruit: A better way to hire data professionals  {https://t.co/sfrFuitYK1} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-09-07 02:44:56",
-    "id": 1.56734312975747e+18,
-    "id_str": "1567343129757470722",
-    "full_text": "Beneath and Beyond the Cox Model  {https://t.co/Es7IGllkfs} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 80,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [60, 67]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [68, 80]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/Es7IGllkfs",
-          "expanded_url": "https://www.r-bloggers.com/?p=331582",
-          "display_url": "r-bloggers.com/?p=331582",
-          "indices": {
-            "start": 35,
-            "end": 58
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 4,
-    "favorite_count": 17,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "Beneath and Beyond the Cox Model  {https://t.co/Es7IGllkfs} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-09-07 02:39:57",
-    "id": 1.56734187589953e+18,
-    "id_str": "1567341875899531264",
-    "full_text": "(h)appy with lapp(l)y  {https://t.co/m9ExFIbL03} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 69,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [49, 56]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [57, 69]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/m9ExFIbL03",
-          "expanded_url": "https://www.r-bloggers.com/?p=331580",
-          "display_url": "r-bloggers.com/?p=331580",
-          "indices": {
-            "start": 24,
-            "end": 47
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 4,
-    "favorite_count": 11,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "(h)appy with lapp(l)y  {https://t.co/m9ExFIbL03} #rstats #DataScience"
   }
 ]
