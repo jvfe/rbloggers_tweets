@@ -1,5 +1,141 @@
 [
   {
+    "created_at": "2022-10-09 12:04:57",
+    "id": 1.57908047515894e+18,
+    "id_str": "1579080475158937600",
+    "full_text": "Invest everyday, biweekly, or monthly?  {https://t.co/B0M1bSmNpW} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 86,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [66, 73]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [74, 86]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/B0M1bSmNpW",
+          "expanded_url": "https://www.r-bloggers.com/?p=333104",
+          "display_url": "r-bloggers.com/?p=333104",
+          "indices": {
+            "start": 41,
+            "end": 64
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 8,
+    "favorite_count": 12,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "Invest everyday, biweekly, or monthly?  {https://t.co/B0M1bSmNpW} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-10-09 08:55:06",
+    "id": 1.57903269770745e+18,
+    "id_str": "1579032697707454466",
+    "full_text": "Fantasy Football Weekly Cheat Sheet: Week 5 (2022)  {https://t.co/HT37yImAMc} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 98,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [78, 85]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [86, 98]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/HT37yImAMc",
+          "expanded_url": "https://www.r-bloggers.com/?p=333102",
+          "display_url": "r-bloggers.com/?p=333102",
+          "indices": {
+            "start": 53,
+            "end": 76
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "favorite_count": 8,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "Fantasy Football Weekly Cheat Sheet: Week 5 (2022)  {https://t.co/HT37yImAMc} #rstats #DataScience"
+  },
+  {
     "created_at": "2022-10-09 02:35:06",
     "id": 1.57893706744204e+18,
     "id_str": "1578937067442036736",
@@ -59,8 +195,8 @@
       }
     ],
     "is_quote_status": false,
-    "retweet_count": 4,
-    "favorite_count": 12,
+    "retweet_count": 11,
+    "favorite_count": 42,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -127,8 +263,8 @@
       }
     ],
     "is_quote_status": false,
-    "retweet_count": 4,
-    "favorite_count": 10,
+    "retweet_count": 9,
+    "favorite_count": 34,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -195,8 +331,8 @@
       }
     ],
     "is_quote_status": false,
-    "retweet_count": 9,
-    "favorite_count": 29,
+    "retweet_count": 11,
+    "favorite_count": 34,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -263,8 +399,8 @@
       }
     ],
     "is_quote_status": false,
-    "retweet_count": 3,
-    "favorite_count": 4,
+    "retweet_count": 4,
+    "favorite_count": 5,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -331,8 +467,8 @@
       }
     ],
     "is_quote_status": false,
-    "retweet_count": 30,
-    "favorite_count": 76,
+    "retweet_count": 35,
+    "favorite_count": 101,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -739,8 +875,8 @@
       }
     ],
     "is_quote_status": false,
-    "retweet_count": 10,
-    "favorite_count": 24,
+    "retweet_count": 11,
+    "favorite_count": 25,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -808,7 +944,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 4,
-    "favorite_count": 6,
+    "favorite_count": 7,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -875,8 +1011,8 @@
       }
     ],
     "is_quote_status": false,
-    "retweet_count": 4,
-    "favorite_count": 13,
+    "retweet_count": 5,
+    "favorite_count": 14,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -1153,8 +1289,8 @@
       }
     ],
     "is_quote_status": false,
-    "retweet_count": 4,
-    "favorite_count": 12,
+    "retweet_count": 5,
+    "favorite_count": 13,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -2588,7 +2724,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 4,
-    "favorite_count": 4,
+    "favorite_count": 5,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -10624,209 +10760,5 @@
     "possibly_sensitive": false,
     "lang": "en",
     "text": "Dangerous R functions and operators for programming  {https://t.co/RI5DbERCXw} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-09-09 18:05:08",
-    "id": 1.56829948066309e+18,
-    "id_str": "1568299480663085058",
-    "full_text": "Machine Learning Impact on your day-to-day life!  {https://t.co/0ppeE9NffM} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 96,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [76, 83]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [84, 96]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/0ppeE9NffM",
-          "expanded_url": "https://www.r-bloggers.com/?p=331768",
-          "display_url": "r-bloggers.com/?p=331768",
-          "indices": {
-            "start": 51,
-            "end": 74
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 2,
-    "favorite_count": 7,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "Machine Learning Impact on your day-to-day life!  {https://t.co/0ppeE9NffM} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-09-09 05:59:55",
-    "id": 1.56811697343482e+18,
-    "id_str": "1568116973434818563",
-    "full_text": "How to Concatenate Strings in R  {https://t.co/BeZxPSTv7T} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 79,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [59, 66]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [67, 79]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/BeZxPSTv7T",
-          "expanded_url": "https://www.r-bloggers.com/?p=331735",
-          "display_url": "r-bloggers.com/?p=331735",
-          "indices": {
-            "start": 34,
-            "end": 57
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 7,
-    "favorite_count": 15,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "How to Concatenate Strings in R  {https://t.co/BeZxPSTv7T} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-09-09 03:05:04",
-    "id": 1.5680729722036e+18,
-    "id_str": "1568072972203597831",
-    "full_text": "nanonext – a web toolkit  {https://t.co/L5AIPuBbKH} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 72,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [52, 59]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [60, 72]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/L5AIPuBbKH",
-          "expanded_url": "https://www.r-bloggers.com/?p=331733",
-          "display_url": "r-bloggers.com/?p=331733",
-          "indices": {
-            "start": 27,
-            "end": 50
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 2,
-    "favorite_count": 6,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "nanonext – a web toolkit  {https://t.co/L5AIPuBbKH} #rstats #DataScience"
   }
 ]
