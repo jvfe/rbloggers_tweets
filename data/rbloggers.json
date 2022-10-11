@@ -1,5 +1,141 @@
 [
   {
+    "created_at": "2022-10-10 15:44:56",
+    "id": 1.57949822237216e+18,
+    "id_str": "1579498222372155392",
+    "full_text": "Simplifying Parts Of A Shiny App by Creating Functions  {https://t.co/cBLola6iQD} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 102,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [82, 89]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [90, 102]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/cBLola6iQD",
+          "expanded_url": "https://www.r-bloggers.com/?p=333138",
+          "display_url": "r-bloggers.com/?p=333138",
+          "indices": {
+            "start": 57,
+            "end": 80
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 7,
+    "favorite_count": 19,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "Simplifying Parts Of A Shiny App by Creating Functions  {https://t.co/cBLola6iQD} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-10-10 10:54:50",
+    "id": 1.57942521526776e+18,
+    "id_str": "1579425215267762176",
+    "full_text": "R workshops Brisbane February 2023  {https://t.co/ice4PiUT81} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 82,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [62, 69]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [70, 82]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/ice4PiUT81",
+          "expanded_url": "https://www.r-bloggers.com/?p=333135",
+          "display_url": "r-bloggers.com/?p=333135",
+          "indices": {
+            "start": 37,
+            "end": 60
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "R workshops Brisbane February 2023  {https://t.co/ice4PiUT81} #rstats #DataScience"
+  },
+  {
     "created_at": "2022-10-09 12:04:57",
     "id": 1.57908047515894e+18,
     "id_str": "1579080475158937600",
@@ -60,7 +196,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 8,
-    "favorite_count": 12,
+    "favorite_count": 13,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -128,7 +264,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 5,
-    "favorite_count": 8,
+    "favorite_count": 9,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -196,7 +332,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 11,
-    "favorite_count": 42,
+    "favorite_count": 44,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -264,7 +400,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 9,
-    "favorite_count": 34,
+    "favorite_count": 33,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -332,7 +468,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 11,
-    "favorite_count": 34,
+    "favorite_count": 35,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -1426,7 +1562,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 7,
-    "favorite_count": 33,
+    "favorite_count": 32,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -1629,8 +1765,8 @@
       }
     ],
     "is_quote_status": false,
-    "retweet_count": 8,
-    "favorite_count": 22,
+    "retweet_count": 9,
+    "favorite_count": 23,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -2656,7 +2792,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 5,
-    "favorite_count": 28,
+    "favorite_count": 27,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -3404,7 +3540,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 6,
-    "favorite_count": 34,
+    "favorite_count": 33,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -3472,7 +3608,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 18,
-    "favorite_count": 57,
+    "favorite_count": 56,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -3540,7 +3676,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 7,
-    "favorite_count": 20,
+    "favorite_count": 19,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -3608,7 +3744,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 5,
-    "favorite_count": 13,
+    "favorite_count": 12,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -3880,7 +4016,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 10,
-    "favorite_count": 44,
+    "favorite_count": 43,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -3948,7 +4084,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 5,
-    "favorite_count": 18,
+    "favorite_count": 17,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -4016,7 +4152,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 10,
-    "favorite_count": 33,
+    "favorite_count": 32,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -4220,7 +4356,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 6,
-    "favorite_count": 15,
+    "favorite_count": 14,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -4356,7 +4492,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 9,
-    "favorite_count": 53,
+    "favorite_count": 52,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -4560,7 +4696,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 13,
-    "favorite_count": 58,
+    "favorite_count": 57,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -4628,7 +4764,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 2,
-    "favorite_count": 3,
+    "favorite_count": 2,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -4764,7 +4900,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 3,
-    "favorite_count": 8,
+    "favorite_count": 7,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -4832,7 +4968,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 4,
-    "favorite_count": 18,
+    "favorite_count": 17,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -5036,7 +5172,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 8,
-    "favorite_count": 27,
+    "favorite_count": 26,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -5104,7 +5240,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 7,
-    "favorite_count": 17,
+    "favorite_count": 16,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -5376,7 +5512,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 7,
-    "favorite_count": 23,
+    "favorite_count": 22,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -5444,7 +5580,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 14,
-    "favorite_count": 36,
+    "favorite_count": 35,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -5512,7 +5648,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 8,
-    "favorite_count": 26,
+    "favorite_count": 25,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -5648,7 +5784,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 2,
-    "favorite_count": 9,
+    "favorite_count": 8,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -5716,7 +5852,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 8,
-    "favorite_count": 50,
+    "favorite_count": 49,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -5784,7 +5920,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 3,
-    "favorite_count": 10,
+    "favorite_count": 9,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -6191,7 +6327,7 @@
       }
     ],
     "is_quote_status": false,
-    "retweet_count": 7,
+    "retweet_count": 6,
     "favorite_count": 12,
     "favorited": false,
     "retweeted": false,
@@ -6872,7 +7008,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 1,
-    "favorite_count": 8,
+    "favorite_count": 7,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -8033,7 +8169,7 @@
       }
     ],
     "is_quote_status": false,
-    "retweet_count": 8,
+    "retweet_count": 7,
     "favorite_count": 17,
     "favorited": false,
     "retweeted": false,
@@ -10420,345 +10556,5 @@
     "possibly_sensitive": false,
     "lang": "en",
     "text": "Visualizing OLS Linear Regression Assumptions in R  {https://t.co/n0C2iMl90t} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-09-10 21:30:09",
-    "id": 1.56871346181058e+18,
-    "id_str": "1568713461810581504",
-    "full_text": "Graphing California Electricity Supply using ggplot2  {https://t.co/wjPdIRlnNP} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 100,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [80, 87]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [88, 100]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/wjPdIRlnNP",
-          "expanded_url": "https://www.r-bloggers.com/?p=331867",
-          "display_url": "r-bloggers.com/?p=331867",
-          "indices": {
-            "start": 55,
-            "end": 78
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 9,
-    "favorite_count": 20,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "Graphing California Electricity Supply using ggplot2  {https://t.co/wjPdIRlnNP} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-09-10 21:09:56",
-    "id": 1.56870837584368e+18,
-    "id_str": "1568708375843676160",
-    "full_text": "Notes on Linear Algebra Part 3  {https://t.co/otSPcXgRd9} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 78,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [58, 65]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [66, 78]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/otSPcXgRd9",
-          "expanded_url": "https://www.r-bloggers.com/?p=331851",
-          "display_url": "r-bloggers.com/?p=331851",
-          "indices": {
-            "start": 33,
-            "end": 56
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 5,
-    "favorite_count": 19,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "Notes on Linear Algebra Part 3  {https://t.co/otSPcXgRd9} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-09-10 19:04:56",
-    "id": 1.56867691613115e+18,
-    "id_str": "1568676916131147779",
-    "full_text": "How to Find Optimal Clusters in R?  {https://t.co/9D1zqjPQ5t} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 82,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [62, 69]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [70, 82]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/9D1zqjPQ5t",
-          "expanded_url": "https://www.r-bloggers.com/?p=331831",
-          "display_url": "r-bloggers.com/?p=331831",
-          "indices": {
-            "start": 37,
-            "end": 60
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 8,
-    "favorite_count": 23,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "How to Find Optimal Clusters in R?  {https://t.co/9D1zqjPQ5t} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-09-10 15:19:55",
-    "id": 1.56862029061096e+18,
-    "id_str": "1568620290610962435",
-    "full_text": "The compound of five tetrahedra  {https://t.co/jI55UWSqV4} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 79,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [59, 66]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [67, 79]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/jI55UWSqV4",
-          "expanded_url": "https://www.r-bloggers.com/?p=331798",
-          "display_url": "r-bloggers.com/?p=331798",
-          "indices": {
-            "start": 34,
-            "end": 57
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 3,
-    "favorite_count": 3,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "The compound of five tetrahedra  {https://t.co/jI55UWSqV4} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-09-10 03:14:54",
-    "id": 1.56843783631089e+18,
-    "id_str": "1568437836310888452",
-    "full_text": "Dangerous R functions and operators for programming  {https://t.co/RI5DbERCXw} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 99,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [79, 86]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [87, 99]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/RI5DbERCXw",
-          "expanded_url": "https://www.r-bloggers.com/?p=331770",
-          "display_url": "r-bloggers.com/?p=331770",
-          "indices": {
-            "start": 54,
-            "end": 77
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 9,
-    "favorite_count": 21,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "Dangerous R functions and operators for programming  {https://t.co/RI5DbERCXw} #rstats #DataScience"
   }
 ]
