@@ -59,8 +59,8 @@
       }
     ],
     "is_quote_status": false,
-    "retweet_count": 4,
-    "favorite_count": 6,
+    "retweet_count": 7,
+    "favorite_count": 14,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -128,7 +128,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 3,
-    "favorite_count": 7,
+    "favorite_count": 10,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -203,7 +203,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 6,
-    "favorite_count": 5,
+    "favorite_count": 6,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -271,7 +271,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 7,
-    "favorite_count": 5,
+    "favorite_count": 6,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -338,8 +338,8 @@
       }
     ],
     "is_quote_status": false,
-    "retweet_count": 3,
-    "favorite_count": 10,
+    "retweet_count": 4,
+    "favorite_count": 19,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -406,8 +406,8 @@
       }
     ],
     "is_quote_status": false,
-    "retweet_count": 3,
-    "favorite_count": 6,
+    "retweet_count": 4,
+    "favorite_count": 10,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -474,8 +474,8 @@
       }
     ],
     "is_quote_status": false,
-    "retweet_count": 8,
-    "favorite_count": 30,
+    "retweet_count": 11,
+    "favorite_count": 33,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -543,7 +543,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 4,
-    "favorite_count": 6,
+    "favorite_count": 7,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -1699,7 +1699,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 8,
-    "favorite_count": 41,
+    "favorite_count": 43,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -1835,7 +1835,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 5,
-    "favorite_count": 12,
+    "favorite_count": 13,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -8239,7 +8239,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 5,
-    "favorite_count": 53,
+    "favorite_count": 52,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -9271,345 +9271,5 @@
     "possibly_sensitive": false,
     "lang": "en",
     "text": "why is this algorithm simulating a Normal variate?  {https://t.co/fYAH53lYWi} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-09-14 21:19:54",
-    "id": 1.57016043674558e+18,
-    "id_str": "1570160436745576448",
-    "full_text": "R Markdown Lesser-Known Tips &amp; Tricks #4: Looks Better, Works Better  {https://t.co/yuMWVBAlux} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 120,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [100, 107]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [108, 120]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/yuMWVBAlux",
-          "expanded_url": "https://www.r-bloggers.com/?p=332069",
-          "display_url": "r-bloggers.com/?p=332069",
-          "indices": {
-            "start": 75,
-            "end": 98
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 13,
-    "favorite_count": 39,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "R Markdown Lesser-Known Tips &amp; Tricks #4: Looks Better, Works Better  {https://t.co/yuMWVBAlux} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-09-14 19:04:58",
-    "id": 1.57012647774349e+18,
-    "id_str": "1570126477743489024",
-    "full_text": "Multi-environment split-plot experiments  {https://t.co/grFb3XG25u} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 88,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [68, 75]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [76, 88]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/grFb3XG25u",
-          "expanded_url": "https://www.r-bloggers.com/?p=332062",
-          "display_url": "r-bloggers.com/?p=332062",
-          "indices": {
-            "start": 43,
-            "end": 66
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 2,
-    "favorite_count": 7,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "ca",
-    "text": "Multi-environment split-plot experiments  {https://t.co/grFb3XG25u} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-09-14 15:30:39",
-    "id": 1.57007254448871e+18,
-    "id_str": "1570072544488706048",
-    "full_text": "Retrieving user access list to all reports in your PowerBI tenant using Powershell  {https://t.co/HXwxmVQS7j} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 130,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [110, 117]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [118, 130]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/HXwxmVQS7j",
-          "expanded_url": "https://www.r-bloggers.com/?p=332053",
-          "display_url": "r-bloggers.com/?p=332053",
-          "indices": {
-            "start": 85,
-            "end": 108
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 3,
-    "favorite_count": 11,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "Retrieving user access list to all reports in your PowerBI tenant using Powershell  {https://t.co/HXwxmVQS7j} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-09-14 09:14:51",
-    "id": 1.56997796959843e+18,
-    "id_str": "1569977969598431232",
-    "full_text": "How to Participate with rOpenSci  {https://t.co/DgCCUpEetE} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 80,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [60, 67]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [68, 80]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/DgCCUpEetE",
-          "expanded_url": "https://www.r-bloggers.com/?p=332044",
-          "display_url": "r-bloggers.com/?p=332044",
-          "indices": {
-            "start": 35,
-            "end": 58
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 2,
-    "favorite_count": 3,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "How to Participate with rOpenSci  {https://t.co/DgCCUpEetE} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-09-14 01:59:57",
-    "id": 1.56986852585399e+18,
-    "id_str": "1569868525853986820",
-    "full_text": "Cómo participar en rOpenSci  {https://t.co/XTnnypgGwY} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 75,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [55, 62]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [63, 75]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/XTnnypgGwY",
-          "expanded_url": "https://www.r-bloggers.com/?p=332041",
-          "display_url": "r-bloggers.com/?p=332041",
-          "indices": {
-            "start": 30,
-            "end": 53
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 3,
-    "favorite_count": 3,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "es",
-    "text": "Cómo participar en rOpenSci  {https://t.co/XTnnypgGwY} #rstats #DataScience"
   }
 ]
