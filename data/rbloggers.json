@@ -1,5 +1,345 @@
 [
   {
+    "created_at": "2022-10-16 22:04:59",
+    "id": 1.58176819266532e+18,
+    "id_str": "1581768192665321473",
+    "full_text": "Understanding the Basics of Package Writing in R  {https://t.co/76Ef0lYvu0} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 96,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [76, 83]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [84, 96]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/76Ef0lYvu0",
+          "expanded_url": "https://www.r-bloggers.com/?p=333410",
+          "display_url": "r-bloggers.com/?p=333410",
+          "indices": {
+            "start": 51,
+            "end": 74
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 8,
+    "favorite_count": 15,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "Understanding the Basics of Package Writing in R  {https://t.co/76Ef0lYvu0} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-10-16 18:24:56",
+    "id": 1.58171281666254e+18,
+    "id_str": "1581712816662540288",
+    "full_text": "Simple Linear Regression in R  {https://t.co/tJ71o0LAgq} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 77,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [57, 64]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [65, 77]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/tJ71o0LAgq",
+          "expanded_url": "https://www.r-bloggers.com/?p=333398",
+          "display_url": "r-bloggers.com/?p=333398",
+          "indices": {
+            "start": 32,
+            "end": 55
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 11,
+    "favorite_count": 32,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "Simple Linear Regression in R  {https://t.co/tJ71o0LAgq} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-10-16 17:30:14",
+    "id": 1.58169904709385e+18,
+    "id_str": "1581699047093850112",
+    "full_text": "Gender Roles in Hit Country &amp; R&amp;B/Hip-Hop Lyrics (1990-2021): A TidyText Analysis With R  {https://t.co/H3MzRlEyYb} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 144,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [124, 131]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [132, 144]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/H3MzRlEyYb",
+          "expanded_url": "https://www.r-bloggers.com/?p=333396",
+          "display_url": "r-bloggers.com/?p=333396",
+          "indices": {
+            "start": 99,
+            "end": 122
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 8,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "Gender Roles in Hit Country &amp; R&amp;B/Hip-Hop Lyrics (1990-2021): A TidyText Analysis With R  {https://t.co/H3MzRlEyYb} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-10-16 14:45:22",
+    "id": 1.58165755991595e+18,
+    "id_str": "1581657559915954179",
+    "full_text": "Difference between R and Python  {https://t.co/L9MmpHwP6G} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 79,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [59, 66]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [67, 79]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/L9MmpHwP6G",
+          "expanded_url": "https://www.r-bloggers.com/?p=333394",
+          "display_url": "r-bloggers.com/?p=333394",
+          "indices": {
+            "start": 34,
+            "end": 57
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 8,
+    "favorite_count": 22,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "Difference between R and Python  {https://t.co/L9MmpHwP6G} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-10-16 09:30:55",
+    "id": 1.58157842592368e+18,
+    "id_str": "1581578425923678208",
+    "full_text": "IF ELSE- ELSE IF Statement in R  {https://t.co/kRQeBK5ha9} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 79,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [59, 66]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [67, 79]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/kRQeBK5ha9",
+          "expanded_url": "https://www.r-bloggers.com/?p=333382",
+          "display_url": "r-bloggers.com/?p=333382",
+          "indices": {
+            "start": 34,
+            "end": 57
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 13,
+    "favorite_count": 52,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "IF ELSE- ELSE IF Statement in R  {https://t.co/kRQeBK5ha9} #rstats #DataScience"
+  },
+  {
     "created_at": "2022-10-15 16:34:54",
     "id": 1.58132273795996e+18,
     "id_str": "1581322737959960579",
@@ -60,7 +400,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 4,
-    "favorite_count": 7,
+    "favorite_count": 8,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -128,7 +468,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 6,
-    "favorite_count": 18,
+    "favorite_count": 20,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -264,7 +604,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 6,
-    "favorite_count": 20,
+    "favorite_count": 21,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -8999,277 +9339,5 @@
     "possibly_sensitive": false,
     "lang": "en",
     "text": "New R job: Principal Scientist, RWE-Analytics https://t.co/BxffYXNsBP #rstats #DataScience #jobs"
-  },
-  {
-    "created_at": "2022-09-16 23:00:00",
-    "id": 1.57091040005663e+18,
-    "id_str": "1570910400056631296",
-    "full_text": "Strange warning after loading own package  {https://t.co/6nKjq7pSQa} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 89,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [69, 76]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [77, 89]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/6nKjq7pSQa",
-          "expanded_url": "https://www.r-bloggers.com/?p=332148",
-          "display_url": "r-bloggers.com/?p=332148",
-          "indices": {
-            "start": 44,
-            "end": 67
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 2,
-    "favorite_count": 2,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "Strange warning after loading own package  {https://t.co/6nKjq7pSQa} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-09-16 22:40:01",
-    "id": 1.57090537322105e+18,
-    "id_str": "1570905373221048322",
-    "full_text": "The Role of Data Science in Preventing Fraud  {https://t.co/i0vEPoCz6Y} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 92,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [72, 79]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [80, 92]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/i0vEPoCz6Y",
-          "expanded_url": "https://www.r-bloggers.com/?p=332146",
-          "display_url": "r-bloggers.com/?p=332146",
-          "indices": {
-            "start": 47,
-            "end": 70
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 4,
-    "favorite_count": 15,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "The Role of Data Science in Preventing Fraud  {https://t.co/i0vEPoCz6Y} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-09-16 22:04:54",
-    "id": 1.57089653490816e+18,
-    "id_str": "1570896534908162048",
-    "full_text": "Announcing the 2022 Table Contest  {https://t.co/vhR2TSsJfj} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 81,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [61, 68]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [69, 81]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/vhR2TSsJfj",
-          "expanded_url": "https://www.r-bloggers.com/?p=332144",
-          "display_url": "r-bloggers.com/?p=332144",
-          "indices": {
-            "start": 36,
-            "end": 59
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 2,
-    "favorite_count": 2,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "Announcing the 2022 Table Contest  {https://t.co/vhR2TSsJfj} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-09-16 20:19:50",
-    "id": 1.57087009313512e+18,
-    "id_str": "1570870093135118336",
-    "full_text": "Error in rbind(deparse.level …) numbers of columns of arguments do not match  {https://t.co/AHuTkKYhyt} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 124,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [104, 111]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [112, 124]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/AHuTkKYhyt",
-          "expanded_url": "https://www.r-bloggers.com/?p=332138",
-          "display_url": "r-bloggers.com/?p=332138",
-          "indices": {
-            "start": 79,
-            "end": 102
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 5,
-    "favorite_count": 3,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "Error in rbind(deparse.level …) numbers of columns of arguments do not match  {https://t.co/AHuTkKYhyt} #rstats #DataScience"
   }
 ]
