@@ -1,5 +1,549 @@
 [
   {
+    "created_at": "2022-10-17 21:15:11",
+    "id": 1.58211804828619e+18,
+    "id_str": "1582118048286187521",
+    "full_text": "Hillshade, colors and marginal plots with tidyterra (I)  {https://t.co/hWq8b0GY02} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 103,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [83, 90]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [91, 103]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/hWq8b0GY02",
+          "expanded_url": "https://www.r-bloggers.com/?p=333472",
+          "display_url": "r-bloggers.com/?p=333472",
+          "indices": {
+            "start": 58,
+            "end": 81
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 6,
+    "favorite_count": 14,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "Hillshade, colors and marginal plots with tidyterra (I)  {https://t.co/hWq8b0GY02} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-10-17 20:55:14",
+    "id": 1.58211302525484e+18,
+    "id_str": "1582113025254838272",
+    "full_text": "Translating Shiny Apps for International Audiences  {https://t.co/z2nO9zNywP} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 98,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [78, 85]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [86, 98]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/z2nO9zNywP",
+          "expanded_url": "https://www.r-bloggers.com/?p=333470",
+          "display_url": "r-bloggers.com/?p=333470",
+          "indices": {
+            "start": 53,
+            "end": 76
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 4,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "Translating Shiny Apps for International Audiences  {https://t.co/z2nO9zNywP} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-10-17 19:54:54",
+    "id": 1.58209784210957e+18,
+    "id_str": "1582097842109566976",
+    "full_text": "Maintain or Co-Maintain an rOpenSci Package!  {https://t.co/YpaEck5VM2} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 92,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [72, 79]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [80, 92]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/YpaEck5VM2",
+          "expanded_url": "https://www.r-bloggers.com/?p=333467",
+          "display_url": "r-bloggers.com/?p=333467",
+          "indices": {
+            "start": 47,
+            "end": 70
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "favorite_count": 6,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "Maintain or Co-Maintain an rOpenSci Package!  {https://t.co/YpaEck5VM2} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-10-17 15:35:19",
+    "id": 1.58203251602151e+18,
+    "id_str": "1582032516021506048",
+    "full_text": "10 Best R Programming Books  {https://t.co/nMFENfRKI7} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 75,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [55, 62]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [63, 75]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/nMFENfRKI7",
+          "expanded_url": "https://www.r-bloggers.com/?p=333462",
+          "display_url": "r-bloggers.com/?p=333462",
+          "indices": {
+            "start": 30,
+            "end": 53
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 16,
+    "favorite_count": 31,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "10 Best R Programming Books  {https://t.co/nMFENfRKI7} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-10-17 14:59:53",
+    "id": 1.5820235995981e+18,
+    "id_str": "1582023599598096385",
+    "full_text": "Little useless-useful R functions – R Solution with O(n) Time and O(n) Space complexity for   {https://t.co/PYTPTSo5ZO} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 140,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [120, 127]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [128, 140]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/PYTPTSo5ZO",
+          "expanded_url": "https://www.r-bloggers.com/?p=333446",
+          "display_url": "r-bloggers.com/?p=333446",
+          "indices": {
+            "start": 95,
+            "end": 118
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 6,
+    "favorite_count": 6,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "Little useless-useful R functions – R Solution with O(n) Time and O(n) Space complexity for   {https://t.co/PYTPTSo5ZO} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-10-17 12:00:00",
+    "id": 1.58197833065158e+18,
+    "id_str": "1581978330651582464",
+    "full_text": "Tupper’s Self Referential Formula in R  {https://t.co/l7EoagN8AG} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 86,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [66, 73]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [74, 86]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/l7EoagN8AG",
+          "expanded_url": "https://www.r-bloggers.com/?p=333444",
+          "display_url": "r-bloggers.com/?p=333444",
+          "indices": {
+            "start": 41,
+            "end": 64
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 6,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "Tupper’s Self Referential Formula in R  {https://t.co/l7EoagN8AG} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-10-17 05:52:47",
+    "id": 1.58188591759319e+18,
+    "id_str": "1581885917593186305",
+    "full_text": "Unlock Your Data-Driven Future with DataCamp’s Analyst Takeover  {https://t.co/DwnaQ8niVj} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 111,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [91, 98]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [99, 111]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/DwnaQ8niVj",
+          "expanded_url": "http://www.r-bloggers.com/?p=333439",
+          "display_url": "r-bloggers.com/?p=333439",
+          "indices": {
+            "start": 66,
+            "end": 89
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 5,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "Unlock Your Data-Driven Future with DataCamp’s Analyst Takeover  {https://t.co/DwnaQ8niVj} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-10-17 04:29:52",
+    "id": 1.58186505285588e+18,
+    "id_str": "1581865052855881734",
+    "full_text": "A dbplyr-based Address Matching Package  {https://t.co/JpCqd3pTyD} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 87,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [67, 74]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [75, 87]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/JpCqd3pTyD",
+          "expanded_url": "https://www.r-bloggers.com/?p=333430",
+          "display_url": "r-bloggers.com/?p=333430",
+          "indices": {
+            "start": 42,
+            "end": 65
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 9,
+    "favorite_count": 17,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "A dbplyr-based Address Matching Package  {https://t.co/JpCqd3pTyD} #rstats #DataScience"
+  },
+  {
     "created_at": "2022-10-16 22:04:59",
     "id": 1.58176819266532e+18,
     "id_str": "1581768192665321473",
@@ -59,8 +603,8 @@
       }
     ],
     "is_quote_status": false,
-    "retweet_count": 8,
-    "favorite_count": 15,
+    "retweet_count": 16,
+    "favorite_count": 31,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -127,8 +671,8 @@
       }
     ],
     "is_quote_status": false,
-    "retweet_count": 11,
-    "favorite_count": 32,
+    "retweet_count": 20,
+    "favorite_count": 57,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -195,8 +739,8 @@
       }
     ],
     "is_quote_status": false,
-    "retweet_count": 4,
-    "favorite_count": 8,
+    "retweet_count": 5,
+    "favorite_count": 9,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -263,8 +807,8 @@
       }
     ],
     "is_quote_status": false,
-    "retweet_count": 8,
-    "favorite_count": 22,
+    "retweet_count": 10,
+    "favorite_count": 27,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -331,8 +875,8 @@
       }
     ],
     "is_quote_status": false,
-    "retweet_count": 13,
-    "favorite_count": 52,
+    "retweet_count": 14,
+    "favorite_count": 56,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -400,7 +944,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 4,
-    "favorite_count": 8,
+    "favorite_count": 9,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -536,7 +1080,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 4,
-    "favorite_count": 10,
+    "favorite_count": 11,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -604,7 +1148,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 6,
-    "favorite_count": 21,
+    "favorite_count": 22,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -672,7 +1216,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 7,
-    "favorite_count": 17,
+    "favorite_count": 16,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -1834,8 +2378,8 @@
       }
     ],
     "is_quote_status": false,
-    "retweet_count": 11,
-    "favorite_count": 44,
+    "retweet_count": 12,
+    "favorite_count": 45,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -9197,147 +9741,5 @@
     "possibly_sensitive": false,
     "lang": "en",
     "text": "Curating R-Ladies’ Twitter Account – A Fun Ride!  {https://t.co/cVgPxRonNq} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-09-17 06:39:55",
-    "id": 1.57102614266815e+18,
-    "id_str": "1571026142668152832",
-    "full_text": "LAB to Delta E conversion in R  {https://t.co/BeERwfQXmA} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 78,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [58, 65]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [66, 78]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/BeERwfQXmA",
-          "expanded_url": "https://www.r-bloggers.com/?p=332157",
-          "display_url": "r-bloggers.com/?p=332157",
-          "indices": {
-            "start": 33,
-            "end": 56
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 1,
-    "favorite_count": 3,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "it",
-    "text": "LAB to Delta E conversion in R  {https://t.co/BeERwfQXmA} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-09-17 00:30:16",
-    "id": 1.57093311610511e+18,
-    "id_str": "1570933116105105408",
-    "full_text": "New R job: Principal Scientist, RWE-Analytics https://t.co/BxffYXNsBP #rstats #DataScience #jobs",
-    "truncated": false,
-    "display_text_range": 96,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [70, 77]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [78, 90]
-          ]
-        },
-        {
-          "text": "jobs",
-          "indices": [
-            [91, 96]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/BxffYXNsBP",
-          "expanded_url": "https://www.r-users.com/jobs/principal-scientist-rwe-analytics/",
-          "display_url": "r-users.com/jobs/principal…",
-          "indices": {
-            "start": 46,
-            "end": 69
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 4,
-    "favorite_count": 6,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "New R job: Principal Scientist, RWE-Analytics https://t.co/BxffYXNsBP #rstats #DataScience #jobs"
   }
 ]
