@@ -1,5 +1,209 @@
 [
   {
+    "created_at": "2022-10-19 00:19:56",
+    "id": 1.5825269287114e+18,
+    "id_str": "1582526928711401473",
+    "full_text": "Splitting Text in R  {https://t.co/9Y93WDKII1} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 67,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [47, 54]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [55, 67]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/9Y93WDKII1",
+          "expanded_url": "https://www.r-bloggers.com/?p=333510",
+          "display_url": "r-bloggers.com/?p=333510",
+          "indices": {
+            "start": 22,
+            "end": 45
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 6,
+    "favorite_count": 11,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "Splitting Text in R  {https://t.co/9Y93WDKII1} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-10-18 23:59:12",
+    "id": 1.5825217098815e+18,
+    "id_str": "1582521709881499648",
+    "full_text": "Training course update – Autumn 2022  {https://t.co/O4gzbThE62} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 84,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [64, 71]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [72, 84]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/O4gzbThE62",
+          "expanded_url": "https://www.r-bloggers.com/?p=333478",
+          "display_url": "r-bloggers.com/?p=333478",
+          "indices": {
+            "start": 39,
+            "end": 62
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "Training course update – Autumn 2022  {https://t.co/O4gzbThE62} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-10-18 17:20:12",
+    "id": 1.58242130086097e+18,
+    "id_str": "1582421300860973068",
+    "full_text": "Shiny Application Layouts Are Changing  {https://t.co/9atXmA3AjO} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 86,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [66, 73]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [74, 86]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/9atXmA3AjO",
+          "expanded_url": "https://www.r-bloggers.com/?p=333492",
+          "display_url": "r-bloggers.com/?p=333492",
+          "indices": {
+            "start": 41,
+            "end": 64
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 13,
+    "favorite_count": 15,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "Shiny Application Layouts Are Changing  {https://t.co/9atXmA3AjO} #rstats #DataScience"
+  },
+  {
     "created_at": "2022-10-17 21:15:11",
     "id": 1.58211804828619e+18,
     "id_str": "1582118048286187521",
@@ -59,8 +263,8 @@
       }
     ],
     "is_quote_status": false,
-    "retweet_count": 6,
-    "favorite_count": 14,
+    "retweet_count": 8,
+    "favorite_count": 28,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -127,8 +331,8 @@
       }
     ],
     "is_quote_status": false,
-    "retweet_count": 3,
-    "favorite_count": 4,
+    "retweet_count": 4,
+    "favorite_count": 6,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -196,7 +400,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 5,
-    "favorite_count": 6,
+    "favorite_count": 8,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -263,8 +467,8 @@
       }
     ],
     "is_quote_status": false,
-    "retweet_count": 16,
-    "favorite_count": 31,
+    "retweet_count": 17,
+    "favorite_count": 47,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -331,8 +535,8 @@
       }
     ],
     "is_quote_status": false,
-    "retweet_count": 6,
-    "favorite_count": 6,
+    "retweet_count": 7,
+    "favorite_count": 9,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -604,7 +808,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 16,
-    "favorite_count": 31,
+    "favorite_count": 32,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -672,7 +876,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 20,
-    "favorite_count": 57,
+    "favorite_count": 60,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -808,7 +1012,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 10,
-    "favorite_count": 27,
+    "favorite_count": 28,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -875,7 +1079,7 @@
       }
     ],
     "is_quote_status": false,
-    "retweet_count": 14,
+    "retweet_count": 15,
     "favorite_count": 56,
     "favorited": false,
     "retweeted": false,
@@ -1766,7 +1970,7 @@
       }
     ],
     "is_quote_status": false,
-    "retweet_count": 2,
+    "retweet_count": 3,
     "favorite_count": 6,
     "favorited": false,
     "retweeted": false,
@@ -1835,7 +2039,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 5,
-    "favorite_count": 6,
+    "favorite_count": 7,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -2855,7 +3059,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 8,
-    "favorite_count": 43,
+    "favorite_count": 50,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -2991,7 +3195,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 5,
-    "favorite_count": 13,
+    "favorite_count": 15,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -3059,7 +3263,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 11,
-    "favorite_count": 25,
+    "favorite_count": 27,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -9129,617 +9333,5 @@
     "possibly_sensitive": false,
     "lang": "en",
     "text": "Flat indices for arrays in R/Rcpp  {https://t.co/Z6sRWNudBo} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-09-18 23:10:04",
-    "id": 1.57163771025465e+18,
-    "id_str": "1571637710254645248",
-    "full_text": "Macroeconomic Determinants of Migration. A Comparative Analysis For Old vs New European  {https://t.co/wByAak0rU1} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 135,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [115, 122]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [123, 135]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/wByAak0rU1",
-          "expanded_url": "https://www.r-bloggers.com/?p=332227",
-          "display_url": "r-bloggers.com/?p=332227",
-          "indices": {
-            "start": 90,
-            "end": 113
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 8,
-    "favorite_count": 21,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "Macroeconomic Determinants of Migration. A Comparative Analysis For Old vs New European  {https://t.co/wByAak0rU1} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-09-18 23:09:53",
-    "id": 1.57163766286347e+18,
-    "id_str": "1571637662863466499",
-    "full_text": "Minimax Estimation and Identity Testing of Markov Chains  {https://t.co/BFT3onVKSS} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 104,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [84, 91]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [92, 104]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/BFT3onVKSS",
-          "expanded_url": "https://www.r-bloggers.com/?p=332225",
-          "display_url": "r-bloggers.com/?p=332225",
-          "indices": {
-            "start": 59,
-            "end": 82
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 5,
-    "favorite_count": 18,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "Minimax Estimation and Identity Testing of Markov Chains  {https://t.co/BFT3onVKSS} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-09-18 19:10:00",
-    "id": 1.57157729517276e+18,
-    "id_str": "1571577295172763650",
-    "full_text": "Fantasy Football Weekly Cheat Sheet: Week 2 (2022)  {https://t.co/xTTlGLmzPX} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 98,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [78, 85]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [86, 98]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/xTTlGLmzPX",
-          "expanded_url": "https://www.r-bloggers.com/?p=332219",
-          "display_url": "r-bloggers.com/?p=332219",
-          "indices": {
-            "start": 53,
-            "end": 76
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 2,
-    "favorite_count": 5,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "Fantasy Football Weekly Cheat Sheet: Week 2 (2022)  {https://t.co/xTTlGLmzPX} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-09-18 13:55:02",
-    "id": 1.57149803356459e+18,
-    "id_str": "1571498033564590080",
-    "full_text": "Not Satisfied with statistical significance (p-value)  {https://t.co/0WtIRdSknn} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 101,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [81, 88]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [89, 101]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/0WtIRdSknn",
-          "expanded_url": "https://www.r-bloggers.com/?p=332216",
-          "display_url": "r-bloggers.com/?p=332216",
-          "indices": {
-            "start": 56,
-            "end": 79
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 5,
-    "favorite_count": 53,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "Not Satisfied with statistical significance (p-value)  {https://t.co/0WtIRdSknn} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-09-18 11:59:51",
-    "id": 1.57146904486318e+18,
-    "id_str": "1571469044863180803",
-    "full_text": "Minitutorial: make_logical any string  {https://t.co/vTwWu6wM8l} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 85,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [65, 72]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [73, 85]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/vTwWu6wM8l",
-          "expanded_url": "https://www.r-bloggers.com/?p=332202",
-          "display_url": "r-bloggers.com/?p=332202",
-          "indices": {
-            "start": 40,
-            "end": 63
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 2,
-    "favorite_count": 4,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "Minitutorial: make_logical any string  {https://t.co/vTwWu6wM8l} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-09-18 10:45:08",
-    "id": 1.57145024371926e+18,
-    "id_str": "1571450243719258113",
-    "full_text": "Squares &amp; Spirals  {https://t.co/1PYS6q6gJv} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 69,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [49, 56]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [57, 69]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/1PYS6q6gJv",
-          "expanded_url": "https://www.r-bloggers.com/?p=332200",
-          "display_url": "r-bloggers.com/?p=332200",
-          "indices": {
-            "start": 24,
-            "end": 47
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 1,
-    "favorite_count": 7,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "Squares &amp; Spirals  {https://t.co/1PYS6q6gJv} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-09-18 07:49:55",
-    "id": 1.57140614869093e+18,
-    "id_str": "1571406148690927616",
-    "full_text": "The Uniform Distribution in R  {https://t.co/FvdNELZ2Jt} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 77,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [57, 64]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [65, 77]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/FvdNELZ2Jt",
-          "expanded_url": "https://www.r-bloggers.com/?p=332195",
-          "display_url": "r-bloggers.com/?p=332195",
-          "indices": {
-            "start": 32,
-            "end": 55
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 4,
-    "favorite_count": 14,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "The Uniform Distribution in R  {https://t.co/FvdNELZ2Jt} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-09-18 07:49:50",
-    "id": 1.57140612610049e+18,
-    "id_str": "1571406126100488199",
-    "full_text": "How do augmented analytics work?  {https://t.co/BfdsPKADhq} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 80,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [60, 67]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [68, 80]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/BfdsPKADhq",
-          "expanded_url": "https://www.r-bloggers.com/?p=332193",
-          "display_url": "r-bloggers.com/?p=332193",
-          "indices": {
-            "start": 35,
-            "end": 58
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 1,
-    "favorite_count": 4,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "How do augmented analytics work?  {https://t.co/BfdsPKADhq} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-09-18 07:20:09",
-    "id": 1.57139865534451e+18,
-    "id_str": "1571398655344508928",
-    "full_text": "Curating R-Ladies’ Twitter Account – A Fun Ride!  {https://t.co/cVgPxRonNq} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 96,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [76, 83]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [84, 96]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/cVgPxRonNq",
-          "expanded_url": "https://www.r-bloggers.com/?p=332191",
-          "display_url": "r-bloggers.com/?p=332191",
-          "indices": {
-            "start": 51,
-            "end": 74
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 4,
-    "favorite_count": 7,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "Curating R-Ladies’ Twitter Account – A Fun Ride!  {https://t.co/cVgPxRonNq} #rstats #DataScience"
   }
 ]
