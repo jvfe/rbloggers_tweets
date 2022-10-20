@@ -1,5 +1,413 @@
 [
   {
+    "created_at": "2022-10-19 23:40:19",
+    "id": 1.58287934537873e+18,
+    "id_str": "1582879345378734082",
+    "full_text": "xts_0.12.2 on CRAN  {https://t.co/tq7TdIQn0A} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 66,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [46, 53]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [54, 66]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/tq7TdIQn0A",
+          "expanded_url": "https://www.r-bloggers.com/?p=333557",
+          "display_url": "r-bloggers.com/?p=333557",
+          "indices": {
+            "start": 21,
+            "end": 44
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "xts_0.12.2 on CRAN  {https://t.co/tq7TdIQn0A} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-10-19 20:30:20",
+    "id": 1.58283153644522e+18,
+    "id_str": "1582831536445222912",
+    "full_text": "New Repositories Working Group  {https://t.co/RR3L3Z2JNX} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 78,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [58, 65]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [66, 78]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/RR3L3Z2JNX",
+          "expanded_url": "https://www.r-bloggers.com/?p=333551",
+          "display_url": "r-bloggers.com/?p=333551",
+          "indices": {
+            "start": 33,
+            "end": 56
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "New Repositories Working Group  {https://t.co/RR3L3Z2JNX} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-10-19 19:30:21",
+    "id": 1.58281643940829e+18,
+    "id_str": "1582816439408291840",
+    "full_text": "Interesting Uses of censo2017 a Year After Publishing  {https://t.co/3S305XD03I} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 101,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [81, 88]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [89, 101]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/3S305XD03I",
+          "expanded_url": "https://www.r-bloggers.com/?p=333549",
+          "display_url": "r-bloggers.com/?p=333549",
+          "indices": {
+            "start": 56,
+            "end": 79
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "Interesting Uses of censo2017 a Year After Publishing  {https://t.co/3S305XD03I} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-10-19 11:25:18",
+    "id": 1.58269437401348e+18,
+    "id_str": "1582694374013476865",
+    "full_text": "Paper: ‘EpiLPS: A fast and flexible Bayesian tool for estimation of the time-varying r  {https://t.co/dFSD4IdLd9} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 134,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [114, 121]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [122, 134]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/dFSD4IdLd9",
+          "expanded_url": "https://www.r-bloggers.com/?p=333531",
+          "display_url": "r-bloggers.com/?p=333531",
+          "indices": {
+            "start": 89,
+            "end": 112
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 6,
+    "favorite_count": 16,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "Paper: ‘EpiLPS: A fast and flexible Bayesian tool for estimation of the time-varying r  {https://t.co/dFSD4IdLd9} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-10-19 06:29:55",
+    "id": 1.58262003896774e+18,
+    "id_str": "1582620038967738369",
+    "full_text": "How to create a Sankey plot in R?  {https://t.co/XjQbFrNrAv} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 81,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [61, 68]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [69, 81]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/XjQbFrNrAv",
+          "expanded_url": "https://www.r-bloggers.com/?p=333525",
+          "display_url": "r-bloggers.com/?p=333525",
+          "indices": {
+            "start": 36,
+            "end": 59
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 11,
+    "favorite_count": 22,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "How to create a Sankey plot in R?  {https://t.co/XjQbFrNrAv} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-10-19 04:14:57",
+    "id": 1.58258607121631e+18,
+    "id_str": "1582586071216312320",
+    "full_text": "MLOps with vetiver in Python and R: Answering your questions  {https://t.co/xv44fZdv1D} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 108,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [88, 95]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [96, 108]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/xv44fZdv1D",
+          "expanded_url": "https://www.r-bloggers.com/?p=333523",
+          "display_url": "r-bloggers.com/?p=333523",
+          "indices": {
+            "start": 63,
+            "end": 86
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 7,
+    "favorite_count": 17,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "MLOps with vetiver in Python and R: Answering your questions  {https://t.co/xv44fZdv1D} #rstats #DataScience"
+  },
+  {
     "created_at": "2022-10-19 00:19:56",
     "id": 1.5825269287114e+18,
     "id_str": "1582526928711401473",
@@ -59,8 +467,8 @@
       }
     ],
     "is_quote_status": false,
-    "retweet_count": 6,
-    "favorite_count": 11,
+    "retweet_count": 10,
+    "favorite_count": 33,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -128,7 +536,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 3,
-    "favorite_count": 1,
+    "favorite_count": 3,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -195,8 +603,8 @@
       }
     ],
     "is_quote_status": false,
-    "retweet_count": 13,
-    "favorite_count": 15,
+    "retweet_count": 15,
+    "favorite_count": 18,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -264,7 +672,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 8,
-    "favorite_count": 28,
+    "favorite_count": 29,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -468,7 +876,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 17,
-    "favorite_count": 47,
+    "favorite_count": 49,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -876,7 +1284,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 20,
-    "favorite_count": 60,
+    "favorite_count": 61,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -3059,7 +3467,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 8,
-    "favorite_count": 50,
+    "favorite_count": 51,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -3263,7 +3671,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 11,
-    "favorite_count": 27,
+    "favorite_count": 26,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -8925,413 +9333,5 @@
     "possibly_sensitive": false,
     "lang": "en",
     "text": "Enforcing Style in an R Project  {https://t.co/DTaoADBj7d} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-09-19 23:05:07",
-    "id": 1.57199885129655e+18,
-    "id_str": "1571998851296546817",
-    "full_text": "Flat indices for arrays in R/Rcpp  {https://t.co/B1tfxMwURF} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 81,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [61, 68]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [69, 81]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/B1tfxMwURF",
-          "expanded_url": "https://www.r-bloggers.com/?p=332285",
-          "display_url": "r-bloggers.com/?p=332285",
-          "indices": {
-            "start": 36,
-            "end": 59
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 3,
-    "favorite_count": 4,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "Flat indices for arrays in R/Rcpp  {https://t.co/B1tfxMwURF} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-09-19 17:15:36",
-    "id": 1.57191089404876e+18,
-    "id_str": "1571910894048759814",
-    "full_text": "Tackle Business problems with Data Science!  {https://t.co/MpX45nHs0U} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 91,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [71, 78]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [79, 91]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/MpX45nHs0U",
-          "expanded_url": "https://www.r-bloggers.com/?p=332267",
-          "display_url": "r-bloggers.com/?p=332267",
-          "indices": {
-            "start": 46,
-            "end": 69
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 1,
-    "favorite_count": 4,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "Tackle Business problems with Data Science!  {https://t.co/MpX45nHs0U} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-09-19 15:59:53",
-    "id": 1.571891840714e+18,
-    "id_str": "1571891840714002435",
-    "full_text": "Non-Homogeneous Poisson Process Intensity Modeling and Estimation using Measure Transport  {https://t.co/kAOxtuirVZ} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 137,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [117, 124]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [125, 137]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/kAOxtuirVZ",
-          "expanded_url": "https://www.r-bloggers.com/?p=332262",
-          "display_url": "r-bloggers.com/?p=332262",
-          "indices": {
-            "start": 92,
-            "end": 115
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 4,
-    "favorite_count": 9,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "Non-Homogeneous Poisson Process Intensity Modeling and Estimation using Measure Transport  {https://t.co/kAOxtuirVZ} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-09-19 15:20:08",
-    "id": 1.57188183741221e+18,
-    "id_str": "1571881837412208642",
-    "full_text": "survex: model-agnostic explainability for survival analysis  {https://t.co/axpaS2gKp9} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 107,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [87, 94]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [95, 107]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/axpaS2gKp9",
-          "expanded_url": "https://www.r-bloggers.com/?p=332260",
-          "display_url": "r-bloggers.com/?p=332260",
-          "indices": {
-            "start": 62,
-            "end": 85
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 10,
-    "favorite_count": 27,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "fr",
-    "text": "survex: model-agnostic explainability for survival analysis  {https://t.co/axpaS2gKp9} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-09-19 08:04:51",
-    "id": 1.57177229400703e+18,
-    "id_str": "1571772294007033861",
-    "full_text": "The Multinomial Distribution in R  {https://t.co/K6pA1kVgBv} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 81,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [61, 68]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [69, 81]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/K6pA1kVgBv",
-          "expanded_url": "https://www.r-bloggers.com/?p=332254",
-          "display_url": "r-bloggers.com/?p=332254",
-          "indices": {
-            "start": 36,
-            "end": 59
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 1,
-    "favorite_count": 7,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "The Multinomial Distribution in R  {https://t.co/K6pA1kVgBv} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-09-19 01:45:09",
-    "id": 1.57167673747753e+18,
-    "id_str": "1571676737477529602",
-    "full_text": "Flat indices for arrays in R/Rcpp  {https://t.co/Z6sRWNudBo} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 81,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [61, 68]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [69, 81]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/Z6sRWNudBo",
-          "expanded_url": "https://www.r-bloggers.com/?p=332230",
-          "display_url": "r-bloggers.com/?p=332230",
-          "indices": {
-            "start": 36,
-            "end": 59
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 1,
-    "favorite_count": 4,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "Flat indices for arrays in R/Rcpp  {https://t.co/Z6sRWNudBo} #rstats #DataScience"
   }
 ]
