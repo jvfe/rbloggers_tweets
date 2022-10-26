@@ -1,5 +1,481 @@
 [
   {
+    "created_at": "2022-10-26 00:55:22",
+    "id": 1.58507256340692e+18,
+    "id_str": "1585072563406921728",
+    "full_text": "Language and sensorimotor simulation in conceptual processing: Multilevel analysis and  {https://t.co/8IgxWdS7o5} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 134,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [114, 121]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [122, 134]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/8IgxWdS7o5",
+          "expanded_url": "https://www.r-bloggers.com/?p=333875",
+          "display_url": "r-bloggers.com/?p=333875",
+          "indices": {
+            "start": 89,
+            "end": 112
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "da",
+    "text": "Language and sensorimotor simulation in conceptual processing: Multilevel analysis and  {https://t.co/8IgxWdS7o5} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-10-26 00:55:15",
+    "id": 1.58507253097665e+18,
+    "id_str": "1585072530976645121",
+    "full_text": "Language and vision in conceptual processing: Multilevel analysis and statistical power  {https://t.co/08mq8GrrjQ} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 135,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [115, 122]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [123, 135]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/08mq8GrrjQ",
+          "expanded_url": "https://www.r-bloggers.com/?p=333873",
+          "display_url": "r-bloggers.com/?p=333873",
+          "indices": {
+            "start": 90,
+            "end": 113
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "Language and vision in conceptual processing: Multilevel analysis and statistical power  {https://t.co/08mq8GrrjQ} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-10-25 14:45:20",
+    "id": 1.58491904283349e+18,
+    "id_str": "1584919042833489922",
+    "full_text": "The pheatmap function in R  {https://t.co/JzDD2EafNz} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 74,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [54, 61]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [62, 74]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/JzDD2EafNz",
+          "expanded_url": "https://www.r-bloggers.com/?p=333868",
+          "display_url": "r-bloggers.com/?p=333868",
+          "indices": {
+            "start": 29,
+            "end": 52
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 11,
+    "favorite_count": 32,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "The pheatmap function in R  {https://t.co/JzDD2EafNz} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-10-25 12:55:18",
+    "id": 1.58489135169027e+18,
+    "id_str": "1584891351690272768",
+    "full_text": "Editing metadata in trail camera images using R, magick and exiftool  {https://t.co/hU41qrE3BU} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 116,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [96, 103]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [104, 116]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/hU41qrE3BU",
+          "expanded_url": "https://www.r-bloggers.com/?p=333852",
+          "display_url": "r-bloggers.com/?p=333852",
+          "indices": {
+            "start": 71,
+            "end": 94
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 6,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "Editing metadata in trail camera images using R, magick and exiftool  {https://t.co/hU41qrE3BU} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-10-25 11:00:26",
+    "id": 1.58486244182505e+18,
+    "id_str": "1584862441825046533",
+    "full_text": "New R/exams Version: Improved E-Learning Tools During a Pandemic  {https://t.co/2DaoeELwXK} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 112,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [92, 99]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [100, 112]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/2DaoeELwXK",
+          "expanded_url": "https://www.r-bloggers.com/?p=333844",
+          "display_url": "r-bloggers.com/?p=333844",
+          "indices": {
+            "start": 67,
+            "end": 90
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "New R/exams Version: Improved E-Learning Tools During a Pandemic  {https://t.co/2DaoeELwXK} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-10-25 07:35:15",
+    "id": 1.58481080808049e+18,
+    "id_str": "1584810808080490496",
+    "full_text": "A Survey of Changes around the Tidyverse Package in R  {https://t.co/88RvjwEOAj} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 101,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [81, 88]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [89, 101]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/88RvjwEOAj",
+          "expanded_url": "https://www.r-bloggers.com/?p=333841",
+          "display_url": "r-bloggers.com/?p=333841",
+          "indices": {
+            "start": 56,
+            "end": 79
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 6,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "A Survey of Changes around the Tidyverse Package in R  {https://t.co/88RvjwEOAj} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-10-25 05:36:26",
+    "id": 1.58478090734873e+18,
+    "id_str": "1584780907348729856",
+    "full_text": "How to create a heatmap in R  {https://t.co/KalpfMDXoq} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 76,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [56, 63]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [64, 76]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/KalpfMDXoq",
+          "expanded_url": "https://www.r-bloggers.com/?p=333839",
+          "display_url": "r-bloggers.com/?p=333839",
+          "indices": {
+            "start": 31,
+            "end": 54
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 16,
+    "favorite_count": 60,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "How to create a heatmap in R  {https://t.co/KalpfMDXoq} #rstats #DataScience"
+  },
+  {
     "created_at": "2022-10-24 20:45:33",
     "id": 1.58464730405682e+18,
     "id_str": "1584647304056815619",
@@ -59,8 +535,8 @@
       }
     ],
     "is_quote_status": false,
-    "retweet_count": 8,
-    "favorite_count": 19,
+    "retweet_count": 9,
+    "favorite_count": 29,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -128,7 +604,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 3,
-    "favorite_count": 6,
+    "favorite_count": 7,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -196,7 +672,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 5,
-    "favorite_count": 14,
+    "favorite_count": 17,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -263,8 +739,8 @@
       }
     ],
     "is_quote_status": false,
-    "retweet_count": 13,
-    "favorite_count": 25,
+    "retweet_count": 14,
+    "favorite_count": 28,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -332,7 +808,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 8,
-    "favorite_count": 17,
+    "favorite_count": 18,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -536,7 +1012,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 7,
-    "favorite_count": 22,
+    "favorite_count": 21,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -2236,7 +2712,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 10,
-    "favorite_count": 32,
+    "favorite_count": 33,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -6873,7 +7349,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 9,
-    "favorite_count": 22,
+    "favorite_count": 23,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -7423,7 +7899,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 8,
-    "favorite_count": 39,
+    "favorite_count": 40,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -7559,7 +8035,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 9,
-    "favorite_count": 25,
+    "favorite_count": 26,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -7627,7 +8103,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 5,
-    "favorite_count": 12,
+    "favorite_count": 13,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -7763,7 +8239,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 1,
-    "favorite_count": 10,
+    "favorite_count": 11,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -7831,7 +8307,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 7,
-    "favorite_count": 17,
+    "favorite_count": 18,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -7899,7 +8375,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 5,
-    "favorite_count": 27,
+    "favorite_count": 28,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -8035,7 +8511,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 6,
-    "favorite_count": 20,
+    "favorite_count": 21,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -8103,7 +8579,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 3,
-    "favorite_count": 9,
+    "favorite_count": 10,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -8171,7 +8647,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 5,
-    "favorite_count": 11,
+    "favorite_count": 12,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -8239,7 +8715,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 7,
-    "favorite_count": 19,
+    "favorite_count": 20,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -8375,7 +8851,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 4,
-    "favorite_count": 10,
+    "favorite_count": 11,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -8511,7 +8987,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 12,
-    "favorite_count": 45,
+    "favorite_count": 46,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -8579,7 +9055,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 9,
-    "favorite_count": 20,
+    "favorite_count": 21,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -8647,7 +9123,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 6,
-    "favorite_count": 33,
+    "favorite_count": 34,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -8715,7 +9191,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 18,
-    "favorite_count": 56,
+    "favorite_count": 57,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -8783,7 +9259,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 7,
-    "favorite_count": 19,
+    "favorite_count": 20,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -8851,7 +9327,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 5,
-    "favorite_count": 12,
+    "favorite_count": 13,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -9123,7 +9599,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 10,
-    "favorite_count": 43,
+    "favorite_count": 44,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -9191,7 +9667,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 5,
-    "favorite_count": 17,
+    "favorite_count": 18,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -9259,7 +9735,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 10,
-    "favorite_count": 32,
+    "favorite_count": 33,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -9333,209 +9809,5 @@
     "possibly_sensitive": false,
     "lang": "en",
     "text": "Housing Markets Down: Hierarchical Time Series  {https://t.co/lmDf4Mq8zz} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-09-25 21:54:56",
-    "id": 1.57415551752569e+18,
-    "id_str": "1574155517525692419",
-    "full_text": "Mandell O Mandell, Please Grant Me Some Insight!  {https://t.co/Ru4D069IHS} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 96,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [76, 83]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [84, 96]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/Ru4D069IHS",
-          "expanded_url": "https://www.r-bloggers.com/?p=332564",
-          "display_url": "r-bloggers.com/?p=332564",
-          "indices": {
-            "start": 51,
-            "end": 74
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 5,
-    "favorite_count": 7,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "Mandell O Mandell, Please Grant Me Some Insight!  {https://t.co/Ru4D069IHS} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-09-25 10:59:54",
-    "id": 1.5739906741894e+18,
-    "id_str": "1573990674189402113",
-    "full_text": "Changing the Font Size in Base R Plots  {https://t.co/XNIhAWvfrv} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 86,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [66, 73]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [74, 86]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/XNIhAWvfrv",
-          "expanded_url": "https://www.r-bloggers.com/?p=332542",
-          "display_url": "r-bloggers.com/?p=332542",
-          "indices": {
-            "start": 41,
-            "end": 64
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 6,
-    "favorite_count": 14,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "Changing the Font Size in Base R Plots  {https://t.co/XNIhAWvfrv} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-09-25 04:35:10",
-    "id": 1.5738938539455e+18,
-    "id_str": "1573893853945495553",
-    "full_text": "Best ML Project with Dataset and Source Code  {https://t.co/vqWiSWKySj} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 92,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [72, 79]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [80, 92]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/vqWiSWKySj",
-          "expanded_url": "https://www.r-bloggers.com/?p=332521",
-          "display_url": "r-bloggers.com/?p=332521",
-          "indices": {
-            "start": 47,
-            "end": 70
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 13,
-    "favorite_count": 33,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "Best ML Project with Dataset and Source Code  {https://t.co/vqWiSWKySj} #rstats #DataScience"
   }
 ]
