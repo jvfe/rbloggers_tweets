@@ -1,5 +1,277 @@
 [
   {
+    "created_at": "2022-10-26 23:05:13",
+    "id": 1.58540723001856e+18,
+    "id_str": "1585407230018555904",
+    "full_text": "rstudio::glimpse() Newsletter  {https://t.co/vPodqei5TO} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 77,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [57, 64]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [65, 77]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/vPodqei5TO",
+          "expanded_url": "https://www.r-bloggers.com/?p=333919",
+          "display_url": "r-bloggers.com/?p=333919",
+          "indices": {
+            "start": 32,
+            "end": 55
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 4,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "rstudio::glimpse() Newsletter  {https://t.co/vPodqei5TO} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-10-26 19:20:30",
+    "id": 1.58535067555434e+18,
+    "id_str": "1585350675554344960",
+    "full_text": "Understanding ShinyApps  {https://t.co/71dQAmPX3z} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 71,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [51, 58]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [59, 71]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/71dQAmPX3z",
+          "expanded_url": "https://www.r-bloggers.com/?p=333917",
+          "display_url": "r-bloggers.com/?p=333917",
+          "indices": {
+            "start": 26,
+            "end": 49
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 6,
+    "favorite_count": 20,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "tl",
+    "text": "Understanding ShinyApps  {https://t.co/71dQAmPX3z} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-10-26 16:50:18",
+    "id": 1.58531287826928e+18,
+    "id_str": "1585312878269284352",
+    "full_text": "Community Monthly Events Roundup – November 2022  {https://t.co/1cqMiZyZCU} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 96,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [76, 83]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [84, 96]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/1cqMiZyZCU",
+          "expanded_url": "https://www.r-bloggers.com/?p=333915",
+          "display_url": "r-bloggers.com/?p=333915",
+          "indices": {
+            "start": 51,
+            "end": 74
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "Community Monthly Events Roundup – November 2022  {https://t.co/1cqMiZyZCU} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-10-26 12:05:14",
+    "id": 1.58524113761429e+18,
+    "id_str": "1585241137614290946",
+    "full_text": "How to create a hexbin chart in R  {https://t.co/b8H2NkAIh4} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 81,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [61, 68]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [69, 81]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/b8H2NkAIh4",
+          "expanded_url": "https://www.r-bloggers.com/?p=333899",
+          "display_url": "r-bloggers.com/?p=333899",
+          "indices": {
+            "start": 36,
+            "end": 59
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "favorite_count": 6,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "How to create a hexbin chart in R  {https://t.co/b8H2NkAIh4} #rstats #DataScience"
+  },
+  {
     "created_at": "2022-10-26 00:55:22",
     "id": 1.58507256340692e+18,
     "id_str": "1585072563406921728",
@@ -59,8 +331,8 @@
       }
     ],
     "is_quote_status": false,
-    "retweet_count": 1,
-    "favorite_count": 1,
+    "retweet_count": 3,
+    "favorite_count": 4,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -128,7 +400,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 3,
-    "favorite_count": 3,
+    "favorite_count": 4,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -195,8 +467,8 @@
       }
     ],
     "is_quote_status": false,
-    "retweet_count": 11,
-    "favorite_count": 32,
+    "retweet_count": 13,
+    "favorite_count": 40,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -264,7 +536,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 3,
-    "favorite_count": 6,
+    "favorite_count": 9,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -400,7 +672,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 2,
-    "favorite_count": 6,
+    "favorite_count": 8,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -468,7 +740,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 16,
-    "favorite_count": 60,
+    "favorite_count": 62,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -876,7 +1148,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 5,
-    "favorite_count": 8,
+    "favorite_count": 9,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -944,7 +1216,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 4,
-    "favorite_count": 9,
+    "favorite_count": 8,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -9469,345 +9741,5 @@
     "possibly_sensitive": false,
     "lang": "en",
     "text": "Leading the Way for New R useRs with Strong Connections To Local Universities  {https://t.co/5BoGT4ugEW} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-09-26 18:40:11",
-    "id": 1.57446889330492e+18,
-    "id_str": "1574468893304918018",
-    "full_text": "All the New Things in {gt} 0.7.0  {https://t.co/3ldGSguFxH} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 80,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [60, 67]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [68, 80]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/3ldGSguFxH",
-          "expanded_url": "https://www.r-bloggers.com/?p=332601",
-          "display_url": "r-bloggers.com/?p=332601",
-          "indices": {
-            "start": 35,
-            "end": 58
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 6,
-    "favorite_count": 14,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "All the New Things in {gt} 0.7.0  {https://t.co/3ldGSguFxH} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-09-26 14:05:11",
-    "id": 1.57439969051854e+18,
-    "id_str": "1574399690518544387",
-    "full_text": "Matplotlib vs. ggplot: How to Use Both in R Shiny Apps  {https://t.co/pxPexuU48w} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 102,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [82, 89]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [90, 102]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/pxPexuU48w",
-          "expanded_url": "https://www.r-bloggers.com/?p=332590",
-          "display_url": "r-bloggers.com/?p=332590",
-          "indices": {
-            "start": 57,
-            "end": 80
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 10,
-    "favorite_count": 44,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "Matplotlib vs. ggplot: How to Use Both in R Shiny Apps  {https://t.co/pxPexuU48w} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-09-26 09:14:52",
-    "id": 1.57432663070473e+18,
-    "id_str": "1574326630704730113",
-    "full_text": "How to Use Bold Font in R with Examples  {https://t.co/3zXJXvTPI6} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 87,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [67, 74]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [75, 87]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/3zXJXvTPI6",
-          "expanded_url": "https://www.r-bloggers.com/?p=332584",
-          "display_url": "r-bloggers.com/?p=332584",
-          "indices": {
-            "start": 42,
-            "end": 65
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 5,
-    "favorite_count": 18,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "How to Use Bold Font in R with Examples  {https://t.co/3zXJXvTPI6} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-09-26 07:59:52",
-    "id": 1.57430775585853e+18,
-    "id_str": "1574307755858530305",
-    "full_text": "Data Visualisation with Markdown, Flexdashboard and Shiny  {https://t.co/fB6Lkr4hf3} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 105,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [85, 92]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [93, 105]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/fB6Lkr4hf3",
-          "expanded_url": "https://www.r-bloggers.com/?p=332572",
-          "display_url": "r-bloggers.com/?p=332572",
-          "indices": {
-            "start": 60,
-            "end": 83
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 10,
-    "favorite_count": 33,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "Data Visualisation with Markdown, Flexdashboard and Shiny  {https://t.co/fB6Lkr4hf3} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-09-26 05:19:58",
-    "id": 1.57426751442674e+18,
-    "id_str": "1574267514426740737",
-    "full_text": "Housing Markets Down: Hierarchical Time Series  {https://t.co/lmDf4Mq8zz} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 94,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [74, 81]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [82, 94]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/lmDf4Mq8zz",
-          "expanded_url": "https://www.r-bloggers.com/?p=332567",
-          "display_url": "r-bloggers.com/?p=332567",
-          "indices": {
-            "start": 49,
-            "end": 72
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 14,
-    "favorite_count": 39,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "Housing Markets Down: Hierarchical Time Series  {https://t.co/lmDf4Mq8zz} #rstats #DataScience"
   }
 ]
