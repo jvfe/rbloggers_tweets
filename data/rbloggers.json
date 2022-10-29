@@ -1,5 +1,345 @@
 [
   {
+    "created_at": "2022-10-29 02:00:22",
+    "id": 1.58617608386236e+18,
+    "id_str": "1586176083862364160",
+    "full_text": "Fantasy Football Weekly Cheat Sheet: Week 8 (2022)  {https://t.co/ubpggGuGXZ} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 98,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [78, 85]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [86, 98]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/ubpggGuGXZ",
+          "expanded_url": "https://www.r-bloggers.com/?p=333999",
+          "display_url": "r-bloggers.com/?p=333999",
+          "indices": {
+            "start": 53,
+            "end": 76
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "Fantasy Football Weekly Cheat Sheet: Week 8 (2022)  {https://t.co/ubpggGuGXZ} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-10-29 00:30:13",
+    "id": 1.58615339701894e+18,
+    "id_str": "1586153397018935297",
+    "full_text": "Register for the Government &amp; Public Sector R Conference  {https://t.co/tw0sZw9aJb} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 108,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [88, 95]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [96, 108]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/tw0sZw9aJb",
+          "expanded_url": "https://www.r-bloggers.com/?p=333987",
+          "display_url": "r-bloggers.com/?p=333987",
+          "indices": {
+            "start": 63,
+            "end": 86
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "Register for the Government &amp; Public Sector R Conference  {https://t.co/tw0sZw9aJb} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-10-28 07:55:27",
+    "id": 1.58590305405394e+18,
+    "id_str": "1585903054053941249",
+    "full_text": "RObservations #40 : Packaging My Route Map Code! Introducting mapBliss.  {https://t.co/gfF1RERG1K} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 119,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [99, 106]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [107, 119]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/gfF1RERG1K",
+          "expanded_url": "https://www.r-bloggers.com/?p=333970",
+          "display_url": "r-bloggers.com/?p=333970",
+          "indices": {
+            "start": 74,
+            "end": 97
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 6,
+    "favorite_count": 7,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "RObservations #40 : Packaging My Route Map Code! Introducting mapBliss.  {https://t.co/gfF1RERG1K} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-10-28 06:00:25",
+    "id": 1.58587410446862e+18,
+    "id_str": "1585874104468623362",
+    "full_text": "Graphical modeling of stochastic processes driven by correlated noise  {https://t.co/hu611kPafm} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 117,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [97, 104]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [105, 117]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/hu611kPafm",
+          "expanded_url": "https://www.r-bloggers.com/?p=333964",
+          "display_url": "r-bloggers.com/?p=333964",
+          "indices": {
+            "start": 72,
+            "end": 95
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 11,
+    "favorite_count": 17,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "Graphical modeling of stochastic processes driven by correlated noise  {https://t.co/hu611kPafm} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-10-28 03:16:31",
+    "id": 1.5858328590671e+18,
+    "id_str": "1585832859067097089",
+    "full_text": "September 2022: “Top 40” New CRAN Packages  {https://t.co/Qs6adGhm0u} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 90,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [70, 77]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [78, 90]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/Qs6adGhm0u",
+          "expanded_url": "https://www.r-bloggers.com/?p=333962",
+          "display_url": "r-bloggers.com/?p=333962",
+          "indices": {
+            "start": 45,
+            "end": 68
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 6,
+    "favorite_count": 13,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "September 2022: “Top 40” New CRAN Packages  {https://t.co/Qs6adGhm0u} #rstats #DataScience"
+  },
+  {
     "created_at": "2022-10-27 23:59:22",
     "id": 1.58578324266543e+18,
     "id_str": "1585783242665431040",
@@ -59,8 +399,8 @@
       }
     ],
     "is_quote_status": false,
-    "retweet_count": 6,
-    "favorite_count": 10,
+    "retweet_count": 11,
+    "favorite_count": 24,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -127,8 +467,8 @@
       }
     ],
     "is_quote_status": false,
-    "retweet_count": 5,
-    "favorite_count": 13,
+    "retweet_count": 7,
+    "favorite_count": 15,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -196,7 +536,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 4,
-    "favorite_count": 9,
+    "favorite_count": 10,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -672,7 +1012,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 13,
-    "favorite_count": 41,
+    "favorite_count": 42,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -1012,7 +1352,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 9,
-    "favorite_count": 29,
+    "favorite_count": 30,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -6255,7 +6595,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 8,
-    "favorite_count": 14,
+    "favorite_count": 13,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -9333,141 +9673,5 @@
     "possibly_sensitive": false,
     "lang": "en",
     "text": "How do confidence intervals work?  {https://t.co/54QUSUn9q8} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-09-28 17:59:56",
-    "id": 1.57518354302997e+18,
-    "id_str": "1575183543029973000",
-    "full_text": "Get Started with Shiny for Python  {https://t.co/xRcY1nxdtm} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 81,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [61, 68]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [69, 81]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/xRcY1nxdtm",
-          "expanded_url": "https://www.r-bloggers.com/?p=332688",
-          "display_url": "r-bloggers.com/?p=332688",
-          "indices": {
-            "start": 36,
-            "end": 59
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 7,
-    "favorite_count": 11,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "Get Started with Shiny for Python  {https://t.co/xRcY1nxdtm} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-09-28 09:19:54",
-    "id": 1.57505267088012e+18,
-    "id_str": "1575052670880124929",
-    "full_text": "Shiny in Production Conference  {https://t.co/jgnpsIBylV} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 78,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [58, 65]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [66, 78]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/jgnpsIBylV",
-          "expanded_url": "https://www.r-bloggers.com/?p=332682",
-          "display_url": "r-bloggers.com/?p=332682",
-          "indices": {
-            "start": 33,
-            "end": 56
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 12,
-    "favorite_count": 46,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "Shiny in Production Conference  {https://t.co/jgnpsIBylV} #rstats #DataScience"
   }
 ]
