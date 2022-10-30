@@ -1,5 +1,73 @@
 [
   {
+    "created_at": "2022-10-29 14:10:23",
+    "id": 1.58635979543455e+18,
+    "id_str": "1586359795434545153",
+    "full_text": "A Linux Live USB as a statistical programming dev environment  {https://t.co/yrOYdbfAj4} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 109,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [89, 96]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [97, 109]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/yrOYdbfAj4",
+          "expanded_url": "https://www.r-bloggers.com/?p=334015",
+          "display_url": "r-bloggers.com/?p=334015",
+          "indices": {
+            "start": 64,
+            "end": 87
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "favorite_count": 13,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "A Linux Live USB as a statistical programming dev environment  {https://t.co/yrOYdbfAj4} #rstats #DataScience"
+  },
+  {
     "created_at": "2022-10-29 02:00:22",
     "id": 1.58617608386236e+18,
     "id_str": "1586176083862364160",
@@ -59,8 +127,8 @@
       }
     ],
     "is_quote_status": false,
-    "retweet_count": 2,
-    "favorite_count": 1,
+    "retweet_count": 3,
+    "favorite_count": 6,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -127,8 +195,8 @@
       }
     ],
     "is_quote_status": false,
-    "retweet_count": 4,
-    "favorite_count": 3,
+    "retweet_count": 5,
+    "favorite_count": 8,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -264,7 +332,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 11,
-    "favorite_count": 17,
+    "favorite_count": 18,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -1216,7 +1284,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 2,
-    "favorite_count": 8,
+    "favorite_count": 9,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -1623,7 +1691,7 @@
       }
     ],
     "is_quote_status": false,
-    "retweet_count": 8,
+    "retweet_count": 9,
     "favorite_count": 18,
     "favorited": false,
     "retweeted": false,
@@ -2372,7 +2440,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 6,
-    "favorite_count": 10,
+    "favorite_count": 9,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -9469,209 +9537,5 @@
     "possibly_sensitive": false,
     "lang": "en",
     "text": "Recent challenges in model specification testing based on different data structures  {https://t.co/tlA7KE7QFZ} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-09-29 23:59:12",
-    "id": 1.57563634134957e+18,
-    "id_str": "1575636341349572611",
-    "full_text": "API as a package: Testing  {https://t.co/raUY7QX28Y} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 73,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [53, 60]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [61, 73]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/raUY7QX28Y",
-          "expanded_url": "https://www.r-bloggers.com/?p=332697",
-          "display_url": "r-bloggers.com/?p=332697",
-          "indices": {
-            "start": 28,
-            "end": 51
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 7,
-    "favorite_count": 20,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "API as a package: Testing  {https://t.co/raUY7QX28Y} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-09-29 20:59:57",
-    "id": 1.57559123246975e+18,
-    "id_str": "1575591232469753856",
-    "full_text": "rstudio::glimpse() Newsletter  {https://t.co/fyezVDV7F8} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 77,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [57, 64]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [65, 77]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/fyezVDV7F8",
-          "expanded_url": "https://www.r-bloggers.com/?p=332734",
-          "display_url": "r-bloggers.com/?p=332734",
-          "indices": {
-            "start": 32,
-            "end": 55
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 5,
-    "favorite_count": 15,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "rstudio::glimpse() Newsletter  {https://t.co/fyezVDV7F8} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-09-29 13:34:59",
-    "id": 1.57547925114241e+18,
-    "id_str": "1575479251142414337",
-    "full_text": "How do confidence intervals work?  {https://t.co/54QUSUn9q8} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 81,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [61, 68]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [69, 81]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/54QUSUn9q8",
-          "expanded_url": "https://www.r-bloggers.com/?p=332730",
-          "display_url": "r-bloggers.com/?p=332730",
-          "indices": {
-            "start": 36,
-            "end": 59
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 4,
-    "favorite_count": 11,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "How do confidence intervals work?  {https://t.co/54QUSUn9q8} #rstats #DataScience"
   }
 ]
