@@ -1,5 +1,141 @@
 [
   {
+    "created_at": "2022-10-31 00:00:12",
+    "id": 1.58687061681616e+18,
+    "id_str": "1586870616816160768",
+    "full_text": "How to deal with annoying medium sized data inside a Shiny app  {https://t.co/r35PpWCS9P} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 110,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [90, 97]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [98, 110]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/r35PpWCS9P",
+          "expanded_url": "https://www.r-bloggers.com/?p=334049",
+          "display_url": "r-bloggers.com/?p=334049",
+          "indices": {
+            "start": 65,
+            "end": 88
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 6,
+    "favorite_count": 6,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "How to deal with annoying medium sized data inside a Shiny app  {https://t.co/r35PpWCS9P} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-10-30 17:20:31",
+    "id": 1.5867700346593e+18,
+    "id_str": "1586770034659295232",
+    "full_text": "Scaling Density Plots  {https://t.co/pGQtFBU1Qa} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 69,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [49, 56]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [57, 69]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/pGQtFBU1Qa",
+          "expanded_url": "https://www.r-bloggers.com/?p=334043",
+          "display_url": "r-bloggers.com/?p=334043",
+          "indices": {
+            "start": 24,
+            "end": 47
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "favorite_count": 11,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "Scaling Density Plots  {https://t.co/pGQtFBU1Qa} #rstats #DataScience"
+  },
+  {
     "created_at": "2022-10-29 14:10:23",
     "id": 1.58635979543455e+18,
     "id_str": "1586359795434545153",
@@ -60,7 +196,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 5,
-    "favorite_count": 13,
+    "favorite_count": 16,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -9129,413 +9265,5 @@
     "possibly_sensitive": false,
     "lang": "en",
     "text": "R tips and tricks – get the gist  {https://t.co/BeOONfAgky} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-09-30 18:54:58",
-    "id": 1.57592216519036e+18,
-    "id_str": "1575922165190361102",
-    "full_text": "Algorithm Classifications in Machine Learning  {https://t.co/XPcjSMuD8z} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 93,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [73, 80]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [81, 93]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/XPcjSMuD8z",
-          "expanded_url": "https://www.r-bloggers.com/?p=332781",
-          "display_url": "r-bloggers.com/?p=332781",
-          "indices": {
-            "start": 48,
-            "end": 71
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 7,
-    "favorite_count": 18,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "Algorithm Classifications in Machine Learning  {https://t.co/XPcjSMuD8z} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-09-30 11:30:08",
-    "id": 1.57581022084411e+18,
-    "id_str": "1575810220844105729",
-    "full_text": "Boosting in Machine Learning:-A Brief Overview  {https://t.co/zDhzvIcnca} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 94,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [74, 81]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [82, 94]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/zDhzvIcnca",
-          "expanded_url": "https://www.r-bloggers.com/?p=332764",
-          "display_url": "r-bloggers.com/?p=332764",
-          "indices": {
-            "start": 49,
-            "end": 72
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 5,
-    "favorite_count": 28,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "Boosting in Machine Learning:-A Brief Overview  {https://t.co/zDhzvIcnca} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-09-30 10:19:53",
-    "id": 1.57579254153398e+18,
-    "id_str": "1575792541533978624",
-    "full_text": "Kernel SHAP in R and Python  {https://t.co/MYILKfCTXE} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 75,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [55, 62]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [63, 75]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/MYILKfCTXE",
-          "expanded_url": "https://www.r-bloggers.com/?p=332760",
-          "display_url": "r-bloggers.com/?p=332760",
-          "indices": {
-            "start": 30,
-            "end": 53
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 4,
-    "favorite_count": 5,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "cy",
-    "text": "Kernel SHAP in R and Python  {https://t.co/MYILKfCTXE} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-09-30 09:39:54",
-    "id": 1.57578248143288e+18,
-    "id_str": "1575782481432875010",
-    "full_text": "5 New books added to Big Book of R  {https://t.co/D8TzT2x1r8} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 82,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [62, 69]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [70, 82]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/D8TzT2x1r8",
-          "expanded_url": "https://www.r-bloggers.com/?p=332758",
-          "display_url": "r-bloggers.com/?p=332758",
-          "indices": {
-            "start": 37,
-            "end": 60
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 6,
-    "favorite_count": 21,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "5 New books added to Big Book of R  {https://t.co/D8TzT2x1r8} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-09-30 07:24:54",
-    "id": 1.57574850780948e+18,
-    "id_str": "1575748507809480705",
-    "full_text": "Handling Empty Paragraphs from R Markdown  {https://t.co/lhwZ0o7ZNw} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 89,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [69, 76]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [77, 89]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/lhwZ0o7ZNw",
-          "expanded_url": "https://www.r-bloggers.com/?p=332752",
-          "display_url": "r-bloggers.com/?p=332752",
-          "indices": {
-            "start": 44,
-            "end": 67
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 3,
-    "favorite_count": 10,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "Handling Empty Paragraphs from R Markdown  {https://t.co/lhwZ0o7ZNw} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-09-30 02:50:00",
-    "id": 1.57567932632586e+18,
-    "id_str": "1575679326325858310",
-    "full_text": "Recent challenges in model specification testing based on different data structures  {https://t.co/tlA7KE7QFZ} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 131,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [111, 118]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [119, 131]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/tlA7KE7QFZ",
-          "expanded_url": "https://www.r-bloggers.com/?p=332739",
-          "display_url": "r-bloggers.com/?p=332739",
-          "indices": {
-            "start": 86,
-            "end": 109
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 5,
-    "favorite_count": 12,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "Recent challenges in model specification testing based on different data structures  {https://t.co/tlA7KE7QFZ} #rstats #DataScience"
   }
 ]
