@@ -1,5 +1,209 @@
 [
   {
+    "created_at": "2022-10-31 13:35:25",
+    "id": 1.58707577269875e+18,
+    "id_str": "1587075772698746880",
+    "full_text": "Some Recent Developments in Mixture Cure Model Methodology for Survival Analysis  {https://t.co/5nzF1GVTZV} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 128,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [108, 115]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [116, 128]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/5nzF1GVTZV",
+          "expanded_url": "https://www.r-bloggers.com/?p=334071",
+          "display_url": "r-bloggers.com/?p=334071",
+          "indices": {
+            "start": 83,
+            "end": 106
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 7,
+    "favorite_count": 11,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "Some Recent Developments in Mixture Cure Model Methodology for Survival Analysis  {https://t.co/5nzF1GVTZV} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-10-31 12:50:13",
+    "id": 1.58706439762894e+18,
+    "id_str": "1587064397628936193",
+    "full_text": "Modeling the Extinction of Species with SVM-Kernel  {https://t.co/18iT5VtJHh} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 98,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [78, 85]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [86, 98]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/18iT5VtJHh",
+          "expanded_url": "https://www.r-bloggers.com/?p=334069",
+          "display_url": "r-bloggers.com/?p=334069",
+          "indices": {
+            "start": 53,
+            "end": 76
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 9,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "Modeling the Extinction of Species with SVM-Kernel  {https://t.co/18iT5VtJHh} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-10-31 05:05:13",
+    "id": 1.58694737701281e+18,
+    "id_str": "1586947377012809729",
+    "full_text": "Getting acquainted with Mastodon — Instances  {https://t.co/nO4t64r9vJ} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 92,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [72, 79]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [80, 92]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/nO4t64r9vJ",
+          "expanded_url": "https://www.r-bloggers.com/?p=334062",
+          "display_url": "r-bloggers.com/?p=334062",
+          "indices": {
+            "start": 47,
+            "end": 70
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 12,
+    "favorite_count": 18,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "Getting acquainted with Mastodon — Instances  {https://t.co/nO4t64r9vJ} #rstats #DataScience"
+  },
+  {
     "created_at": "2022-10-31 00:00:12",
     "id": 1.58687061681616e+18,
     "id_str": "1586870616816160768",
@@ -60,7 +264,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 6,
-    "favorite_count": 6,
+    "favorite_count": 11,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -128,7 +332,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 5,
-    "favorite_count": 11,
+    "favorite_count": 16,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -6051,7 +6255,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 4,
-    "favorite_count": 20,
+    "favorite_count": 19,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -8165,7 +8369,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 7,
-    "favorite_count": 32,
+    "favorite_count": 31,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -9061,209 +9265,5 @@
     "possibly_sensitive": false,
     "lang": "en",
     "text": "Probabilistic Photograph Manipulation with ggplot2 and imager  {https://t.co/CA4k1061RB} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-10-01 21:04:51",
-    "id": 1.57631724099537e+18,
-    "id_str": "1576317240995373056",
-    "full_text": "Fantasy Football Weekly Cheat Sheet: Week 4 (2022)  {https://t.co/tiHUn68dNq} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 98,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [78, 85]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [86, 98]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/tiHUn68dNq",
-          "expanded_url": "https://www.r-bloggers.com/?p=332811",
-          "display_url": "r-bloggers.com/?p=332811",
-          "indices": {
-            "start": 53,
-            "end": 76
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 5,
-    "favorite_count": 13,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "Fantasy Football Weekly Cheat Sheet: Week 4 (2022)  {https://t.co/tiHUn68dNq} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-10-01 15:50:00",
-    "id": 1.57623800749724e+18,
-    "id_str": "1576238007497236482",
-    "full_text": "Why and how to use JS in your Shiny app  {https://t.co/wC43lWUIxt} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 87,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [67, 74]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [75, 87]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/wC43lWUIxt",
-          "expanded_url": "https://www.r-bloggers.com/?p=332808",
-          "display_url": "r-bloggers.com/?p=332808",
-          "indices": {
-            "start": 42,
-            "end": 65
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 3,
-    "favorite_count": 24,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "Why and how to use JS in your Shiny app  {https://t.co/wC43lWUIxt} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-10-01 15:25:10",
-    "id": 1.57623175816874e+18,
-    "id_str": "1576231758168735746",
-    "full_text": "R tips and tricks – get the gist  {https://t.co/BeOONfAgky} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 80,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [60, 67]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [68, 80]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/BeOONfAgky",
-          "expanded_url": "https://www.r-bloggers.com/?p=332806",
-          "display_url": "r-bloggers.com/?p=332806",
-          "indices": {
-            "start": 35,
-            "end": 58
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 1,
-    "favorite_count": 11,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "R tips and tricks – get the gist  {https://t.co/BeOONfAgky} #rstats #DataScience"
   }
 ]
