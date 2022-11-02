@@ -1,5 +1,487 @@
 [
   {
+    "created_at": "2022-11-01 19:10:21",
+    "id": 1.58752245149952e+18,
+    "id_str": "1587522451499524096",
+    "full_text": "How do I count thee?  Let me count the ways?  {https://t.co/P5Ft2jTTrt} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 92,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [72, 79]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [80, 92]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/P5Ft2jTTrt",
+          "expanded_url": "http://www.r-bloggers.com/?p=334122",
+          "display_url": "r-bloggers.com/?p=334122",
+          "indices": {
+            "start": 47,
+            "end": 70
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "How do I count thee?  Let me count the ways?  {https://t.co/P5Ft2jTTrt} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-11-01 19:09:55",
+    "id": 1.58752234257346e+18,
+    "id_str": "1587522342573457412",
+    "full_text": "Bayesian multilevel modeling in R with brms workshop  {https://t.co/AeVlrSvfPG} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 100,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [80, 87]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [88, 100]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/AeVlrSvfPG",
+          "expanded_url": "http://www.r-bloggers.com/?p=334120",
+          "display_url": "r-bloggers.com/?p=334120",
+          "indices": {
+            "start": 55,
+            "end": 78
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 14,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "Bayesian multilevel modeling in R with brms workshop  {https://t.co/AeVlrSvfPG} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-11-01 19:09:50",
+    "id": 1.58752231852757e+18,
+    "id_str": "1587522318527565829",
+    "full_text": "365 Data Science courses free until November 21  {https://t.co/aJ56dVxrDZ} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 95,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [75, 82]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [83, 95]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/aJ56dVxrDZ",
+          "expanded_url": "http://www.r-bloggers.com/?p=334118",
+          "display_url": "r-bloggers.com/?p=334118",
+          "indices": {
+            "start": 50,
+            "end": 73
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 5,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "365 Data Science courses free until November 21  {https://t.co/aJ56dVxrDZ} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-11-01 19:07:47",
+    "id": 1.58752180285889e+18,
+    "id_str": "1587521802858889216",
+    "full_text": "New R job: Big Data Analyst – University College London [Big Tech] – Research Fellow https://t.co/fBW2PgNBAV #rstats #DataScience #jobs",
+    "truncated": false,
+    "display_text_range": 135,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [109, 116]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [117, 129]
+          ]
+        },
+        {
+          "text": "jobs",
+          "indices": [
+            [130, 135]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/fBW2PgNBAV",
+          "expanded_url": "https://www.r-users.com/jobs/big-data-analyst-university-college-london-big-tech-research-fellow/",
+          "display_url": "r-users.com/jobs/big-data-…",
+          "indices": {
+            "start": 85,
+            "end": 108
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 4,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "New R job: Big Data Analyst – University College London [Big Tech] – Research Fellow https://t.co/fBW2PgNBAV #rstats #DataScience #jobs"
+  },
+  {
+    "created_at": "2022-11-01 16:55:20",
+    "id": 1.58748847051099e+18,
+    "id_str": "1587488470510993410",
+    "full_text": "A Footnote in History  {https://t.co/xlELvQRlUu} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 69,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [49, 56]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [57, 69]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/xlELvQRlUu",
+          "expanded_url": "https://www.r-bloggers.com/?p=334108",
+          "display_url": "r-bloggers.com/?p=334108",
+          "indices": {
+            "start": 24,
+            "end": 47
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "A Footnote in History  {https://t.co/xlELvQRlUu} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-11-01 11:00:13",
+    "id": 1.58739910315945e+18,
+    "id_str": "1587399103159451648",
+    "full_text": "XLConnect 1.0.6  {https://t.co/BviIXX7VFm} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 63,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [43, 50]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [51, 63]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/BviIXX7VFm",
+          "expanded_url": "https://www.r-bloggers.com/?p=334106",
+          "display_url": "r-bloggers.com/?p=334106",
+          "indices": {
+            "start": 18,
+            "end": 41
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 6,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "XLConnect 1.0.6  {https://t.co/BviIXX7VFm} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-11-01 04:45:27",
+    "id": 1.5873047887939e+18,
+    "id_str": "1587304788793901056",
+    "full_text": "Modeling the secular trend in a cluster randomized trial using very flexible models  {https://t.co/5ZJvC3c3nD} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 131,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [111, 118]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [119, 131]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/5ZJvC3c3nD",
+          "expanded_url": "https://www.r-bloggers.com/?p=334104",
+          "display_url": "r-bloggers.com/?p=334104",
+          "indices": {
+            "start": 86,
+            "end": 109
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 6,
+    "favorite_count": 15,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "Modeling the secular trend in a cluster randomized trial using very flexible models  {https://t.co/5ZJvC3c3nD} #rstats #DataScience"
+  },
+  {
     "created_at": "2022-10-31 13:35:25",
     "id": 1.58707577269875e+18,
     "id_str": "1587075772698746880",
@@ -59,8 +541,8 @@
       }
     ],
     "is_quote_status": false,
-    "retweet_count": 7,
-    "favorite_count": 11,
+    "retweet_count": 8,
+    "favorite_count": 13,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -128,7 +610,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 3,
-    "favorite_count": 9,
+    "favorite_count": 10,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -332,7 +814,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 5,
-    "favorite_count": 16,
+    "favorite_count": 17,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -1284,7 +1766,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 3,
-    "favorite_count": 5,
+    "favorite_count": 4,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -1352,7 +1834,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 3,
-    "favorite_count": 6,
+    "favorite_count": 5,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -9197,73 +9679,5 @@
     "possibly_sensitive": false,
     "lang": "en",
     "text": "Understanding leaf node numbers when using rpart and rpart.rules  {https://t.co/5S0p1jnBxW} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-10-02 05:45:10",
-    "id": 1.57644818505625e+18,
-    "id_str": "1576448185056247808",
-    "full_text": "Probabilistic Photograph Manipulation with ggplot2 and imager  {https://t.co/CA4k1061RB} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 109,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [89, 96]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [97, 109]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/CA4k1061RB",
-          "expanded_url": "https://www.r-bloggers.com/?p=332822",
-          "display_url": "r-bloggers.com/?p=332822",
-          "indices": {
-            "start": 64,
-            "end": 87
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 9,
-    "favorite_count": 26,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "Probabilistic Photograph Manipulation with ggplot2 and imager  {https://t.co/CA4k1061RB} #rstats #DataScience"
   }
 ]
