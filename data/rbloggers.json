@@ -1,5 +1,209 @@
 [
   {
+    "created_at": "2022-11-04 01:55:19",
+    "id": 1.58834913988415e+18,
+    "id_str": "1588349139884146688",
+    "full_text": "Update of compiled datasets (2022)  {https://t.co/hx1E6lIRUk} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 82,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [62, 69]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [70, 82]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/hx1E6lIRUk",
+          "expanded_url": "https://www.r-bloggers.com/?p=334273",
+          "display_url": "r-bloggers.com/?p=334273",
+          "indices": {
+            "start": 37,
+            "end": 60
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 6,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "Update of compiled datasets (2022)  {https://t.co/hx1E6lIRUk} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-11-03 20:05:17",
+    "id": 1.58826105093947e+18,
+    "id_str": "1588261050939473920",
+    "full_text": "NEW BOOK: Visualização de Dados com o R (in portuguese)  {https://t.co/VUEovDFo27} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 103,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [83, 90]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [91, 103]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/VUEovDFo27",
+          "expanded_url": "https://www.r-bloggers.com/?p=334270",
+          "display_url": "r-bloggers.com/?p=334270",
+          "indices": {
+            "start": 58,
+            "end": 81
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "pt",
+    "text": "NEW BOOK: Visualização de Dados com o R (in portuguese)  {https://t.co/VUEovDFo27} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-11-03 09:00:12",
+    "id": 1.58809367549782e+18,
+    "id_str": "1588093675497824257",
+    "full_text": "‘CGAL’ meets ‘R6’: the ‘cgalMeshes’ package  {https://t.co/N7nXjg1AES} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 91,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [71, 78]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [79, 91]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/N7nXjg1AES",
+          "expanded_url": "https://www.r-bloggers.com/?p=334242",
+          "display_url": "r-bloggers.com/?p=334242",
+          "indices": {
+            "start": 46,
+            "end": 69
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 6,
+    "favorite_count": 6,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "‘CGAL’ meets ‘R6’: the ‘cgalMeshes’ package  {https://t.co/N7nXjg1AES} #rstats #DataScience"
+  },
+  {
     "created_at": "2022-11-02 23:45:23",
     "id": 1.58795405164751e+18,
     "id_str": "1587954051647508480",
@@ -59,8 +263,8 @@
       }
     ],
     "is_quote_status": false,
-    "retweet_count": 3,
-    "favorite_count": 2,
+    "retweet_count": 4,
+    "favorite_count": 5,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -128,7 +332,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 4,
-    "favorite_count": 4,
+    "favorite_count": 7,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -195,8 +399,8 @@
       }
     ],
     "is_quote_status": false,
-    "retweet_count": 10,
-    "favorite_count": 33,
+    "retweet_count": 14,
+    "favorite_count": 52,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -264,7 +468,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 2,
-    "favorite_count": 2,
+    "favorite_count": 4,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -399,8 +603,8 @@
       }
     ],
     "is_quote_status": false,
-    "retweet_count": 3,
-    "favorite_count": 22,
+    "retweet_count": 5,
+    "favorite_count": 23,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -468,7 +672,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 4,
-    "favorite_count": 7,
+    "favorite_count": 8,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -746,7 +950,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 6,
-    "favorite_count": 15,
+    "favorite_count": 16,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -8925,413 +9129,5 @@
     "possibly_sensitive": false,
     "lang": "en",
     "text": "New R job: Shiny, Markdown, sf, ggplot2 https://t.co/gSAFkGECs2 #rstats #DataScience #jobs"
-  },
-  {
-    "created_at": "2022-10-04 18:49:54",
-    "id": 1.57737044519985e+18,
-    "id_str": "1577370445199851545",
-    "full_text": "Package dev with {fusen} &amp; {attachment}: load all functions of a flat, manage qmd and  {https://t.co/1BsI2vQy7k} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 137,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [117, 124]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [125, 137]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/1BsI2vQy7k",
-          "expanded_url": "https://www.r-bloggers.com/?p=332917",
-          "display_url": "r-bloggers.com/?p=332917",
-          "indices": {
-            "start": 92,
-            "end": 115
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 5,
-    "favorite_count": 13,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "Package dev with {fusen} &amp; {attachment}: load all functions of a flat, manage qmd and  {https://t.co/1BsI2vQy7k} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-10-04 17:24:52",
-    "id": 1.57734904600353e+18,
-    "id_str": "1577349046003531776",
-    "full_text": "Applications open: The Seventh Summer School on Statistical Methods for Linguistics and  {https://t.co/lM25IAMYwe} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 135,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [115, 122]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [123, 135]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/lM25IAMYwe",
-          "expanded_url": "https://www.r-bloggers.com/?p=332915",
-          "display_url": "r-bloggers.com/?p=332915",
-          "indices": {
-            "start": 90,
-            "end": 113
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 2,
-    "favorite_count": 4,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "Applications open: The Seventh Summer School on Statistical Methods for Linguistics and  {https://t.co/lM25IAMYwe} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-10-04 16:20:07",
-    "id": 1.57733275078438e+18,
-    "id_str": "1577332750784380928",
-    "full_text": "ggradar: radar plots with ggplot in R  {https://t.co/4TRbvoHSbz} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 85,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [65, 72]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [73, 85]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/4TRbvoHSbz",
-          "expanded_url": "https://www.r-bloggers.com/?p=332913",
-          "display_url": "r-bloggers.com/?p=332913",
-          "indices": {
-            "start": 40,
-            "end": 63
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 7,
-    "favorite_count": 31,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "sv",
-    "text": "ggradar: radar plots with ggplot in R  {https://t.co/4TRbvoHSbz} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-10-04 15:04:56",
-    "id": 1.57731382972528e+18,
-    "id_str": "1577313829725282304",
-    "full_text": "Get Miles: using treemap to visualise running distances  {https://t.co/c32BlgwIWo} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 103,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [83, 90]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [91, 103]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/c32BlgwIWo",
-          "expanded_url": "https://www.r-bloggers.com/?p=332911",
-          "display_url": "r-bloggers.com/?p=332911",
-          "indices": {
-            "start": 58,
-            "end": 81
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 3,
-    "favorite_count": 6,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "Get Miles: using treemap to visualise running distances  {https://t.co/c32BlgwIWo} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-10-04 10:15:12",
-    "id": 1.57724091447246e+18,
-    "id_str": "1577240914472456192",
-    "full_text": "A Day in Life of an R/Shiny Developer  {https://t.co/uROQLqUUJd} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 85,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [65, 72]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [73, 85]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/uROQLqUUJd",
-          "expanded_url": "https://www.r-bloggers.com/?p=332907",
-          "display_url": "r-bloggers.com/?p=332907",
-          "indices": {
-            "start": 40,
-            "end": 63
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 2,
-    "favorite_count": 10,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "A Day in Life of an R/Shiny Developer  {https://t.co/uROQLqUUJd} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-10-04 00:59:51",
-    "id": 1.57710115533067e+18,
-    "id_str": "1577101155330674690",
-    "full_text": "Nonparametric inference based on statistical depth  {https://t.co/pp0gGeQpph} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 98,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [78, 85]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [86, 98]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/pp0gGeQpph",
-          "expanded_url": "https://www.r-bloggers.com/?p=332895",
-          "display_url": "r-bloggers.com/?p=332895",
-          "indices": {
-            "start": 53,
-            "end": 76
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 9,
-    "favorite_count": 23,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "Nonparametric inference based on statistical depth  {https://t.co/pp0gGeQpph} #rstats #DataScience"
   }
 ]
