@@ -1,5 +1,481 @@
 [
   {
+    "created_at": "2022-11-05 02:30:17",
+    "id": 1.58872032636776e+18,
+    "id_str": "1588720326367756288",
+    "full_text": "Download shapefiles from ESRI ArcGIS Online Story Maps  {https://t.co/SnemX6gCef} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 102,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [82, 89]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [90, 102]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/SnemX6gCef",
+          "expanded_url": "https://www.r-bloggers.com/?p=334336",
+          "display_url": "r-bloggers.com/?p=334336",
+          "indices": {
+            "start": 57,
+            "end": 80
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 5,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "Download shapefiles from ESRI ArcGIS Online Story Maps  {https://t.co/SnemX6gCef} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-11-04 21:40:26",
+    "id": 1.58864738155756e+18,
+    "id_str": "1588647381557559297",
+    "full_text": "Update of compiled datasets  {https://t.co/4d3N5tsQwg} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 75,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [55, 62]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [63, 75]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/4d3N5tsQwg",
+          "expanded_url": "https://www.r-bloggers.com/?p=334324",
+          "display_url": "r-bloggers.com/?p=334324",
+          "indices": {
+            "start": 30,
+            "end": 53
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 5,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "Update of compiled datasets  {https://t.co/4d3N5tsQwg} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-11-04 15:35:16",
+    "id": 1.58855548827428e+18,
+    "id_str": "1588555488274284550",
+    "full_text": "Introducing yahoofinancer  {https://t.co/nSOPllnEN5} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 73,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [53, 60]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [61, 73]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/nSOPllnEN5",
+          "expanded_url": "https://www.r-bloggers.com/?p=334310",
+          "display_url": "r-bloggers.com/?p=334310",
+          "indices": {
+            "start": 28,
+            "end": 51
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 6,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es",
+    "text": "Introducing yahoofinancer  {https://t.co/nSOPllnEN5} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-11-04 15:10:19",
+    "id": 1.5885492084911e+18,
+    "id_str": "1588549208491102209",
+    "full_text": "Opening a spatial subset with {sf}  {https://t.co/KLM2hxLoEz} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 82,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [62, 69]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [70, 82]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/KLM2hxLoEz",
+          "expanded_url": "https://www.r-bloggers.com/?p=334302",
+          "display_url": "r-bloggers.com/?p=334302",
+          "indices": {
+            "start": 37,
+            "end": 60
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 4,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "Opening a spatial subset with {sf}  {https://t.co/KLM2hxLoEz} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-11-04 13:20:20",
+    "id": 1.58852152847549e+18,
+    "id_str": "1588521528475488256",
+    "full_text": "Map any region in the world with R – Part II: Obtaining the coordinates  {https://t.co/uNU42q0yo0} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 119,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [99, 106]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [107, 119]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/uNU42q0yo0",
+          "expanded_url": "https://www.r-bloggers.com/?p=334300",
+          "display_url": "r-bloggers.com/?p=334300",
+          "indices": {
+            "start": 74,
+            "end": 97
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 10,
+    "favorite_count": 45,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "Map any region in the world with R – Part II: Obtaining the coordinates  {https://t.co/uNU42q0yo0} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-11-04 11:40:20",
+    "id": 1.58849636455991e+18,
+    "id_str": "1588496364559908866",
+    "full_text": "A shiny interface to BatchGetSymbols  {https://t.co/Ficu5qixJ0} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 84,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [64, 71]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [72, 84]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/Ficu5qixJ0",
+          "expanded_url": "https://www.r-bloggers.com/?p=334293",
+          "display_url": "r-bloggers.com/?p=334293",
+          "indices": {
+            "start": 39,
+            "end": 62
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 6,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "A shiny interface to BatchGetSymbols  {https://t.co/Ficu5qixJ0} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-11-04 11:40:15",
+    "id": 1.5884963435045e+18,
+    "id_str": "1588496343504502784",
+    "full_text": "New R package yfR  {https://t.co/qkBXC2kmaE} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 65,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [45, 52]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [53, 65]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/qkBXC2kmaE",
+          "expanded_url": "https://www.r-bloggers.com/?p=334291",
+          "display_url": "r-bloggers.com/?p=334291",
+          "indices": {
+            "start": 20,
+            "end": 43
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 4,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "New R package yfR  {https://t.co/qkBXC2kmaE} #rstats #DataScience"
+  },
+  {
     "created_at": "2022-11-04 01:55:19",
     "id": 1.58834913988415e+18,
     "id_str": "1588349139884146688",
@@ -59,8 +535,8 @@
       }
     ],
     "is_quote_status": false,
-    "retweet_count": 4,
-    "favorite_count": 6,
+    "retweet_count": 10,
+    "favorite_count": 13,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -128,7 +604,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 3,
-    "favorite_count": 3,
+    "favorite_count": 4,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -5438,7 +5914,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 11,
-    "favorite_count": 25,
+    "favorite_count": 24,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -8851,283 +9327,5 @@
     "possibly_sensitive": false,
     "lang": "en",
     "text": "Money, Money, Money: RConcillation  {https://t.co/Pmj3thmTzo} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-10-05 19:14:56",
-    "id": 1.57773913152184e+18,
-    "id_str": "1577739131521843200",
-    "full_text": "What if..? Program Evaluation in the Labor Market.  {https://t.co/PlkRSDzBP7} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 98,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [78, 85]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [86, 98]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/PlkRSDzBP7",
-          "expanded_url": "https://www.r-bloggers.com/?p=332958",
-          "display_url": "r-bloggers.com/?p=332958",
-          "indices": {
-            "start": 53,
-            "end": 76
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 5,
-    "favorite_count": 14,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "What if..? Program Evaluation in the Labor Market.  {https://t.co/PlkRSDzBP7} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-10-05 17:10:07",
-    "id": 1.57770771848755e+18,
-    "id_str": "1577707718487547904",
-    "full_text": "choroplethr 3.7.1 is now on CRAN  {https://t.co/vI4FYpm0jD} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 80,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [60, 67]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [68, 80]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/vI4FYpm0jD",
-          "expanded_url": "https://www.r-bloggers.com/?p=332955",
-          "display_url": "r-bloggers.com/?p=332955",
-          "indices": {
-            "start": 35,
-            "end": 58
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 4,
-    "favorite_count": 6,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "choroplethr 3.7.1 is now on CRAN  {https://t.co/vI4FYpm0jD} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-10-05 16:04:58",
-    "id": 1.57769132468956e+18,
-    "id_str": "1577691324689555458",
-    "full_text": "GooglyPlusPlus gets ready for ICC Men’s T20 World Cup  {https://t.co/Zd4wK5pkGq} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 101,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [81, 88]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [89, 101]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/Zd4wK5pkGq",
-          "expanded_url": "https://www.r-bloggers.com/?p=332953",
-          "display_url": "r-bloggers.com/?p=332953",
-          "indices": {
-            "start": 56,
-            "end": 79
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 4,
-    "favorite_count": 5,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "GooglyPlusPlus gets ready for ICC Men’s T20 World Cup  {https://t.co/Zd4wK5pkGq} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-10-05 13:45:41",
-    "id": 1.57765627141045e+18,
-    "id_str": "1577656271410446336",
-    "full_text": "New R job: Shiny, Markdown, sf, ggplot2 https://t.co/gSAFkGECs2 #rstats #DataScience #jobs",
-    "truncated": false,
-    "display_text_range": 90,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [64, 71]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [72, 84]
-          ]
-        },
-        {
-          "text": "jobs",
-          "indices": [
-            [85, 90]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/gSAFkGECs2",
-          "expanded_url": "https://www.r-users.com/jobs/shiny-markdown-sf-ggplot2/",
-          "display_url": "r-users.com/jobs/shiny-mar…",
-          "indices": {
-            "start": 40,
-            "end": 63
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 3,
-    "favorite_count": 13,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "New R job: Shiny, Markdown, sf, ggplot2 https://t.co/gSAFkGECs2 #rstats #DataScience #jobs"
   }
 ]
