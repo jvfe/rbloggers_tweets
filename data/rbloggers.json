@@ -1,5 +1,73 @@
 [
   {
+    "created_at": "2022-11-07 11:30:14",
+    "id": 1.58958098332966e+18,
+    "id_str": "1589580983329660928",
+    "full_text": "Looking back at 2020 and plans for 2021  {https://t.co/JErcMv6m1p} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 87,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [67, 74]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [75, 87]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/JErcMv6m1p",
+          "expanded_url": "https://www.r-bloggers.com/?p=334481",
+          "display_url": "r-bloggers.com/?p=334481",
+          "indices": {
+            "start": 42,
+            "end": 65
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "Looking back at 2020 and plans for 2021  {https://t.co/JErcMv6m1p} #rstats #DataScience"
+  },
+  {
     "created_at": "2022-11-07 02:05:26",
     "id": 1.58943884773727e+18,
     "id_str": "1589438847737274369",
@@ -60,7 +128,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 2,
-    "favorite_count": 2,
+    "favorite_count": 5,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -128,7 +196,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 1,
-    "favorite_count": 1,
+    "favorite_count": 5,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -195,8 +263,8 @@
       }
     ],
     "is_quote_status": false,
-    "retweet_count": 5,
-    "favorite_count": 6,
+    "retweet_count": 6,
+    "favorite_count": 10,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -264,7 +332,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 4,
-    "favorite_count": 2,
+    "favorite_count": 3,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -341,7 +409,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 6,
-    "favorite_count": 6,
+    "favorite_count": 14,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -408,8 +476,8 @@
       }
     ],
     "is_quote_status": false,
-    "retweet_count": 3,
-    "favorite_count": 7,
+    "retweet_count": 4,
+    "favorite_count": 9,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -476,8 +544,8 @@
       }
     ],
     "is_quote_status": false,
-    "retweet_count": 12,
-    "favorite_count": 12,
+    "retweet_count": 13,
+    "favorite_count": 21,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -545,7 +613,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 3,
-    "favorite_count": 1,
+    "favorite_count": 4,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -612,8 +680,8 @@
       }
     ],
     "is_quote_status": false,
-    "retweet_count": 6,
-    "favorite_count": 14,
+    "retweet_count": 8,
+    "favorite_count": 19,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -681,7 +749,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 2,
-    "favorite_count": 2,
+    "favorite_count": 3,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -749,7 +817,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 2,
-    "favorite_count": 3,
+    "favorite_count": 4,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -817,7 +885,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 5,
-    "favorite_count": 6,
+    "favorite_count": 7,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -953,7 +1021,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 4,
-    "favorite_count": 10,
+    "favorite_count": 11,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -1021,7 +1089,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 17,
-    "favorite_count": 42,
+    "favorite_count": 47,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -1157,7 +1225,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 6,
-    "favorite_count": 15,
+    "favorite_count": 16,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -1225,7 +1293,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 8,
-    "favorite_count": 20,
+    "favorite_count": 21,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -1293,7 +1361,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 4,
-    "favorite_count": 12,
+    "favorite_count": 13,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -1361,7 +1429,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 56,
-    "favorite_count": 266,
+    "favorite_count": 272,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -1769,7 +1837,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 2,
-    "favorite_count": 8,
+    "favorite_count": 9,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -2109,7 +2177,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 10,
-    "favorite_count": 15,
+    "favorite_count": 16,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -2177,7 +2245,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 3,
-    "favorite_count": 4,
+    "favorite_count": 5,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -2449,7 +2517,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 14,
-    "favorite_count": 51,
+    "favorite_count": 53,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -2721,7 +2789,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 4,
-    "favorite_count": 9,
+    "favorite_count": 10,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -3747,7 +3815,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 6,
-    "favorite_count": 13,
+    "favorite_count": 14,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -4971,7 +5039,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 14,
-    "favorite_count": 29,
+    "favorite_count": 28,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -10220,209 +10288,5 @@
     "possibly_sensitive": false,
     "lang": "en",
     "text": "R function to fill in merged cells  {https://t.co/0c6W5MQUDn} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-10-08 18:50:08",
-    "id": 1.5788200536376e+18,
-    "id_str": "1578820053637599232",
-    "full_text": "My first shiny app  {https://t.co/b39GKVIowj} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 66,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [46, 53]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [54, 66]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/b39GKVIowj",
-          "expanded_url": "https://www.r-bloggers.com/?p=333070",
-          "display_url": "r-bloggers.com/?p=333070",
-          "indices": {
-            "start": 21,
-            "end": 44
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 11,
-    "favorite_count": 36,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "My first shiny app  {https://t.co/b39GKVIowj} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-10-08 18:49:56",
-    "id": 1.57882000191759e+18,
-    "id_str": "1578820001917587456",
-    "full_text": "Minitutorial: make_logical any string  {https://t.co/1Vm9R5dMXq} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 85,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [65, 72]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [73, 85]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/1Vm9R5dMXq",
-          "expanded_url": "https://www.r-bloggers.com/?p=333068",
-          "display_url": "r-bloggers.com/?p=333068",
-          "indices": {
-            "start": 40,
-            "end": 63
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 4,
-    "favorite_count": 5,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "Minitutorial: make_logical any string  {https://t.co/1Vm9R5dMXq} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-10-08 12:44:57",
-    "id": 1.57872815343805e+18,
-    "id_str": "1578728153438048256",
-    "full_text": "Map any region in the world with R – Part I: The basic map  {https://t.co/mxyGMipFVB} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 106,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [86, 93]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [94, 106]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/mxyGMipFVB",
-          "expanded_url": "https://www.r-bloggers.com/?p=333065",
-          "display_url": "r-bloggers.com/?p=333065",
-          "indices": {
-            "start": 61,
-            "end": 84
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 35,
-    "favorite_count": 101,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "Map any region in the world with R – Part I: The basic map  {https://t.co/mxyGMipFVB} #rstats #DataScience"
   }
 ]
