@@ -1,5 +1,209 @@
 [
   {
+    "created_at": "2022-11-09 02:10:35",
+    "id": 1.59016492037692e+18,
+    "id_str": "1590164920376918018",
+    "full_text": "Vienna&lt;-R 2022 November Meetup (live/virtual)  {https://t.co/G9gsrcg552} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 96,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [76, 83]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [84, 96]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/G9gsrcg552",
+          "expanded_url": "https://www.r-bloggers.com/?p=334539",
+          "display_url": "r-bloggers.com/?p=334539",
+          "indices": {
+            "start": 51,
+            "end": 74
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "Vienna&lt;-R 2022 November Meetup (live/virtual)  {https://t.co/G9gsrcg552} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-11-08 12:25:24",
+    "id": 1.58995725417811e+18,
+    "id_str": "1589957254178111489",
+    "full_text": "Into The Fediverse!  {https://t.co/Ztg3asYRn2} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 67,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [47, 54]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [55, 67]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/Ztg3asYRn2",
+          "expanded_url": "https://www.r-bloggers.com/?p=334520",
+          "display_url": "r-bloggers.com/?p=334520",
+          "indices": {
+            "start": 22,
+            "end": 45
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "Into The Fediverse!  {https://t.co/Ztg3asYRn2} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-11-08 11:20:28",
+    "id": 1.58994091402114e+18,
+    "id_str": "1589940914021142529",
+    "full_text": "Scaling Shiny Apps for Python and R: Sticky Sessions on Heroku  {https://t.co/pFrRe0CiCq} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 110,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [90, 97]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [98, 110]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/pFrRe0CiCq",
+          "expanded_url": "https://www.r-bloggers.com/?p=334515",
+          "display_url": "r-bloggers.com/?p=334515",
+          "indices": {
+            "start": 65,
+            "end": 88
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 9,
+    "favorite_count": 16,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "Scaling Shiny Apps for Python and R: Sticky Sessions on Heroku  {https://t.co/pFrRe0CiCq} #rstats #DataScience"
+  },
+  {
     "created_at": "2022-11-07 11:30:14",
     "id": 1.58958098332966e+18,
     "id_str": "1589580983329660928",
@@ -60,7 +264,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 3,
-    "favorite_count": 3,
+    "favorite_count": 4,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -1429,7 +1633,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 56,
-    "favorite_count": 272,
+    "favorite_count": 271,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -10016,277 +10220,5 @@
     "possibly_sensitive": false,
     "lang": "en",
     "text": "R workshops Brisbane February 2023  {https://t.co/ice4PiUT81} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-10-09 12:04:57",
-    "id": 1.57908047515894e+18,
-    "id_str": "1579080475158937600",
-    "full_text": "Invest everyday, biweekly, or monthly?  {https://t.co/B0M1bSmNpW} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 86,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [66, 73]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [74, 86]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/B0M1bSmNpW",
-          "expanded_url": "https://www.r-bloggers.com/?p=333104",
-          "display_url": "r-bloggers.com/?p=333104",
-          "indices": {
-            "start": 41,
-            "end": 64
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 8,
-    "favorite_count": 13,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "Invest everyday, biweekly, or monthly?  {https://t.co/B0M1bSmNpW} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-10-09 08:55:06",
-    "id": 1.57903269770745e+18,
-    "id_str": "1579032697707454466",
-    "full_text": "Fantasy Football Weekly Cheat Sheet: Week 5 (2022)  {https://t.co/HT37yImAMc} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 98,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [78, 85]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [86, 98]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/HT37yImAMc",
-          "expanded_url": "https://www.r-bloggers.com/?p=333102",
-          "display_url": "r-bloggers.com/?p=333102",
-          "indices": {
-            "start": 53,
-            "end": 76
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 5,
-    "favorite_count": 9,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "Fantasy Football Weekly Cheat Sheet: Week 5 (2022)  {https://t.co/HT37yImAMc} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-10-09 02:35:06",
-    "id": 1.57893706744204e+18,
-    "id_str": "1578937067442036736",
-    "full_text": "Functions in R  {https://t.co/RT7CvPMTeH} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 62,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [42, 49]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [50, 62]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/RT7CvPMTeH",
-          "expanded_url": "https://www.r-bloggers.com/?p=333086",
-          "display_url": "r-bloggers.com/?p=333086",
-          "indices": {
-            "start": 17,
-            "end": 40
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 12,
-    "favorite_count": 45,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "Functions in R  {https://t.co/RT7CvPMTeH} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-10-09 02:34:56",
-    "id": 1.57893702259236e+18,
-    "id_str": "1578937022592360449",
-    "full_text": "R function to fill in merged cells  {https://t.co/0c6W5MQUDn} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 82,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [62, 69]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [70, 82]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/0c6W5MQUDn",
-          "expanded_url": "https://www.r-bloggers.com/?p=333084",
-          "display_url": "r-bloggers.com/?p=333084",
-          "indices": {
-            "start": 37,
-            "end": 60
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 9,
-    "favorite_count": 33,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "R function to fill in merged cells  {https://t.co/0c6W5MQUDn} #rstats #DataScience"
   }
 ]
