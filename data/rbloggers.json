@@ -1,5 +1,345 @@
 [
   {
+    "created_at": "2022-11-10 02:20:25",
+    "id": 1.59052978207639e+18,
+    "id_str": "1590529782076391425",
+    "full_text": "Little useless-useful R functions – Reverse integer  {https://t.co/GAf97gz0XR} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 99,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [79, 86]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [87, 99]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/GAf97gz0XR",
+          "expanded_url": "https://www.r-bloggers.com/?p=334596",
+          "display_url": "r-bloggers.com/?p=334596",
+          "indices": {
+            "start": 54,
+            "end": 77
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "Little useless-useful R functions – Reverse integer  {https://t.co/GAf97gz0XR} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-11-09 23:25:23",
+    "id": 1.59048573573545e+18,
+    "id_str": "1590485735735451648",
+    "full_text": "Use data from Wikipedia  {https://t.co/aPeW39TciS} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 71,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [51, 58]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [59, 71]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/aPeW39TciS",
+          "expanded_url": "https://www.r-bloggers.com/?p=334582",
+          "display_url": "r-bloggers.com/?p=334582",
+          "indices": {
+            "start": 26,
+            "end": 49
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "favorite_count": 10,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "Use data from Wikipedia  {https://t.co/aPeW39TciS} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-11-09 23:05:20",
+    "id": 1.59048068652771e+18,
+    "id_str": "1590480686527709184",
+    "full_text": "Preparing to Thrive by Collaborating with Local Universities  {https://t.co/JJd7uym9Jc} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 108,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [88, 95]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [96, 108]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/JJd7uym9Jc",
+          "expanded_url": "https://www.r-bloggers.com/?p=334579",
+          "display_url": "r-bloggers.com/?p=334579",
+          "indices": {
+            "start": 63,
+            "end": 86
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "Preparing to Thrive by Collaborating with Local Universities  {https://t.co/JJd7uym9Jc} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-11-09 18:45:21",
+    "id": 1.59041526222603e+18,
+    "id_str": "1590415262226030599",
+    "full_text": "Chapter 5: Part 1, Real Markets  {https://t.co/nB6oJA8RDR} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 79,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [59, 66]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [67, 79]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/nB6oJA8RDR",
+          "expanded_url": "https://www.r-bloggers.com/?p=334577",
+          "display_url": "r-bloggers.com/?p=334577",
+          "indices": {
+            "start": 34,
+            "end": 57
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 5,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "Chapter 5: Part 1, Real Markets  {https://t.co/nB6oJA8RDR} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-11-09 11:15:27",
+    "id": 1.59030203949373e+18,
+    "id_str": "1590302039493734407",
+    "full_text": "The giant French Olympic-size swimming pool  {https://t.co/BC232YgTv9} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 91,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [71, 78]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [79, 91]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/BC232YgTv9",
+          "expanded_url": "https://www.r-bloggers.com/?p=334559",
+          "display_url": "r-bloggers.com/?p=334559",
+          "indices": {
+            "start": 46,
+            "end": 69
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "The giant French Olympic-size swimming pool  {https://t.co/BC232YgTv9} #rstats #DataScience"
+  },
+  {
     "created_at": "2022-11-09 02:10:35",
     "id": 1.59016492037692e+18,
     "id_str": "1590164920376918018",
@@ -59,8 +399,8 @@
       }
     ],
     "is_quote_status": false,
-    "retweet_count": 2,
-    "favorite_count": 2,
+    "retweet_count": 5,
+    "favorite_count": 5,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -128,7 +468,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 3,
-    "favorite_count": 2,
+    "favorite_count": 4,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -195,8 +535,8 @@
       }
     ],
     "is_quote_status": false,
-    "retweet_count": 9,
-    "favorite_count": 16,
+    "retweet_count": 12,
+    "favorite_count": 18,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -1565,7 +1905,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 4,
-    "favorite_count": 13,
+    "favorite_count": 14,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -2177,7 +2517,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 15,
-    "favorite_count": 81,
+    "favorite_count": 80,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -4087,7 +4427,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 11,
-    "favorite_count": 24,
+    "favorite_count": 23,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -4359,7 +4699,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 13,
-    "favorite_count": 35,
+    "favorite_count": 34,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -7759,7 +8099,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 11,
-    "favorite_count": 23,
+    "favorite_count": 24,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -10084,141 +10424,5 @@
     "possibly_sensitive": false,
     "lang": "en",
     "text": "Inference on Adaptively Collected Data  {https://t.co/2IM3Fujrb0} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-10-10 15:44:56",
-    "id": 1.57949822237216e+18,
-    "id_str": "1579498222372155392",
-    "full_text": "Simplifying Parts Of A Shiny App by Creating Functions  {https://t.co/cBLola6iQD} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 102,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [82, 89]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [90, 102]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/cBLola6iQD",
-          "expanded_url": "https://www.r-bloggers.com/?p=333138",
-          "display_url": "r-bloggers.com/?p=333138",
-          "indices": {
-            "start": 57,
-            "end": 80
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 8,
-    "favorite_count": 22,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "Simplifying Parts Of A Shiny App by Creating Functions  {https://t.co/cBLola6iQD} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-10-10 10:54:50",
-    "id": 1.57942521526776e+18,
-    "id_str": "1579425215267762176",
-    "full_text": "R workshops Brisbane February 2023  {https://t.co/ice4PiUT81} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 82,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [62, 69]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [70, 82]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/ice4PiUT81",
-          "expanded_url": "https://www.r-bloggers.com/?p=333135",
-          "display_url": "r-bloggers.com/?p=333135",
-          "indices": {
-            "start": 37,
-            "end": 60
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 2,
-    "favorite_count": 3,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "R workshops Brisbane February 2023  {https://t.co/ice4PiUT81} #rstats #DataScience"
   }
 ]
