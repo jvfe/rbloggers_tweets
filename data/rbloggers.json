@@ -1,5 +1,209 @@
 [
   {
+    "created_at": "2022-11-10 23:10:22",
+    "id": 1.59084434328752e+18,
+    "id_str": "1590844343287521280",
+    "full_text": "Which Gender is associated with this Name? R to the R-escue!  {https://t.co/QTyXTY9VlR} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 108,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [88, 95]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [96, 108]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/QTyXTY9VlR",
+          "expanded_url": "https://www.r-bloggers.com/?p=334627",
+          "display_url": "r-bloggers.com/?p=334627",
+          "indices": {
+            "start": 63,
+            "end": 86
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 6,
+    "favorite_count": 8,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "Which Gender is associated with this Name? R to the R-escue!  {https://t.co/QTyXTY9VlR} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-11-10 11:45:11",
+    "id": 1.59067191146959e+18,
+    "id_str": "1590671911469588480",
+    "full_text": "Get lost  {https://t.co/gdgg0F6VDy} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 56,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [36, 43]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [44, 56]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/gdgg0F6VDy",
+          "expanded_url": "https://www.r-bloggers.com/?p=334613",
+          "display_url": "r-bloggers.com/?p=334613",
+          "indices": {
+            "start": 11,
+            "end": 34
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 4,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "Get lost  {https://t.co/gdgg0F6VDy} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-11-10 09:30:15",
+    "id": 1.59063795305889e+18,
+    "id_str": "1590637953058889728",
+    "full_text": "Dirichlet Regression with PyMC  {https://t.co/DK1O8pHEft} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 78,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [58, 65]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [66, 78]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/DK1O8pHEft",
+          "expanded_url": "https://www.r-bloggers.com/?p=334605",
+          "display_url": "r-bloggers.com/?p=334605",
+          "indices": {
+            "start": 33,
+            "end": 56
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 10,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "Dirichlet Regression with PyMC  {https://t.co/DK1O8pHEft} #rstats #DataScience"
+  },
+  {
     "created_at": "2022-11-10 02:20:25",
     "id": 1.59052978207639e+18,
     "id_str": "1590529782076391425",
@@ -59,7 +263,7 @@
       }
     ],
     "is_quote_status": false,
-    "retweet_count": 2,
+    "retweet_count": 3,
     "favorite_count": 2,
     "favorited": false,
     "retweeted": false,
@@ -127,8 +331,8 @@
       }
     ],
     "is_quote_status": false,
-    "retweet_count": 5,
-    "favorite_count": 10,
+    "retweet_count": 6,
+    "favorite_count": 21,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -196,7 +400,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 2,
-    "favorite_count": 1,
+    "favorite_count": 2,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -264,7 +468,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 4,
-    "favorite_count": 5,
+    "favorite_count": 7,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -332,7 +536,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 3,
-    "favorite_count": 2,
+    "favorite_count": 3,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -1633,7 +1837,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 17,
-    "favorite_count": 47,
+    "favorite_count": 46,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -1973,7 +2177,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 56,
-    "favorite_count": 271,
+    "favorite_count": 270,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -3060,7 +3264,7 @@
       }
     ],
     "is_quote_status": false,
-    "retweet_count": 14,
+    "retweet_count": 15,
     "favorite_count": 53,
     "favorited": false,
     "retweeted": false,
@@ -10288,141 +10492,5 @@
     "possibly_sensitive": false,
     "lang": "en",
     "text": "How to Estimate the Efficiency of an Algorithm?  {https://t.co/A318n6Z70L} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-10-11 17:29:53",
-    "id": 1.57988702251243e+18,
-    "id_str": "1579887022512427009",
-    "full_text": "Acing Virtual Events with Networking Sessions and Collaboration  {https://t.co/Mb5eaaordf} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 111,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [91, 98]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [99, 111]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/Mb5eaaordf",
-          "expanded_url": "https://www.r-bloggers.com/?p=333182",
-          "display_url": "r-bloggers.com/?p=333182",
-          "indices": {
-            "start": 66,
-            "end": 89
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 2,
-    "favorite_count": 2,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "Acing Virtual Events with Networking Sessions and Collaboration  {https://t.co/Mb5eaaordf} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-10-11 17:09:54",
-    "id": 1.57988199151189e+18,
-    "id_str": "1579881991511891968",
-    "full_text": "Inference on Adaptively Collected Data  {https://t.co/2IM3Fujrb0} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 86,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [66, 73]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [74, 86]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/2IM3Fujrb0",
-          "expanded_url": "https://www.r-bloggers.com/?p=333180",
-          "display_url": "r-bloggers.com/?p=333180",
-          "indices": {
-            "start": 41,
-            "end": 64
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 8,
-    "favorite_count": 17,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "Inference on Adaptively Collected Data  {https://t.co/2IM3Fujrb0} #rstats #DataScience"
   }
 ]
