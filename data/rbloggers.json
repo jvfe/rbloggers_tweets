@@ -1,5 +1,277 @@
 [
   {
+    "created_at": "2022-11-12 02:10:20",
+    "id": 1.59125202100044e+18,
+    "id_str": "1591252021000437760",
+    "full_text": "Fantasy Football Weekly Cheat Sheet: Week 10 (2022)  {https://t.co/x0SdS8up8u} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 99,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [79, 86]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [87, 99]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/x0SdS8up8u",
+          "expanded_url": "https://www.r-bloggers.com/?p=334690",
+          "display_url": "r-bloggers.com/?p=334690",
+          "indices": {
+            "start": 54,
+            "end": 77
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "Fantasy Football Weekly Cheat Sheet: Week 10 (2022)  {https://t.co/x0SdS8up8u} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-11-11 20:55:11",
+    "id": 1.59117271242836e+18,
+    "id_str": "1591172712428355584",
+    "full_text": "rtoot: Collecting and Analyzing Mastodon Data  {https://t.co/dEAXIGWlQH} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 93,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [73, 80]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [81, 93]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/dEAXIGWlQH",
+          "expanded_url": "https://www.r-bloggers.com/?p=334674",
+          "display_url": "r-bloggers.com/?p=334674",
+          "indices": {
+            "start": 48,
+            "end": 71
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 6,
+    "favorite_count": 19,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "rtoot: Collecting and Analyzing Mastodon Data  {https://t.co/dEAXIGWlQH} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-11-11 20:10:30",
+    "id": 1.59116146659764e+18,
+    "id_str": "1591161466597638144",
+    "full_text": "Sentinel  {https://t.co/jEzz0Qoxim} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 56,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [36, 43]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [44, 56]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/jEzz0Qoxim",
+          "expanded_url": "https://www.r-bloggers.com/?p=334672",
+          "display_url": "r-bloggers.com/?p=334672",
+          "indices": {
+            "start": 11,
+            "end": 34
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "pt",
+    "text": "Sentinel  {https://t.co/jEzz0Qoxim} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-11-11 15:55:20",
+    "id": 1.59109725298612e+18,
+    "id_str": "1591097252986118144",
+    "full_text": "Classifying Blood Bowl teams using clustered heatmaps  {https://t.co/47zZ9vsDxa} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 101,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [81, 88]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [89, 101]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/47zZ9vsDxa",
+          "expanded_url": "https://www.r-bloggers.com/?p=334657",
+          "display_url": "r-bloggers.com/?p=334657",
+          "indices": {
+            "start": 56,
+            "end": 79
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 6,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "Classifying Blood Bowl teams using clustered heatmaps  {https://t.co/47zZ9vsDxa} #rstats #DataScience"
+  },
+  {
     "created_at": "2022-11-10 23:10:22",
     "id": 1.59084434328752e+18,
     "id_str": "1590844343287521280",
@@ -60,7 +332,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 6,
-    "favorite_count": 8,
+    "favorite_count": 12,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -128,7 +400,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 2,
-    "favorite_count": 4,
+    "favorite_count": 6,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -195,8 +467,8 @@
       }
     ],
     "is_quote_status": false,
-    "retweet_count": 4,
-    "favorite_count": 10,
+    "retweet_count": 5,
+    "favorite_count": 14,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -264,7 +536,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 3,
-    "favorite_count": 2,
+    "favorite_count": 3,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -535,8 +807,8 @@
       }
     ],
     "is_quote_status": false,
-    "retweet_count": 3,
-    "favorite_count": 3,
+    "retweet_count": 2,
+    "favorite_count": 2,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -3611,7 +3883,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 5,
-    "favorite_count": 5,
+    "favorite_count": 6,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -4019,7 +4291,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 12,
-    "favorite_count": 18,
+    "favorite_count": 17,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -6330,7 +6602,7 @@
       }
     ],
     "is_quote_status": false,
-    "retweet_count": 18,
+    "retweet_count": 17,
     "favorite_count": 37,
     "favorited": false,
     "retweeted": false,
@@ -10288,209 +10560,5 @@
     "possibly_sensitive": false,
     "lang": "en",
     "text": "CRAN and the Isoband Incident – Is Your Project at Risk and How to Fix It  {https://t.co/W0KbaowOeM} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-10-12 16:15:09",
-    "id": 1.5802306019403e+18,
-    "id_str": "1580230601940303873",
-    "full_text": "Data Science Software Popularity Update  {https://t.co/ScSZjV4l6j} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 87,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [67, 74]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [75, 87]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/ScSZjV4l6j",
-          "expanded_url": "https://www.r-bloggers.com/?p=333230",
-          "display_url": "r-bloggers.com/?p=333230",
-          "indices": {
-            "start": 42,
-            "end": 65
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 3,
-    "favorite_count": 6,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "cs",
-    "text": "Data Science Software Popularity Update  {https://t.co/ScSZjV4l6j} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-10-12 01:00:16",
-    "id": 1.58000036631747e+18,
-    "id_str": "1580000366317473792",
-    "full_text": "R @ AZ: Building a Community in the Pharmaceutical Industry  {https://t.co/aw9NmbXWrX} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 107,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [87, 94]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [95, 107]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/aw9NmbXWrX",
-          "expanded_url": "https://www.r-bloggers.com/?p=333211",
-          "display_url": "r-bloggers.com/?p=333211",
-          "indices": {
-            "start": 62,
-            "end": 85
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 5,
-    "favorite_count": 7,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "R @ AZ: Building a Community in the Pharmaceutical Industry  {https://t.co/aw9NmbXWrX} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-10-12 00:14:53",
-    "id": 1.5799889414612e+18,
-    "id_str": "1579988941461196800",
-    "full_text": "How to Estimate the Efficiency of an Algorithm?  {https://t.co/A318n6Z70L} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 95,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [75, 82]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [83, 95]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/A318n6Z70L",
-          "expanded_url": "https://www.r-bloggers.com/?p=333200",
-          "display_url": "r-bloggers.com/?p=333200",
-          "indices": {
-            "start": 50,
-            "end": 73
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 8,
-    "favorite_count": 14,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "How to Estimate the Efficiency of an Algorithm?  {https://t.co/A318n6Z70L} #rstats #DataScience"
   }
 ]
