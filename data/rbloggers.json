@@ -1,5 +1,141 @@
 [
   {
+    "created_at": "2022-11-12 20:45:21",
+    "id": 1.59153262272286e+18,
+    "id_str": "1591532622722859011",
+    "full_text": "Scales  {https://t.co/8ZJuJzjBcn} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 54,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [34, 41]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [42, 54]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/8ZJuJzjBcn",
+          "expanded_url": "https://www.r-bloggers.com/?p=334704",
+          "display_url": "r-bloggers.com/?p=334704",
+          "indices": {
+            "start": 9,
+            "end": 32
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 8,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "Scales  {https://t.co/8ZJuJzjBcn} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-11-12 17:05:13",
+    "id": 1.59147722654105e+18,
+    "id_str": "1591477226541047808",
+    "full_text": "The lazy numbers in R  {https://t.co/cff2w1XtgX} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 69,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [49, 56]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [57, 69]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/cff2w1XtgX",
+          "expanded_url": "https://www.r-bloggers.com/?p=334698",
+          "display_url": "r-bloggers.com/?p=334698",
+          "indices": {
+            "start": 24,
+            "end": 47
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "The lazy numbers in R  {https://t.co/cff2w1XtgX} #rstats #DataScience"
+  },
+  {
     "created_at": "2022-11-12 02:10:20",
     "id": 1.59125202100044e+18,
     "id_str": "1591252021000437760",
@@ -60,7 +196,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 3,
-    "favorite_count": 2,
+    "favorite_count": 5,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -127,8 +263,8 @@
       }
     ],
     "is_quote_status": false,
-    "retweet_count": 6,
-    "favorite_count": 19,
+    "retweet_count": 11,
+    "favorite_count": 37,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -196,7 +332,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 1,
-    "favorite_count": 3,
+    "favorite_count": 4,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -264,7 +400,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 3,
-    "favorite_count": 6,
+    "favorite_count": 9,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -1012,7 +1148,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 12,
-    "favorite_count": 18,
+    "favorite_count": 19,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -2381,7 +2517,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 4,
-    "favorite_count": 14,
+    "favorite_count": 13,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -2993,7 +3129,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 15,
-    "favorite_count": 80,
+    "favorite_count": 81,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -5787,7 +5923,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 16,
-    "favorite_count": 62,
+    "favorite_count": 61,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -10288,277 +10424,5 @@
     "possibly_sensitive": false,
     "lang": "en",
     "text": "Tips for Getting Started With the NFL Big Data Bowl From the 2022 Winners  {https://t.co/FwoO72bj2b} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-10-13 23:59:15",
-    "id": 1.58070978569494e+18,
-    "id_str": "1580709785694937091",
-    "full_text": "Highlights from Shiny in Production (2022)  {https://t.co/nLMlyBv0zz} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 90,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [70, 77]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [78, 90]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/nLMlyBv0zz",
-          "expanded_url": "https://www.r-bloggers.com/?p=333273",
-          "display_url": "r-bloggers.com/?p=333273",
-          "indices": {
-            "start": 45,
-            "end": 68
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 4,
-    "favorite_count": 19,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "Highlights from Shiny in Production (2022)  {https://t.co/nLMlyBv0zz} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-10-13 21:49:56",
-    "id": 1.58067723926782e+18,
-    "id_str": "1580677239267823617",
-    "full_text": "Classification modeling in R for profitable decisions workshop  {https://t.co/oXg9bLcbZ8} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 110,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [90, 97]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [98, 110]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/oXg9bLcbZ8",
-          "expanded_url": "https://www.r-bloggers.com/?p=333284",
-          "display_url": "r-bloggers.com/?p=333284",
-          "indices": {
-            "start": 65,
-            "end": 88
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 4,
-    "favorite_count": 10,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "Classification modeling in R for profitable decisions workshop  {https://t.co/oXg9bLcbZ8} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-10-13 17:35:12",
-    "id": 1.58061313565166e+18,
-    "id_str": "1580613135651655681",
-    "full_text": "Common Statistical Tests in R – Part I  {https://t.co/mvYfbzuZYX} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 86,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [66, 73]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [74, 86]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/mvYfbzuZYX",
-          "expanded_url": "https://www.r-bloggers.com/?p=333271",
-          "display_url": "r-bloggers.com/?p=333271",
-          "indices": {
-            "start": 41,
-            "end": 64
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 12,
-    "favorite_count": 36,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "Common Statistical Tests in R – Part I  {https://t.co/mvYfbzuZYX} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-10-13 11:49:58",
-    "id": 1.58052625343384e+18,
-    "id_str": "1580526253433839616",
-    "full_text": "CRAN and the Isoband Incident – Is Your Project at Risk and How to Fix It  {https://t.co/W0KbaowOeM} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 121,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [101, 108]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [109, 121]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/W0KbaowOeM",
-          "expanded_url": "https://www.r-bloggers.com/?p=333267",
-          "display_url": "r-bloggers.com/?p=333267",
-          "indices": {
-            "start": 76,
-            "end": 99
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 4,
-    "favorite_count": 7,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "CRAN and the Isoband Incident – Is Your Project at Risk and How to Fix It  {https://t.co/W0KbaowOeM} #rstats #DataScience"
   }
 ]
