@@ -1,5 +1,73 @@
 [
   {
+    "created_at": "2022-11-13 18:10:28",
+    "id": 1.591856034251e+18,
+    "id_str": "1591856034250997763",
+    "full_text": "Sugar  {https://t.co/IihTsCGfHy} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 53,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [33, 40]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [41, 53]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/IihTsCGfHy",
+          "expanded_url": "https://www.r-bloggers.com/?p=334743",
+          "display_url": "r-bloggers.com/?p=334743",
+          "indices": {
+            "start": 8,
+            "end": 31
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 6,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "pt",
+    "text": "Sugar  {https://t.co/IihTsCGfHy} #rstats #DataScience"
+  },
+  {
     "created_at": "2022-11-12 20:45:21",
     "id": 1.59153262272286e+18,
     "id_str": "1591532622722859011",
@@ -59,8 +127,8 @@
       }
     ],
     "is_quote_status": false,
-    "retweet_count": 3,
-    "favorite_count": 8,
+    "retweet_count": 4,
+    "favorite_count": 15,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -128,7 +196,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 3,
-    "favorite_count": 3,
+    "favorite_count": 8,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -400,7 +468,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 3,
-    "favorite_count": 9,
+    "favorite_count": 10,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -2585,7 +2653,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 56,
-    "favorite_count": 270,
+    "favorite_count": 271,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -10145,284 +10213,5 @@
     "possibly_sensitive": false,
     "lang": "en",
     "text": "Manage Dependencies with the deps R Package for Docker Containers  {https://t.co/jecT3Tb1Lz} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-10-14 03:09:55",
-    "id": 1.58075776768132e+18,
-    "id_str": "1580757767681323009",
-    "full_text": "Inference on Adaptively Collected Data  {https://t.co/MeE3DUSFnT} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 86,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [66, 73]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [74, 86]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/MeE3DUSFnT",
-          "expanded_url": "https://www.r-bloggers.com/?p=333296",
-          "display_url": "r-bloggers.com/?p=333296",
-          "indices": {
-            "start": 41,
-            "end": 64
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 7,
-    "favorite_count": 16,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "Inference on Adaptively Collected Data  {https://t.co/MeE3DUSFnT} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-10-14 02:10:00",
-    "id": 1.58074269068129e+18,
-    "id_str": "1580742690681294848",
-    "full_text": "How to keep yourself updated with the latest R news?  {https://t.co/8n0BFNAwki} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 100,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [80, 87]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [88, 100]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/8n0BFNAwki",
-          "expanded_url": "https://www.r-bloggers.com/?p=333294",
-          "display_url": "r-bloggers.com/?p=333294",
-          "indices": {
-            "start": 55,
-            "end": 78
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 3,
-    "favorite_count": 10,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "How to keep yourself updated with the latest R news?  {https://t.co/8n0BFNAwki} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-10-14 01:20:00",
-    "id": 1.58073010760959e+18,
-    "id_str": "1580730107609591808",
-    "full_text": "Pacific island choropleth map by @ellis2013nz  {https://t.co/2puqtfHLhZ} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 93,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [73, 80]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [81, 93]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "screen_name": "ellis2013nz",
-          "name": "Peter Ellis",
-          "id": 2724597409,
-          "id_str": "2724597409",
-          "indices": {
-            "start": 33,
-            "end": 45
-          }
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/2puqtfHLhZ",
-          "expanded_url": "https://www.r-bloggers.com/?p=333288",
-          "display_url": "r-bloggers.com/?p=333288",
-          "indices": {
-            "start": 48,
-            "end": 71
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 6,
-    "favorite_count": 7,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "Pacific island choropleth map by @ellis2013nz  {https://t.co/2puqtfHLhZ} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-10-14 01:15:11",
-    "id": 1.58072889250707e+18,
-    "id_str": "1580728892507070464",
-    "full_text": "Tips for Getting Started With the NFL Big Data Bowl From the 2022 Winners  {https://t.co/FwoO72bj2b} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 121,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [101, 108]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [109, 121]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/FwoO72bj2b",
-          "expanded_url": "https://www.r-bloggers.com/?p=333286",
-          "display_url": "r-bloggers.com/?p=333286",
-          "indices": {
-            "start": 76,
-            "end": 99
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 7,
-    "favorite_count": 6,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "Tips for Getting Started With the NFL Big Data Bowl From the 2022 Winners  {https://t.co/FwoO72bj2b} #rstats #DataScience"
   }
 ]
