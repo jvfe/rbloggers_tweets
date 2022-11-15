@@ -1,5 +1,617 @@
 [
   {
+    "created_at": "2022-11-15 01:00:16",
+    "id": 1.59232155251043e+18,
+    "id_str": "1592321552510427137",
+    "full_text": "Top 10 Data Visualisation Tools Every Data Science Enthusiast Must Know  {https://t.co/eCk16Etknz} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 119,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [99, 106]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [107, 119]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/eCk16Etknz",
+          "expanded_url": "https://www.r-bloggers.com/?p=334789",
+          "display_url": "r-bloggers.com/?p=334789",
+          "indices": {
+            "start": 74,
+            "end": 97
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 6,
+    "favorite_count": 7,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "Top 10 Data Visualisation Tools Every Data Science Enthusiast Must Know  {https://t.co/eCk16Etknz} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-11-14 23:45:28",
+    "id": 1.59230272634756e+18,
+    "id_str": "1592302726347558913",
+    "full_text": "Asia Against Dollar: Forecasting with Modeltime  {https://t.co/vzSuheKt2K} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 95,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [75, 82]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [83, 95]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/vzSuheKt2K",
+          "expanded_url": "https://www.r-bloggers.com/?p=334786",
+          "display_url": "r-bloggers.com/?p=334786",
+          "indices": {
+            "start": 50,
+            "end": 73
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 6,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "Asia Against Dollar: Forecasting with Modeltime  {https://t.co/vzSuheKt2K} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-11-14 20:30:22",
+    "id": 1.59225362866381e+18,
+    "id_str": "1592253628663808000",
+    "full_text": "How to make a scatterplot in R  {https://t.co/4NytvMeMPl} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 78,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [58, 65]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [66, 78]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/4NytvMeMPl",
+          "expanded_url": "https://www.r-bloggers.com/?p=334782",
+          "display_url": "r-bloggers.com/?p=334782",
+          "indices": {
+            "start": 33,
+            "end": 56
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 12,
+    "favorite_count": 23,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "How to make a scatterplot in R  {https://t.co/4NytvMeMPl} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-11-14 18:55:29",
+    "id": 1.5922297510409e+18,
+    "id_str": "1592229751040901120",
+    "full_text": "2022 Government &amp; Public Sector R Conference  {https://t.co/bTTG3adh4z} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 96,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [76, 83]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [84, 96]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/bTTG3adh4z",
+          "expanded_url": "https://www.r-bloggers.com/?p=334780",
+          "display_url": "r-bloggers.com/?p=334780",
+          "indices": {
+            "start": 51,
+            "end": 74
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 9,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "2022 Government &amp; Public Sector R Conference  {https://t.co/bTTG3adh4z} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-11-14 17:00:23",
+    "id": 1.59220078602022e+18,
+    "id_str": "1592200786020220929",
+    "full_text": "Method for Counting TRUE Values in a Logical Vector  {https://t.co/LWma4r31N2} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 99,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [79, 86]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [87, 99]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/LWma4r31N2",
+          "expanded_url": "https://www.r-bloggers.com/?p=334777",
+          "display_url": "r-bloggers.com/?p=334777",
+          "indices": {
+            "start": 54,
+            "end": 77
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "Method for Counting TRUE Values in a Logical Vector  {https://t.co/LWma4r31N2} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-11-14 14:50:31",
+    "id": 1.59216810334511e+18,
+    "id_str": "1592168103345111043",
+    "full_text": "Machine learning of a 2022 FIFA World Cup multiverse  {https://t.co/FAnvwlCApl} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 100,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [80, 87]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [88, 100]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/FAnvwlCApl",
+          "expanded_url": "https://www.r-bloggers.com/?p=334775",
+          "display_url": "r-bloggers.com/?p=334775",
+          "indices": {
+            "start": 55,
+            "end": 78
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 7,
+    "favorite_count": 10,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "Machine learning of a 2022 FIFA World Cup multiverse  {https://t.co/FAnvwlCApl} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-11-14 11:05:26",
+    "id": 1.59211145787278e+18,
+    "id_str": "1592111457872781312",
+    "full_text": "How to Generate Word Docs in Shiny with officer, flextable, and shinyglide  {https://t.co/5eOSuUNjTj} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 122,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [102, 109]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [110, 122]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/5eOSuUNjTj",
+          "expanded_url": "https://www.r-bloggers.com/?p=334763",
+          "display_url": "r-bloggers.com/?p=334763",
+          "indices": {
+            "start": 77,
+            "end": 100
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "favorite_count": 14,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "How to Generate Word Docs in Shiny with officer, flextable, and shinyglide  {https://t.co/5eOSuUNjTj} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-11-14 05:20:22",
+    "id": 1.59202462154461e+18,
+    "id_str": "1592024621544607746",
+    "full_text": "RObservations #41: Making a “Matlab Pumkin” in R  {https://t.co/ZSm1HRJVS3} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 96,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [76, 83]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [84, 96]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/ZSm1HRJVS3",
+          "expanded_url": "https://www.r-bloggers.com/?p=334761",
+          "display_url": "r-bloggers.com/?p=334761",
+          "indices": {
+            "start": 51,
+            "end": 74
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "favorite_count": 7,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "RObservations #41: Making a “Matlab Pumkin” in R  {https://t.co/ZSm1HRJVS3} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-11-14 03:15:23",
+    "id": 1.59199316816522e+18,
+    "id_str": "1591993168165216259",
+    "full_text": "Using functional analysis to model air pollution data in R  {https://t.co/kWnL3FXs6t} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 106,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [86, 93]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [94, 106]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/kWnL3FXs6t",
+          "expanded_url": "https://www.r-bloggers.com/?p=334754",
+          "display_url": "r-bloggers.com/?p=334754",
+          "indices": {
+            "start": 61,
+            "end": 84
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 21,
+    "favorite_count": 70,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "Using functional analysis to model air pollution data in R  {https://t.co/kWnL3FXs6t} #rstats #DataScience"
+  },
+  {
     "created_at": "2022-11-13 18:10:28",
     "id": 1.591856034251e+18,
     "id_str": "1591856034250997763",
@@ -59,8 +671,8 @@
       }
     ],
     "is_quote_status": false,
-    "retweet_count": 3,
-    "favorite_count": 6,
+    "retweet_count": 4,
+    "favorite_count": 8,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -128,7 +740,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 4,
-    "favorite_count": 15,
+    "favorite_count": 16,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -9941,277 +10553,5 @@
     "possibly_sensitive": false,
     "lang": "en",
     "text": "IF ELSE- ELSE IF Statement in R  {https://t.co/kRQeBK5ha9} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-10-15 16:34:54",
-    "id": 1.58132273795996e+18,
-    "id_str": "1581322737959960579",
-    "full_text": "Where does bigrquery store credential-tokens on a Mac?  {https://t.co/KWQrnAimbO} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 102,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [82, 89]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [90, 102]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/KWQrnAimbO",
-          "expanded_url": "https://www.r-bloggers.com/?p=333372",
-          "display_url": "r-bloggers.com/?p=333372",
-          "indices": {
-            "start": 57,
-            "end": 80
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 4,
-    "favorite_count": 9,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "Where does bigrquery store credential-tokens on a Mac?  {https://t.co/KWQrnAimbO} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-10-15 10:54:55",
-    "id": 1.58123717672528e+18,
-    "id_str": "1581237176725278722",
-    "full_text": "How to Replace Inf Values with NA in R  {https://t.co/Zz0vFEMtp2} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 86,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [66, 73]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [74, 86]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/Zz0vFEMtp2",
-          "expanded_url": "https://www.r-bloggers.com/?p=333357",
-          "display_url": "r-bloggers.com/?p=333357",
-          "indices": {
-            "start": 41,
-            "end": 64
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 6,
-    "favorite_count": 20,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "How to Replace Inf Values with NA in R  {https://t.co/Zz0vFEMtp2} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-10-15 10:54:50",
-    "id": 1.58123715573663e+18,
-    "id_str": "1581237155736625152",
-    "full_text": "Extract patterns in R?  {https://t.co/rjyqVAe2Zk} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 70,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [50, 57]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [58, 70]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/rjyqVAe2Zk",
-          "expanded_url": "https://www.r-bloggers.com/?p=333355",
-          "display_url": "r-bloggers.com/?p=333355",
-          "indices": {
-            "start": 25,
-            "end": 48
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 4,
-    "favorite_count": 10,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "Extract patterns in R?  {https://t.co/rjyqVAe2Zk} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-10-15 07:45:13",
-    "id": 1.58118943875939e+18,
-    "id_str": "1581189438759391233",
-    "full_text": "Manage Dependencies with the deps R Package for Docker Containers  {https://t.co/jecT3Tb1Lz} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 113,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [93, 100]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [101, 113]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/jecT3Tb1Lz",
-          "expanded_url": "https://www.r-bloggers.com/?p=333353",
-          "display_url": "r-bloggers.com/?p=333353",
-          "indices": {
-            "start": 68,
-            "end": 91
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 6,
-    "favorite_count": 22,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "Manage Dependencies with the deps R Package for Docker Containers  {https://t.co/jecT3Tb1Lz} #rstats #DataScience"
   }
 ]
