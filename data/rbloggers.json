@@ -1,5 +1,617 @@
 [
   {
+    "created_at": "2022-11-16 02:10:26",
+    "id": 1.59270159638295e+18,
+    "id_str": "1592701596382949376",
+    "full_text": "Food  {https://t.co/LF2w2a7kpi} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 52,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [32, 39]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [40, 52]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/LF2w2a7kpi",
+          "expanded_url": "https://www.r-bloggers.com/?p=334850",
+          "display_url": "r-bloggers.com/?p=334850",
+          "indices": {
+            "start": 7,
+            "end": 30
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "Food  {https://t.co/LF2w2a7kpi} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-11-15 23:59:16",
+    "id": 1.59266858864877e+18,
+    "id_str": "1592668588648767488",
+    "full_text": "Diffify – Python release  {https://t.co/pQzUw7dsSo} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 72,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [52, 59]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [60, 72]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/pQzUw7dsSo",
+          "expanded_url": "https://www.r-bloggers.com/?p=334825",
+          "display_url": "r-bloggers.com/?p=334825",
+          "indices": {
+            "start": 27,
+            "end": 50
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "Diffify – Python release  {https://t.co/pQzUw7dsSo} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-11-15 23:00:19",
+    "id": 1.59265375207447e+18,
+    "id_str": "1592653752074473473",
+    "full_text": "Tree Based Methods: Exploring the Forest  {https://t.co/Wbqv7bxh1R} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 88,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [68, 75]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [76, 88]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/Wbqv7bxh1R",
+          "expanded_url": "https://www.r-bloggers.com/?p=334848",
+          "display_url": "r-bloggers.com/?p=334848",
+          "indices": {
+            "start": 43,
+            "end": 66
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 7,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "Tree Based Methods: Exploring the Forest  {https://t.co/Wbqv7bxh1R} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-11-15 20:15:18",
+    "id": 1.59261222400623e+18,
+    "id_str": "1592612224006234117",
+    "full_text": "The lazy numbers in R: correction  {https://t.co/Tuu9GqrKPH} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 81,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [61, 68]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [69, 81]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/Tuu9GqrKPH",
+          "expanded_url": "https://www.r-bloggers.com/?p=334844",
+          "display_url": "r-bloggers.com/?p=334844",
+          "indices": {
+            "start": 36,
+            "end": 59
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "The lazy numbers in R: correction  {https://t.co/Tuu9GqrKPH} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-11-15 19:00:15",
+    "id": 1.59259334000805e+18,
+    "id_str": "1592593340008054785",
+    "full_text": "Promoting the Use of R in Mali  {https://t.co/LNSKYRhIFI} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 78,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [58, 65]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [66, 78]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/LNSKYRhIFI",
+          "expanded_url": "https://www.r-bloggers.com/?p=334842",
+          "display_url": "r-bloggers.com/?p=334842",
+          "indices": {
+            "start": 33,
+            "end": 56
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "Promoting the Use of R in Mali  {https://t.co/LNSKYRhIFI} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-11-15 18:55:11",
+    "id": 1.59259206548914e+18,
+    "id_str": "1592592065489141760",
+    "full_text": "XGBoost’s assumptions  {https://t.co/W87eeDXM4C} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 69,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [49, 56]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [57, 69]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/W87eeDXM4C",
+          "expanded_url": "https://www.r-bloggers.com/?p=334836",
+          "display_url": "r-bloggers.com/?p=334836",
+          "indices": {
+            "start": 24,
+            "end": 47
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 6,
+    "favorite_count": 16,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "XGBoost’s assumptions  {https://t.co/W87eeDXM4C} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-11-15 16:15:37",
+    "id": 1.59255190524656e+18,
+    "id_str": "1592551905246560257",
+    "full_text": "J.League Soccer 2022 Season Review!  {https://t.co/HJ5RMres7E} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 83,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [63, 70]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [71, 83]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/HJ5RMres7E",
+          "expanded_url": "https://www.r-bloggers.com/?p=334834",
+          "display_url": "r-bloggers.com/?p=334834",
+          "indices": {
+            "start": 38,
+            "end": 61
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "favorite_count": 13,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "J.League Soccer 2022 Season Review!  {https://t.co/HJ5RMres7E} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-11-15 16:10:21",
+    "id": 1.59255058066035e+18,
+    "id_str": "1592550580660350979",
+    "full_text": "ggpairs in R  {https://t.co/y6qlzgAUM2} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 60,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [40, 47]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [48, 60]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/y6qlzgAUM2",
+          "expanded_url": "https://www.r-bloggers.com/?p=334829",
+          "display_url": "r-bloggers.com/?p=334829",
+          "indices": {
+            "start": 15,
+            "end": 38
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 9,
+    "favorite_count": 14,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "ggpairs in R  {https://t.co/y6qlzgAUM2} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-11-15 06:20:41",
+    "id": 1.59240218824815e+18,
+    "id_str": "1592402188248154116",
+    "full_text": "Animated population tree maps  {https://t.co/0TxihopCbJ} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 77,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [57, 64]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [65, 77]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/0TxihopCbJ",
+          "expanded_url": "https://www.r-bloggers.com/?p=334810",
+          "display_url": "r-bloggers.com/?p=334810",
+          "indices": {
+            "start": 32,
+            "end": 55
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 7,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "Animated population tree maps  {https://t.co/0TxihopCbJ} #rstats #DataScience"
+  },
+  {
     "created_at": "2022-11-15 01:00:16",
     "id": 1.59232155251043e+18,
     "id_str": "1592321552510427137",
@@ -59,8 +671,8 @@
       }
     ],
     "is_quote_status": false,
-    "retweet_count": 6,
-    "favorite_count": 7,
+    "retweet_count": 10,
+    "favorite_count": 27,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -127,8 +739,8 @@
       }
     ],
     "is_quote_status": false,
-    "retweet_count": 4,
-    "favorite_count": 6,
+    "retweet_count": 6,
+    "favorite_count": 11,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -195,8 +807,8 @@
       }
     ],
     "is_quote_status": false,
-    "retweet_count": 12,
-    "favorite_count": 23,
+    "retweet_count": 15,
+    "favorite_count": 52,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -264,7 +876,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 3,
-    "favorite_count": 9,
+    "favorite_count": 11,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -332,7 +944,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 3,
-    "favorite_count": 2,
+    "favorite_count": 3,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -400,7 +1012,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 7,
-    "favorite_count": 10,
+    "favorite_count": 11,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -467,8 +1079,8 @@
       }
     ],
     "is_quote_status": false,
-    "retweet_count": 5,
-    "favorite_count": 14,
+    "retweet_count": 6,
+    "favorite_count": 23,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -536,7 +1148,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 5,
-    "favorite_count": 7,
+    "favorite_count": 8,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -604,7 +1216,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 21,
-    "favorite_count": 70,
+    "favorite_count": 76,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -2517,7 +3129,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 8,
-    "favorite_count": 19,
+    "favorite_count": 18,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -3265,7 +3877,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 56,
-    "favorite_count": 271,
+    "favorite_count": 270,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -10213,345 +10825,5 @@
     "possibly_sensitive": false,
     "lang": "en",
     "text": "A dbplyr-based Address Matching Package  {https://t.co/JpCqd3pTyD} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-10-16 22:04:59",
-    "id": 1.58176819266532e+18,
-    "id_str": "1581768192665321473",
-    "full_text": "Understanding the Basics of Package Writing in R  {https://t.co/76Ef0lYvu0} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 96,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [76, 83]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [84, 96]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/76Ef0lYvu0",
-          "expanded_url": "https://www.r-bloggers.com/?p=333410",
-          "display_url": "r-bloggers.com/?p=333410",
-          "indices": {
-            "start": 51,
-            "end": 74
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 16,
-    "favorite_count": 32,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "Understanding the Basics of Package Writing in R  {https://t.co/76Ef0lYvu0} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-10-16 18:24:56",
-    "id": 1.58171281666254e+18,
-    "id_str": "1581712816662540288",
-    "full_text": "Simple Linear Regression in R  {https://t.co/tJ71o0LAgq} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 77,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [57, 64]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [65, 77]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/tJ71o0LAgq",
-          "expanded_url": "https://www.r-bloggers.com/?p=333398",
-          "display_url": "r-bloggers.com/?p=333398",
-          "indices": {
-            "start": 32,
-            "end": 55
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 20,
-    "favorite_count": 61,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "Simple Linear Regression in R  {https://t.co/tJ71o0LAgq} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-10-16 17:30:14",
-    "id": 1.58169904709385e+18,
-    "id_str": "1581699047093850112",
-    "full_text": "Gender Roles in Hit Country &amp; R&amp;B/Hip-Hop Lyrics (1990-2021): A TidyText Analysis With R  {https://t.co/H3MzRlEyYb} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 144,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [124, 131]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [132, 144]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/H3MzRlEyYb",
-          "expanded_url": "https://www.r-bloggers.com/?p=333396",
-          "display_url": "r-bloggers.com/?p=333396",
-          "indices": {
-            "start": 99,
-            "end": 122
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 5,
-    "favorite_count": 10,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "Gender Roles in Hit Country &amp; R&amp;B/Hip-Hop Lyrics (1990-2021): A TidyText Analysis With R  {https://t.co/H3MzRlEyYb} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-10-16 14:45:22",
-    "id": 1.58165755991595e+18,
-    "id_str": "1581657559915954179",
-    "full_text": "Difference between R and Python  {https://t.co/L9MmpHwP6G} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 79,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [59, 66]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [67, 79]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/L9MmpHwP6G",
-          "expanded_url": "https://www.r-bloggers.com/?p=333394",
-          "display_url": "r-bloggers.com/?p=333394",
-          "indices": {
-            "start": 34,
-            "end": 57
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 10,
-    "favorite_count": 28,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "Difference between R and Python  {https://t.co/L9MmpHwP6G} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-10-16 09:30:55",
-    "id": 1.58157842592368e+18,
-    "id_str": "1581578425923678208",
-    "full_text": "IF ELSE- ELSE IF Statement in R  {https://t.co/kRQeBK5ha9} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 79,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [59, 66]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [67, 79]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/kRQeBK5ha9",
-          "expanded_url": "https://www.r-bloggers.com/?p=333382",
-          "display_url": "r-bloggers.com/?p=333382",
-          "indices": {
-            "start": 34,
-            "end": 57
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 15,
-    "favorite_count": 55,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "IF ELSE- ELSE IF Statement in R  {https://t.co/kRQeBK5ha9} #rstats #DataScience"
   }
 ]
