@@ -1,5 +1,691 @@
 [
   {
+    "created_at": "2022-11-19 23:40:25",
+    "id": 1.59411339679829e+18,
+    "id_str": "1594113396798291969",
+    "full_text": "TidyFinance: Financial Data in R workshop  {https://t.co/jq5RGQschp} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 89,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [69, 76]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [77, 89]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/jq5RGQschp",
+          "expanded_url": "https://www.r-bloggers.com/?p=335061",
+          "display_url": "r-bloggers.com/?p=335061",
+          "indices": {
+            "start": 44,
+            "end": 67
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 8,
+    "favorite_count": 9,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "TidyFinance: Financial Data in R workshop  {https://t.co/jq5RGQschp} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-11-19 23:40:19",
+    "id": 1.59411337023969e+18,
+    "id_str": "1594113370239688704",
+    "full_text": "Introduction to efficiency analysis in R workshop  {https://t.co/Gtx53Xpzs8} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 97,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [77, 84]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [85, 97]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/Gtx53Xpzs8",
+          "expanded_url": "https://www.r-bloggers.com/?p=335059",
+          "display_url": "r-bloggers.com/?p=335059",
+          "indices": {
+            "start": 52,
+            "end": 75
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 6,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "Introduction to efficiency analysis in R workshop  {https://t.co/Gtx53Xpzs8} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-11-19 23:35:30",
+    "id": 1.59411215904633e+18,
+    "id_str": "1594112159046328321",
+    "full_text": "Reproducibility with Docker and Github Actions for the average R enjoyer  {https://t.co/B9HgCK8Md2} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 120,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [100, 107]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [108, 120]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/B9HgCK8Md2",
+          "expanded_url": "https://www.r-bloggers.com/?p=335057",
+          "display_url": "r-bloggers.com/?p=335057",
+          "indices": {
+            "start": 75,
+            "end": 98
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 8,
+    "favorite_count": 10,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "Reproducibility with Docker and Github Actions for the average R enjoyer  {https://t.co/B9HgCK8Md2} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-11-19 23:30:28",
+    "id": 1.59411089270652e+18,
+    "id_str": "1594110892706521088",
+    "full_text": "Power Analysis for a DV Test – Frequentist and Bayesian Estimation in R  {https://t.co/7x7iK2V3fv} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 119,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [99, 106]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [107, 119]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/7x7iK2V3fv",
+          "expanded_url": "https://www.r-bloggers.com/?p=335055",
+          "display_url": "r-bloggers.com/?p=335055",
+          "indices": {
+            "start": 74,
+            "end": 97
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "Power Analysis for a DV Test – Frequentist and Bayesian Estimation in R  {https://t.co/7x7iK2V3fv} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-11-19 16:10:23",
+    "id": 1.59400014179483e+18,
+    "id_str": "1594000141794828288",
+    "full_text": "The missing lazy numbers: implementation  {https://t.co/1L4prh9ube} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 88,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [68, 75]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [76, 88]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/1L4prh9ube",
+          "expanded_url": "https://www.r-bloggers.com/?p=335033",
+          "display_url": "r-bloggers.com/?p=335033",
+          "indices": {
+            "start": 43,
+            "end": 66
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "The missing lazy numbers: implementation  {https://t.co/1L4prh9ube} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-11-19 16:00:18",
+    "id": 1.59399760208056e+18,
+    "id_str": "1593997602080563201",
+    "full_text": "Add Significance Level and Stars to Plot in R  {https://t.co/gAQDh25EDr} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 93,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [73, 80]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [81, 93]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/gAQDh25EDr",
+          "expanded_url": "https://www.r-bloggers.com/?p=335031",
+          "display_url": "r-bloggers.com/?p=335031",
+          "indices": {
+            "start": 48,
+            "end": 71
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 7,
+    "favorite_count": 29,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "Add Significance Level and Stars to Plot in R  {https://t.co/gAQDh25EDr} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-11-19 15:35:26",
+    "id": 1.59399134456932e+18,
+    "id_str": "1593991344569319424",
+    "full_text": "Some problems related to Dice  {https://t.co/jLcpgZYsEE} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 77,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [57, 64]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [65, 77]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/jLcpgZYsEE",
+          "expanded_url": "https://www.r-bloggers.com/?p=335029",
+          "display_url": "r-bloggers.com/?p=335029",
+          "indices": {
+            "start": 32,
+            "end": 55
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 7,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "Some problems related to Dice  {https://t.co/jLcpgZYsEE} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-11-19 15:05:16",
+    "id": 1.5939837541458e+18,
+    "id_str": "1593983754145796097",
+    "full_text": "New R job: Science Assessor/Data Scientist – This position will be open until 11/21/2022. https://t.co/LHFmyBkHms #rstats #DataScience #jobs",
+    "truncated": false,
+    "display_text_range": 140,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [114, 121]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [122, 134]
+          ]
+        },
+        {
+          "text": "jobs",
+          "indices": [
+            [135, 140]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/LHFmyBkHms",
+          "expanded_url": "https://www.r-users.com/jobs/science-assessor-data-scientist-this-position-will-be-open-until-11-21-2022/",
+          "display_url": "r-users.com/jobs/science-a…",
+          "indices": {
+            "start": 90,
+            "end": 113
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 5,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "New R job: Science Assessor/Data Scientist – This position will be open until 11/21/2022. https://t.co/LHFmyBkHms #rstats #DataScience #jobs"
+  },
+  {
+    "created_at": "2022-11-19 12:45:25",
+    "id": 1.59394855964446e+18,
+    "id_str": "1593948559644463106",
+    "full_text": "How to combine Multiple Plots in R  {https://t.co/QeRIKVpGNz} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 82,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [62, 69]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [70, 82]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/QeRIKVpGNz",
+          "expanded_url": "https://www.r-bloggers.com/?p=335025",
+          "display_url": "r-bloggers.com/?p=335025",
+          "indices": {
+            "start": 37,
+            "end": 60
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 11,
+    "favorite_count": 29,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "How to combine Multiple Plots in R  {https://t.co/QeRIKVpGNz} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-11-19 06:20:13",
+    "id": 1.59385162113765e+18,
+    "id_str": "1593851621137649665",
+    "full_text": "optimal leap year  {https://t.co/EfLy3Ykssj} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 65,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [45, 52]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [53, 65]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/EfLy3Ykssj",
+          "expanded_url": "https://www.r-bloggers.com/?p=335023",
+          "display_url": "r-bloggers.com/?p=335023",
+          "indices": {
+            "start": 20,
+            "end": 43
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 6,
+    "favorite_count": 8,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "optimal leap year  {https://t.co/EfLy3Ykssj} #rstats #DataScience"
+  },
+  {
     "created_at": "2022-11-19 01:00:16",
     "id": 1.59377110299559e+18,
     "id_str": "1593771102995591169",
@@ -68,8 +754,8 @@
       }
     ],
     "is_quote_status": false,
-    "retweet_count": 4,
-    "favorite_count": 9,
+    "retweet_count": 8,
+    "favorite_count": 21,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -146,7 +832,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 2,
-    "favorite_count": 5,
+    "favorite_count": 7,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -214,7 +900,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 3,
-    "favorite_count": 2,
+    "favorite_count": 4,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -291,7 +977,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 2,
-    "favorite_count": 2,
+    "favorite_count": 3,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -358,8 +1044,8 @@
       }
     ],
     "is_quote_status": false,
-    "retweet_count": 9,
-    "favorite_count": 14,
+    "retweet_count": 10,
+    "favorite_count": 17,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -495,7 +1181,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 2,
-    "favorite_count": 0,
+    "favorite_count": 1,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -563,7 +1249,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 4,
-    "favorite_count": 10,
+    "favorite_count": 12,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -835,7 +1521,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 17,
-    "favorite_count": 45,
+    "favorite_count": 46,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -1107,7 +1793,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 3,
-    "favorite_count": 6,
+    "favorite_count": 7,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -1243,7 +1929,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 2,
-    "favorite_count": 4,
+    "favorite_count": 5,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -2671,7 +3357,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 11,
-    "favorite_count": 37,
+    "favorite_count": 38,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -10512,277 +11198,5 @@
     "possibly_sensitive": false,
     "lang": "en",
     "text": "Using R in Inventory Management and Demand Forecasting  {https://t.co/RYryA2cDdq} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-10-20 23:59:09",
-    "id": 1.58324647623881e+18,
-    "id_str": "1583246476238811137",
-    "full_text": "Automating Dockerfile creation for Shiny apps  {https://t.co/mDZe9Ya580} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 93,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [73, 80]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [81, 93]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/mDZe9Ya580",
-          "expanded_url": "https://www.r-bloggers.com/?p=333562",
-          "display_url": "r-bloggers.com/?p=333562",
-          "indices": {
-            "start": 48,
-            "end": 71
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 10,
-    "favorite_count": 33,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "Automating Dockerfile creation for Shiny apps  {https://t.co/mDZe9Ya580} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-10-20 05:30:18",
-    "id": 1.58296742332552e+18,
-    "id_str": "1582967423325519873",
-    "full_text": "Difference Between a Histogram and a Bar Graph  {https://t.co/7Wr2F7QtZd} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 94,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [74, 81]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [82, 94]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/7Wr2F7QtZd",
-          "expanded_url": "https://www.r-bloggers.com/?p=333566",
-          "display_url": "r-bloggers.com/?p=333566",
-          "indices": {
-            "start": 49,
-            "end": 72
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 14,
-    "favorite_count": 27,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "Difference Between a Histogram and a Bar Graph  {https://t.co/7Wr2F7QtZd} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-10-20 04:50:20",
-    "id": 1.58295736416433e+18,
-    "id_str": "1582957364164325376",
-    "full_text": "How to create a ggalluvial plot in R?  {https://t.co/F0a1IjjQAE} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 85,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [65, 72]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [73, 85]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/F0a1IjjQAE",
-          "expanded_url": "https://www.r-bloggers.com/?p=333564",
-          "display_url": "r-bloggers.com/?p=333564",
-          "indices": {
-            "start": 40,
-            "end": 63
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 30,
-    "favorite_count": 143,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "How to create a ggalluvial plot in R?  {https://t.co/F0a1IjjQAE} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-10-20 04:00:21",
-    "id": 1.58294478799226e+18,
-    "id_str": "1582944787992260609",
-    "full_text": "Usos interesantes de censo2017 un año después de su publicación  {https://t.co/eK06mHFGUy} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 111,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [91, 98]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [99, 111]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/eK06mHFGUy",
-          "expanded_url": "https://www.r-bloggers.com/?p=333560",
-          "display_url": "r-bloggers.com/?p=333560",
-          "indices": {
-            "start": 66,
-            "end": 89
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 1,
-    "favorite_count": 2,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "es",
-    "text": "Usos interesantes de censo2017 un año después de su publicación  {https://t.co/eK06mHFGUy} #rstats #DataScience"
   }
 ]
