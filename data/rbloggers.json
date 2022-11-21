@@ -1,5 +1,345 @@
 [
   {
+    "created_at": "2022-11-21 01:20:21",
+    "id": 1.59450093509452e+18,
+    "id_str": "1594500935094517761",
+    "full_text": "RObservations #42: Using the jinjar and tidyRSS packages to make a simple newsletter  {https://t.co/YJ5XUbhEEq} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 132,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [112, 119]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [120, 132]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/YJ5XUbhEEq",
+          "expanded_url": "https://www.r-bloggers.com/?p=335105",
+          "display_url": "r-bloggers.com/?p=335105",
+          "indices": {
+            "start": 87,
+            "end": 110
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "RObservations #42: Using the jinjar and tidyRSS packages to make a simple newsletter  {https://t.co/YJ5XUbhEEq} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-11-20 19:20:20",
+    "id": 1.59441033059961e+18,
+    "id_str": "1594410330599608321",
+    "full_text": "Whisperings in the Academy  {https://t.co/zGNCw6ocf0} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 74,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [54, 61]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [62, 74]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/zGNCw6ocf0",
+          "expanded_url": "https://www.r-bloggers.com/?p=335097",
+          "display_url": "r-bloggers.com/?p=335097",
+          "indices": {
+            "start": 29,
+            "end": 52
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "Whisperings in the Academy  {https://t.co/zGNCw6ocf0} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-11-20 18:35:14",
+    "id": 1.59439898179427e+18,
+    "id_str": "1594398981794271234",
+    "full_text": "PCA for Categorical Variables in R  {https://t.co/Ad4xqjHnLS} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 82,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [62, 69]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [70, 82]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/Ad4xqjHnLS",
+          "expanded_url": "https://www.r-bloggers.com/?p=335081",
+          "display_url": "r-bloggers.com/?p=335081",
+          "indices": {
+            "start": 37,
+            "end": 60
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 17,
+    "favorite_count": 63,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "PCA for Categorical Variables in R  {https://t.co/Ad4xqjHnLS} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-11-20 06:50:21",
+    "id": 1.59422159243913e+18,
+    "id_str": "1594221592439128067",
+    "full_text": "Visualizing Regression Results in R workshop  {https://t.co/WWCnnI5mZw} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 92,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [72, 79]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [80, 92]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/WWCnnI5mZw",
+          "expanded_url": "https://www.r-bloggers.com/?p=335077",
+          "display_url": "r-bloggers.com/?p=335077",
+          "indices": {
+            "start": 47,
+            "end": 70
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 8,
+    "favorite_count": 18,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "Visualizing Regression Results in R workshop  {https://t.co/WWCnnI5mZw} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-11-20 06:50:16",
+    "id": 1.59422157120329e+18,
+    "id_str": "1594221571203293184",
+    "full_text": "Ebook launch – Simple Data Science (R)  {https://t.co/Jl8fDwuFaZ} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 86,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [66, 73]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [74, 86]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/Jl8fDwuFaZ",
+          "expanded_url": "https://www.r-bloggers.com/?p=335075",
+          "display_url": "r-bloggers.com/?p=335075",
+          "indices": {
+            "start": 41,
+            "end": 64
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "favorite_count": 23,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "Ebook launch – Simple Data Science (R)  {https://t.co/Jl8fDwuFaZ} #rstats #DataScience"
+  },
+  {
     "created_at": "2022-11-19 23:40:25",
     "id": 1.59411339679829e+18,
     "id_str": "1594113396798291969",
@@ -59,8 +399,8 @@
       }
     ],
     "is_quote_status": false,
-    "retweet_count": 8,
-    "favorite_count": 9,
+    "retweet_count": 9,
+    "favorite_count": 23,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -127,8 +467,8 @@
       }
     ],
     "is_quote_status": false,
-    "retweet_count": 2,
-    "favorite_count": 6,
+    "retweet_count": 3,
+    "favorite_count": 10,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -195,8 +535,8 @@
       }
     ],
     "is_quote_status": false,
-    "retweet_count": 8,
-    "favorite_count": 10,
+    "retweet_count": 14,
+    "favorite_count": 32,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -263,8 +603,8 @@
       }
     ],
     "is_quote_status": false,
-    "retweet_count": 2,
-    "favorite_count": 2,
+    "retweet_count": 4,
+    "favorite_count": 11,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -332,7 +672,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 4,
-    "favorite_count": 3,
+    "favorite_count": 7,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -399,8 +739,8 @@
       }
     ],
     "is_quote_status": false,
-    "retweet_count": 7,
-    "favorite_count": 29,
+    "retweet_count": 9,
+    "favorite_count": 52,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -467,8 +807,8 @@
       }
     ],
     "is_quote_status": false,
-    "retweet_count": 4,
-    "favorite_count": 7,
+    "retweet_count": 5,
+    "favorite_count": 9,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -542,7 +882,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 3,
-    "favorite_count": 5,
+    "favorite_count": 7,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -609,8 +949,8 @@
       }
     ],
     "is_quote_status": false,
-    "retweet_count": 11,
-    "favorite_count": 29,
+    "retweet_count": 12,
+    "favorite_count": 37,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -977,7 +1317,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 2,
-    "favorite_count": 3,
+    "favorite_count": 5,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -1045,7 +1385,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 10,
-    "favorite_count": 17,
+    "favorite_count": 18,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -1181,7 +1521,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 2,
-    "favorite_count": 1,
+    "favorite_count": 2,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -1249,7 +1589,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 4,
-    "favorite_count": 12,
+    "favorite_count": 11,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -1317,7 +1657,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 4,
-    "favorite_count": 8,
+    "favorite_count": 9,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -1521,7 +1861,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 17,
-    "favorite_count": 46,
+    "favorite_count": 47,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -3085,7 +3425,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 4,
-    "favorite_count": 8,
+    "favorite_count": 9,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -4513,7 +4853,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 6,
-    "favorite_count": 10,
+    "favorite_count": 9,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -10314,889 +10654,5 @@
     "possibly_sensitive": false,
     "lang": "en",
     "text": "RStudio at R/Pharma 2022  {https://t.co/8HX910hS3w} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-10-21 23:15:21",
-    "id": 1.58359783967794e+18,
-    "id_str": "1583597839677935616",
-    "full_text": "ggdogs on ggplot2  {https://t.co/OCcxnYcwQD} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 65,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [45, 52]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [53, 65]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/OCcxnYcwQD",
-          "expanded_url": "https://www.r-bloggers.com/?p=333667",
-          "display_url": "r-bloggers.com/?p=333667",
-          "indices": {
-            "start": 20,
-            "end": 43
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 7,
-    "favorite_count": 24,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "sv",
-    "text": "ggdogs on ggplot2  {https://t.co/OCcxnYcwQD} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-10-21 22:25:17",
-    "id": 1.58358524214885e+18,
-    "id_str": "1583585242148851712",
-    "full_text": "Hosting Malaysia’s Largest Annual R Conference  {https://t.co/5tTRdbREUM} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 94,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [74, 81]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [82, 94]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/5tTRdbREUM",
-          "expanded_url": "https://www.r-bloggers.com/?p=333665",
-          "display_url": "r-bloggers.com/?p=333665",
-          "indices": {
-            "start": 49,
-            "end": 72
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 3,
-    "favorite_count": 6,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "Hosting Malaysia’s Largest Annual R Conference  {https://t.co/5tTRdbREUM} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-10-21 21:25:30",
-    "id": 1.58357019401365e+18,
-    "id_str": "1583570194013646848",
-    "full_text": "Special Halloween 2022 – Monster Maze  {https://t.co/zHKce9QjKJ} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 85,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [65, 72]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [73, 85]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/zHKce9QjKJ",
-          "expanded_url": "https://www.r-bloggers.com/?p=333663",
-          "display_url": "r-bloggers.com/?p=333663",
-          "indices": {
-            "start": 40,
-            "end": 63
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 2,
-    "favorite_count": 3,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "Special Halloween 2022 – Monster Maze  {https://t.co/zHKce9QjKJ} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-10-21 17:35:16",
-    "id": 1.58351225525714e+18,
-    "id_str": "1583512255257141249",
-    "full_text": "SAS or R-Yould Should Know!  {https://t.co/LwN1OU1oV1} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 75,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [55, 62]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [63, 75]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/LwN1OU1oV1",
-          "expanded_url": "https://www.r-bloggers.com/?p=333648",
-          "display_url": "r-bloggers.com/?p=333648",
-          "indices": {
-            "start": 30,
-            "end": 53
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 4,
-    "favorite_count": 13,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "SAS or R-Yould Should Know!  {https://t.co/LwN1OU1oV1} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-10-21 17:00:21",
-    "id": 1.58350346690266e+18,
-    "id_str": "1583503466902659081",
-    "full_text": "How to create Anatogram plot in R  {https://t.co/GXUUF5gS53} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 81,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [61, 68]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [69, 81]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/GXUUF5gS53",
-          "expanded_url": "https://www.r-bloggers.com/?p=333646",
-          "display_url": "r-bloggers.com/?p=333646",
-          "indices": {
-            "start": 36,
-            "end": 59
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 16,
-    "favorite_count": 37,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "How to create Anatogram plot in R  {https://t.co/GXUUF5gS53} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-10-21 15:15:17",
-    "id": 1.5834770271846e+18,
-    "id_str": "1583477027184599040",
-    "full_text": "Become a Mentor for rOpenSci Champions!  {https://t.co/vBdYWozF5C} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 87,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [67, 74]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [75, 87]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/vBdYWozF5C",
-          "expanded_url": "https://www.r-bloggers.com/?p=333644",
-          "display_url": "r-bloggers.com/?p=333644",
-          "indices": {
-            "start": 42,
-            "end": 65
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 3,
-    "favorite_count": 3,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "Become a Mentor for rOpenSci Champions!  {https://t.co/vBdYWozF5C} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-10-21 14:35:18",
-    "id": 1.58346696406362e+18,
-    "id_str": "1583466964063617024",
-    "full_text": "RTutor: Political Incentives and River Pollution in China  {https://t.co/E4OV7C7t4g} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 105,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [85, 92]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [93, 105]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/E4OV7C7t4g",
-          "expanded_url": "https://www.r-bloggers.com/?p=333642",
-          "display_url": "r-bloggers.com/?p=333642",
-          "indices": {
-            "start": 60,
-            "end": 83
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 2,
-    "favorite_count": 3,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "RTutor: Political Incentives and River Pollution in China  {https://t.co/E4OV7C7t4g} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-10-21 13:25:32",
-    "id": 1.58344940860718e+18,
-    "id_str": "1583449408607178752",
-    "full_text": "Near Real-time Analytics of ICC Men’s T20 World Cup with GooglyPlusPlus  {https://t.co/D9mHS95BdC} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 119,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [99, 106]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [107, 119]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/D9mHS95BdC",
-          "expanded_url": "https://www.r-bloggers.com/?p=333639",
-          "display_url": "r-bloggers.com/?p=333639",
-          "indices": {
-            "start": 74,
-            "end": 97
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 3,
-    "favorite_count": 4,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "Near Real-time Analytics of ICC Men’s T20 World Cup with GooglyPlusPlus  {https://t.co/D9mHS95BdC} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-10-21 09:55:16",
-    "id": 1.5833964930582e+18,
-    "id_str": "1583396493058199552",
-    "full_text": "rOpenSci News Digest, October 2022  {https://t.co/9kr9gFNrfb} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 82,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [62, 69]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [70, 82]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/9kr9gFNrfb",
-          "expanded_url": "https://www.r-bloggers.com/?p=333635",
-          "display_url": "r-bloggers.com/?p=333635",
-          "indices": {
-            "start": 37,
-            "end": 60
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 2,
-    "favorite_count": 3,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "fr",
-    "text": "rOpenSci News Digest, October 2022  {https://t.co/9kr9gFNrfb} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-10-21 03:35:50",
-    "id": 1.58330100550817e+18,
-    "id_str": "1583301005508165633",
-    "full_text": "Special Halloween 2022 – Monster Maze  {https://t.co/GoSWFXKUv7} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 85,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [65, 72]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [73, 85]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/GoSWFXKUv7",
-          "expanded_url": "https://www.r-bloggers.com/?p=333610",
-          "display_url": "r-bloggers.com/?p=333610",
-          "indices": {
-            "start": 40,
-            "end": 63
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 2,
-    "favorite_count": 4,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "Special Halloween 2022 – Monster Maze  {https://t.co/GoSWFXKUv7} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-10-21 01:45:17",
-    "id": 1.58327318535655e+18,
-    "id_str": "1583273185356546048",
-    "full_text": "Bringing Back an R useR Group to Edmonton!  {https://t.co/doBXExnZ6c} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 90,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [70, 77]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [78, 90]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/doBXExnZ6c",
-          "expanded_url": "https://www.r-bloggers.com/?p=333608",
-          "display_url": "r-bloggers.com/?p=333608",
-          "indices": {
-            "start": 45,
-            "end": 68
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 5,
-    "favorite_count": 5,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "Bringing Back an R useR Group to Edmonton!  {https://t.co/doBXExnZ6c} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-10-21 01:15:22",
-    "id": 1.58326565656031e+18,
-    "id_str": "1583265656560308226",
-    "full_text": "Efficiency comparison of dplyr and tidyr functions vs base R  {https://t.co/eU4VEWiHwt} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 108,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [88, 95]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [96, 108]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/eU4VEWiHwt",
-          "expanded_url": "https://www.r-bloggers.com/?p=333606",
-          "display_url": "r-bloggers.com/?p=333606",
-          "indices": {
-            "start": 63,
-            "end": 86
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 8,
-    "favorite_count": 16,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "Efficiency comparison of dplyr and tidyr functions vs base R  {https://t.co/eU4VEWiHwt} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-10-21 00:25:21",
-    "id": 1.58325306736067e+18,
-    "id_str": "1583253067360673792",
-    "full_text": "Using R in Inventory Management and Demand Forecasting  {https://t.co/RYryA2cDdq} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 102,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [82, 89]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [90, 102]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/RYryA2cDdq",
-          "expanded_url": "https://www.r-bloggers.com/?p=333604",
-          "display_url": "r-bloggers.com/?p=333604",
-          "indices": {
-            "start": 57,
-            "end": 80
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 6,
-    "favorite_count": 26,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "Using R in Inventory Management and Demand Forecasting  {https://t.co/RYryA2cDdq} #rstats #DataScience"
   }
 ]
