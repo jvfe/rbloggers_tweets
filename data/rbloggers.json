@@ -1,5 +1,345 @@
 [
   {
+    "created_at": "2022-11-22 21:25:14",
+    "id": 1.59516653938843e+18,
+    "id_str": "1595166539388428288",
+    "full_text": "Processing large scale satellite imagery with openEO Platform and R  {https://t.co/5iIFRgg5sL} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 115,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [95, 102]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [103, 115]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/5iIFRgg5sL",
+          "expanded_url": "https://www.r-bloggers.com/?p=335194",
+          "display_url": "r-bloggers.com/?p=335194",
+          "indices": {
+            "start": 70,
+            "end": 93
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 6,
+    "favorite_count": 17,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "Processing large scale satellite imagery with openEO Platform and R  {https://t.co/5iIFRgg5sL} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-11-22 20:15:20",
+    "id": 1.59514894681661e+18,
+    "id_str": "1595148946816614430",
+    "full_text": "Going Global During the Pandemic  {https://t.co/rtYgnVDkmG} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 80,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [60, 67]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [68, 80]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/rtYgnVDkmG",
+          "expanded_url": "https://www.r-bloggers.com/?p=335191",
+          "display_url": "r-bloggers.com/?p=335191",
+          "indices": {
+            "start": 35,
+            "end": 58
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "Going Global During the Pandemic  {https://t.co/rtYgnVDkmG} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-11-22 16:45:10",
+    "id": 1.59509605889529e+18,
+    "id_str": "1595096058895294473",
+    "full_text": "How to put margins on tables or arrays in R?  {https://t.co/XM5shzMN5t} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 92,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [72, 79]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [80, 92]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/XM5shzMN5t",
+          "expanded_url": "https://www.r-bloggers.com/?p=335186",
+          "display_url": "r-bloggers.com/?p=335186",
+          "indices": {
+            "start": 47,
+            "end": 70
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 4,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "How to put margins on tables or arrays in R?  {https://t.co/XM5shzMN5t} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-11-22 15:45:12",
+    "id": 1.59508096741642e+18,
+    "id_str": "1595080967416422406",
+    "full_text": "ave for average calculation in R  {https://t.co/xmV7wpyXkc} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 80,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [60, 67]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [68, 80]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/xmV7wpyXkc",
+          "expanded_url": "https://www.r-bloggers.com/?p=335181",
+          "display_url": "r-bloggers.com/?p=335181",
+          "indices": {
+            "start": 35,
+            "end": 58
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 6,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "ave for average calculation in R  {https://t.co/xmV7wpyXkc} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-11-22 04:35:19",
+    "id": 1.5949123870223e+18,
+    "id_str": "1594912387022303232",
+    "full_text": "Generating clustered data with marginal correlations  {https://t.co/SlZSeJ6jy6} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 100,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [80, 87]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [88, 100]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/SlZSeJ6jy6",
+          "expanded_url": "https://www.r-bloggers.com/?p=335163",
+          "display_url": "r-bloggers.com/?p=335163",
+          "indices": {
+            "start": 55,
+            "end": 78
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 9,
+    "favorite_count": 10,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "Generating clustered data with marginal correlations  {https://t.co/SlZSeJ6jy6} #rstats #DataScience"
+  },
+  {
     "created_at": "2022-11-22 01:25:17",
     "id": 1.59486456225517e+18,
     "id_str": "1594864562255167488",
@@ -59,8 +399,8 @@
       }
     ],
     "is_quote_status": false,
-    "retweet_count": 3,
-    "favorite_count": 4,
+    "retweet_count": 5,
+    "favorite_count": 17,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -140,7 +480,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 3,
-    "favorite_count": 3,
+    "favorite_count": 4,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -207,8 +547,8 @@
       }
     ],
     "is_quote_status": false,
-    "retweet_count": 5,
-    "favorite_count": 7,
+    "retweet_count": 6,
+    "favorite_count": 11,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -275,8 +615,8 @@
       }
     ],
     "is_quote_status": false,
-    "retweet_count": 6,
-    "favorite_count": 16,
+    "retweet_count": 7,
+    "favorite_count": 25,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -344,7 +684,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 5,
-    "favorite_count": 7,
+    "favorite_count": 10,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -412,7 +752,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 4,
-    "favorite_count": 7,
+    "favorite_count": 8,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -548,7 +888,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 10,
-    "favorite_count": 41,
+    "favorite_count": 43,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -684,7 +1024,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 3,
-    "favorite_count": 7,
+    "favorite_count": 6,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -751,8 +1091,8 @@
       }
     ],
     "is_quote_status": false,
-    "retweet_count": 38,
-    "favorite_count": 145,
+    "retweet_count": 40,
+    "favorite_count": 144,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -1091,7 +1431,7 @@
       }
     ],
     "is_quote_status": false,
-    "retweet_count": 14,
+    "retweet_count": 15,
     "favorite_count": 33,
     "favorited": false,
     "retweeted": false,
@@ -1574,7 +1914,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 6,
-    "favorite_count": 7,
+    "favorite_count": 8,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -1651,7 +1991,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 8,
-    "favorite_count": 20,
+    "favorite_count": 21,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -2145,7 +2485,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 4,
-    "favorite_count": 11,
+    "favorite_count": 12,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -2893,7 +3233,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 4,
-    "favorite_count": 20,
+    "favorite_count": 21,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -3233,7 +3573,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 9,
-    "favorite_count": 23,
+    "favorite_count": 24,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -4253,7 +4593,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 11,
-    "favorite_count": 38,
+    "favorite_count": 39,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -4457,7 +4797,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 6,
-    "favorite_count": 11,
+    "favorite_count": 12,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -6098,7 +6438,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 10,
-    "favorite_count": 16,
+    "favorite_count": 17,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -6234,7 +6574,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 17,
-    "favorite_count": 46,
+    "favorite_count": 47,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -6438,7 +6778,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 8,
-    "favorite_count": 21,
+    "favorite_count": 22,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -6506,7 +6846,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 4,
-    "favorite_count": 12,
+    "favorite_count": 13,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -6642,7 +6982,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 6,
-    "favorite_count": 11,
+    "favorite_count": 12,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -6710,7 +7050,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 3,
-    "favorite_count": 4,
+    "favorite_count": 5,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -6846,7 +7186,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 15,
-    "favorite_count": 35,
+    "favorite_count": 36,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -7662,7 +8002,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 14,
-    "favorite_count": 54,
+    "favorite_count": 53,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -9028,7 +9368,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 11,
-    "favorite_count": 23,
+    "favorite_count": 24,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -9640,7 +9980,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 13,
-    "favorite_count": 41,
+    "favorite_count": 42,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -9708,7 +10048,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 3,
-    "favorite_count": 9,
+    "favorite_count": 10,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -9844,7 +10184,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 2,
-    "favorite_count": 9,
+    "favorite_count": 10,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -10252,419 +10592,11 @@
     ],
     "is_quote_status": false,
     "retweet_count": 9,
-    "favorite_count": 18,
+    "favorite_count": 19,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
     "lang": "en",
     "text": "Embedding R/exams Exercises in learnr Tutorials  {https://t.co/xhBSctV5IV} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-10-23 22:45:17",
-    "id": 1.58431504862926e+18,
-    "id_str": "1584315048629260288",
-    "full_text": "An ode to Statistics Scotland  {https://t.co/AmUcrY2TBF} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 77,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [57, 64]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [65, 77]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/AmUcrY2TBF",
-          "expanded_url": "https://www.r-bloggers.com/?p=333779",
-          "display_url": "r-bloggers.com/?p=333779",
-          "indices": {
-            "start": 32,
-            "end": 55
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 5,
-    "favorite_count": 9,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "An ode to Statistics Scotland  {https://t.co/AmUcrY2TBF} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-10-23 21:45:20",
-    "id": 1.58429996274538e+18,
-    "id_str": "1584299962745384960",
-    "full_text": "R, its license and my take on it  {https://t.co/xnWXmnHEcw} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 80,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [60, 67]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [68, 80]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/xnWXmnHEcw",
-          "expanded_url": "https://www.r-bloggers.com/?p=333777",
-          "display_url": "r-bloggers.com/?p=333777",
-          "indices": {
-            "start": 35,
-            "end": 58
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 4,
-    "favorite_count": 8,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "R, its license and my take on it  {https://t.co/xnWXmnHEcw} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-10-23 15:15:24",
-    "id": 1.58420183404632e+18,
-    "id_str": "1584201834046316546",
-    "full_text": "{pagedown} Page Size &amp; Margins  {https://t.co/88h2soJcGf} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 82,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [62, 69]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [70, 82]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/88h2soJcGf",
-          "expanded_url": "https://www.r-bloggers.com/?p=333769",
-          "display_url": "r-bloggers.com/?p=333769",
-          "indices": {
-            "start": 37,
-            "end": 60
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 7,
-    "favorite_count": 21,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "{pagedown} Page Size &amp; Margins  {https://t.co/88h2soJcGf} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-10-23 12:25:14",
-    "id": 1.58415900823076e+18,
-    "id_str": "1584159008230760449",
-    "full_text": "Forecasting Tax Revenue with Error Correction Models  {https://t.co/omPUdtMmBY} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 100,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [80, 87]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [88, 100]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/omPUdtMmBY",
-          "expanded_url": "https://www.r-bloggers.com/?p=333752",
-          "display_url": "r-bloggers.com/?p=333752",
-          "indices": {
-            "start": 55,
-            "end": 78
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 5,
-    "favorite_count": 12,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "Forecasting Tax Revenue with Error Correction Models  {https://t.co/omPUdtMmBY} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-10-23 04:55:18",
-    "id": 1.58404577846028e+18,
-    "id_str": "1584045778460282881",
-    "full_text": "Daytime length variations with latitude and season (1/3)  {https://t.co/g0DT8rO8cJ} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 104,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [84, 91]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [92, 104]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/g0DT8rO8cJ",
-          "expanded_url": "https://www.r-bloggers.com/?p=333741",
-          "display_url": "r-bloggers.com/?p=333741",
-          "indices": {
-            "start": 59,
-            "end": 82
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 3,
-    "favorite_count": 7,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "Daytime length variations with latitude and season (1/3)  {https://t.co/g0DT8rO8cJ} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-10-23 04:35:19",
-    "id": 1.58404075086168e+18,
-    "id_str": "1584040750861684737",
-    "full_text": "Fast and Easy Aggregation of Multi-Type and Survey Data in R  {https://t.co/RdcZsI0aZJ} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 108,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [88, 95]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [96, 108]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/RdcZsI0aZJ",
-          "expanded_url": "https://www.r-bloggers.com/?p=333739",
-          "display_url": "r-bloggers.com/?p=333739",
-          "indices": {
-            "start": 63,
-            "end": 86
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 11,
-    "favorite_count": 26,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "Fast and Easy Aggregation of Multi-Type and Survey Data in R  {https://t.co/RdcZsI0aZJ} #rstats #DataScience"
   }
 ]
