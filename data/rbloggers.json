@@ -1,5 +1,481 @@
 [
   {
+    "created_at": "2022-11-24 01:05:17",
+    "id": 1.59558430500619e+18,
+    "id_str": "1595584305006186497",
+    "full_text": "Replace the first non-missing value in R  {https://t.co/rmGJBcj7aC} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 88,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [68, 75]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [76, 88]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/rmGJBcj7aC",
+          "expanded_url": "https://www.r-bloggers.com/?p=335245",
+          "display_url": "r-bloggers.com/?p=335245",
+          "indices": {
+            "start": 43,
+            "end": 66
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "Replace the first non-missing value in R  {https://t.co/rmGJBcj7aC} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-11-24 00:45:12",
+    "id": 1.59557925136096e+18,
+    "id_str": "1595579251360956416",
+    "full_text": "How to do Pairwise Comparisons in R?  {https://t.co/0hLdyIV5bw} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 84,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [64, 71]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [72, 84]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/0hLdyIV5bw",
+          "expanded_url": "https://www.r-bloggers.com/?p=335240",
+          "display_url": "r-bloggers.com/?p=335240",
+          "indices": {
+            "start": 39,
+            "end": 62
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 5,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "How to do Pairwise Comparisons in R?  {https://t.co/0hLdyIV5bw} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-11-24 00:30:12",
+    "id": 1.59557547614303e+18,
+    "id_str": "1595575476143026177",
+    "full_text": "Simple interfaces to the forecasting API  {https://t.co/uEuavE98gx} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 88,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [68, 75]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [76, 88]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/uEuavE98gx",
+          "expanded_url": "https://www.r-bloggers.com/?p=335238",
+          "display_url": "r-bloggers.com/?p=335238",
+          "indices": {
+            "start": 43,
+            "end": 66
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 4,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "Simple interfaces to the forecasting API  {https://t.co/uEuavE98gx} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-11-23 20:35:18",
+    "id": 1.5955163604272e+18,
+    "id_str": "1595516360427200524",
+    "full_text": "Meeting the stars of the R-universe: R Community, Exchange and Learn  {https://t.co/XMEhi0jvii} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 116,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [96, 103]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [104, 116]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/XMEhi0jvii",
+          "expanded_url": "https://www.r-bloggers.com/?p=335235",
+          "display_url": "r-bloggers.com/?p=335235",
+          "indices": {
+            "start": 71,
+            "end": 94
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 5,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "Meeting the stars of the R-universe: R Community, Exchange and Learn  {https://t.co/XMEhi0jvii} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-11-23 15:30:18",
+    "id": 1.59543960523452e+18,
+    "id_str": "1595439605234515975",
+    "full_text": "Conciendo a las estrellas del universo R: comunidad R, intercambiar y aprender  {https://t.co/DPs0SADN1W} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 126,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [106, 113]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [114, 126]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/DPs0SADN1W",
+          "expanded_url": "https://www.r-bloggers.com/?p=335228",
+          "display_url": "r-bloggers.com/?p=335228",
+          "indices": {
+            "start": 81,
+            "end": 104
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es",
+    "text": "Conciendo a las estrellas del universo R: comunidad R, intercambiar y aprender  {https://t.co/DPs0SADN1W} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-11-23 08:40:23",
+    "id": 1.59533644793003e+18,
+    "id_str": "1595336447930028034",
+    "full_text": "Learning Data Science: Predictive Maintenance with Decision Trees  {https://t.co/Inxmf5itPX} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 113,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [93, 100]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [101, 113]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/Inxmf5itPX",
+          "expanded_url": "https://www.r-bloggers.com/?p=335215",
+          "display_url": "r-bloggers.com/?p=335215",
+          "indices": {
+            "start": 68,
+            "end": 91
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 7,
+    "favorite_count": 16,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "Learning Data Science: Predictive Maintenance with Decision Trees  {https://t.co/Inxmf5itPX} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-11-23 06:25:17",
+    "id": 1.59530244669139e+18,
+    "id_str": "1595302446691385344",
+    "full_text": "2022 Government &amp; Public Sector R Conference  {https://t.co/T6gGZ3Nvut} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 96,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [76, 83]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [84, 96]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/T6gGZ3Nvut",
+          "expanded_url": "https://www.r-bloggers.com/?p=335197",
+          "display_url": "r-bloggers.com/?p=335197",
+          "indices": {
+            "start": 51,
+            "end": 74
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 5,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "2022 Government &amp; Public Sector R Conference  {https://t.co/T6gGZ3Nvut} #rstats #DataScience"
+  },
+  {
     "created_at": "2022-11-22 21:25:14",
     "id": 1.59516653938843e+18,
     "id_str": "1595166539388428288",
@@ -59,8 +535,8 @@
       }
     ],
     "is_quote_status": false,
-    "retweet_count": 6,
-    "favorite_count": 17,
+    "retweet_count": 7,
+    "favorite_count": 24,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -128,7 +604,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 2,
-    "favorite_count": 3,
+    "favorite_count": 5,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -196,7 +672,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 3,
-    "favorite_count": 4,
+    "favorite_count": 7,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -264,7 +740,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 3,
-    "favorite_count": 6,
+    "favorite_count": 13,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -332,7 +808,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 9,
-    "favorite_count": 10,
+    "favorite_count": 12,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -480,7 +956,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 3,
-    "favorite_count": 4,
+    "favorite_count": 5,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -548,7 +1024,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 6,
-    "favorite_count": 11,
+    "favorite_count": 12,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -616,7 +1092,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 7,
-    "favorite_count": 25,
+    "favorite_count": 22,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -684,7 +1160,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 5,
-    "favorite_count": 10,
+    "favorite_count": 11,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -752,7 +1228,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 4,
-    "favorite_count": 8,
+    "favorite_count": 9,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -1092,7 +1568,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 40,
-    "favorite_count": 144,
+    "favorite_count": 145,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -1568,7 +2044,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 4,
-    "favorite_count": 7,
+    "favorite_count": 8,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -1636,7 +2112,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 9,
-    "favorite_count": 54,
+    "favorite_count": 55,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -5476,8 +5952,8 @@
       }
     ],
     "is_quote_status": false,
-    "retweet_count": 12,
-    "favorite_count": 19,
+    "retweet_count": 11,
+    "favorite_count": 20,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -6914,7 +7390,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 56,
-    "favorite_count": 269,
+    "favorite_count": 270,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -8002,7 +8478,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 14,
-    "favorite_count": 53,
+    "favorite_count": 54,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -10258,345 +10734,5 @@
     "possibly_sensitive": false,
     "lang": "en",
     "text": "How to create a heatmap in R  {https://t.co/KalpfMDXoq} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-10-24 20:45:33",
-    "id": 1.58464730405682e+18,
-    "id_str": "1584647304056815619",
-    "full_text": "R and GPX – How to Read and Visualize GPX Files in R  {https://t.co/zEazul2b1i} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 100,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [80, 87]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [88, 100]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/zEazul2b1i",
-          "expanded_url": "https://www.r-bloggers.com/?p=333826",
-          "display_url": "r-bloggers.com/?p=333826",
-          "indices": {
-            "start": 55,
-            "end": 78
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 9,
-    "favorite_count": 30,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "R and GPX – How to Read and Visualize GPX Files in R  {https://t.co/zEazul2b1i} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-10-24 18:10:24",
-    "id": 1.58460826012818e+18,
-    "id_str": "1584608260128182282",
-    "full_text": "rstudio::conf(watch_on = “YouTube”)  {https://t.co/cjUAizDAlc} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 83,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [63, 70]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [71, 83]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/cjUAizDAlc",
-          "expanded_url": "https://www.r-bloggers.com/?p=333813",
-          "display_url": "r-bloggers.com/?p=333813",
-          "indices": {
-            "start": 38,
-            "end": 61
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 3,
-    "favorite_count": 7,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "rstudio::conf(watch_on = “YouTube”)  {https://t.co/cjUAizDAlc} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-10-24 14:20:26",
-    "id": 1.5845503886945e+18,
-    "id_str": "1584550388694503424",
-    "full_text": "Supply Chain Management Strategies with R and Shiny  {https://t.co/TOkcjXbTwD} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 99,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [79, 86]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [87, 99]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/TOkcjXbTwD",
-          "expanded_url": "https://www.r-bloggers.com/?p=333806",
-          "display_url": "r-bloggers.com/?p=333806",
-          "indices": {
-            "start": 54,
-            "end": 77
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 5,
-    "favorite_count": 17,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "Supply Chain Management Strategies with R and Shiny  {https://t.co/TOkcjXbTwD} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-10-24 11:15:18",
-    "id": 1.58450379821063e+18,
-    "id_str": "1584503798210629633",
-    "full_text": "Box Cox transformation in R  {https://t.co/926k0H1PRF} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 75,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [55, 62]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [63, 75]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/926k0H1PRF",
-          "expanded_url": "https://www.r-bloggers.com/?p=333803",
-          "display_url": "r-bloggers.com/?p=333803",
-          "indices": {
-            "start": 30,
-            "end": 53
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 14,
-    "favorite_count": 28,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "Box Cox transformation in R  {https://t.co/926k0H1PRF} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-10-24 05:40:18",
-    "id": 1.58441949123644e+18,
-    "id_str": "1584419491236438016",
-    "full_text": "Embedding R/exams Exercises in learnr Tutorials  {https://t.co/xhBSctV5IV} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 95,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [75, 82]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [83, 95]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/xhBSctV5IV",
-          "expanded_url": "https://www.r-bloggers.com/?p=333791",
-          "display_url": "r-bloggers.com/?p=333791",
-          "indices": {
-            "start": 50,
-            "end": 73
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 9,
-    "favorite_count": 19,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "Embedding R/exams Exercises in learnr Tutorials  {https://t.co/xhBSctV5IV} #rstats #DataScience"
   }
 ]
