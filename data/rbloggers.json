@@ -1,5 +1,277 @@
 [
   {
+    "created_at": "2022-11-25 00:05:22",
+    "id": 1.59593161331297e+18,
+    "id_str": "1595931613312974849",
+    "full_text": "HTML widgets in Power BI  {https://t.co/lTrpNYEUSi} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 72,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [52, 59]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [60, 72]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/lTrpNYEUSi",
+          "expanded_url": "https://www.r-bloggers.com/?p=335275",
+          "display_url": "r-bloggers.com/?p=335275",
+          "indices": {
+            "start": 27,
+            "end": 50
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "favorite_count": 6,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "HTML widgets in Power BI  {https://t.co/lTrpNYEUSi} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-11-24 23:59:09",
+    "id": 1.5959300517779e+18,
+    "id_str": "1595930051777904640",
+    "full_text": "Learning Excel as an R user  {https://t.co/0jv9NX1uK5} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 75,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [55, 62]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [63, 75]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/0jv9NX1uK5",
+          "expanded_url": "https://www.r-bloggers.com/?p=335272",
+          "display_url": "r-bloggers.com/?p=335272",
+          "indices": {
+            "start": 30,
+            "end": 53
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 7,
+    "favorite_count": 17,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "Learning Excel as an R user  {https://t.co/0jv9NX1uK5} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-11-24 16:25:19",
+    "id": 1.5958158394537e+18,
+    "id_str": "1595815839453700096",
+    "full_text": "Processing large scale satellite imagery with openEO Platform and R  {https://t.co/SSw81h5zeb} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 115,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [95, 102]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [103, 115]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/SSw81h5zeb",
+          "expanded_url": "https://www.r-bloggers.com/?p=335270",
+          "display_url": "r-bloggers.com/?p=335270",
+          "indices": {
+            "start": 70,
+            "end": 93
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "favorite_count": 8,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "Processing large scale satellite imagery with openEO Platform and R  {https://t.co/SSw81h5zeb} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-11-24 10:30:19",
+    "id": 1.59572649845071e+18,
+    "id_str": "1595726498450710528",
+    "full_text": "RObservations #43 : Control Individual Label Positions In mapBliss With `_flex()` Functions  {https://t.co/1vkunHJAEL} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 139,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [119, 126]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [127, 139]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/1vkunHJAEL",
+          "expanded_url": "https://www.r-bloggers.com/?p=335261",
+          "display_url": "r-bloggers.com/?p=335261",
+          "indices": {
+            "start": 94,
+            "end": 117
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "RObservations #43 : Control Individual Label Positions In mapBliss With `_flex()` Functions  {https://t.co/1vkunHJAEL} #rstats #DataScience"
+  },
+  {
     "created_at": "2022-11-24 01:05:17",
     "id": 1.59558430500619e+18,
     "id_str": "1595584305006186497",
@@ -59,8 +331,8 @@
       }
     ],
     "is_quote_status": false,
-    "retweet_count": 2,
-    "favorite_count": 3,
+    "retweet_count": 3,
+    "favorite_count": 6,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -127,8 +399,8 @@
       }
     ],
     "is_quote_status": false,
-    "retweet_count": 2,
-    "favorite_count": 5,
+    "retweet_count": 8,
+    "favorite_count": 28,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -195,8 +467,8 @@
       }
     ],
     "is_quote_status": false,
-    "retweet_count": 3,
-    "favorite_count": 4,
+    "retweet_count": 6,
+    "favorite_count": 11,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -263,8 +535,8 @@
       }
     ],
     "is_quote_status": false,
-    "retweet_count": 4,
-    "favorite_count": 5,
+    "retweet_count": 6,
+    "favorite_count": 9,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -331,7 +603,7 @@
       }
     ],
     "is_quote_status": false,
-    "retweet_count": 2,
+    "retweet_count": 3,
     "favorite_count": 1,
     "favorited": false,
     "retweeted": false,
@@ -400,7 +672,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 7,
-    "favorite_count": 16,
+    "favorite_count": 20,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -536,7 +808,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 7,
-    "favorite_count": 24,
+    "favorite_count": 25,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -740,7 +1012,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 3,
-    "favorite_count": 13,
+    "favorite_count": 11,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -10394,345 +10666,5 @@
     "possibly_sensitive": false,
     "lang": "en",
     "text": "Language and vision in conceptual processing: Multilevel analysis and statistical power  {https://t.co/08mq8GrrjQ} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-10-25 14:45:20",
-    "id": 1.58491904283349e+18,
-    "id_str": "1584919042833489922",
-    "full_text": "The pheatmap function in R  {https://t.co/JzDD2EafNz} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 74,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [54, 61]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [62, 74]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/JzDD2EafNz",
-          "expanded_url": "https://www.r-bloggers.com/?p=333868",
-          "display_url": "r-bloggers.com/?p=333868",
-          "indices": {
-            "start": 29,
-            "end": 52
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 13,
-    "favorite_count": 42,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "The pheatmap function in R  {https://t.co/JzDD2EafNz} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-10-25 12:55:18",
-    "id": 1.58489135169027e+18,
-    "id_str": "1584891351690272768",
-    "full_text": "Editing metadata in trail camera images using R, magick and exiftool  {https://t.co/hU41qrE3BU} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 116,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [96, 103]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [104, 116]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/hU41qrE3BU",
-          "expanded_url": "https://www.r-bloggers.com/?p=333852",
-          "display_url": "r-bloggers.com/?p=333852",
-          "indices": {
-            "start": 71,
-            "end": 94
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 3,
-    "favorite_count": 10,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "Editing metadata in trail camera images using R, magick and exiftool  {https://t.co/hU41qrE3BU} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-10-25 11:00:26",
-    "id": 1.58486244182505e+18,
-    "id_str": "1584862441825046533",
-    "full_text": "New R/exams Version: Improved E-Learning Tools During a Pandemic  {https://t.co/2DaoeELwXK} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 112,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [92, 99]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [100, 112]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/2DaoeELwXK",
-          "expanded_url": "https://www.r-bloggers.com/?p=333844",
-          "display_url": "r-bloggers.com/?p=333844",
-          "indices": {
-            "start": 67,
-            "end": 90
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 2,
-    "favorite_count": 2,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "New R/exams Version: Improved E-Learning Tools During a Pandemic  {https://t.co/2DaoeELwXK} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-10-25 07:35:15",
-    "id": 1.58481080808049e+18,
-    "id_str": "1584810808080490496",
-    "full_text": "A Survey of Changes around the Tidyverse Package in R  {https://t.co/88RvjwEOAj} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 101,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [81, 88]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [89, 101]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/88RvjwEOAj",
-          "expanded_url": "https://www.r-bloggers.com/?p=333841",
-          "display_url": "r-bloggers.com/?p=333841",
-          "indices": {
-            "start": 56,
-            "end": 79
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 2,
-    "favorite_count": 10,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "A Survey of Changes around the Tidyverse Package in R  {https://t.co/88RvjwEOAj} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-10-25 05:36:26",
-    "id": 1.58478090734873e+18,
-    "id_str": "1584780907348729856",
-    "full_text": "How to create a heatmap in R  {https://t.co/KalpfMDXoq} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 76,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [56, 63]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [64, 76]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/KalpfMDXoq",
-          "expanded_url": "https://www.r-bloggers.com/?p=333839",
-          "display_url": "r-bloggers.com/?p=333839",
-          "indices": {
-            "start": 31,
-            "end": 54
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 16,
-    "favorite_count": 61,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "How to create a heatmap in R  {https://t.co/KalpfMDXoq} #rstats #DataScience"
   }
 ]
