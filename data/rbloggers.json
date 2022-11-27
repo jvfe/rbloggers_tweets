@@ -1,5 +1,277 @@
 [
   {
+    "created_at": "2022-11-27 02:15:18",
+    "id": 1.59668908922658e+18,
+    "id_str": "1596689089226579968",
+    "full_text": "Getting coordinates (lon,lat) from road name and kilometer in Spain  {https://t.co/8GqlHb4OIe} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 115,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [95, 102]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [103, 115]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/8GqlHb4OIe",
+          "expanded_url": "https://www.r-bloggers.com/?p=335332",
+          "display_url": "r-bloggers.com/?p=335332",
+          "indices": {
+            "start": 70,
+            "end": 93
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "Getting coordinates (lon,lat) from road name and kilometer in Spain  {https://t.co/8GqlHb4OIe} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-11-26 20:45:18",
+    "id": 1.59660604152504e+18,
+    "id_str": "1596606041525043202",
+    "full_text": "R vs Python — Live Stream Analysis  {https://t.co/QyZj5G2TVF} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 82,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [62, 69]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [70, 82]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/QyZj5G2TVF",
+          "expanded_url": "https://www.r-bloggers.com/?p=335330",
+          "display_url": "r-bloggers.com/?p=335330",
+          "indices": {
+            "start": 37,
+            "end": 60
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 6,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "R vs Python — Live Stream Analysis  {https://t.co/QyZj5G2TVF} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-11-26 20:45:12",
+    "id": 1.596606015747e+18,
+    "id_str": "1596606015746998272",
+    "full_text": "Text Manipulation &amp; RegEx in a Data Analysis Flow (with examples in SQL vs  Python/R)  {https://t.co/jkRHYqtgK8} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 137,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [117, 124]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [125, 137]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/jkRHYqtgK8",
+          "expanded_url": "https://www.r-bloggers.com/?p=335328",
+          "display_url": "r-bloggers.com/?p=335328",
+          "indices": {
+            "start": 92,
+            "end": 115
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "favorite_count": 21,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "Text Manipulation &amp; RegEx in a Data Analysis Flow (with examples in SQL vs  Python/R)  {https://t.co/jkRHYqtgK8} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-11-26 20:20:15",
+    "id": 1.59659973678978e+18,
+    "id_str": "1596599736789778438",
+    "full_text": "Filtering Complex Data With gsignal  {https://t.co/E56oHbiYhV} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 83,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [63, 70]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [71, 83]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/E56oHbiYhV",
+          "expanded_url": "https://www.r-bloggers.com/?p=335326",
+          "display_url": "r-bloggers.com/?p=335326",
+          "indices": {
+            "start": 38,
+            "end": 61
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "favorite_count": 10,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "Filtering Complex Data With gsignal  {https://t.co/E56oHbiYhV} #rstats #DataScience"
+  },
+  {
     "created_at": "2022-11-25 00:05:22",
     "id": 1.59593161331297e+18,
     "id_str": "1595931613312974849",
@@ -4661,7 +4933,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 3,
-    "favorite_count": 12,
+    "favorite_count": 11,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -10054,209 +10326,5 @@
     "possibly_sensitive": false,
     "lang": "en",
     "text": "September 2022: “Top 40” New CRAN Packages  {https://t.co/Qs6adGhm0u} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-10-27 23:59:22",
-    "id": 1.58578324266543e+18,
-    "id_str": "1585783242665431040",
-    "full_text": "Top 5 Shiny UI Add-On Packages  {https://t.co/zxGlykgs1g} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 78,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [58, 65]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [66, 78]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/zxGlykgs1g",
-          "expanded_url": "https://www.r-bloggers.com/?p=333921",
-          "display_url": "r-bloggers.com/?p=333921",
-          "indices": {
-            "start": 33,
-            "end": 56
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 11,
-    "favorite_count": 24,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "Top 5 Shiny UI Add-On Packages  {https://t.co/zxGlykgs1g} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-10-27 18:30:24",
-    "id": 1.58570045502754e+18,
-    "id_str": "1585700455027544064",
-    "full_text": "Who’s best in class? Comparing forecasting models with a Predictive Analytics Cube (PAC)  {https://t.co/mZSzPE2UwB} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 136,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [116, 123]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [124, 136]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/mZSzPE2UwB",
-          "expanded_url": "https://www.r-bloggers.com/?p=333959",
-          "display_url": "r-bloggers.com/?p=333959",
-          "indices": {
-            "start": 91,
-            "end": 114
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 7,
-    "favorite_count": 15,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "Who’s best in class? Comparing forecasting models with a Predictive Analytics Cube (PAC)  {https://t.co/mZSzPE2UwB} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-10-27 11:15:12",
-    "id": 1.58559093506435e+18,
-    "id_str": "1585590935064350721",
-    "full_text": "How to use the image function in R  {https://t.co/5NqTVjqAmU} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 82,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [62, 69]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [70, 82]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/5NqTVjqAmU",
-          "expanded_url": "https://www.r-bloggers.com/?p=333939",
-          "display_url": "r-bloggers.com/?p=333939",
-          "indices": {
-            "start": 37,
-            "end": 60
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 4,
-    "favorite_count": 10,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "How to use the image function in R  {https://t.co/5NqTVjqAmU} #rstats #DataScience"
   }
 ]
