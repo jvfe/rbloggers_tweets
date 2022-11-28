@@ -1,5 +1,549 @@
 [
   {
+    "created_at": "2022-11-28 00:50:12",
+    "id": 1.59703006085411e+18,
+    "id_str": "1597030060854108160",
+    "full_text": "Bayes Factors for Forensic Decision Analyses with R [book review]  {https://t.co/jVd404bnLS} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 113,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [93, 100]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [101, 113]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/jVd404bnLS",
+          "expanded_url": "https://www.r-bloggers.com/?p=335390",
+          "display_url": "r-bloggers.com/?p=335390",
+          "indices": {
+            "start": 68,
+            "end": 91
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 8,
+    "favorite_count": 7,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "Bayes Factors for Forensic Decision Analyses with R [book review]  {https://t.co/jVd404bnLS} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-11-27 23:40:19",
+    "id": 1.59701247509799e+18,
+    "id_str": "1597012475097989120",
+    "full_text": "CK Cafe: Using Association Rules to Find Basket of Goods  {https://t.co/1qr9v70SEs} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 104,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [84, 91]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [92, 104]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/1qr9v70SEs",
+          "expanded_url": "https://www.r-bloggers.com/?p=335388",
+          "display_url": "r-bloggers.com/?p=335388",
+          "indices": {
+            "start": 59,
+            "end": 82
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "CK Cafe: Using Association Rules to Find Basket of Goods  {https://t.co/1qr9v70SEs} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-11-27 15:15:32",
+    "id": 1.59688544123135e+18,
+    "id_str": "1596885441231347712",
+    "full_text": "Climate Change and Forests: The Story of Vanishing Pines  {https://t.co/fQ0sEHQ8F7} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 104,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [84, 91]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [92, 104]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/fQ0sEHQ8F7",
+          "expanded_url": "https://www.r-bloggers.com/?p=335385",
+          "display_url": "r-bloggers.com/?p=335385",
+          "indices": {
+            "start": 59,
+            "end": 82
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 7,
+    "favorite_count": 21,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "Climate Change and Forests: The Story of Vanishing Pines  {https://t.co/fQ0sEHQ8F7} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-11-27 15:15:16",
+    "id": 1.59688537364038e+18,
+    "id_str": "1596885373640380421",
+    "full_text": "Infinite Scrolling in R Shiny  {https://t.co/Vqe5fuatM6} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 77,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [57, 64]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [65, 77]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/Vqe5fuatM6",
+          "expanded_url": "https://www.r-bloggers.com/?p=335383",
+          "display_url": "r-bloggers.com/?p=335383",
+          "indices": {
+            "start": 32,
+            "end": 55
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 6,
+    "favorite_count": 14,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "Infinite Scrolling in R Shiny  {https://t.co/Vqe5fuatM6} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-11-27 11:25:20",
+    "id": 1.59682750798205e+18,
+    "id_str": "1596827507982045186",
+    "full_text": "Automatic Rendering of a Plot with GitHub Actions  {https://t.co/LHnCPJECJI} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 97,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [77, 84]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [85, 97]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/LHnCPJECJI",
+          "expanded_url": "https://www.r-bloggers.com/?p=335371",
+          "display_url": "r-bloggers.com/?p=335371",
+          "indices": {
+            "start": 52,
+            "end": 75
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "favorite_count": 11,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "Automatic Rendering of a Plot with GitHub Actions  {https://t.co/LHnCPJECJI} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-11-27 11:25:14",
+    "id": 1.59682748470385e+18,
+    "id_str": "1596827484703850496",
+    "full_text": "Distances to Golda Ice-Cream Locations in Israel  {https://t.co/AY6IZ41CnI} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 96,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [76, 83]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [84, 96]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/AY6IZ41CnI",
+          "expanded_url": "https://www.r-bloggers.com/?p=335369",
+          "display_url": "r-bloggers.com/?p=335369",
+          "indices": {
+            "start": 51,
+            "end": 74
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "Distances to Golda Ice-Cream Locations in Israel  {https://t.co/AY6IZ41CnI} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-11-27 04:20:15",
+    "id": 1.59672053527833e+18,
+    "id_str": "1596720535278329856",
+    "full_text": "How to get away with selection. Part I: Introduction  {https://t.co/dgO5kiZqty} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 100,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [80, 87]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [88, 100]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/dgO5kiZqty",
+          "expanded_url": "https://www.r-bloggers.com/?p=335336",
+          "display_url": "r-bloggers.com/?p=335336",
+          "indices": {
+            "start": 55,
+            "end": 78
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 8,
+    "favorite_count": 8,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "How to get away with selection. Part I: Introduction  {https://t.co/dgO5kiZqty} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-11-27 03:40:17",
+    "id": 1.59671047576436e+18,
+    "id_str": "1596710475764359168",
+    "full_text": "Reviewing an SQL interview question  {https://t.co/CD3k26Cg7i} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 83,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [63, 70]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [71, 83]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/CD3k26Cg7i",
+          "expanded_url": "https://www.r-bloggers.com/?p=335334",
+          "display_url": "r-bloggers.com/?p=335334",
+          "indices": {
+            "start": 38,
+            "end": 61
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 6,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "Reviewing an SQL interview question  {https://t.co/CD3k26Cg7i} #rstats #DataScience"
+  },
+  {
     "created_at": "2022-11-27 02:15:18",
     "id": 1.59668908922658e+18,
     "id_str": "1596689089226579968",
@@ -59,8 +603,8 @@
       }
     ],
     "is_quote_status": false,
-    "retweet_count": 2,
-    "favorite_count": 2,
+    "retweet_count": 9,
+    "favorite_count": 36,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -127,8 +671,8 @@
       }
     ],
     "is_quote_status": false,
-    "retweet_count": 4,
-    "favorite_count": 6,
+    "retweet_count": 5,
+    "favorite_count": 11,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -195,8 +739,8 @@
       }
     ],
     "is_quote_status": false,
-    "retweet_count": 5,
-    "favorite_count": 21,
+    "retweet_count": 7,
+    "favorite_count": 38,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -263,8 +807,8 @@
       }
     ],
     "is_quote_status": false,
-    "retweet_count": 5,
-    "favorite_count": 10,
+    "retweet_count": 7,
+    "favorite_count": 16,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -468,7 +1012,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 7,
-    "favorite_count": 13,
+    "favorite_count": 14,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -1080,7 +1624,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 7,
-    "favorite_count": 25,
+    "favorite_count": 26,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -10122,209 +10666,5 @@
     "possibly_sensitive": false,
     "lang": "en",
     "text": "Register for the Government &amp; Public Sector R Conference  {https://t.co/tw0sZw9aJb} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-10-28 07:55:27",
-    "id": 1.58590305405394e+18,
-    "id_str": "1585903054053941249",
-    "full_text": "RObservations #40 : Packaging My Route Map Code! Introducting mapBliss.  {https://t.co/gfF1RERG1K} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 119,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [99, 106]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [107, 119]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/gfF1RERG1K",
-          "expanded_url": "https://www.r-bloggers.com/?p=333970",
-          "display_url": "r-bloggers.com/?p=333970",
-          "indices": {
-            "start": 74,
-            "end": 97
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 6,
-    "favorite_count": 7,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "RObservations #40 : Packaging My Route Map Code! Introducting mapBliss.  {https://t.co/gfF1RERG1K} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-10-28 06:00:25",
-    "id": 1.58587410446862e+18,
-    "id_str": "1585874104468623362",
-    "full_text": "Graphical modeling of stochastic processes driven by correlated noise  {https://t.co/hu611kPafm} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 117,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [97, 104]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [105, 117]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/hu611kPafm",
-          "expanded_url": "https://www.r-bloggers.com/?p=333964",
-          "display_url": "r-bloggers.com/?p=333964",
-          "indices": {
-            "start": 72,
-            "end": 95
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 11,
-    "favorite_count": 18,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "Graphical modeling of stochastic processes driven by correlated noise  {https://t.co/hu611kPafm} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-10-28 03:16:31",
-    "id": 1.5858328590671e+18,
-    "id_str": "1585832859067097089",
-    "full_text": "September 2022: “Top 40” New CRAN Packages  {https://t.co/Qs6adGhm0u} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 90,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [70, 77]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [78, 90]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/Qs6adGhm0u",
-          "expanded_url": "https://www.r-bloggers.com/?p=333962",
-          "display_url": "r-bloggers.com/?p=333962",
-          "indices": {
-            "start": 45,
-            "end": 68
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 6,
-    "favorite_count": 14,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "September 2022: “Top 40” New CRAN Packages  {https://t.co/Qs6adGhm0u} #rstats #DataScience"
   }
 ]
