@@ -1,5 +1,73 @@
 [
   {
+    "created_at": "2022-11-28 19:00:45",
+    "id": 1.59730450460454e+18,
+    "id_str": "1597304504604536832",
+    "full_text": "October 2022: “Top 40” New CRAN Packages  {https://t.co/dwAfxnZ6BN} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 88,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [68, 75]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [76, 88]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/dwAfxnZ6BN",
+          "expanded_url": "https://www.r-bloggers.com/?p=335443",
+          "display_url": "r-bloggers.com/?p=335443",
+          "indices": {
+            "start": 43,
+            "end": 66
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 7,
+    "favorite_count": 15,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "October 2022: “Top 40” New CRAN Packages  {https://t.co/dwAfxnZ6BN} #rstats #DataScience"
+  },
+  {
     "created_at": "2022-11-28 00:50:12",
     "id": 1.59703006085411e+18,
     "id_str": "1597030060854108160",
@@ -59,8 +127,8 @@
       }
     ],
     "is_quote_status": false,
-    "retweet_count": 8,
-    "favorite_count": 7,
+    "retweet_count": 14,
+    "favorite_count": 35,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -128,7 +196,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 3,
-    "favorite_count": 3,
+    "favorite_count": 6,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -196,7 +264,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 7,
-    "favorite_count": 21,
+    "favorite_count": 24,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -264,7 +332,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 6,
-    "favorite_count": 14,
+    "favorite_count": 22,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -332,7 +400,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 5,
-    "favorite_count": 11,
+    "favorite_count": 12,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -468,7 +536,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 8,
-    "favorite_count": 8,
+    "favorite_count": 9,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -604,7 +672,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 9,
-    "favorite_count": 36,
+    "favorite_count": 37,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -808,7 +876,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 7,
-    "favorite_count": 16,
+    "favorite_count": 17,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -944,7 +1012,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 20,
-    "favorite_count": 70,
+    "favorite_count": 71,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -1012,7 +1080,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 7,
-    "favorite_count": 14,
+    "favorite_count": 15,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -10462,209 +10530,5 @@
     "possibly_sensitive": false,
     "lang": "en",
     "text": "Scaling Density Plots  {https://t.co/pGQtFBU1Qa} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-10-29 14:10:23",
-    "id": 1.58635979543455e+18,
-    "id_str": "1586359795434545153",
-    "full_text": "A Linux Live USB as a statistical programming dev environment  {https://t.co/yrOYdbfAj4} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 109,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [89, 96]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [97, 109]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/yrOYdbfAj4",
-          "expanded_url": "https://www.r-bloggers.com/?p=334015",
-          "display_url": "r-bloggers.com/?p=334015",
-          "indices": {
-            "start": 64,
-            "end": 87
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 5,
-    "favorite_count": 15,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "A Linux Live USB as a statistical programming dev environment  {https://t.co/yrOYdbfAj4} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-10-29 02:00:22",
-    "id": 1.58617608386236e+18,
-    "id_str": "1586176083862364160",
-    "full_text": "Fantasy Football Weekly Cheat Sheet: Week 8 (2022)  {https://t.co/ubpggGuGXZ} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 98,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [78, 85]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [86, 98]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/ubpggGuGXZ",
-          "expanded_url": "https://www.r-bloggers.com/?p=333999",
-          "display_url": "r-bloggers.com/?p=333999",
-          "indices": {
-            "start": 53,
-            "end": 76
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 3,
-    "favorite_count": 6,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "Fantasy Football Weekly Cheat Sheet: Week 8 (2022)  {https://t.co/ubpggGuGXZ} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-10-29 00:30:13",
-    "id": 1.58615339701894e+18,
-    "id_str": "1586153397018935297",
-    "full_text": "Register for the Government &amp; Public Sector R Conference  {https://t.co/tw0sZw9aJb} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 108,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [88, 95]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [96, 108]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/tw0sZw9aJb",
-          "expanded_url": "https://www.r-bloggers.com/?p=333987",
-          "display_url": "r-bloggers.com/?p=333987",
-          "indices": {
-            "start": 63,
-            "end": 86
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 5,
-    "favorite_count": 8,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "Register for the Government &amp; Public Sector R Conference  {https://t.co/tw0sZw9aJb} #rstats #DataScience"
   }
 ]
