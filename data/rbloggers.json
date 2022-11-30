@@ -1,5 +1,617 @@
 [
   {
+    "created_at": "2022-11-30 01:50:13",
+    "id": 1.59776993804286e+18,
+    "id_str": "1597769938042855425",
+    "full_text": "Version 0.13.0 of NIMBLE released  {https://t.co/W34Qh2xuWH} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 81,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [61, 68]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [69, 81]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/W34Qh2xuWH",
+          "expanded_url": "https://www.r-bloggers.com/?p=335495",
+          "display_url": "r-bloggers.com/?p=335495",
+          "indices": {
+            "start": 36,
+            "end": 59
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "Version 0.13.0 of NIMBLE released  {https://t.co/W34Qh2xuWH} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-11-30 01:30:25",
+    "id": 1.59776495736548e+18,
+    "id_str": "1597764957365477385",
+    "full_text": "Mini tutorial: hacer tipo lógico cualquier texto  {https://t.co/CIdHPQntwS} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 96,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [76, 83]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [84, 96]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/CIdHPQntwS",
+          "expanded_url": "https://www.r-bloggers.com/?p=335493",
+          "display_url": "r-bloggers.com/?p=335493",
+          "indices": {
+            "start": 51,
+            "end": 74
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es",
+    "text": "Mini tutorial: hacer tipo lógico cualquier texto  {https://t.co/CIdHPQntwS} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-11-29 21:45:14",
+    "id": 1.59770828983547e+18,
+    "id_str": "1597708289835470850",
+    "full_text": "Matthews Correlation Coefficient in R  {https://t.co/ckLIc7ECVU} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 85,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [65, 72]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [73, 85]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/ckLIc7ECVU",
+          "expanded_url": "https://www.r-bloggers.com/?p=335488",
+          "display_url": "r-bloggers.com/?p=335488",
+          "indices": {
+            "start": 40,
+            "end": 63
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "fr",
+    "text": "Matthews Correlation Coefficient in R  {https://t.co/ckLIc7ECVU} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-11-29 20:20:21",
+    "id": 1.5976869264961e+18,
+    "id_str": "1597686926496104448",
+    "full_text": "EDA de datos de INEGI  {https://t.co/C36z9gXR4L} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 69,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [49, 56]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [57, 69]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/C36z9gXR4L",
+          "expanded_url": "https://www.r-bloggers.com/?p=335482",
+          "display_url": "r-bloggers.com/?p=335482",
+          "indices": {
+            "start": 24,
+            "end": 47
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 6,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es",
+    "text": "EDA de datos de INEGI  {https://t.co/C36z9gXR4L} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-11-29 19:40:20",
+    "id": 1.59767685723061e+18,
+    "id_str": "1597676857230610435",
+    "full_text": "Spreading a Passion for R with the Münster Community in Germany  {https://t.co/M5gGXF4bRJ} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 111,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [91, 98]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [99, 111]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/M5gGXF4bRJ",
+          "expanded_url": "https://www.r-bloggers.com/?p=335480",
+          "display_url": "r-bloggers.com/?p=335480",
+          "indices": {
+            "start": 66,
+            "end": 89
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 5,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "Spreading a Passion for R with the Münster Community in Germany  {https://t.co/M5gGXF4bRJ} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-11-29 19:30:21",
+    "id": 1.59767434531217e+18,
+    "id_str": "1597674345312165888",
+    "full_text": "How Stable is China?  {https://t.co/6YjHLsXXtu} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 68,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [48, 55]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [56, 68]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/6YjHLsXXtu",
+          "expanded_url": "https://www.r-bloggers.com/?p=335478",
+          "display_url": "r-bloggers.com/?p=335478",
+          "indices": {
+            "start": 23,
+            "end": 46
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 6,
+    "favorite_count": 6,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "How Stable is China?  {https://t.co/6YjHLsXXtu} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-11-29 16:30:19",
+    "id": 1.59762903837327e+18,
+    "id_str": "1597629038373265409",
+    "full_text": "postdoc 1.0: minimal and uncluttered HTML package manuals  {https://t.co/9lj5PPtRzW} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 105,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [85, 92]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [93, 105]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/9lj5PPtRzW",
+          "expanded_url": "https://www.r-bloggers.com/?p=335466",
+          "display_url": "r-bloggers.com/?p=335466",
+          "indices": {
+            "start": 60,
+            "end": 83
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 4,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "postdoc 1.0: minimal and uncluttered HTML package manuals  {https://t.co/9lj5PPtRzW} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-11-29 15:05:13",
+    "id": 1.59760761872961e+18,
+    "id_str": "1597607618729607177",
+    "full_text": "How to Calculate Ratios in R  {https://t.co/LFm7xeYIRr} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 76,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [56, 63]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [64, 76]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/LFm7xeYIRr",
+          "expanded_url": "https://www.r-bloggers.com/?p=335460",
+          "display_url": "r-bloggers.com/?p=335460",
+          "indices": {
+            "start": 31,
+            "end": 54
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 12,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "How to Calculate Ratios in R  {https://t.co/LFm7xeYIRr} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-11-29 14:15:23",
+    "id": 1.59759507796617e+18,
+    "id_str": "1597595077966168066",
+    "full_text": "Navigating folders in RStudio: a beginner’s guide  {https://t.co/STetlIMQF7} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 97,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [77, 84]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [85, 97]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/STetlIMQF7",
+          "expanded_url": "https://www.r-bloggers.com/?p=335458",
+          "display_url": "r-bloggers.com/?p=335458",
+          "indices": {
+            "start": 52,
+            "end": 75
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 8,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "Navigating folders in RStudio: a beginner’s guide  {https://t.co/STetlIMQF7} #rstats #DataScience"
+  },
+  {
     "created_at": "2022-11-28 19:00:45",
     "id": 1.59730450460454e+18,
     "id_str": "1597304504604536832",
@@ -59,8 +671,8 @@
       }
     ],
     "is_quote_status": false,
-    "retweet_count": 7,
-    "favorite_count": 15,
+    "retweet_count": 8,
+    "favorite_count": 25,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -128,7 +740,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 14,
-    "favorite_count": 35,
+    "favorite_count": 38,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -196,7 +808,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 3,
-    "favorite_count": 6,
+    "favorite_count": 7,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -264,7 +876,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 7,
-    "favorite_count": 24,
+    "favorite_count": 26,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -332,7 +944,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 6,
-    "favorite_count": 22,
+    "favorite_count": 23,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -400,7 +1012,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 5,
-    "favorite_count": 12,
+    "favorite_count": 13,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -536,7 +1148,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 8,
-    "favorite_count": 9,
+    "favorite_count": 11,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -604,7 +1216,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 4,
-    "favorite_count": 6,
+    "favorite_count": 7,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -740,7 +1352,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 5,
-    "favorite_count": 11,
+    "favorite_count": 12,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -808,7 +1420,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 7,
-    "favorite_count": 38,
+    "favorite_count": 40,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -1012,7 +1624,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 20,
-    "favorite_count": 71,
+    "favorite_count": 72,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -1284,7 +1896,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 8,
-    "favorite_count": 28,
+    "favorite_count": 29,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -1692,7 +2304,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 7,
-    "favorite_count": 26,
+    "favorite_count": 27,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -1760,7 +2372,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 2,
-    "favorite_count": 5,
+    "favorite_count": 6,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -2180,7 +2792,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 6,
-    "favorite_count": 12,
+    "favorite_count": 13,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -3267,8 +3879,8 @@
       }
     ],
     "is_quote_status": false,
-    "retweet_count": 9,
-    "favorite_count": 55,
+    "retweet_count": 10,
+    "favorite_count": 56,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -10462,73 +11074,5 @@
     "possibly_sensitive": false,
     "lang": "en",
     "text": "How to deal with annoying medium sized data inside a Shiny app  {https://t.co/r35PpWCS9P} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-10-30 17:20:31",
-    "id": 1.5867700346593e+18,
-    "id_str": "1586770034659295232",
-    "full_text": "Scaling Density Plots  {https://t.co/pGQtFBU1Qa} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 69,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [49, 56]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [57, 69]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/pGQtFBU1Qa",
-          "expanded_url": "https://www.r-bloggers.com/?p=334043",
-          "display_url": "r-bloggers.com/?p=334043",
-          "indices": {
-            "start": 24,
-            "end": 47
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 6,
-    "favorite_count": 17,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "Scaling Density Plots  {https://t.co/pGQtFBU1Qa} #rstats #DataScience"
   }
 ]
