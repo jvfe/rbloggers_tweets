@@ -1,5 +1,209 @@
 [
   {
+    "created_at": "2022-12-03 01:45:11",
+    "id": 1.59885583868858e+18,
+    "id_str": "1598855838688579584",
+    "full_text": "Fantasy Football Weekly Cheat Sheet: Week 13 (2022)  {https://t.co/kSHfJ4LZeN} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 99,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [79, 86]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [87, 99]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/kSHfJ4LZeN",
+          "expanded_url": "https://www.r-bloggers.com/?p=335630",
+          "display_url": "r-bloggers.com/?p=335630",
+          "indices": {
+            "start": 54,
+            "end": 77
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "Fantasy Football Weekly Cheat Sheet: Week 13 (2022)  {https://t.co/kSHfJ4LZeN} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-12-02 17:50:23",
+    "id": 1.59873634925061e+18,
+    "id_str": "1598736349250609152",
+    "full_text": "Handling larger than memory data with {arrow} and {duckdb}  {https://t.co/tmo1Sl7kyA} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 106,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [86, 93]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [94, 106]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/tmo1Sl7kyA",
+          "expanded_url": "https://www.r-bloggers.com/?p=335617",
+          "display_url": "r-bloggers.com/?p=335617",
+          "indices": {
+            "start": 61,
+            "end": 84
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 6,
+    "favorite_count": 12,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "Handling larger than memory data with {arrow} and {duckdb}  {https://t.co/tmo1Sl7kyA} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-12-02 14:45:17",
+    "id": 1.59868976980598e+18,
+    "id_str": "1598689769805979650",
+    "full_text": "Exact integral of a polynomial on a simplex  {https://t.co/bkJ8eYWwue} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 91,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [71, 78]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [79, 91]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/bkJ8eYWwue",
+          "expanded_url": "https://www.r-bloggers.com/?p=335615",
+          "display_url": "r-bloggers.com/?p=335615",
+          "indices": {
+            "start": 46,
+            "end": 69
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 6,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "Exact integral of a polynomial on a simplex  {https://t.co/bkJ8eYWwue} #rstats #DataScience"
+  },
+  {
     "created_at": "2022-12-02 01:05:15",
     "id": 1.59848339814156e+18,
     "id_str": "1598483398141558784",
@@ -59,8 +263,8 @@
       }
     ],
     "is_quote_status": false,
-    "retweet_count": 2,
-    "favorite_count": 1,
+    "retweet_count": 3,
+    "favorite_count": 10,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -128,7 +332,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 3,
-    "favorite_count": 5,
+    "favorite_count": 8,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -195,8 +399,8 @@
       }
     ],
     "is_quote_status": false,
-    "retweet_count": 10,
-    "favorite_count": 40,
+    "retweet_count": 35,
+    "favorite_count": 177,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -264,7 +468,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 5,
-    "favorite_count": 5,
+    "favorite_count": 8,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -332,7 +536,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 3,
-    "favorite_count": 9,
+    "favorite_count": 14,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -1624,7 +1828,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 3,
-    "favorite_count": 7,
+    "favorite_count": 8,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -1760,7 +1964,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 6,
-    "favorite_count": 23,
+    "favorite_count": 24,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -2032,7 +2236,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 4,
-    "favorite_count": 7,
+    "favorite_count": 8,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -10864,277 +11068,5 @@
     "possibly_sensitive": false,
     "lang": "en",
     "text": "‘CGAL’ meets ‘R6’: the ‘cgalMeshes’ package  {https://t.co/N7nXjg1AES} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-11-02 23:45:23",
-    "id": 1.58795405164751e+18,
-    "id_str": "1587954051647508480",
-    "full_text": "My air travel carbon footprint  {https://t.co/hks2ua4Fv4} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 78,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [58, 65]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [66, 78]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/hks2ua4Fv4",
-          "expanded_url": "https://www.r-bloggers.com/?p=334205",
-          "display_url": "r-bloggers.com/?p=334205",
-          "indices": {
-            "start": 33,
-            "end": 56
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 4,
-    "favorite_count": 5,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "My air travel carbon footprint  {https://t.co/hks2ua4Fv4} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-11-02 16:15:18",
-    "id": 1.5878407849041e+18,
-    "id_str": "1587840784904101888",
-    "full_text": "A web application for forecasting in Python, R, Ruby, C#, JavaScript, PHP, Go, Rust, Java,  {https://t.co/FpMOYWO2Id} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 138,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [118, 125]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [126, 138]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/FpMOYWO2Id",
-          "expanded_url": "https://www.r-bloggers.com/?p=334188",
-          "display_url": "r-bloggers.com/?p=334188",
-          "indices": {
-            "start": 93,
-            "end": 116
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 4,
-    "favorite_count": 8,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "A web application for forecasting in Python, R, Ruby, C#, JavaScript, PHP, Go, Rust, Java,  {https://t.co/FpMOYWO2Id} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-11-02 15:35:16",
-    "id": 1.58783071141489e+18,
-    "id_str": "1587830711414886400",
-    "full_text": "Building a TidyModels classification model from scratch and deploying with Vetiver  {https://t.co/vjrIxtuMsS} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 130,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [110, 117]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [118, 130]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/vjrIxtuMsS",
-          "expanded_url": "https://www.r-bloggers.com/?p=334186",
-          "display_url": "r-bloggers.com/?p=334186",
-          "indices": {
-            "start": 85,
-            "end": 108
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 14,
-    "favorite_count": 54,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "Building a TidyModels classification model from scratch and deploying with Vetiver  {https://t.co/vjrIxtuMsS} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-11-02 13:50:21",
-    "id": 1.58780430626637e+18,
-    "id_str": "1587804306266374146",
-    "full_text": "Extract POIs from a Suunto watch  {https://t.co/bDVaqxxNpz} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 80,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [60, 67]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [68, 80]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/bDVaqxxNpz",
-          "expanded_url": "https://www.r-bloggers.com/?p=334183",
-          "display_url": "r-bloggers.com/?p=334183",
-          "indices": {
-            "start": 35,
-            "end": 58
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 2,
-    "favorite_count": 4,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "Extract POIs from a Suunto watch  {https://t.co/bDVaqxxNpz} #rstats #DataScience"
   }
 ]
