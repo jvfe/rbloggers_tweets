@@ -1,5 +1,283 @@
 [
   {
+    "created_at": "2022-12-03 21:00:19",
+    "id": 1.59914653784992e+18,
+    "id_str": "1599146537849917443",
+    "full_text": "Advent of 2022, Day 3 – Understanding Azure Machine Learning Studio  {https://t.co/P9qmspNkoh} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 115,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [95, 102]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [103, 115]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/P9qmspNkoh",
+          "expanded_url": "https://www.r-bloggers.com/?p=335663",
+          "display_url": "r-bloggers.com/?p=335663",
+          "indices": {
+            "start": 70,
+            "end": 93
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 6,
+    "favorite_count": 6,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "Advent of 2022, Day 3 – Understanding Azure Machine Learning Studio  {https://t.co/P9qmspNkoh} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-12-03 08:25:21",
+    "id": 1.59895654282029e+18,
+    "id_str": "1598956542820290561",
+    "full_text": "Gaussian Process Regression for FEA Designed Experiments – Building the Basics in R  {https://t.co/mLPOvDAsvK} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 131,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [111, 118]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [119, 131]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/mLPOvDAsvK",
+          "expanded_url": "https://www.r-bloggers.com/?p=335640",
+          "display_url": "r-bloggers.com/?p=335640",
+          "indices": {
+            "start": 86,
+            "end": 109
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 6,
+    "favorite_count": 21,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "Gaussian Process Regression for FEA Designed Experiments – Building the Basics in R  {https://t.co/mLPOvDAsvK} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-12-03 03:55:20",
+    "id": 1.59888859066633e+18,
+    "id_str": "1598888590666334210",
+    "full_text": "How to make your own #RStats Wrapped!  {https://t.co/htOdWWVt1y} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 85,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "RStats",
+          "indices": [
+            [21, 28]
+          ]
+        },
+        {
+          "text": "rstats",
+          "indices": [
+            [65, 72]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [73, 85]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/htOdWWVt1y",
+          "expanded_url": "https://www.r-bloggers.com/?p=335638",
+          "display_url": "r-bloggers.com/?p=335638",
+          "indices": {
+            "start": 40,
+            "end": 63
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 6,
+    "favorite_count": 36,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "How to make your own #RStats Wrapped!  {https://t.co/htOdWWVt1y} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-12-03 03:00:19",
+    "id": 1.598874742941e+18,
+    "id_str": "1598874742940999681",
+    "full_text": "Creating One Unified Calendar of all Data Science Events in the Netherlands  {https://t.co/K13YbQFGgT} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 123,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [103, 110]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [111, 123]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/K13YbQFGgT",
+          "expanded_url": "https://www.r-bloggers.com/?p=335636",
+          "display_url": "r-bloggers.com/?p=335636",
+          "indices": {
+            "start": 78,
+            "end": 101
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 5,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "Creating One Unified Calendar of all Data Science Events in the Netherlands  {https://t.co/K13YbQFGgT} #rstats #DataScience"
+  },
+  {
     "created_at": "2022-12-03 01:45:11",
     "id": 1.59885583868858e+18,
     "id_str": "1598855838688579584",
@@ -60,7 +338,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 2,
-    "favorite_count": 1,
+    "favorite_count": 4,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -128,7 +406,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 6,
-    "favorite_count": 12,
+    "favorite_count": 17,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -196,7 +474,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 2,
-    "favorite_count": 6,
+    "favorite_count": 7,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -399,8 +677,8 @@
       }
     ],
     "is_quote_status": false,
-    "retweet_count": 35,
-    "favorite_count": 177,
+    "retweet_count": 36,
+    "favorite_count": 181,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -740,7 +1018,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 8,
-    "favorite_count": 30,
+    "favorite_count": 31,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -7177,7 +7455,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 3,
-    "favorite_count": 11,
+    "favorite_count": 12,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -10932,141 +11210,5 @@
     "possibly_sensitive": false,
     "lang": "en",
     "text": "Update of compiled datasets (2022)  {https://t.co/hx1E6lIRUk} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-11-03 20:05:17",
-    "id": 1.58826105093947e+18,
-    "id_str": "1588261050939473920",
-    "full_text": "NEW BOOK: Visualização de Dados com o R (in portuguese)  {https://t.co/VUEovDFo27} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 103,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [83, 90]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [91, 103]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/VUEovDFo27",
-          "expanded_url": "https://www.r-bloggers.com/?p=334270",
-          "display_url": "r-bloggers.com/?p=334270",
-          "indices": {
-            "start": 58,
-            "end": 81
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 3,
-    "favorite_count": 5,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "pt",
-    "text": "NEW BOOK: Visualização de Dados com o R (in portuguese)  {https://t.co/VUEovDFo27} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-11-03 09:00:12",
-    "id": 1.58809367549782e+18,
-    "id_str": "1588093675497824257",
-    "full_text": "‘CGAL’ meets ‘R6’: the ‘cgalMeshes’ package  {https://t.co/N7nXjg1AES} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 91,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [71, 78]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [79, 91]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/N7nXjg1AES",
-          "expanded_url": "https://www.r-bloggers.com/?p=334242",
-          "display_url": "r-bloggers.com/?p=334242",
-          "indices": {
-            "start": 46,
-            "end": 69
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 6,
-    "favorite_count": 6,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "‘CGAL’ meets ‘R6’: the ‘cgalMeshes’ package  {https://t.co/N7nXjg1AES} #rstats #DataScience"
   }
 ]
