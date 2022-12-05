@@ -1,5 +1,413 @@
 [
   {
+    "created_at": "2022-12-05 00:45:24",
+    "id": 1.5995655694806e+18,
+    "id_str": "1599565569480597504",
+    "full_text": "The Periodogram or Something Else?  {https://t.co/68O0hLsGPX} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 82,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [62, 69]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [70, 82]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/68O0hLsGPX",
+          "expanded_url": "https://www.r-bloggers.com/?p=335705",
+          "display_url": "r-bloggers.com/?p=335705",
+          "indices": {
+            "start": 37,
+            "end": 60
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 4,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "The Periodogram or Something Else?  {https://t.co/68O0hLsGPX} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-12-04 13:40:16",
+    "id": 1.599398183184e+18,
+    "id_str": "1599398183183998976",
+    "full_text": "Data Asset Exchange  {https://t.co/YPXQTY1mO4} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 67,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [47, 54]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [55, 67]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/YPXQTY1mO4",
+          "expanded_url": "https://www.r-bloggers.com/?p=335686",
+          "display_url": "r-bloggers.com/?p=335686",
+          "indices": {
+            "start": 22,
+            "end": 45
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "da",
+    "text": "Data Asset Exchange  {https://t.co/YPXQTY1mO4} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-12-04 13:40:10",
+    "id": 1.59939815708283e+18,
+    "id_str": "1599398157082828800",
+    "full_text": "Esquisse R Package  {https://t.co/OXQEFQP2VL} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 66,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [46, 53]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [54, 66]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/OXQEFQP2VL",
+          "expanded_url": "https://www.r-bloggers.com/?p=335684",
+          "display_url": "r-bloggers.com/?p=335684",
+          "indices": {
+            "start": 21,
+            "end": 44
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 9,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "Esquisse R Package  {https://t.co/OXQEFQP2VL} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-12-04 09:45:30",
+    "id": 1.59933910126584e+18,
+    "id_str": "1599339101265842176",
+    "full_text": "Comparison of Partition Around Medoid R programming Implementations  {https://t.co/ZFgH2FZ52P} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 115,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [95, 102]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [103, 115]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/ZFgH2FZ52P",
+          "expanded_url": "https://www.r-bloggers.com/?p=335682",
+          "display_url": "r-bloggers.com/?p=335682",
+          "indices": {
+            "start": 70,
+            "end": 93
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 10,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "Comparison of Partition Around Medoid R programming Implementations  {https://t.co/ZFgH2FZ52P} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-12-04 06:20:15",
+    "id": 1.59928744670069e+18,
+    "id_str": "1599287446700687361",
+    "full_text": "Hypothesis Testing in R  {https://t.co/La7AhdvDmF} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 71,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [51, 58]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [59, 71]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/La7AhdvDmF",
+          "expanded_url": "https://www.r-bloggers.com/?p=335668",
+          "display_url": "r-bloggers.com/?p=335668",
+          "indices": {
+            "start": 26,
+            "end": 49
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 16,
+    "favorite_count": 76,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "Hypothesis Testing in R  {https://t.co/La7AhdvDmF} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-12-04 03:15:19",
+    "id": 1.59924090715659e+18,
+    "id_str": "1599240907156586511",
+    "full_text": "pelotonR  {https://t.co/v72ADlDUAF} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 56,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [36, 43]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [44, 56]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/v72ADlDUAF",
+          "expanded_url": "https://www.r-bloggers.com/?p=335666",
+          "display_url": "r-bloggers.com/?p=335666",
+          "indices": {
+            "start": 11,
+            "end": 34
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 24,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "pt",
+    "text": "pelotonR  {https://t.co/v72ADlDUAF} #rstats #DataScience"
+  },
+  {
     "created_at": "2022-12-03 21:00:19",
     "id": 1.59914653784992e+18,
     "id_str": "1599146537849917443",
@@ -60,7 +468,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 6,
-    "favorite_count": 6,
+    "favorite_count": 10,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -127,8 +535,8 @@
       }
     ],
     "is_quote_status": false,
-    "retweet_count": 6,
-    "favorite_count": 21,
+    "retweet_count": 7,
+    "favorite_count": 33,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -202,7 +610,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 6,
-    "favorite_count": 36,
+    "favorite_count": 40,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -406,7 +814,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 6,
-    "favorite_count": 17,
+    "favorite_count": 18,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -474,7 +882,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 2,
-    "favorite_count": 7,
+    "favorite_count": 8,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -610,7 +1018,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 3,
-    "favorite_count": 8,
+    "favorite_count": 9,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -678,7 +1086,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 36,
-    "favorite_count": 181,
+    "favorite_count": 182,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -1494,7 +1902,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 3,
-    "favorite_count": 7,
+    "favorite_count": 8,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -1970,7 +2378,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 8,
-    "favorite_count": 24,
+    "favorite_count": 25,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -2106,7 +2514,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 3,
-    "favorite_count": 8,
+    "favorite_count": 7,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -2174,7 +2582,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 7,
-    "favorite_count": 26,
+    "favorite_count": 25,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -2242,7 +2650,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 6,
-    "favorite_count": 24,
+    "favorite_count": 23,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -2310,7 +2718,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 5,
-    "favorite_count": 12,
+    "favorite_count": 13,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -2378,7 +2786,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 2,
-    "favorite_count": 2,
+    "favorite_count": 3,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -2446,7 +2854,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 8,
-    "favorite_count": 10,
+    "favorite_count": 9,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -2514,7 +2922,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 4,
-    "favorite_count": 8,
+    "favorite_count": 6,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -3806,7 +4214,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 3,
-    "favorite_count": 10,
+    "favorite_count": 9,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -4430,7 +4838,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 10,
-    "favorite_count": 42,
+    "favorite_count": 41,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -10734,481 +11142,5 @@
     "possibly_sensitive": false,
     "lang": "en",
     "text": "Download shapefiles from ESRI ArcGIS Online Story Maps  {https://t.co/SnemX6gCef} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-11-04 21:40:26",
-    "id": 1.58864738155756e+18,
-    "id_str": "1588647381557559297",
-    "full_text": "Update of compiled datasets  {https://t.co/4d3N5tsQwg} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 75,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [55, 62]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [63, 75]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/4d3N5tsQwg",
-          "expanded_url": "https://www.r-bloggers.com/?p=334324",
-          "display_url": "r-bloggers.com/?p=334324",
-          "indices": {
-            "start": 30,
-            "end": 53
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 2,
-    "favorite_count": 7,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "Update of compiled datasets  {https://t.co/4d3N5tsQwg} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-11-04 15:35:16",
-    "id": 1.58855548827428e+18,
-    "id_str": "1588555488274284550",
-    "full_text": "Introducing yahoofinancer  {https://t.co/nSOPllnEN5} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 73,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [53, 60]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [61, 73]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/nSOPllnEN5",
-          "expanded_url": "https://www.r-bloggers.com/?p=334310",
-          "display_url": "r-bloggers.com/?p=334310",
-          "indices": {
-            "start": 28,
-            "end": 51
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 2,
-    "favorite_count": 9,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "es",
-    "text": "Introducing yahoofinancer  {https://t.co/nSOPllnEN5} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-11-04 15:10:19",
-    "id": 1.5885492084911e+18,
-    "id_str": "1588549208491102209",
-    "full_text": "Opening a spatial subset with {sf}  {https://t.co/KLM2hxLoEz} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 82,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [62, 69]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [70, 82]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/KLM2hxLoEz",
-          "expanded_url": "https://www.r-bloggers.com/?p=334302",
-          "display_url": "r-bloggers.com/?p=334302",
-          "indices": {
-            "start": 37,
-            "end": 60
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 2,
-    "favorite_count": 5,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "Opening a spatial subset with {sf}  {https://t.co/KLM2hxLoEz} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-11-04 13:20:20",
-    "id": 1.58852152847549e+18,
-    "id_str": "1588521528475488256",
-    "full_text": "Map any region in the world with R – Part II: Obtaining the coordinates  {https://t.co/uNU42q0yo0} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 119,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [99, 106]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [107, 119]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/uNU42q0yo0",
-          "expanded_url": "https://www.r-bloggers.com/?p=334300",
-          "display_url": "r-bloggers.com/?p=334300",
-          "indices": {
-            "start": 74,
-            "end": 97
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 15,
-    "favorite_count": 80,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "Map any region in the world with R – Part II: Obtaining the coordinates  {https://t.co/uNU42q0yo0} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-11-04 11:40:20",
-    "id": 1.58849636455991e+18,
-    "id_str": "1588496364559908866",
-    "full_text": "A shiny interface to BatchGetSymbols  {https://t.co/Ficu5qixJ0} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 84,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [64, 71]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [72, 84]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/Ficu5qixJ0",
-          "expanded_url": "https://www.r-bloggers.com/?p=334293",
-          "display_url": "r-bloggers.com/?p=334293",
-          "indices": {
-            "start": 39,
-            "end": 62
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 2,
-    "favorite_count": 7,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "A shiny interface to BatchGetSymbols  {https://t.co/Ficu5qixJ0} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-11-04 11:40:15",
-    "id": 1.5884963435045e+18,
-    "id_str": "1588496343504502784",
-    "full_text": "New R package yfR  {https://t.co/qkBXC2kmaE} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 65,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [45, 52]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [53, 65]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/qkBXC2kmaE",
-          "expanded_url": "https://www.r-bloggers.com/?p=334291",
-          "display_url": "r-bloggers.com/?p=334291",
-          "indices": {
-            "start": 20,
-            "end": 43
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 2,
-    "favorite_count": 4,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "New R package yfR  {https://t.co/qkBXC2kmaE} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-11-04 01:55:19",
-    "id": 1.58834913988415e+18,
-    "id_str": "1588349139884146688",
-    "full_text": "Update of compiled datasets (2022)  {https://t.co/hx1E6lIRUk} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 82,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [62, 69]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [70, 82]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/hx1E6lIRUk",
-          "expanded_url": "https://www.r-bloggers.com/?p=334273",
-          "display_url": "r-bloggers.com/?p=334273",
-          "indices": {
-            "start": 37,
-            "end": 60
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 10,
-    "favorite_count": 16,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "Update of compiled datasets (2022)  {https://t.co/hx1E6lIRUk} #rstats #DataScience"
   }
 ]
