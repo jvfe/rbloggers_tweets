@@ -1,5 +1,209 @@
 [
   {
+    "created_at": "2022-12-05 22:15:20",
+    "id": 1.59989019171974e+18,
+    "id_str": "1599890191719735305",
+    "full_text": "Advent of 2022, Day 5 – Creating compute and cluster instances in Azure Machine Learning  {https://t.co/7nXK7daojc} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 136,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [116, 123]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [124, 136]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/7nXK7daojc",
+          "expanded_url": "https://www.r-bloggers.com/?p=335736",
+          "display_url": "r-bloggers.com/?p=335736",
+          "indices": {
+            "start": 91,
+            "end": 114
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 7,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "Advent of 2022, Day 5 – Creating compute and cluster instances in Azure Machine Learning  {https://t.co/7nXK7daojc} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-12-05 11:50:15",
+    "id": 1.59973288275859e+18,
+    "id_str": "1599732882758590466",
+    "full_text": "Just How Good Is ChatGPT in Data Science?  {https://t.co/ZcV3fWIaG9} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 89,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [69, 76]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [77, 89]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/ZcV3fWIaG9",
+          "expanded_url": "https://www.r-bloggers.com/?p=335719",
+          "display_url": "r-bloggers.com/?p=335719",
+          "indices": {
+            "start": 44,
+            "end": 67
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 7,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "text": "Just How Good Is ChatGPT in Data Science?  {https://t.co/ZcV3fWIaG9} #rstats #DataScience"
+  },
+  {
+    "created_at": "2022-12-05 09:00:19",
+    "id": 1.59969011929183e+18,
+    "id_str": "1599690119291834373",
+    "full_text": "Using R and Python in Microsoft SQL Server 2022  {https://t.co/CW2vlYplwG} #rstats #DataScience",
+    "truncated": false,
+    "display_text_range": 95,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "rstats",
+          "indices": [
+            [75, 82]
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            [83, 95]
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [null]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [null]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/CW2vlYplwG",
+          "expanded_url": "https://www.r-bloggers.com/?p=335717",
+          "display_url": "r-bloggers.com/?p=335717",
+          "indices": {
+            "start": 50,
+            "end": 73
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
+    "coordinates": [
+      {}
+    ],
+    "place": [
+      {
+        "geo": [
+          {}
+        ],
+        "coordinates": [
+          {}
+        ],
+        "place": [null]
+      }
+    ],
+    "is_quote_status": false,
+    "retweet_count": 6,
+    "favorite_count": 20,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "de",
+    "text": "Using R and Python in Microsoft SQL Server 2022  {https://t.co/CW2vlYplwG} #rstats #DataScience"
+  },
+  {
     "created_at": "2022-12-05 00:45:24",
     "id": 1.5995655694806e+18,
     "id_str": "1599565569480597504",
@@ -59,8 +263,8 @@
       }
     ],
     "is_quote_status": false,
-    "retweet_count": 3,
-    "favorite_count": 4,
+    "retweet_count": 4,
+    "favorite_count": 10,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -196,7 +400,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 3,
-    "favorite_count": 9,
+    "favorite_count": 12,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -331,8 +535,8 @@
       }
     ],
     "is_quote_status": false,
-    "retweet_count": 16,
-    "favorite_count": 76,
+    "retweet_count": 18,
+    "favorite_count": 90,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -400,7 +604,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 4,
-    "favorite_count": 24,
+    "favorite_count": 25,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -1086,7 +1290,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 36,
-    "favorite_count": 182,
+    "favorite_count": 183,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -1154,7 +1358,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 5,
-    "favorite_count": 8,
+    "favorite_count": 9,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -1902,7 +2106,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 3,
-    "favorite_count": 8,
+    "favorite_count": 7,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -2038,7 +2242,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 4,
-    "favorite_count": 11,
+    "favorite_count": 12,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -2106,7 +2310,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 6,
-    "favorite_count": 6,
+    "favorite_count": 7,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -2718,7 +2922,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 5,
-    "favorite_count": 13,
+    "favorite_count": 12,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -2786,7 +2990,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 2,
-    "favorite_count": 3,
+    "favorite_count": 2,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -10530,617 +10734,5 @@
     "possibly_sensitive": false,
     "lang": "en",
     "text": "Use data from Openstreetmap  {https://t.co/ADjWjjOfa6} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-11-05 23:30:21",
-    "id": 1.58903743148709e+18,
-    "id_str": "1589037431487086592",
-    "full_text": "another drawer of socks  {https://t.co/SlNKYEfoJo} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 71,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [51, 58]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [59, 71]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/SlNKYEfoJo",
-          "expanded_url": "https://www.r-bloggers.com/?p=334381",
-          "display_url": "r-bloggers.com/?p=334381",
-          "indices": {
-            "start": 26,
-            "end": 49
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 2,
-    "favorite_count": 4,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "another drawer of socks  {https://t.co/SlNKYEfoJo} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-11-05 22:25:16",
-    "id": 1.5890210555025e+18,
-    "id_str": "1589021055502499840",
-    "full_text": "bookdown + exams + webex  {https://t.co/kaFFo9J1nT} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 72,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [52, 59]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [60, 72]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/kaFFo9J1nT",
-          "expanded_url": "https://www.r-bloggers.com/?p=334377",
-          "display_url": "r-bloggers.com/?p=334377",
-          "indices": {
-            "start": 27,
-            "end": 50
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 6,
-    "favorite_count": 16,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "bookdown + exams + webex  {https://t.co/kaFFo9J1nT} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-11-05 22:15:21",
-    "id": 1.58901855694711e+18,
-    "id_str": "1589018556947111936",
-    "full_text": "R XML: How to Work With XML Files in R  {https://t.co/2pWBdZakff} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 86,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [66, 73]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [74, 86]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/2pWBdZakff",
-          "expanded_url": "https://www.r-bloggers.com/?p=334375",
-          "display_url": "r-bloggers.com/?p=334375",
-          "indices": {
-            "start": 41,
-            "end": 64
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 8,
-    "favorite_count": 22,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "R XML: How to Work With XML Files in R  {https://t.co/2pWBdZakff} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-11-05 20:00:23",
-    "id": 1.58898459190533e+18,
-    "id_str": "1588984591905325056",
-    "full_text": "Form and File: estimating running form in R  {https://t.co/lR8nbGOcfH} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 91,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [71, 78]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [79, 91]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/lR8nbGOcfH",
-          "expanded_url": "https://www.r-bloggers.com/?p=334373",
-          "display_url": "r-bloggers.com/?p=334373",
-          "indices": {
-            "start": 46,
-            "end": 69
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 4,
-    "favorite_count": 13,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "Form and File: estimating running form in R  {https://t.co/lR8nbGOcfH} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-11-05 16:30:33",
-    "id": 1.5889317875139e+18,
-    "id_str": "1588931787513896962",
-    "full_text": "R ggmap – How to Visualize Spatial Data in R  {https://t.co/k1eTsx72gm} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 92,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [72, 79]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [80, 92]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/k1eTsx72gm",
-          "expanded_url": "https://www.r-bloggers.com/?p=334361",
-          "display_url": "r-bloggers.com/?p=334361",
-          "indices": {
-            "start": 47,
-            "end": 70
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 56,
-    "favorite_count": 271,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "R ggmap – How to Visualize Spatial Data in R  {https://t.co/k1eTsx72gm} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-11-05 14:35:21",
-    "id": 1.58890279652239e+18,
-    "id_str": "1588902796522389506",
-    "full_text": "A clever bash script for R Users  {https://t.co/XJ88K3MAJE} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 80,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [60, 67]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [68, 80]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/XJ88K3MAJE",
-          "expanded_url": "https://www.r-bloggers.com/?p=334351",
-          "display_url": "r-bloggers.com/?p=334351",
-          "indices": {
-            "start": 35,
-            "end": 58
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 6,
-    "favorite_count": 12,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "A clever bash script for R Users  {https://t.co/XJ88K3MAJE} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-11-05 14:35:11",
-    "id": 1.58890275312812e+18,
-    "id_str": "1588902753128124416",
-    "full_text": "GetDFPData2 available in CRAN!  {https://t.co/INg4f2Fzcj} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 78,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [58, 65]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [66, 78]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/INg4f2Fzcj",
-          "expanded_url": "https://www.r-bloggers.com/?p=334349",
-          "display_url": "r-bloggers.com/?p=334349",
-          "indices": {
-            "start": 33,
-            "end": 56
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 3,
-    "favorite_count": 5,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "GetDFPData2 available in CRAN!  {https://t.co/INg4f2Fzcj} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-11-05 07:25:20",
-    "id": 1.58879457872282e+18,
-    "id_str": "1588794578722820096",
-    "full_text": "GetFREData available in CRAN!  {https://t.co/3fBOj5uUyT} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 77,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [57, 64]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [65, 77]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/3fBOj5uUyT",
-          "expanded_url": "https://www.r-bloggers.com/?p=334339",
-          "display_url": "r-bloggers.com/?p=334339",
-          "indices": {
-            "start": 32,
-            "end": 55
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 4,
-    "favorite_count": 7,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "GetFREData available in CRAN!  {https://t.co/3fBOj5uUyT} #rstats #DataScience"
-  },
-  {
-    "created_at": "2022-11-05 02:30:17",
-    "id": 1.58872032636776e+18,
-    "id_str": "1588720326367756288",
-    "full_text": "Download shapefiles from ESRI ArcGIS Online Story Maps  {https://t.co/SnemX6gCef} #rstats #DataScience",
-    "truncated": false,
-    "display_text_range": 102,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "rstats",
-          "indices": [
-            [82, 89]
-          ]
-        },
-        {
-          "text": "DataScience",
-          "indices": [
-            [90, 102]
-          ]
-        }
-      ],
-      "symbols": [
-        {
-          "indices": [null]
-        }
-      ],
-      "user_mentions": [
-        {
-          "indices": [null]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/SnemX6gCef",
-          "expanded_url": "https://www.r-bloggers.com/?p=334336",
-          "display_url": "r-bloggers.com/?p=334336",
-          "indices": {
-            "start": 57,
-            "end": 80
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.r-bloggers.com\" rel=\"nofollow\">r-bloggers.com<\/a>",
-    "coordinates": [
-      {}
-    ],
-    "place": [
-      {
-        "geo": [
-          {}
-        ],
-        "coordinates": [
-          {}
-        ],
-        "place": [null]
-      }
-    ],
-    "is_quote_status": false,
-    "retweet_count": 15,
-    "favorite_count": 36,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en",
-    "text": "Download shapefiles from ESRI ArcGIS Online Story Maps  {https://t.co/SnemX6gCef} #rstats #DataScience"
   }
 ]
